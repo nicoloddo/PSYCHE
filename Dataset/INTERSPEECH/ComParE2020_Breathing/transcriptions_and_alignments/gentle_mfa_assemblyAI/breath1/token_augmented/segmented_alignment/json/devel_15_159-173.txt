@@ -1,0 +1,166 @@
+{
+ "words": [
+  {
+   "start": 54.872,
+   "end": 55.3,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 55.32,
+   "endOffset": 747,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "m_E"
+    }
+   ],
+   "start": 55.3,
+   "startOffset": 745,
+   "word": "um",
+   "token": "<disfl.um>"
+  },
+  {
+   "alignedWord": "one",
+   "case": "success",
+   "end": 55.35,
+   "endOffset": 752,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_E"
+    }
+   ],
+   "start": 55.32,
+   "startOffset": 749,
+   "word": "one",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 55.74,
+   "endOffset": 814,
+   "phones": [
+    {
+     "duration": 0.13,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 55.61,
+   "startOffset": 802,
+   "word": "impressively",
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 755,
+   "startOffset": 753,
+   "word": "of",
+   "start": 55.76,
+   "end": 55.82,
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 758,
+   "startOffset": 756,
+   "word": "my",
+   "start": 55.82,
+   "end": 55.95,
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 766,
+   "startOffset": 759,
+   "word": "friends",
+   "start": 55.95,
+   "end": 56.32,
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 769,
+   "startOffset": 767,
+   "word": "is",
+   "start": 56.32,
+   "end": 56.38,
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 776,
+   "startOffset": 770,
+   "word": "really",
+   "start": 56.38,
+   "end": 56.46,
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 781,
+   "startOffset": 777,
+   "word": "into",
+   "start": 56.46,
+   "end": 56.93,
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 784,
+   "startOffset": 782,
+   "word": "um",
+   "start": 57.04,
+   "end": 57.45,
+   "token": "<disfl.um>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 794,
+   "startOffset": 786,
+   "word": "dressing",
+   "start": 57.45,
+   "end": 57.65,
+   "token": "<word>"
+  },
+  {
+   "start": 57.65,
+   "end": 58.150999999999996,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 801,
+   "startOffset": 795,
+   "word": "really",
+   "start": 58.4,
+   "end": 58.67,
+   "token": "<word>"
+  },
+  {
+   "start": 60.993,
+   "end": 61.550000000000004,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

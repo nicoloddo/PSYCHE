@@ -1,0 +1,114 @@
+{
+ "words": [
+  {
+   "start": 19.5,
+   "end": 20.3,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "the",
+   "case": "success",
+   "end": 20.810000000000002,
+   "endOffset": 281,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.4,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 20.3,
+   "startOffset": 278,
+   "word": "the",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 21.55,
+   "endOffset": 284,
+   "phones": [
+    {
+     "duration": 0.69,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 20.86,
+   "startOffset": 282,
+   "word": "29",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "january",
+   "case": "success",
+   "end": 22.32,
+   "endOffset": 292,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "jh_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "y_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.28,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 21.56,
+   "startOffset": 285,
+   "word": "January",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 23.03,
+   "endOffset": 297,
+   "phones": [
+    {
+     "duration": 0.46,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 22.57,
+   "startOffset": 293,
+   "word": "2019",
+   "token": "<word>"
+  },
+  {
+   "start": 23.665000000000003,
+   "end": 24.1,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

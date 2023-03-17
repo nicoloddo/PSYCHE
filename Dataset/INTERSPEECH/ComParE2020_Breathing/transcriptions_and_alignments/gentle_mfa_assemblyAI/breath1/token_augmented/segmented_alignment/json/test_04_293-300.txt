@@ -1,0 +1,125 @@
+{
+ "words": [
+  {
+   "start": 83.959,
+   "end": 84.48,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "uh",
+   "case": "success",
+   "end": 84.82000000000001,
+   "endOffset": 1411,
+   "phones": [
+    {
+     "duration": 0.34,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 84.48,
+   "startOffset": 1409,
+   "word": "uh",
+   "token": "<disfl.uh>"
+  },
+  {
+   "alignedWord": "from",
+   "case": "success",
+   "end": 85.38,
+   "endOffset": 1417,
+   "phones": [
+    {
+     "duration": 0.13,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.18,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "m_E"
+    }
+   ],
+   "start": 84.86,
+   "startOffset": 1413,
+   "word": "from",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 86.14,
+   "endOffset": 1426,
+   "phones": [
+    {
+     "duration": 0.69,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 85.45,
+   "startOffset": 1418,
+   "word": "Osalangi",
+   "token": "<word>"
+  },
+  {
+   "start": 86.14,
+   "end": 86.59,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "for",
+   "case": "success",
+   "end": 87.109999,
+   "endOffset": 1430,
+   "phones": [
+    {
+     "duration": 0.19,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.26,
+     "phone": "ao_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "r_E"
+    }
+   ],
+   "start": 86.589999,
+   "startOffset": 1427,
+   "word": "for",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "a",
+   "case": "success",
+   "end": 87.77,
+   "endOffset": 1432,
+   "phones": [
+    {
+     "duration": 0.61,
+     "phone": "ey_S"
+    }
+   ],
+   "start": 87.16,
+   "startOffset": 1431,
+   "word": "a",
+   "token": "<word>"
+  },
+  {
+   "start": 87.77,
+   "end": 88.14999999999999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "words": [
+  {
+   "start": 87.77,
+   "end": 88.14999999999999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 88.78,
+   "endOffset": 1438,
+   "phones": [
+    {
+     "duration": 0.63,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 88.15,
+   "startOffset": 1433,
+   "word": "choco",
+   "token": "<word>"
+  },
+  {
+   "start": 89.158,
+   "end": 89.505,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "start": 90.124,
+   "end": 90.54,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 90.599999,
+   "endOffset": 1443,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 90.539999,
+   "startOffset": 1439,
+   "word": "flan",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "where",
+   "case": "success",
+   "end": 90.629999,
+   "endOffset": 1449,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "r_E"
+    }
+   ],
+   "start": 90.6,
+   "startOffset": 1444,
+   "word": "where",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "you",
+   "case": "success",
+   "end": 90.709999,
+   "endOffset": 1453,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "y_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 90.629999,
+   "startOffset": 1450,
+   "word": "you",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "put",
+   "case": "success",
+   "end": 90.94999999999999,
+   "endOffset": 1457,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "p_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "uh_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "t_E"
+    }
+   ],
+   "start": 90.71,
+   "startOffset": 1454,
+   "word": "put",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "in",
+   "case": "success",
+   "end": 91.51,
+   "endOffset": 1460,
+   "phones": [
+    {
+     "duration": 0.15,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.41,
+     "phone": "n_E"
+    }
+   ],
+   "start": 90.95,
+   "startOffset": 1458,
+   "word": "in",
+   "token": "<word>"
+  },
+  {
+   "start": 91.512,
+   "end": 91.85000000000001,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

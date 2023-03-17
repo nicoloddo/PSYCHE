@@ -1,0 +1,278 @@
+{
+ "words": [
+  {
+   "alignedWord": "well",
+   "case": "success",
+   "end": 2.44,
+   "endOffset": 4,
+   "phones": [
+    {
+     "duration": 0.14,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "l_E"
+    }
+   ],
+   "start": 2.16,
+   "startOffset": 0,
+   "word": "Well",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "what",
+   "case": "success",
+   "end": 2.58,
+   "endOffset": 10,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "t_E"
+    }
+   ],
+   "start": 2.44,
+   "startOffset": 6,
+   "word": "what",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "brings",
+   "case": "success",
+   "end": 3.14,
+   "endOffset": 17,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "b_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ng_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "z_E"
+    }
+   ],
+   "start": 2.85,
+   "startOffset": 11,
+   "word": "brings",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "me",
+   "case": "success",
+   "end": 3.26,
+   "endOffset": 20,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "m_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 3.14,
+   "startOffset": 18,
+   "word": "me",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "to",
+   "case": "success",
+   "end": 3.4,
+   "endOffset": 23,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "t_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 3.26,
+   "startOffset": 21,
+   "word": "to",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "london",
+   "case": "success",
+   "end": 3.76,
+   "endOffset": 30,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "l_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "n_E"
+    }
+   ],
+   "start": 3.4,
+   "startOffset": 24,
+   "word": "London",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "is",
+   "case": "success",
+   "end": 3.96,
+   "endOffset": 33,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "z_E"
+    }
+   ],
+   "start": 3.78,
+   "startOffset": 31,
+   "word": "is",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "work",
+   "case": "success",
+   "end": 4.52,
+   "endOffset": 38,
+   "phones": [
+    {
+     "duration": 0.16,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.12,
+     "phone": "er_I"
+    },
+    {
+     "duration": 0.28,
+     "phone": "k_E"
+    }
+   ],
+   "start": 3.96,
+   "startOffset": 34,
+   "word": "work",
+   "token": "<word>"
+  },
+  {
+   "start": 4.52,
+   "end": 5.119999999999999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 5.3,
+   "endOffset": 42,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "d_E"
+    }
+   ],
+   "start": 5.12,
+   "startOffset": 39,
+   "word": "and",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "studies",
+   "case": "success",
+   "end": 5.83,
+   "endOffset": 50,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.16,
+     "phone": "z_E"
+    }
+   ],
+   "start": 5.3,
+   "startOffset": 43,
+   "word": "studies",
+   "token": "<word>"
+  },
+  {
+   "start": 5.83,
+   "end": 6.17,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

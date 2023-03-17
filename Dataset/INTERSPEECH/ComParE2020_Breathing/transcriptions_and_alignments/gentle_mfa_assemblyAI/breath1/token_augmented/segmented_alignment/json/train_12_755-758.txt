@@ -1,0 +1,50 @@
+{
+ "words": [
+  {
+   "start": 227.82,
+   "end": 229.45,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "uh",
+   "case": "success",
+   "end": 229.91,
+   "endOffset": 3451,
+   "phones": [
+    {
+     "duration": 0.46,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 229.45,
+   "startOffset": 3449,
+   "word": "uh",
+   "token": "<disfl.uh>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 229.92999999999998,
+   "endOffset": 3454,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 229.92,
+   "startOffset": 3453,
+   "word": "I",
+   "token": "<word>"
+  },
+  {
+   "start": 229.92999999999998,
+   "end": 233.03099999999998,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

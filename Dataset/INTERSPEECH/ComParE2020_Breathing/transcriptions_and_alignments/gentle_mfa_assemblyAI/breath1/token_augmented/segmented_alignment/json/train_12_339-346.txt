@@ -1,0 +1,145 @@
+{
+ "words": [
+  {
+   "start": 106.80000000000001,
+   "end": 107.42000000000002,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 107.7,
+   "endOffset": 1566,
+   "phones": [
+    {
+     "duration": 0.22,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "m_E"
+    }
+   ],
+   "start": 107.42,
+   "startOffset": 1564,
+   "word": "um",
+   "token": "<disfl.um>"
+  },
+  {
+   "alignedWord": "london",
+   "case": "success",
+   "end": 108.88,
+   "endOffset": 1574,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "l_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "n_E"
+    }
+   ],
+   "start": 108.46,
+   "startOffset": 1568,
+   "word": "London",
+   "token": "<word>"
+  },
+  {
+   "start": 108.88,
+   "end": 109.5,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "uh",
+   "case": "success",
+   "end": 110.23,
+   "endOffset": 1578,
+   "phones": [
+    {
+     "duration": 0.73,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 109.5,
+   "startOffset": 1576,
+   "word": "uh",
+   "token": "<disfl.uh>"
+  },
+  {
+   "alignedWord": "what",
+   "case": "success",
+   "end": 110.6,
+   "endOffset": 1584,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "t_E"
+    }
+   ],
+   "start": 110.54,
+   "startOffset": 1580,
+   "word": "what",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "else",
+   "case": "success",
+   "end": 110.92999999999999,
+   "endOffset": 1589,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "eh_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.25,
+     "phone": "s_E"
+    }
+   ],
+   "start": 110.6,
+   "startOffset": 1585,
+   "word": "else",
+   "token": "<word>"
+  },
+  {
+   "start": 110.92999999999999,
+   "end": 111.28999999999999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

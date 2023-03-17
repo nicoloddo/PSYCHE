@@ -1,0 +1,262 @@
+{
+ "words": [
+  {
+   "start": 40.506,
+   "end": 40.988,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 42.129999999999995,
+   "endOffset": 537,
+   "phones": [
+    {
+     "duration": 0.2,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.38,
+     "phone": "m_E"
+    }
+   ],
+   "start": 41.55,
+   "startOffset": 535,
+   "word": "UM",
+   "token": "<disfl.um>"
+  },
+  {
+   "alignedWord": "you",
+   "case": "success",
+   "end": 42.88,
+   "endOffset": 542,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "y_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 42.730000000000004,
+   "startOffset": 539,
+   "word": "you",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "have",
+   "case": "success",
+   "end": 43.04,
+   "endOffset": 547,
+   "phones": [
+    {
+     "duration": 0.03,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "v_E"
+    }
+   ],
+   "start": 42.88,
+   "startOffset": 543,
+   "word": "have",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "the",
+   "case": "success",
+   "end": 43.12,
+   "endOffset": 551,
+   "phones": [
+    {
+     "duration": 0.03,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ah_E"
+    }
+   ],
+   "start": 43.04,
+   "startOffset": 548,
+   "word": "the",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "bikes",
+   "case": "success",
+   "end": 43.5,
+   "endOffset": 557,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "b_B"
+    },
+    {
+     "duration": 0.13,
+     "phone": "ay_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "s_E"
+    }
+   ],
+   "start": 43.12,
+   "startOffset": 552,
+   "word": "bikes",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "in",
+   "case": "success",
+   "end": 43.62,
+   "endOffset": 560,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "n_E"
+    }
+   ],
+   "start": 43.5,
+   "startOffset": 558,
+   "word": "in",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "london",
+   "case": "success",
+   "end": 44.019999999999996,
+   "endOffset": 567,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "l_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.14,
+     "phone": "n_E"
+    }
+   ],
+   "start": 43.62,
+   "startOffset": 561,
+   "word": "London",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "which",
+   "case": "success",
+   "end": 44.26,
+   "endOffset": 574,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "ch_E"
+    }
+   ],
+   "start": 44.05,
+   "startOffset": 569,
+   "word": "Which",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "there",
+   "case": "success",
+   "end": 44.779999999999994,
+   "endOffset": 580,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "r_E"
+    }
+   ],
+   "start": 44.62,
+   "startOffset": 575,
+   "word": "there",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "isn't",
+   "case": "success",
+   "end": 45.04,
+   "endOffset": 586,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "z_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "n_E"
+    }
+   ],
+   "start": 44.78,
+   "startOffset": 581,
+   "word": "isn't",
+   "token": "<word>"
+  },
+  {
+   "start": 45.04,
+   "end": 45.46,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

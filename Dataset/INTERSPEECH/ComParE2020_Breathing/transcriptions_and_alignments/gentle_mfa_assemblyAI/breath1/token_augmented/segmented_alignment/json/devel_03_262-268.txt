@@ -1,0 +1,137 @@
+{
+ "words": [
+  {
+   "start": 128.849999,
+   "end": 129.29999899999999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 130.629999,
+   "endOffset": 1212,
+   "phones": [
+    {
+     "duration": 0.36,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.97,
+     "phone": "m_E"
+    }
+   ],
+   "start": 129.29999899999999,
+   "startOffset": 1210,
+   "word": "um",
+   "token": "<disfl.um>"
+  },
+  {
+   "start": 130.629999,
+   "end": 131.009999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "bali",
+   "case": "success",
+   "end": 131.04999899999999,
+   "endOffset": 1218,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "b_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 131.009999,
+   "startOffset": 1214,
+   "word": "bali",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "in",
+   "case": "success",
+   "end": 132.24,
+   "endOffset": 1221,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_E"
+    }
+   ],
+   "start": 132.22,
+   "startOffset": 1219,
+   "word": "in",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "indonesia",
+   "case": "success",
+   "end": 132.95000000000002,
+   "endOffset": 1231,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "ow_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.11,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "zh_I"
+    },
+    {
+     "duration": 0.28,
+     "phone": "ah_E"
+    }
+   ],
+   "start": 132.24,
+   "startOffset": 1222,
+   "word": "Indonesia",
+   "token": "<word>"
+  },
+  {
+   "start": 132.95000000000002,
+   "end": 133.32000000000002,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+After the underscore in Gentle's returned phoneme are B, I, or E which I have been assuming corresponds to the phonemes position in the word (either beginning, intermediate, or end)
+
+OOV = Out of vocabulary
+
+The phoneme transcriptions are from the ARPABET set. This is the same set of the CMU pronunciation dictionary.
+
+
+Trying to add Out Of Vocabulary pronunciations:
+https://github.com/lowerquality/gentle/issues/158
+https://chrisearch.wordpress.com/2017/03/11/speech-recognition-using-kaldi-extending-and-using-the-aspire-model/
+Consider changing Aligner though.

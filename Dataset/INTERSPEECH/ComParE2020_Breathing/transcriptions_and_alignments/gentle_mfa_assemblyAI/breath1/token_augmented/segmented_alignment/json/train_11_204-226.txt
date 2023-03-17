@@ -1,0 +1,545 @@
+{
+ "words": [
+  {
+   "start": 79.58900000000001,
+   "end": 80.50300000000001,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "do",
+   "case": "success",
+   "end": 81.32,
+   "endOffset": 922,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.27,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 81.0,
+   "startOffset": 920,
+   "word": "Do",
+   "token": "<word>"
+  },
+  {
+   "start": 81.35,
+   "end": 82.086,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "uh",
+   "case": "success",
+   "end": 82.55,
+   "endOffset": 925,
+   "phones": [
+    {
+     "duration": 0.44,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 82.11,
+   "startOffset": 923,
+   "word": "uh",
+   "token": "<disfl.uh>"
+  },
+  {
+   "alignedWord": "you",
+   "case": "success",
+   "end": 82.71000000000001,
+   "endOffset": 930,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "y_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 82.59,
+   "startOffset": 927,
+   "word": "you",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "have",
+   "case": "success",
+   "end": 82.809999,
+   "endOffset": 935,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "v_E"
+    }
+   ],
+   "start": 82.71000000000001,
+   "startOffset": 931,
+   "word": "have",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "a",
+   "case": "success",
+   "end": 82.879999,
+   "endOffset": 937,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 82.809999,
+   "startOffset": 936,
+   "word": "a",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "favorite",
+   "case": "success",
+   "end": 83.22999999999999,
+   "endOffset": 946,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "v_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "t_E"
+    }
+   ],
+   "start": 82.88,
+   "startOffset": 938,
+   "word": "favorite",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "restaurant",
+   "case": "success",
+   "end": 83.58,
+   "endOffset": 957,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "r_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "t_E"
+    }
+   ],
+   "start": 83.23,
+   "startOffset": 947,
+   "word": "restaurant",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 83.7,
+   "endOffset": 961,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "d_E"
+    }
+   ],
+   "start": 83.58,
+   "startOffset": 958,
+   "word": "and",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "cuisine",
+   "case": "success",
+   "end": 84.05,
+   "endOffset": 969,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "k_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "w_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.12,
+     "phone": "z_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "n_E"
+    }
+   ],
+   "start": 83.7,
+   "startOffset": 962,
+   "word": "cuisine",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "so",
+   "case": "success",
+   "end": 84.16,
+   "endOffset": 973,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ow_E"
+    }
+   ],
+   "start": 84.05,
+   "startOffset": 971,
+   "word": "So",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 84.22999999999999,
+   "endOffset": 975,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 84.16,
+   "startOffset": 974,
+   "word": "I",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "love",
+   "case": "success",
+   "end": 84.4,
+   "endOffset": 980,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "l_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "v_E"
+    }
+   ],
+   "start": 84.23,
+   "startOffset": 976,
+   "word": "love",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "mexican",
+   "case": "success",
+   "end": 84.92,
+   "endOffset": 988,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "m_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "n_E"
+    }
+   ],
+   "start": 84.41,
+   "startOffset": 981,
+   "word": "Mexican",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "food",
+   "case": "success",
+   "end": 85.41,
+   "endOffset": 993,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.22,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "d_E"
+    }
+   ],
+   "start": 84.92,
+   "startOffset": 989,
+   "word": "food",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 85.58,
+   "endOffset": 996,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 85.57,
+   "startOffset": 995,
+   "word": "I",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "also",
+   "case": "success",
+   "end": 85.969999,
+   "endOffset": 1001,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "ao_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ow_E"
+    }
+   ],
+   "start": 85.639999,
+   "startOffset": 997,
+   "word": "also",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "love",
+   "case": "success",
+   "end": 86.529999,
+   "endOffset": 1006,
+   "phones": [
+    {
+     "duration": 0.19,
+     "phone": "l_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.3,
+     "phone": "v_E"
+    }
+   ],
+   "start": 85.969999,
+   "startOffset": 1002,
+   "word": "love",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "uh",
+   "case": "success",
+   "end": 87.05,
+   "endOffset": 1009,
+   "phones": [
+    {
+     "duration": 0.32,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 86.73,
+   "startOffset": 1007,
+   "word": "uh",
+   "token": "<disfl.uh>"
+  },
+  {
+   "alignedWord": "vietnamese",
+   "case": "success",
+   "end": 87.799999,
+   "endOffset": 1021,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "v_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.14,
+     "phone": "m_I"
+    },
+    {
+     "duration": 0.18,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.11,
+     "phone": "s_E"
+    }
+   ],
+   "start": 87.059999,
+   "startOffset": 1011,
+   "word": "vietnamese",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "food",
+   "case": "success",
+   "end": 88.219999,
+   "endOffset": 1026,
+   "phones": [
+    {
+     "duration": 0.14,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.19,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "d_E"
+    }
+   ],
+   "start": 87.799999,
+   "startOffset": 1022,
+   "word": "food",
+   "token": "<word>"
+  },
+  {
+   "start": 88.219999,
+   "end": 88.862999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

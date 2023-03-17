@@ -1,0 +1,69 @@
+{
+ "words": [
+  {
+   "start": 116.19,
+   "end": 116.81,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "greece",
+   "case": "success",
+   "end": 117.75999900000001,
+   "endOffset": 1149,
+   "phones": [
+    {
+     "duration": 0.15,
+     "phone": "g_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.26,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.43,
+     "phone": "s_E"
+    }
+   ],
+   "start": 116.809999,
+   "startOffset": 1143,
+   "word": "Greece",
+   "token": "<word>"
+  },
+  {
+   "start": 117.75999900000001,
+   "end": 118.469999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 119.679999,
+   "endOffset": 1160,
+   "phones": [
+    {
+     "duration": 1.21,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 118.469999,
+   "startOffset": 1151,
+   "word": "mauritius",
+   "token": "<word>"
+  },
+  {
+   "start": 119.679999,
+   "end": 120.36999899999999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

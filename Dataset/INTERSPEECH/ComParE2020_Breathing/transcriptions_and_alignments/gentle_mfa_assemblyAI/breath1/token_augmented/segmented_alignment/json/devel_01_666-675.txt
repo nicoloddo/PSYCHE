@@ -1,0 +1,177 @@
+{
+ "words": [
+  {
+   "start": 218.10000000000002,
+   "end": 218.55800000000002,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "start": 218.79600000000002,
+   "end": 219.35000000000002,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 219.97,
+   "endOffset": 3251,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 219.96,
+   "startOffset": 3250,
+   "word": "I",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "had",
+   "case": "success",
+   "end": 220.37,
+   "endOffset": 3255,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "d_E"
+    }
+   ],
+   "start": 220.18,
+   "startOffset": 3252,
+   "word": "had",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "a",
+   "case": "success",
+   "end": 220.39999999999998,
+   "endOffset": 3257,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 220.39,
+   "startOffset": 3256,
+   "word": "a",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "good",
+   "case": "success",
+   "end": 220.54,
+   "endOffset": 3262,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "g_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "uh_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "d_E"
+    }
+   ],
+   "start": 220.4,
+   "startOffset": 3258,
+   "word": "good",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "holiday",
+   "case": "success",
+   "end": 220.9,
+   "endOffset": 3270,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "ey_E"
+    }
+   ],
+   "start": 220.54,
+   "startOffset": 3263,
+   "word": "holiday",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "in",
+   "case": "success",
+   "end": 221.08,
+   "endOffset": 3273,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "n_E"
+    }
+   ],
+   "start": 220.9,
+   "startOffset": 3271,
+   "word": "in",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 221.82000000000002,
+   "endOffset": 3286,
+   "phones": [
+    {
+     "duration": 0.74,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 221.08,
+   "startOffset": 3274,
+   "word": "thessaloniki",
+   "token": "<word>"
+  },
+  {
+   "start": 222.03400000000002,
+   "end": 222.56000000000003,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

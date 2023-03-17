@@ -1,0 +1,98 @@
+{
+ "words": [
+  {
+   "start": 184.92999999999998,
+   "end": 185.40999999999997,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 186.2,
+   "endOffset": 2549,
+   "phones": [
+    {
+     "duration": 0.29,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.5,
+     "phone": "m_E"
+    }
+   ],
+   "start": 185.41,
+   "startOffset": 2547,
+   "word": "UM",
+   "token": "<disfl.um>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 186.6,
+   "endOffset": 2559,
+   "phones": [
+    {
+     "duration": 0.31,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 186.29,
+   "startOffset": 2551,
+   "word": "gerard's",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "cross",
+   "case": "success",
+   "end": 187.14999999999998,
+   "endOffset": 2565,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "k_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ao_I"
+    },
+    {
+     "duration": 0.32,
+     "phone": "s_E"
+    }
+   ],
+   "start": 186.64,
+   "startOffset": 2560,
+   "word": "Cross",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 188.20999999999998,
+   "endOffset": 2579,
+   "phones": [
+    {
+     "duration": 0.92,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 187.29,
+   "startOffset": 2567,
+   "word": "Beckonsfield",
+   "token": "<word>"
+  },
+  {
+   "start": 188.20999999999998,
+   "end": 190.61999999999998,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

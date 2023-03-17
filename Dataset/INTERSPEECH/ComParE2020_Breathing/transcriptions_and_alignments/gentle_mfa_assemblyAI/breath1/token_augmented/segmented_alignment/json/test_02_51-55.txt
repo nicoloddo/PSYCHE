@@ -1,0 +1,77 @@
+{
+ "words": [
+  {
+   "start": 24.664,
+   "end": 25.409000000000002,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "start": 25.842000000000002,
+   "end": 27.62,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "there's",
+   "case": "success",
+   "end": 28.019999999999996,
+   "endOffset": 222,
+   "phones": [
+    {
+     "duration": 0.13,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "z_E"
+    }
+   ],
+   "start": 27.619999999999997,
+   "startOffset": 215,
+   "word": "there's",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "not",
+   "case": "success",
+   "end": 28.290000000000003,
+   "endOffset": 226,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "n_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "t_E"
+    }
+   ],
+   "start": 28.03,
+   "startOffset": 223,
+   "word": "not",
+   "token": "<word>"
+  },
+  {
+   "start": 28.290000000000003,
+   "end": 28.700000000000003,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

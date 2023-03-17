@@ -1,0 +1,129 @@
+{
+ "words": [
+  {
+   "start": 169.85999999999999,
+   "end": 170.26999999999998,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "that's",
+   "case": "success",
+   "end": 170.55,
+   "endOffset": 2377,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "s_E"
+    }
+   ],
+   "start": 170.27,
+   "startOffset": 2371,
+   "word": "that's",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "in",
+   "case": "success",
+   "end": 170.69,
+   "endOffset": 2380,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "n_E"
+    }
+   ],
+   "start": 170.55,
+   "startOffset": 2378,
+   "word": "in",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "oxford",
+   "case": "success",
+   "end": 171.06,
+   "endOffset": 2387,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "aa_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "f_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "er_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "d_E"
+    }
+   ],
+   "start": 170.73,
+   "startOffset": 2381,
+   "word": "Oxford",
+   "token": "<word>"
+  },
+  {
+   "start": 171.067,
+   "end": 171.87,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 173.49,
+   "endOffset": 2391,
+   "phones": [
+    {
+     "duration": 0.48,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 1.14,
+     "phone": "m_E"
+    }
+   ],
+   "start": 171.87,
+   "startOffset": 2389,
+   "word": "UM",
+   "token": "<disfl.um>"
+  },
+  {
+   "start": 173.69500000000002,
+   "end": 174.42000000000002,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

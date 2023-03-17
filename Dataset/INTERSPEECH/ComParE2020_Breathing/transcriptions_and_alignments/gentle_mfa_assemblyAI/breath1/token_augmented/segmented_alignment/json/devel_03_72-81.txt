@@ -1,0 +1,254 @@
+{
+ "words": [
+  {
+   "start": 35.276998999999996,
+   "end": 35.779999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "developmental",
+   "case": "success",
+   "end": 36.469999,
+   "endOffset": 366,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "v_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "p_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "m_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "l_E"
+    }
+   ],
+   "start": 35.779999000000004,
+   "startOffset": 353,
+   "word": "Developmental",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "psychology",
+   "case": "success",
+   "end": 37.359999,
+   "endOffset": 377,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "ay_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "jh_I"
+    },
+    {
+     "duration": 0.26,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 36.469999,
+   "startOffset": 367,
+   "word": "psychology",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "either",
+   "case": "success",
+   "end": 37.72,
+   "endOffset": 384,
+   "phones": [
+    {
+     "duration": 0.14,
+     "phone": "iy_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "dh_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "er_E"
+    }
+   ],
+   "start": 37.42,
+   "startOffset": 378,
+   "word": "either",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "at",
+   "case": "success",
+   "end": 37.83,
+   "endOffset": 387,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "t_E"
+    }
+   ],
+   "start": 37.72,
+   "startOffset": 385,
+   "word": "at",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 38.379999999999995,
+   "endOffset": 391,
+   "phones": [
+    {
+     "duration": 0.55,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 37.83,
+   "startOffset": 388,
+   "word": "ucl",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "or",
+   "case": "success",
+   "end": 38.54,
+   "endOffset": 394,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "ao_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "r_E"
+    }
+   ],
+   "start": 38.39,
+   "startOffset": 392,
+   "word": "or",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "at",
+   "case": "success",
+   "end": 38.68,
+   "endOffset": 397,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "t_E"
+    }
+   ],
+   "start": 38.54,
+   "startOffset": 395,
+   "word": "at",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "kings",
+   "case": "success",
+   "end": 39.29,
+   "endOffset": 403,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "k_B"
+    },
+    {
+     "duration": 0.13,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.18,
+     "phone": "ng_I"
+    },
+    {
+     "duration": 0.2,
+     "phone": "z_E"
+    }
+   ],
+   "start": 38.68,
+   "startOffset": 398,
+   "word": "Kings",
+   "token": "<word>"
+  },
+  {
+   "start": 39.29,
+   "end": 39.99,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

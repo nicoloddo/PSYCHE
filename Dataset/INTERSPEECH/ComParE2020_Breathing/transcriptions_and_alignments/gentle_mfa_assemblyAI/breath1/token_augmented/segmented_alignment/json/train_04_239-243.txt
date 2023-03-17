@@ -1,0 +1,65 @@
+{
+ "words": [
+  {
+   "start": 110.38900000000001,
+   "end": 111.36,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 112.27,
+   "endOffset": 1068,
+   "phones": [
+    {
+     "duration": 0.54,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.12,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.25,
+     "phone": "d_E"
+    }
+   ],
+   "start": 111.36,
+   "startOffset": 1065,
+   "word": "And",
+   "token": "<word>"
+  },
+  {
+   "start": 112.8,
+   "end": 114.32,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 115.11999999999999,
+   "endOffset": 1071,
+   "phones": [
+    {
+     "duration": 0.8,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 114.32,
+   "startOffset": 1070,
+   "word": "I",
+   "token": "<word>"
+  },
+  {
+   "start": 115.11999999999999,
+   "end": 115.68999999999998,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

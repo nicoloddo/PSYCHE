@@ -1,0 +1,302 @@
+{
+ "words": [
+  {
+   "start": 128.5,
+   "end": 129.05,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 129.46,
+   "endOffset": 1760,
+   "phones": [
+    {
+     "duration": 0.22,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.19,
+     "phone": "m_E"
+    }
+   ],
+   "start": 129.05,
+   "startOffset": 1758,
+   "word": "um",
+   "token": "<disfl.um>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 129.67,
+   "endOffset": 1765,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "d_E"
+    }
+   ],
+   "start": 129.5,
+   "startOffset": 1762,
+   "word": "and",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "it",
+   "case": "success",
+   "end": 129.76,
+   "endOffset": 1768,
+   "phones": [
+    {
+     "duration": 0.03,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "t_E"
+    }
+   ],
+   "start": 129.67,
+   "startOffset": 1766,
+   "word": "it",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "does",
+   "case": "success",
+   "end": 130.07999999999998,
+   "endOffset": 1773,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.12,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.14,
+     "phone": "z_E"
+    }
+   ],
+   "start": 129.76,
+   "startOffset": 1769,
+   "word": "does",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "really",
+   "case": "success",
+   "end": 130.32,
+   "endOffset": 1780,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "r_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 130.08,
+   "startOffset": 1774,
+   "word": "really",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "really",
+   "case": "success",
+   "end": 130.5,
+   "endOffset": 1788,
+   "phones": [
+    {
+     "duration": 0.03,
+     "phone": "r_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 130.32,
+   "startOffset": 1782,
+   "word": "really",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "nice",
+   "case": "success",
+   "end": 130.78,
+   "endOffset": 1793,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "n_B"
+    },
+    {
+     "duration": 0.12,
+     "phone": "ay_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "s_E"
+    }
+   ],
+   "start": 130.5,
+   "startOffset": 1789,
+   "word": "nice",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "vegetarian",
+   "case": "success",
+   "end": 131.37,
+   "endOffset": 1804,
+   "phones": [
+    {
+     "duration": 0.03,
+     "phone": "v_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "jh_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "n_E"
+    }
+   ],
+   "start": 130.78,
+   "startOffset": 1794,
+   "word": "vegetarian",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "japanese",
+   "case": "success",
+   "end": 131.77,
+   "endOffset": 1813,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "jh_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "p_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "z_E"
+    }
+   ],
+   "start": 131.37,
+   "startOffset": 1805,
+   "word": "Japanese",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "food",
+   "case": "success",
+   "end": 132.10000000000002,
+   "endOffset": 1818,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.12,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.12,
+     "phone": "d_E"
+    }
+   ],
+   "start": 131.77,
+   "startOffset": 1814,
+   "word": "food",
+   "token": "<word>"
+  },
+  {
+   "start": 132.10000000000002,
+   "end": 132.69000000000003,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

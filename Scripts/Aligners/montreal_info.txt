@@ -1,0 +1,17 @@
+It is a command line tool.
+
+to validate:
+mfa validate ./interspeech_assai english_us_arpa english_us_arpa --single_speaker
+
+Even if it doesnt validate because of errors during training, continue with the alignment: the training is done as a backup and is not strictly necessary, it usually fails because of the length of the audios.
+
+
+to align:
+mfa align ./interspeech_assai english_us_arpa english_us_arpa ./aligned_assai --single_speaker --output_format json
+
+I modified the code: line 2430 of multiprocessing.py to avoid exiting the application on a collision error. You can also find it searching for "nico"
+
+
+Documentation:
+https://montreal-forced-aligner.readthedocs.io/en/latest/
+https://montreal-forced-aligner.readthedocs.io/en/latest/first_steps/index.html#first-steps-align-pretrained

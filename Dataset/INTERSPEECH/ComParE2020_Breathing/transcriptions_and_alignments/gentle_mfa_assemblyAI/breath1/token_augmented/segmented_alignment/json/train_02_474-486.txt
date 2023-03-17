@@ -1,0 +1,338 @@
+{
+ "words": [
+  {
+   "start": 171.885,
+   "end": 172.667,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "it",
+   "case": "success",
+   "end": 172.909999,
+   "endOffset": 2224,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "t_E"
+    }
+   ],
+   "start": 172.889999,
+   "startOffset": 2222,
+   "word": "it",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 173.059999,
+   "endOffset": 2229,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.02,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.12,
+     "phone": "d_E"
+    }
+   ],
+   "start": 172.91,
+   "startOffset": 2226,
+   "word": "and",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "one",
+   "case": "success",
+   "end": 173.409999,
+   "endOffset": 2233,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "n_E"
+    }
+   ],
+   "start": 173.059999,
+   "startOffset": 2230,
+   "word": "one",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "physiological",
+   "case": "success",
+   "end": 174.01999999999998,
+   "endOffset": 2247,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "z_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "jh_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "l_E"
+    }
+   ],
+   "start": 173.42,
+   "startOffset": 2234,
+   "word": "physiological",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "study",
+   "case": "success",
+   "end": 174.349999,
+   "endOffset": 2253,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 174.02,
+   "startOffset": 2248,
+   "word": "study",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "focused",
+   "case": "success",
+   "end": 174.76999899999998,
+   "endOffset": 2261,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "ow_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "t_E"
+    }
+   ],
+   "start": 174.349999,
+   "startOffset": 2254,
+   "word": "focused",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "on",
+   "case": "success",
+   "end": 174.93,
+   "endOffset": 2264,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "ao_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "n_E"
+    }
+   ],
+   "start": 174.77,
+   "startOffset": 2262,
+   "word": "on",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "heart",
+   "case": "success",
+   "end": 175.12,
+   "endOffset": 2270,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "t_E"
+    }
+   ],
+   "start": 174.94,
+   "startOffset": 2265,
+   "word": "heart",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "rate",
+   "case": "success",
+   "end": 175.25,
+   "endOffset": 2275,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "r_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "t_E"
+    }
+   ],
+   "start": 175.12,
+   "startOffset": 2271,
+   "word": "rate",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 175.28,
+   "endOffset": 2279,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "d_E"
+    }
+   ],
+   "start": 175.25,
+   "startOffset": 2276,
+   "word": "and",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "skin",
+   "case": "success",
+   "end": 176.25,
+   "endOffset": 2284,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_E"
+    }
+   ],
+   "start": 176.21,
+   "startOffset": 2280,
+   "word": "skin",
+   "token": "<word>"
+  },
+  {
+   "start": 176.25,
+   "end": 177.144,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

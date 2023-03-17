@@ -1,0 +1,357 @@
+{
+ "words": [
+  {
+   "start": 31.659999,
+   "end": 32.179999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "in",
+   "case": "success",
+   "end": 32.349999,
+   "endOffset": 241,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "n_E"
+    }
+   ],
+   "start": 32.179999,
+   "startOffset": 239,
+   "word": "in",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "cognitive",
+   "case": "success",
+   "end": 32.719998999999994,
+   "endOffset": 251,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "k_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "g_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "v_E"
+    }
+   ],
+   "start": 32.349999,
+   "startOffset": 242,
+   "word": "Cognitive",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "neuroscience",
+   "case": "success",
+   "end": 33.549999,
+   "endOffset": 264,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "n_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "y_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "uh_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ow_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "ay_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.23,
+     "phone": "s_E"
+    }
+   ],
+   "start": 32.719999,
+   "startOffset": 252,
+   "word": "neuroscience",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "by",
+   "case": "success",
+   "end": 33.739999,
+   "endOffset": 267,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "b_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ay_E"
+    }
+   ],
+   "start": 33.589999,
+   "startOffset": 265,
+   "word": "by",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "doing",
+   "case": "success",
+   "end": 34.08,
+   "endOffset": 273,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "ng_E"
+    }
+   ],
+   "start": 33.74,
+   "startOffset": 268,
+   "word": "doing",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "a",
+   "case": "success",
+   "end": 34.309999999999995,
+   "endOffset": 275,
+   "phones": [
+    {
+     "duration": 0.23,
+     "phone": "ey_S"
+    }
+   ],
+   "start": 34.08,
+   "startOffset": 274,
+   "word": "a",
+   "token": "<word>"
+  },
+  {
+   "start": 34.309999999999995,
+   "end": 35.11299999999999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 36.389998999999996,
+   "endOffset": 279,
+   "phones": [
+    {
+     "duration": 0.68,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 35.709998999999996,
+   "startOffset": 276,
+   "word": "PhD",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "uh",
+   "case": "success",
+   "end": 36.399999,
+   "endOffset": 283,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 36.389999,
+   "startOffset": 281,
+   "word": "uh",
+   "token": "<disfl.uh>"
+  },
+  {
+   "alignedWord": "program",
+   "case": "success",
+   "end": 37.1,
+   "endOffset": 292,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "p_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ow_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "g_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.12,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "m_E"
+    }
+   ],
+   "start": 36.5,
+   "startOffset": 285,
+   "word": "program",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "here",
+   "case": "success",
+   "end": 37.54,
+   "endOffset": 297,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "r_E"
+    }
+   ],
+   "start": 37.32,
+   "startOffset": 293,
+   "word": "here",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "at",
+   "case": "success",
+   "end": 37.66,
+   "endOffset": 300,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "t_E"
+    }
+   ],
+   "start": 37.54,
+   "startOffset": 298,
+   "word": "at",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "the",
+   "case": "success",
+   "end": 37.8,
+   "endOffset": 304,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 37.66,
+   "startOffset": 301,
+   "word": "the",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 38.339999999999996,
+   "endOffset": 308,
+   "phones": [
+    {
+     "duration": 0.54,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 37.8,
+   "startOffset": 305,
+   "word": "icn",
+   "token": "<word>"
+  },
+  {
+   "start": 38.352,
+   "end": 39.36,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

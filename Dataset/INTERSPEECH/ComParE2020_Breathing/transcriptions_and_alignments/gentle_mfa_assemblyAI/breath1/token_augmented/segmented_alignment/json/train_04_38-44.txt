@@ -1,0 +1,92 @@
+{
+ "words": [
+  {
+   "start": 21.973999999999997,
+   "end": 22.669999999999998,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 23.46,
+   "endOffset": 194,
+   "phones": [
+    {
+     "duration": 0.79,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 22.67,
+   "startOffset": 191,
+   "word": "ucl",
+   "token": "<word>"
+  },
+  {
+   "start": 23.46,
+   "end": 24.34,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 25.1,
+   "endOffset": 199,
+   "phones": [
+    {
+     "duration": 0.43,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.15,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.18,
+     "phone": "d_E"
+    }
+   ],
+   "start": 24.34,
+   "startOffset": 196,
+   "word": "And",
+   "token": "<word>"
+  },
+  {
+   "start": 25.451,
+   "end": 25.950000000000003,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "i've",
+   "case": "success",
+   "end": 26.61,
+   "endOffset": 204,
+   "phones": [
+    {
+     "duration": 0.41,
+     "phone": "ay_B"
+    },
+    {
+     "duration": 0.25,
+     "phone": "v_E"
+    }
+   ],
+   "start": 25.95,
+   "startOffset": 200,
+   "word": "I've",
+   "token": "<word>"
+  },
+  {
+   "start": 26.634,
+   "end": 26.97,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "words": [
+  {
+   "start": 73.45,
+   "end": 74.64,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 75.3,
+   "endOffset": 912,
+   "phones": [
+    {
+     "duration": 0.2,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.46,
+     "phone": "m_E"
+    }
+   ],
+   "start": 74.64,
+   "startOffset": 910,
+   "word": "um",
+   "token": "<disfl.um>"
+  },
+  {
+   "start": 75.491,
+   "end": 76.078,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "do",
+   "case": "success",
+   "end": 76.38,
+   "endOffset": 916,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 76.36,
+   "startOffset": 914,
+   "word": "do",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 76.39,
+   "endOffset": 918,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 76.38,
+   "startOffset": 917,
+   "word": "I",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "have",
+   "case": "success",
+   "end": 76.42,
+   "endOffset": 923,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "v_E"
+    }
+   ],
+   "start": 76.39,
+   "startOffset": 919,
+   "word": "have",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "favorite",
+   "case": "success",
+   "end": 76.62,
+   "endOffset": 934,
+   "phones": [
+    {
+     "duration": 0.15,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.17,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.14,
+     "phone": "v_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "er_I"
+    },
+    {
+     "duration": 0.11,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "t_E"
+    }
+   ],
+   "start": 76.59,
+   "startOffset": 926,
+   "word": "favorite",
+   "token": "<word>"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 925,
+   "startOffset": 924,
+   "word": "a",
+   "start": 76.62,
+   "end": 76.65,
+   "token": "<word>"
+  },
+  {
+   "start": 77.257,
+   "end": 77.76100000000001,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}

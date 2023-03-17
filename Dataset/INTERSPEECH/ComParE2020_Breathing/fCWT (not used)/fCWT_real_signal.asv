@@ -1,0 +1,27 @@
+
+
+dataframe = readtable('/Users/Pessa001/Documents/Research/Datasets/ComParE2020_Breathing/lab/labels.csv');
+samples = unique(dataframe.filename);
+
+for i = 1:length(samples)
+    disp('iteration');
+    disp(i);
+    name = samples(i);
+    signal = dataframe.upper_belt(dataframe.filename = sample(i));
+    fCWT_create_plan(length(signal),8,'measure');
+    A = single(signal.');
+    tic;
+    [B,fcwtf] = fCWT(A,6,Fs,1,10,48);
+    fCWTtime = toc;
+    fcwt_tfm_sig = abs(B.');
+
+    %tic;
+    %mat2np(fcwt_tfm_sig, join([name, '_fcwt_tfm_sig.pkl']), 'float64');
+    %disp(toc);
+    
+    tic;
+    save(join([name, '_fcwt_tfm_sig.mat']), 'fcwt_tfm_sig', '-v7.3');
+    disp(toc);
+    clear fcwt_tfm_sig signal
+end
+

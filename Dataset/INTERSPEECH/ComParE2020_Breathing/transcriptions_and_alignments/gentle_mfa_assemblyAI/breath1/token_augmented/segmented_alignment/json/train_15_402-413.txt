@@ -1,0 +1,290 @@
+{
+ "words": [
+  {
+   "start": 113.187,
+   "end": 113.64,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 114.29,
+   "endOffset": 1914,
+   "phones": [
+    {
+     "duration": 0.31,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.34,
+     "phone": "m_E"
+    }
+   ],
+   "start": 113.64,
+   "startOffset": 1912,
+   "word": "um",
+   "token": "<disfl.um>"
+  },
+  {
+   "alignedWord": "the",
+   "case": "success",
+   "end": 114.61999999999999,
+   "endOffset": 1919,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.1,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 114.41,
+   "startOffset": 1916,
+   "word": "the",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "impending",
+   "case": "success",
+   "end": 115.29,
+   "endOffset": 1929,
+   "phones": [
+    {
+     "duration": 0.13,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "m_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "p_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "d_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ng_E"
+    }
+   ],
+   "start": 114.65,
+   "startOffset": 1920,
+   "word": "impending",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "death",
+   "case": "success",
+   "end": 115.55000000000001,
+   "endOffset": 1935,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "th_E"
+    }
+   ],
+   "start": 115.29,
+   "startOffset": 1930,
+   "word": "death",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "of",
+   "case": "success",
+   "end": 115.71,
+   "endOffset": 1938,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "v_E"
+    }
+   ],
+   "start": 115.56,
+   "startOffset": 1936,
+   "word": "of",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "one",
+   "case": "success",
+   "end": 115.83,
+   "endOffset": 1942,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "n_E"
+    }
+   ],
+   "start": 115.71,
+   "startOffset": 1939,
+   "word": "one",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "of",
+   "case": "success",
+   "end": 115.92,
+   "endOffset": 1945,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "v_E"
+    }
+   ],
+   "start": 115.83,
+   "startOffset": 1943,
+   "word": "of",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "my",
+   "case": "success",
+   "end": 116.08,
+   "endOffset": 1948,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "m_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "ay_E"
+    }
+   ],
+   "start": 115.92,
+   "startOffset": 1946,
+   "word": "my",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "friend's",
+   "case": "success",
+   "end": 116.52,
+   "endOffset": 1957,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "z_E"
+    }
+   ],
+   "start": 116.08,
+   "startOffset": 1949,
+   "word": "friend's",
+   "token": "<word>"
+  },
+  {
+   "alignedWord": "grandmothers",
+   "case": "success",
+   "end": 117.29,
+   "endOffset": 1970,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "g_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.11,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "m_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "dh_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "er_I"
+    },
+    {
+     "duration": 0.21,
+     "phone": "z_E"
+    }
+   ],
+   "start": 116.53,
+   "startOffset": 1958,
+   "word": "grandmothers",
+   "token": "<word>"
+  },
+  {
+   "start": 117.29,
+   "end": 117.78,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>"
+  }
+ ]
+}
