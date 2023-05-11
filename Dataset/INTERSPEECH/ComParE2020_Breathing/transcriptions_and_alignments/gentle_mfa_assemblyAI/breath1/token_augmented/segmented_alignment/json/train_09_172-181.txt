@@ -5,7 +5,8 @@
    "end": 63.625,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "okay",
@@ -29,7 +30,8 @@
    "start": 63.69,
    "startOffset": 839,
    "word": "okay",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "okay"
   },
   {
    "alignedWord": "i'll",
@@ -49,7 +51,8 @@
    "start": 64.099999,
    "startOffset": 845,
    "word": "I'll",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'll"
   },
   {
    "alignedWord": "just",
@@ -77,7 +80,8 @@
    "start": 64.23,
    "startOffset": 850,
    "word": "just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "read",
@@ -101,7 +105,8 @@
    "start": 64.46000000000001,
    "startOffset": 855,
    "word": "read",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "read"
   },
   {
    "alignedWord": "them",
@@ -125,7 +130,8 @@
    "start": 64.62,
    "startOffset": 860,
    "word": "them",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "them"
   },
   {
    "alignedWord": "through",
@@ -149,7 +155,8 @@
    "start": 64.76,
    "startOffset": 865,
    "word": "through",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "through"
   },
   {
    "alignedWord": "i",
@@ -165,7 +172,8 @@
    "start": 65.13,
    "startOffset": 874,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "guess",
@@ -189,14 +197,16 @@
    "start": 65.219999,
    "startOffset": 876,
    "word": "guess",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guess"
   },
   {
    "start": 65.589999,
    "end": 66.03999900000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

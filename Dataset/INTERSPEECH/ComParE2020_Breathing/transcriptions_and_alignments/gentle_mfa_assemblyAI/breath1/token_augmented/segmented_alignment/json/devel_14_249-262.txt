@@ -5,7 +5,8 @@
    "end": 105.63000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 105.63,
    "startOffset": 1207,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "particularly",
@@ -81,7 +83,8 @@
    "start": 107.219999,
    "startOffset": 1211,
    "word": "particularly",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "particularly"
   },
   {
    "alignedWord": "in",
@@ -101,7 +104,8 @@
    "start": 107.85,
    "startOffset": 1224,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "certain",
@@ -133,7 +137,8 @@
    "start": 108.27,
    "startOffset": 1227,
    "word": "certain",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "certain"
   },
   {
    "alignedWord": "areas",
@@ -165,7 +170,8 @@
    "start": 108.57,
    "startOffset": 1235,
    "word": "areas",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "areas"
   },
   {
    "alignedWord": "of",
@@ -185,7 +191,8 @@
    "start": 109.039999,
    "startOffset": 1241,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "central",
@@ -225,7 +232,8 @@
    "start": 109.24,
    "startOffset": 1244,
    "word": "central",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "central"
   },
   {
    "alignedWord": "london",
@@ -261,7 +269,8 @@
    "start": 109.62,
    "startOffset": 1252,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "like",
@@ -285,7 +294,8 @@
    "start": 109.91,
    "startOffset": 1260,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "<unk>",
@@ -301,7 +311,8 @@
    "start": 110.16,
    "startOffset": 1265,
    "word": "eduar",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "eduar"
   },
   {
    "alignedWord": "road",
@@ -325,7 +336,8 @@
    "start": 110.57,
    "startOffset": 1271,
    "word": "Road",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "road"
   },
   {
    "alignedWord": "or",
@@ -345,14 +357,16 @@
    "start": 111.0,
    "startOffset": 1276,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "start": 111.36,
    "end": 111.83,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 40.66,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "so",
@@ -25,7 +26,8 @@
    "start": 40.66,
    "startOffset": 454,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "you",
@@ -45,7 +47,8 @@
    "start": 40.79,
    "startOffset": 457,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "go",
@@ -65,7 +68,8 @@
    "start": 40.89,
    "startOffset": 461,
    "word": "go",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "go"
   },
   {
    "alignedWord": "upstairs",
@@ -105,7 +109,8 @@
    "start": 41.06,
    "startOffset": 464,
    "word": "upstairs",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "upstairs"
   },
   {
    "alignedWord": "to",
@@ -125,7 +130,8 @@
    "start": 41.64,
    "startOffset": 473,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "a",
@@ -141,7 +147,8 @@
    "start": 41.79,
    "startOffset": 476,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "separate",
@@ -177,7 +184,8 @@
    "start": 41.8,
    "startOffset": 478,
    "word": "separate",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "separate"
   },
   {
    "alignedWord": "section",
@@ -213,7 +221,8 @@
    "start": 42.18,
    "startOffset": 487,
    "word": "section",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "section"
   },
   {
    "alignedWord": "if",
@@ -233,7 +242,8 @@
    "start": 42.85,
    "startOffset": 495,
    "word": "if",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "if"
   },
   {
    "alignedWord": "you're",
@@ -257,7 +267,8 @@
    "start": 43.08,
    "startOffset": 498,
    "word": "you're",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you're"
   },
   {
    "alignedWord": "entering",
@@ -293,14 +304,16 @@
    "start": 43.28,
    "startOffset": 505,
    "word": "entering",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "entering"
   },
   {
    "start": 43.83,
    "end": 44.269999999999996,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

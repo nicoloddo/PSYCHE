@@ -5,7 +5,8 @@
    "end": 84.48,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 84.48,
    "startOffset": 1409,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "from",
@@ -49,7 +51,8 @@
    "start": 84.86,
    "startOffset": 1413,
    "word": "from",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "from"
   },
   {
    "alignedWord": "<unk>",
@@ -65,14 +68,16 @@
    "start": 85.45,
    "startOffset": 1418,
    "word": "Osalangi",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "osalangi"
   },
   {
    "start": 86.14,
    "end": 86.59,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "for",
@@ -96,7 +101,8 @@
    "start": 86.589999,
    "startOffset": 1427,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "a",
@@ -112,14 +118,16 @@
    "start": 87.16,
    "startOffset": 1431,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "start": 87.77,
    "end": 88.14999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

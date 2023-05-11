@@ -5,7 +5,8 @@
    "end": 127.23,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 127.23,
    "startOffset": 1791,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "around",
@@ -49,7 +51,8 @@
    "start": 127.81,
    "startOffset": 1795,
    "word": "around",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "around"
   },
   {
    "alignedWord": "where",
@@ -73,7 +76,8 @@
    "start": 128.04,
    "startOffset": 1802,
    "word": "where",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "where"
   },
   {
    "alignedWord": "we",
@@ -93,7 +97,8 @@
    "start": 128.18,
    "startOffset": 1808,
    "word": "we",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we"
   },
   {
    "alignedWord": "are",
@@ -109,7 +114,8 @@
    "start": 128.39,
    "startOffset": 1811,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "there's",
@@ -137,7 +143,8 @@
    "start": 128.57,
    "startOffset": 1815,
    "word": "there's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there's"
   },
   {
    "alignedWord": "a",
@@ -153,7 +160,8 @@
    "start": 128.73,
    "startOffset": 1823,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "lot",
@@ -177,7 +185,8 @@
    "start": 128.8,
    "startOffset": 1825,
    "word": "lot",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lot"
   },
   {
    "alignedWord": "of",
@@ -197,7 +206,8 @@
    "start": 128.99,
    "startOffset": 1829,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "italian",
@@ -237,7 +247,8 @@
    "start": 129.07,
    "startOffset": 1832,
    "word": "Italian",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "italian"
   },
   {
    "alignedWord": "restaurants",
@@ -285,7 +296,8 @@
    "start": 129.54,
    "startOffset": 1840,
    "word": "restaurants",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurants"
   },
   {
    "alignedWord": "not",
@@ -309,7 +321,8 @@
    "start": 130.3,
    "startOffset": 1853,
    "word": "not",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "not"
   },
   {
    "alignedWord": "quite",
@@ -337,7 +350,8 @@
    "start": 131.16,
    "startOffset": 1857,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "sure",
@@ -361,7 +375,8 @@
    "start": 131.33,
    "startOffset": 1863,
    "word": "sure",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sure"
   },
   {
    "alignedWord": "why",
@@ -381,7 +396,8 @@
    "start": 131.47,
    "startOffset": 1868,
    "word": "why",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "why"
   },
   {
    "alignedWord": "i",
@@ -397,7 +413,8 @@
    "start": 131.68,
    "startOffset": 1873,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "think",
@@ -425,7 +442,8 @@
    "start": 131.69,
    "startOffset": 1875,
    "word": "think",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "alignedWord": "there's",
@@ -453,7 +471,8 @@
    "start": 131.9,
    "startOffset": 1881,
    "word": "there's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there's"
   },
   {
    "alignedWord": "quite",
@@ -481,7 +500,8 @@
    "start": 132.03,
    "startOffset": 1889,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "a",
@@ -497,14 +517,16 @@
    "start": 132.35,
    "startOffset": 1895,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "start": 132.44,
    "end": 132.88,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

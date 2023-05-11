@@ -5,7 +5,8 @@
    "end": 120.98,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 120.98,
    "startOffset": 1603,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "although",
@@ -53,7 +55,8 @@
    "start": 121.32,
    "startOffset": 1607,
    "word": "although",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "although"
   },
   {
    "alignedWord": "hyde",
@@ -77,7 +80,8 @@
    "start": 121.58,
    "startOffset": 1616,
    "word": "hyde",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hyde"
   },
   {
    "alignedWord": "park",
@@ -105,7 +109,8 @@
    "start": 121.77,
    "startOffset": 1621,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "alignedWord": "is",
@@ -125,7 +130,8 @@
    "start": 121.95,
    "startOffset": 1626,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "cool",
@@ -149,7 +155,8 @@
    "start": 122.03999999999999,
    "startOffset": 1629,
    "word": "cool",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cool"
   },
   {
    "alignedWord": "when",
@@ -173,7 +180,8 @@
    "start": 122.219999,
    "startOffset": 1634,
    "word": "when",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "when"
   },
   {
    "alignedWord": "winter",
@@ -205,7 +213,8 @@
    "start": 122.4,
    "startOffset": 1639,
    "word": "Winter",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "winter"
   },
   {
    "alignedWord": "<unk>",
@@ -221,7 +230,8 @@
    "start": 122.63,
    "startOffset": 1646,
    "word": "wonderlands",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wonderlands"
   },
   {
    "alignedWord": "there",
@@ -245,14 +255,16 @@
    "start": 123.67999999999999,
    "startOffset": 1658,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "start": 123.71,
    "end": 124.16999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

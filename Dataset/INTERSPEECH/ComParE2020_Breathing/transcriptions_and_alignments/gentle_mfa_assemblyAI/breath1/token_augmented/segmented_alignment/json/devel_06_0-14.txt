@@ -26,7 +26,8 @@
    "start": 1.52,
    "startOffset": 0,
    "word": "What",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "what"
   },
   {
    "alignedWord": "brings",
@@ -58,7 +59,8 @@
    "start": 1.78,
    "startOffset": 5,
    "word": "brings",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "brings"
   },
   {
    "alignedWord": "me",
@@ -78,7 +80,8 @@
    "start": 2.02,
    "startOffset": 12,
    "word": "me",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "me"
   },
   {
    "alignedWord": "to",
@@ -98,7 +101,8 @@
    "start": 2.15,
    "startOffset": 15,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -134,7 +138,8 @@
    "start": 2.29,
    "startOffset": 18,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "well",
@@ -158,7 +163,8 @@
    "start": 2.9,
    "startOffset": 26,
    "word": "Well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "alignedWord": "i'm",
@@ -178,7 +184,8 @@
    "start": 3.53,
    "startOffset": 32,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "alignedWord": "from",
@@ -206,7 +213,8 @@
    "start": 3.8,
    "startOffset": 36,
    "word": "from",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "from"
   },
   {
    "alignedWord": "london",
@@ -242,7 +250,8 @@
    "start": 4.07,
    "startOffset": 41,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "so",
@@ -262,7 +271,8 @@
    "start": 4.62,
    "startOffset": 49,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i",
@@ -278,7 +288,8 @@
    "start": 4.83,
    "startOffset": 52,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -302,7 +313,8 @@
    "start": 4.95,
    "startOffset": 54,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "already",
@@ -338,7 +350,8 @@
    "start": 5.11,
    "startOffset": 58,
    "word": "already",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "already"
   },
   {
    "alignedWord": "here",
@@ -362,14 +375,16 @@
    "start": 5.45,
    "startOffset": 66,
    "word": "here",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "here"
   },
   {
    "start": 5.93,
    "end": 6.35,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 142.959999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 142.959999,
    "startOffset": 1809,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "one",
@@ -49,7 +51,8 @@
    "start": 143.469999,
    "startOffset": 1813,
    "word": "one",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "one"
   },
   {
    "alignedWord": "of",
@@ -69,7 +72,8 @@
    "start": 143.57999999999998,
    "startOffset": 1817,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "my",
@@ -89,7 +93,8 @@
    "start": 143.65,
    "startOffset": 1820,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -125,7 +130,8 @@
    "start": 143.779999,
    "startOffset": 1823,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "case": "not-found-in-audio",
@@ -134,7 +140,8 @@
    "word": "restaurants",
    "start": 144.04,
    "end": 144.46,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurants"
   },
   {
    "case": "not-found-in-audio",
@@ -143,7 +150,8 @@
    "word": "to",
    "start": 144.46,
    "end": 144.53,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "case": "not-found-in-audio",
@@ -152,7 +160,8 @@
    "word": "go",
    "start": 144.53,
    "end": 144.7,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "go"
   },
   {
    "alignedWord": "to",
@@ -172,7 +181,8 @@
    "start": 144.72,
    "startOffset": 1850,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "is",
@@ -192,7 +202,8 @@
    "start": 145.08,
    "startOffset": 1853,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "<unk>",
@@ -208,7 +219,8 @@
    "start": 145.45,
    "startOffset": 1856,
    "word": "flatiron",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "flatiron"
   },
   {
    "alignedWord": "um",
@@ -228,7 +240,8 @@
    "start": 146.5,
    "startOffset": 1866,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "it's",
@@ -252,7 +265,8 @@
    "start": 146.92,
    "startOffset": 1870,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "in",
@@ -272,7 +286,8 @@
    "start": 147.12,
    "startOffset": 1875,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "common",
@@ -304,7 +319,8 @@
    "start": 147.25,
    "startOffset": 1878,
    "word": "Common",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "common"
   },
   {
    "alignedWord": "garden",
@@ -340,14 +356,16 @@
    "start": 147.54,
    "startOffset": 1885,
    "word": "Garden",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "garden"
   },
   {
    "start": 148.076,
    "end": 148.491,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

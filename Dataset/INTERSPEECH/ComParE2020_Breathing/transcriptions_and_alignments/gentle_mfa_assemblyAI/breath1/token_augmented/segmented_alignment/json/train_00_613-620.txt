@@ -5,7 +5,8 @@
    "end": 230.54,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 230.54,
    "startOffset": 3064,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "don't",
@@ -45,7 +47,8 @@
    "start": 230.71,
    "startOffset": 3066,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "know",
@@ -65,7 +68,8 @@
    "start": 230.87,
    "startOffset": 3072,
    "word": "know",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "know"
   },
   {
    "alignedWord": "how",
@@ -85,7 +89,8 @@
    "start": 231.059999,
    "startOffset": 3077,
    "word": "how",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "how"
   },
   {
    "alignedWord": "successfully",
@@ -137,7 +142,8 @@
    "start": 231.82,
    "startOffset": 3081,
    "word": "successfully",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "successfully"
   },
   {
    "alignedWord": "but",
@@ -161,14 +167,16 @@
    "start": 232.85,
    "startOffset": 3095,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "start": 233.60999999999999,
    "end": 234.77999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

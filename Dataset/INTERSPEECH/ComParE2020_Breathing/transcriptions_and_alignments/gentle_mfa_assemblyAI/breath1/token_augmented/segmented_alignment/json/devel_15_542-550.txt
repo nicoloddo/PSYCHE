@@ -5,7 +5,8 @@
    "end": 188.84,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 188.84,
    "startOffset": 2521,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 189.433,
    "end": 190.29,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -48,7 +51,8 @@
    "start": 190.29,
    "startOffset": 2525,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "guess",
@@ -72,7 +76,8 @@
    "start": 190.42,
    "startOffset": 2527,
    "word": "guess",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guess"
   },
   {
    "alignedWord": "my",
@@ -92,7 +97,8 @@
    "start": 191.3,
    "startOffset": 2533,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -128,7 +134,8 @@
    "start": 192.009999,
    "startOffset": 2536,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "cuisine",
@@ -164,14 +171,16 @@
    "start": 192.809999,
    "startOffset": 2545,
    "word": "cuisine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cuisine"
   },
   {
    "start": 193.939999,
    "end": 194.509999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 141.75000000000003,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "general",
@@ -41,7 +42,8 @@
    "start": 141.75,
    "startOffset": 1845,
    "word": "general",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "general"
   },
   {
    "alignedWord": "questions",
@@ -85,7 +87,8 @@
    "start": 142.440001,
    "startOffset": 1853,
    "word": "questions",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "questions"
   },
   {
    "alignedWord": "then",
@@ -109,7 +112,8 @@
    "start": 142.879999,
    "startOffset": 1863,
    "word": "then",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "then"
   },
   {
    "alignedWord": "um",
@@ -129,7 +133,8 @@
    "start": 143.5,
    "startOffset": 1869,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "or",
@@ -149,7 +154,8 @@
    "start": 144.18,
    "startOffset": 1873,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "topic",
@@ -181,7 +187,8 @@
    "start": 144.39,
    "startOffset": 1876,
    "word": "topic",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "topic"
   },
   {
    "case": "not-found-in-audio",
@@ -190,7 +197,8 @@
    "word": "ah",
    "start": 146.09,
    "end": 146.1,
-   "token": "<disfl.ah>"
+   "token": "<disfl.ah>",
+   "converted": "<disfl.ah>"
   },
   {
    "alignedWord": "i",
@@ -206,7 +214,8 @@
    "start": 146.1,
    "startOffset": 1883,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "am",
@@ -226,7 +235,8 @@
    "start": 146.36,
    "startOffset": 1885,
    "word": "am",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "am"
   },
   {
    "alignedWord": "currently",
@@ -266,7 +276,8 @@
    "start": 146.55,
    "startOffset": 1888,
    "word": "currently",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "currently"
   },
   {
    "alignedWord": "doing",
@@ -294,7 +305,8 @@
    "start": 146.96,
    "startOffset": 1898,
    "word": "doing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "doing"
   },
   {
    "alignedWord": "my",
@@ -314,7 +326,8 @@
    "start": 147.23,
    "startOffset": 1904,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "<unk>",
@@ -330,7 +343,8 @@
    "start": 147.58,
    "startOffset": 1907,
    "word": "PhD",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "phd"
   },
   {
    "alignedWord": "at",
@@ -350,7 +364,8 @@
    "start": 148.15,
    "startOffset": 1911,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "<unk>",
@@ -366,7 +381,8 @@
    "start": 148.66,
    "startOffset": 1919,
    "word": "ucl",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ucl"
   },
   {
    "alignedWord": "um",
@@ -386,7 +402,8 @@
    "start": 149.78,
    "startOffset": 1924,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "at",
@@ -406,7 +423,8 @@
    "start": 150.82,
    "startOffset": 1928,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "the",
@@ -426,7 +444,8 @@
    "start": 150.94,
    "startOffset": 1931,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "<unk>",
@@ -442,7 +461,8 @@
    "start": 151.07,
    "startOffset": 1935,
    "word": "icn",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "icn"
   },
   {
    "alignedWord": "i'm",
@@ -462,14 +482,16 @@
    "start": 151.72,
    "startOffset": 1940,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "start": 152.02,
    "end": 152.66,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 156.199999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "things",
@@ -33,7 +34,8 @@
    "start": 156.2,
    "startOffset": 1474,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "such",
@@ -57,7 +59,8 @@
    "start": 156.52,
    "startOffset": 1481,
    "word": "such",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "such"
   },
   {
    "alignedWord": "as",
@@ -77,7 +80,8 @@
    "start": 156.73,
    "startOffset": 1486,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "museums",
@@ -121,7 +125,8 @@
    "start": 156.86,
    "startOffset": 1489,
    "word": "museums",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "museums"
   },
   {
    "alignedWord": "and",
@@ -145,14 +150,16 @@
    "start": 157.639999,
    "startOffset": 1498,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "start": 157.909999,
    "end": 158.999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -172,14 +179,16 @@
    "start": 159.0,
    "startOffset": 1503,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 159.49,
    "end": 160.24,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

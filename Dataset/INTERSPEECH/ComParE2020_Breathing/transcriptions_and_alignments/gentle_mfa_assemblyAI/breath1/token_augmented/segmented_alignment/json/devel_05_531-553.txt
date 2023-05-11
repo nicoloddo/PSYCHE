@@ -5,7 +5,8 @@
    "end": 181.42,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "my",
@@ -25,7 +26,8 @@
    "start": 181.42,
    "startOffset": 2446,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -61,7 +63,8 @@
    "start": 181.53,
    "startOffset": 2449,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurant",
@@ -105,7 +108,8 @@
    "start": 181.78,
    "startOffset": 2458,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "is",
@@ -125,7 +129,8 @@
    "start": 182.16,
    "startOffset": 2469,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "actually",
@@ -157,7 +162,8 @@
    "start": 182.24,
    "startOffset": 2472,
    "word": "actually",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "actually"
   },
   {
    "alignedWord": "my",
@@ -177,7 +183,8 @@
    "start": 182.48,
    "startOffset": 2481,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "dad's",
@@ -205,7 +212,8 @@
    "start": 182.59,
    "startOffset": 2484,
    "word": "dad's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "dad's"
   },
   {
    "alignedWord": "restaurant",
@@ -249,7 +257,8 @@
    "start": 182.91,
    "startOffset": 2490,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "he",
@@ -269,7 +278,8 @@
    "start": 183.52,
    "startOffset": 2502,
    "word": "He",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "he"
   },
   {
    "alignedWord": "owns",
@@ -293,7 +303,8 @@
    "start": 183.73,
    "startOffset": 2505,
    "word": "owns",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "owns"
   },
   {
    "alignedWord": "an",
@@ -313,7 +324,8 @@
    "start": 184.03,
    "startOffset": 2510,
    "word": "an",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "an"
   },
   {
    "alignedWord": "ah",
@@ -329,7 +341,8 @@
    "start": 184.06,
    "startOffset": 2513,
    "word": "ah",
-   "token": "<disfl.ah>"
+   "token": "<disfl.ah>",
+   "converted": "<disfl.ah>"
   },
   {
    "alignedWord": "italian",
@@ -369,7 +382,8 @@
    "start": 184.3,
    "startOffset": 2516,
    "word": "Italian",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "italian"
   },
   {
    "alignedWord": "restaurant",
@@ -413,7 +427,8 @@
    "start": 184.84,
    "startOffset": 2524,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "in",
@@ -433,7 +448,8 @@
    "start": 185.23,
    "startOffset": 2535,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "north",
@@ -461,7 +477,8 @@
    "start": 185.37,
    "startOffset": 2538,
    "word": "North",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "north"
   },
   {
    "alignedWord": "carolina",
@@ -505,7 +522,8 @@
    "start": 185.6,
    "startOffset": 2544,
    "word": "Carolina",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "carolina"
   },
   {
    "alignedWord": "in",
@@ -525,7 +543,8 @@
    "start": 186.41,
    "startOffset": 2554,
    "word": "In",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "the",
@@ -545,7 +564,8 @@
    "start": 186.59,
    "startOffset": 2557,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "united",
@@ -585,7 +605,8 @@
    "start": 186.68,
    "startOffset": 2561,
    "word": "United",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "united"
   },
   {
    "alignedWord": "states",
@@ -617,14 +638,16 @@
    "start": 186.96,
    "startOffset": 2568,
    "word": "States",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "states"
   },
   {
    "start": 187.62,
    "end": 188.17000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

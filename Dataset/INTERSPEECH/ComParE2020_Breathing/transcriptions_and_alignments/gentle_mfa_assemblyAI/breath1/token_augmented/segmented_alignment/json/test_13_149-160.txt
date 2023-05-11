@@ -5,7 +5,8 @@
    "end": 63.76,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 63.76,
    "startOffset": 707,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "what",
@@ -45,7 +47,8 @@
    "start": 64.24,
    "startOffset": 711,
    "word": "what",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "what"
   },
   {
    "alignedWord": "would",
@@ -69,7 +72,8 @@
    "start": 64.349999,
    "startOffset": 716,
    "word": "would",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "would"
   },
   {
    "alignedWord": "i",
@@ -85,7 +89,8 @@
    "start": 64.469999,
    "startOffset": 722,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "case": "not-found-in-audio",
@@ -94,7 +99,8 @@
    "word": "say",
    "start": 64.58,
    "end": 64.79,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "say"
   },
   {
    "case": "not-found-in-audio",
@@ -103,7 +109,8 @@
    "word": "I",
    "start": 64.79,
    "end": 64.82,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "case": "not-found-in-audio",
@@ -112,7 +119,8 @@
    "word": "don't",
    "start": 64.82,
    "end": 65.139999,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "like",
@@ -136,7 +144,8 @@
    "start": 65.139999,
    "startOffset": 736,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "about",
@@ -164,7 +173,8 @@
    "start": 65.4,
    "startOffset": 741,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "london",
@@ -200,14 +210,16 @@
    "start": 65.67,
    "startOffset": 747,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "start": 66.383,
    "end": 67.032,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

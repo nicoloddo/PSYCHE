@@ -5,7 +5,8 @@
    "end": 72.88000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "vegetable",
@@ -49,7 +50,8 @@
    "start": 72.88,
    "startOffset": 692,
    "word": "vegetable",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "vegetable"
   },
   {
    "alignedWord": "curry",
@@ -73,14 +75,16 @@
    "start": 73.49,
    "startOffset": 702,
    "word": "curry",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "curry"
   },
   {
    "start": 74.07,
    "end": 74.55,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -100,7 +104,8 @@
    "start": 74.55,
    "startOffset": 709,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "it's",
@@ -124,7 +129,8 @@
    "start": 75.74,
    "startOffset": 713,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "quite",
@@ -152,7 +158,8 @@
    "start": 75.99,
    "startOffset": 718,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "spicy",
@@ -184,7 +191,8 @@
    "start": 76.28,
    "startOffset": 724,
    "word": "spicy",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "spicy"
   },
   {
    "alignedWord": "and",
@@ -208,7 +216,8 @@
    "start": 77.21,
    "startOffset": 730,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -224,7 +233,8 @@
    "start": 77.54,
    "startOffset": 734,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "quite",
@@ -252,7 +262,8 @@
    "start": 77.91,
    "startOffset": 736,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "like",
@@ -276,7 +287,8 @@
    "start": 78.19,
    "startOffset": 742,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "spice",
@@ -304,14 +316,16 @@
    "start": 78.36,
    "startOffset": 747,
    "word": "spice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "spice"
   },
   {
    "start": 78.85,
    "end": 79.28999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

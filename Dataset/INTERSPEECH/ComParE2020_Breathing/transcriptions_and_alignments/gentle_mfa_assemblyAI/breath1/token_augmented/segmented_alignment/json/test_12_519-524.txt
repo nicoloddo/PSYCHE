@@ -5,7 +5,8 @@
    "end": 185.40999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 185.41,
    "startOffset": 2547,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "<unk>",
@@ -41,7 +43,8 @@
    "start": 186.29,
    "startOffset": 2551,
    "word": "gerard's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "gerard's"
   },
   {
    "alignedWord": "cross",
@@ -69,7 +72,8 @@
    "start": 186.64,
    "startOffset": 2560,
    "word": "Cross",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cross"
   },
   {
    "alignedWord": "<unk>",
@@ -85,14 +89,16 @@
    "start": 187.29,
    "startOffset": 2567,
    "word": "Beckonsfield",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "beckonsfield"
   },
   {
    "start": 188.20999999999998,
    "end": 190.61999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

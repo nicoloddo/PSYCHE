@@ -5,7 +5,8 @@
    "end": 88.01999899999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "<unk>",
@@ -21,7 +22,8 @@
    "start": 88.02,
    "startOffset": 1280,
    "word": "bobberation",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bobberation"
   },
   {
    "case": "not-found-in-audio",
@@ -30,7 +32,8 @@
    "word": "like",
    "start": 88.03,
    "end": 88.22,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "case": "not-found-in-audio",
@@ -39,7 +42,8 @@
    "word": "this",
    "start": 88.22,
    "end": 88.33,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "this"
   },
   {
    "alignedWord": "or",
@@ -55,7 +59,8 @@
    "start": 89.59,
    "startOffset": 1292,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "it's",
@@ -79,7 +84,8 @@
    "start": 89.6,
    "startOffset": 1295,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "too",
@@ -99,7 +105,8 @@
    "start": 89.76,
    "startOffset": 1300,
    "word": "too",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "too"
   },
   {
    "alignedWord": "much",
@@ -123,7 +130,8 @@
    "start": 90.109999,
    "startOffset": 1304,
    "word": "much",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "much"
   },
   {
    "alignedWord": "or",
@@ -143,7 +151,8 @@
    "start": 90.55,
    "startOffset": 1309,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "it's",
@@ -167,7 +176,8 @@
    "start": 90.690001,
    "startOffset": 1312,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "too",
@@ -187,7 +197,8 @@
    "start": 90.79,
    "startOffset": 1317,
    "word": "too",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "too"
   },
   {
    "alignedWord": "overcrowded",
@@ -235,14 +246,16 @@
    "start": 91.11,
    "startOffset": 1321,
    "word": "overcrowded",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "overcrowded"
   },
   {
    "start": 92.17,
    "end": 92.555,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

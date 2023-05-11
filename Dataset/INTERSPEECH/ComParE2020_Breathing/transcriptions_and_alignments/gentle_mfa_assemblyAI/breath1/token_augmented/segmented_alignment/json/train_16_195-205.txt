@@ -5,7 +5,8 @@
    "end": 55.29,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 55.29,
    "startOffset": 939,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "<unk>",
@@ -37,7 +39,8 @@
    "start": 56.62,
    "startOffset": 943,
    "word": "populism",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "populism"
   },
   {
    "alignedWord": "and",
@@ -61,7 +64,8 @@
    "start": 57.29,
    "startOffset": 952,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "right",
@@ -85,7 +89,8 @@
    "start": 57.35,
    "startOffset": 956,
    "word": "right",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "right"
   },
   {
    "alignedWord": "wing",
@@ -109,7 +114,8 @@
    "start": 57.55,
    "startOffset": 962,
    "word": "wing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wing"
   },
   {
    "alignedWord": "we're",
@@ -129,7 +135,8 @@
    "start": 57.73,
    "startOffset": 967,
    "word": "we're",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we're"
   },
   {
    "alignedWord": "still",
@@ -157,7 +164,8 @@
    "start": 57.86,
    "startOffset": 973,
    "word": "still",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "still"
   },
   {
    "alignedWord": "kind",
@@ -185,7 +193,8 @@
    "start": 58.15,
    "startOffset": 979,
    "word": "kind",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "kind"
   },
   {
    "alignedWord": "of",
@@ -205,14 +214,16 @@
    "start": 58.4,
    "startOffset": 984,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "start": 58.67,
    "end": 59.03,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

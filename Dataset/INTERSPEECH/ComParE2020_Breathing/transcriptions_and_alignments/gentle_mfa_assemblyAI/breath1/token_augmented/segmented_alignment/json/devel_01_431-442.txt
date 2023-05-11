@@ -5,7 +5,8 @@
    "end": 140.30999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 140.309999,
    "startOffset": 2078,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "which",
@@ -49,7 +51,8 @@
    "start": 140.62,
    "startOffset": 2082,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "again",
@@ -77,7 +80,8 @@
    "start": 140.849999,
    "startOffset": 2088,
    "word": "again",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "again"
   },
   {
    "alignedWord": "can",
@@ -101,7 +105,8 @@
    "start": 141.25,
    "startOffset": 2095,
    "word": "can",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "can"
   },
   {
    "alignedWord": "uh",
@@ -117,7 +122,8 @@
    "start": 141.95,
    "startOffset": 2099,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "reveal",
@@ -149,7 +155,8 @@
    "start": 142.119999,
    "startOffset": 2103,
    "word": "reveal",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "reveal"
   },
   {
    "alignedWord": "some",
@@ -173,7 +180,8 @@
    "start": 142.469999,
    "startOffset": 2110,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "of",
@@ -193,7 +201,8 @@
    "start": 142.629999,
    "startOffset": 2115,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "london's",
@@ -233,7 +242,8 @@
    "start": 142.719999,
    "startOffset": 2118,
    "word": "London's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london's"
   },
   {
    "alignedWord": "history",
@@ -269,14 +279,16 @@
    "start": 143.07999999999998,
    "startOffset": 2127,
    "word": "history",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "history"
   },
   {
    "start": 143.57,
    "end": 144.56,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 105.399999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "in",
@@ -25,7 +26,8 @@
    "start": 105.4,
    "startOffset": 1631,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "uh",
@@ -41,7 +43,8 @@
    "start": 105.78,
    "startOffset": 1635,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "ireland",
@@ -77,7 +80,8 @@
    "start": 105.809999,
    "startOffset": 1639,
    "word": "Ireland",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ireland"
   },
   {
    "alignedWord": "it's",
@@ -101,7 +105,8 @@
    "start": 106.129999,
    "startOffset": 1648,
    "word": "It's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "just",
@@ -129,7 +134,8 @@
    "start": 106.27,
    "startOffset": 1653,
    "word": "just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "like",
@@ -153,7 +159,8 @@
    "start": 106.59,
    "startOffset": 1658,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "crafty",
@@ -189,7 +196,8 @@
    "start": 107.289999,
    "startOffset": 1663,
    "word": "crafty",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "crafty"
   },
   {
    "alignedWord": "mexicans",
@@ -237,7 +245,8 @@
    "start": 107.65,
    "startOffset": 1670,
    "word": "mexicans",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "mexicans"
   },
   {
    "alignedWord": "with",
@@ -261,7 +270,8 @@
    "start": 108.27,
    "startOffset": 1679,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "burritos",
@@ -297,7 +307,8 @@
    "start": 108.45,
    "startOffset": 1684,
    "word": "burritos",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "burritos"
   },
   {
    "alignedWord": "or",
@@ -317,7 +328,8 @@
    "start": 109.05,
    "startOffset": 1693,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "italian",
@@ -357,7 +369,8 @@
    "start": 109.19,
    "startOffset": 1696,
    "word": "Italian",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "italian"
   },
   {
    "alignedWord": "but",
@@ -381,7 +394,8 @@
    "start": 109.83,
    "startOffset": 1705,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "case": "not-found-in-audio",
@@ -390,7 +404,8 @@
    "word": "there",
    "start": 109.98,
    "end": 110.14,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "case": "not-found-in-audio",
@@ -399,7 +414,8 @@
    "word": "isn't",
    "start": 110.26,
    "end": 110.53,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "isn't"
   },
   {
    "alignedWord": "really",
@@ -427,7 +443,8 @@
    "start": 110.53,
    "startOffset": 1721,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "much",
@@ -451,7 +468,8 @@
    "start": 110.74,
    "startOffset": 1728,
    "word": "much",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "much"
   },
   {
    "alignedWord": "variety",
@@ -487,14 +505,16 @@
    "start": 110.98,
    "startOffset": 1733,
    "word": "variety",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "variety"
   },
   {
    "start": 111.5,
    "end": 112.02,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

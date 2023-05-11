@@ -5,7 +5,8 @@
    "end": 208.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,7 +30,8 @@
    "start": 208.0,
    "startOffset": 3256,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "yeah",
@@ -49,7 +51,8 @@
    "start": 208.49,
    "startOffset": 3261,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "very",
@@ -77,7 +80,8 @@
    "start": 208.73,
    "startOffset": 3267,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "uh",
@@ -93,7 +97,8 @@
    "start": 209.61,
    "startOffset": 3273,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "<unk>",
@@ -109,7 +114,8 @@
    "start": 210.259999,
    "startOffset": 3277,
    "word": "touristy",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "touristy"
   },
   {
    "alignedWord": "but",
@@ -133,7 +139,8 @@
    "start": 211.24,
    "startOffset": 3287,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "good",
@@ -157,7 +164,8 @@
    "start": 211.349999,
    "startOffset": 3291,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "alignedWord": "event",
@@ -189,14 +197,16 @@
    "start": 211.53,
    "startOffset": 3296,
    "word": "event",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "event"
   },
   {
    "start": 212.197,
    "end": 212.963,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

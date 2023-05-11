@@ -5,7 +5,8 @@
    "end": 191.54999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 191.55,
    "startOffset": 2938,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 192.13,
    "startOffset": 2942,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "go",
@@ -69,7 +72,8 @@
    "start": 192.309999,
    "startOffset": 2946,
    "word": "go",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "go"
   },
   {
    "alignedWord": "and",
@@ -93,7 +97,8 @@
    "start": 192.41,
    "startOffset": 2949,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "see",
@@ -113,7 +118,8 @@
    "start": 192.54,
    "startOffset": 2953,
    "word": "see",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "see"
   },
   {
    "alignedWord": "some",
@@ -137,7 +143,8 @@
    "start": 192.79,
    "startOffset": 2957,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "of",
@@ -157,7 +164,8 @@
    "start": 192.95,
    "startOffset": 2962,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "the",
@@ -177,7 +185,8 @@
    "start": 193.04,
    "startOffset": 2965,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "smaller",
@@ -209,7 +218,8 @@
    "start": 193.13,
    "startOffset": 2969,
    "word": "smaller",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "smaller"
   },
   {
    "alignedWord": "areas",
@@ -241,7 +251,8 @@
    "start": 193.46,
    "startOffset": 2977,
    "word": "areas",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "areas"
   },
   {
    "alignedWord": "and",
@@ -265,7 +276,8 @@
    "start": 194.02,
    "startOffset": 2983,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "have",
@@ -289,7 +301,8 @@
    "start": 194.17,
    "startOffset": 2987,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "a",
@@ -305,7 +318,8 @@
    "start": 194.29,
    "startOffset": 2992,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "little",
@@ -337,7 +351,8 @@
    "start": 194.34,
    "startOffset": 2994,
    "word": "little",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "little"
   },
   {
    "alignedWord": "wander",
@@ -369,7 +384,8 @@
    "start": 194.58,
    "startOffset": 3001,
    "word": "wander",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wander"
   },
   {
    "alignedWord": "around",
@@ -397,7 +413,8 @@
    "start": 194.839999,
    "startOffset": 3008,
    "word": "around",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "around"
   },
   {
    "alignedWord": "and",
@@ -421,7 +438,8 @@
    "start": 195.42,
    "startOffset": 3015,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "you'll",
@@ -445,7 +463,8 @@
    "start": 195.73,
    "startOffset": 3019,
    "word": "you'll",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you'll"
   },
   {
    "alignedWord": "always",
@@ -477,7 +496,8 @@
    "start": 195.92,
    "startOffset": 3026,
    "word": "always",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "always"
   },
   {
    "alignedWord": "find",
@@ -505,7 +525,8 @@
    "start": 196.15,
    "startOffset": 3033,
    "word": "find",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "find"
   },
   {
    "alignedWord": "something",
@@ -541,14 +562,16 @@
    "start": 196.41,
    "startOffset": 3038,
    "word": "something",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "something"
   },
   {
    "start": 196.87,
    "end": 197.26,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

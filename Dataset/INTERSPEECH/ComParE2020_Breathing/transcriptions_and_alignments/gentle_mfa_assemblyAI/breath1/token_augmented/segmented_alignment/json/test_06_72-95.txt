@@ -5,7 +5,8 @@
    "end": 22.903000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "sights",
@@ -33,7 +34,8 @@
    "start": 23.71,
    "startOffset": 348,
    "word": "sights",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sights"
   },
   {
    "alignedWord": "of",
@@ -53,7 +55,8 @@
    "start": 23.78,
    "startOffset": 355,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "london",
@@ -89,7 +92,8 @@
    "start": 23.95,
    "startOffset": 358,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "that",
@@ -113,7 +117,8 @@
    "start": 24.38,
    "startOffset": 365,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "you",
@@ -133,7 +138,8 @@
    "start": 24.44,
    "startOffset": 370,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "might",
@@ -157,7 +163,8 @@
    "start": 24.59,
    "startOffset": 374,
    "word": "might",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "might"
   },
   {
    "alignedWord": "want",
@@ -185,7 +192,8 @@
    "start": 24.81,
    "startOffset": 380,
    "word": "want",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "want"
   },
   {
    "alignedWord": "to",
@@ -205,7 +213,8 @@
    "start": 25.04,
    "startOffset": 385,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "see",
@@ -225,7 +234,8 @@
    "start": 25.16,
    "startOffset": 388,
    "word": "see",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "see"
   },
   {
    "alignedWord": "the",
@@ -245,7 +255,8 @@
    "start": 25.54,
    "startOffset": 393,
    "word": "The",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "buckingham",
@@ -289,7 +300,8 @@
    "start": 25.66,
    "startOffset": 397,
    "word": "buckingham",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "buckingham"
   },
   {
    "alignedWord": "palace",
@@ -321,7 +333,8 @@
    "start": 26.21,
    "startOffset": 408,
    "word": "Palace",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "palace"
   },
   {
    "alignedWord": "and",
@@ -345,7 +358,8 @@
    "start": 26.67,
    "startOffset": 415,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "the",
@@ -365,7 +379,8 @@
    "start": 26.83,
    "startOffset": 419,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "back",
@@ -389,7 +404,8 @@
    "start": 26.92,
    "startOffset": 423,
    "word": "back",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "back"
   },
   {
    "alignedWord": "of",
@@ -409,7 +425,8 @@
    "start": 27.17,
    "startOffset": 428,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "<unk>",
@@ -425,7 +442,8 @@
    "start": 27.309998999999998,
    "startOffset": 431,
    "word": "Downing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "downing"
   },
   {
    "alignedWord": "street",
@@ -457,7 +475,8 @@
    "start": 27.7,
    "startOffset": 439,
    "word": "Street",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "street"
   },
   {
    "alignedWord": "and",
@@ -481,7 +500,8 @@
    "start": 28.05,
    "startOffset": 446,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "horse",
@@ -509,7 +529,8 @@
    "start": 28.23,
    "startOffset": 450,
    "word": "Horse",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "horse"
   },
   {
    "alignedWord": "guards",
@@ -541,7 +562,8 @@
    "start": 28.54,
    "startOffset": 456,
    "word": "Guards",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guards"
   },
   {
    "alignedWord": "parade",
@@ -569,14 +591,16 @@
    "start": 28.92,
    "startOffset": 463,
    "word": "parade",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "parade"
   },
   {
    "start": 29.53,
    "end": 30.41,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

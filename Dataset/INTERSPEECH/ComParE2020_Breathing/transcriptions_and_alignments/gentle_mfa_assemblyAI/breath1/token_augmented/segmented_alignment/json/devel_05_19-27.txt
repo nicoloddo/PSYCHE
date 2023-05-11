@@ -5,7 +5,8 @@
    "end": 10.209999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "to",
@@ -25,7 +26,8 @@
    "start": 10.21,
    "startOffset": 78,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -61,7 +63,8 @@
    "start": 10.38,
    "startOffset": 81,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "to",
@@ -81,7 +84,8 @@
    "start": 11.48,
    "startOffset": 88,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "study",
@@ -113,7 +117,8 @@
    "start": 11.67,
    "startOffset": 91,
    "word": "study",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "study"
   },
   {
    "alignedWord": "philosophy",
@@ -157,7 +162,8 @@
    "start": 12.009999,
    "startOffset": 97,
    "word": "philosophy",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "philosophy"
   },
   {
    "alignedWord": "in",
@@ -177,7 +183,8 @@
    "start": 12.65,
    "startOffset": 109,
    "word": "In",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "particular",
@@ -225,14 +232,16 @@
    "start": 12.78,
    "startOffset": 112,
    "word": "particular",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "particular"
   },
   {
    "start": 13.45,
    "end": 14.11,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

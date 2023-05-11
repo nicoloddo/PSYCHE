@@ -5,7 +5,8 @@
    "end": 115.38,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 115.38,
    "startOffset": 1485,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 116.25,
    "startOffset": 1489,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i'm",
@@ -69,7 +72,8 @@
    "start": 116.47,
    "startOffset": 1493,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "alignedWord": "also",
@@ -97,7 +101,8 @@
    "start": 116.62,
    "startOffset": 1497,
    "word": "also",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "also"
   },
   {
    "alignedWord": "not",
@@ -121,7 +126,8 @@
    "start": 116.9,
    "startOffset": 1502,
    "word": "not",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "not"
   },
   {
    "alignedWord": "a",
@@ -137,7 +143,8 @@
    "start": 117.099999,
    "startOffset": 1506,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "big",
@@ -161,7 +168,8 @@
    "start": 117.13,
    "startOffset": 1508,
    "word": "big",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "big"
   },
   {
    "alignedWord": "fan",
@@ -185,7 +193,8 @@
    "start": 117.3,
    "startOffset": 1512,
    "word": "fan",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fan"
   },
   {
    "alignedWord": "of",
@@ -205,7 +214,8 @@
    "start": 117.51,
    "startOffset": 1516,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "the",
@@ -225,7 +235,8 @@
    "start": 117.78,
    "startOffset": 1519,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "pollution",
@@ -265,14 +276,16 @@
    "start": 117.96000000000001,
    "startOffset": 1523,
    "word": "pollution",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pollution"
   },
   {
    "start": 119.148,
    "end": 119.5,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

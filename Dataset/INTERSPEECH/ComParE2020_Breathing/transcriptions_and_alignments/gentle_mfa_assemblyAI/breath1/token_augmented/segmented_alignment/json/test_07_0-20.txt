@@ -14,7 +14,8 @@
    "start": 2.07,
    "startOffset": 0,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "came",
@@ -38,7 +39,8 @@
    "start": 2.24,
    "startOffset": 2,
    "word": "came",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "came"
   },
   {
    "alignedWord": "to",
@@ -58,7 +60,8 @@
    "start": 2.46,
    "startOffset": 7,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -94,7 +97,8 @@
    "start": 2.58,
    "startOffset": 10,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "for",
@@ -114,7 +118,8 @@
    "start": 3.42,
    "startOffset": 17,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "a",
@@ -130,7 +135,8 @@
    "start": 3.74,
    "startOffset": 21,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "master's",
@@ -166,7 +172,8 @@
    "start": 3.79,
    "startOffset": 23,
    "word": "master's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "master's"
   },
   {
    "alignedWord": "degree",
@@ -198,7 +205,8 @@
    "start": 4.34,
    "startOffset": 32,
    "word": "degree",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "degree"
   },
   {
    "alignedWord": "at",
@@ -218,7 +226,8 @@
    "start": 4.68,
    "startOffset": 39,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "the",
@@ -238,7 +247,8 @@
    "start": 4.79,
    "startOffset": 42,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "royal",
@@ -266,7 +276,8 @@
    "start": 4.9,
    "startOffset": 46,
    "word": "Royal",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "royal"
   },
   {
    "alignedWord": "academy",
@@ -306,7 +317,8 @@
    "start": 5.07,
    "startOffset": 52,
    "word": "Academy",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "academy"
   },
   {
    "alignedWord": "of",
@@ -326,7 +338,8 @@
    "start": 5.53,
    "startOffset": 60,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "music",
@@ -362,7 +375,8 @@
    "start": 5.65,
    "startOffset": 63,
    "word": "Music",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "music"
   },
   {
    "alignedWord": "and",
@@ -386,7 +400,8 @@
    "start": 6.4,
    "startOffset": 70,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -402,7 +417,8 @@
    "start": 6.55,
    "startOffset": 74,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -426,7 +442,8 @@
    "start": 6.59,
    "startOffset": 76,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "there",
@@ -450,7 +467,8 @@
    "start": 6.72,
    "startOffset": 80,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "two",
@@ -470,7 +488,8 @@
    "start": 6.89,
    "startOffset": 86,
    "word": "two",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "two"
   },
   {
    "alignedWord": "years",
@@ -498,14 +517,16 @@
    "start": 7.03,
    "startOffset": 90,
    "word": "years",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "years"
   },
   {
    "start": 7.44,
    "end": 8.02,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

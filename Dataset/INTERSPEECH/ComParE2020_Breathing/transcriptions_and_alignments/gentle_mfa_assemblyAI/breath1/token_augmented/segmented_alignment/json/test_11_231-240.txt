@@ -5,7 +5,8 @@
    "end": 76.45,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 76.45,
    "startOffset": 1194,
    "word": "Uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "and",
@@ -45,7 +47,8 @@
    "start": 76.92,
    "startOffset": 1198,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "yeah",
@@ -65,7 +68,8 @@
    "start": 77.25,
    "startOffset": 1202,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "we",
@@ -85,7 +89,8 @@
    "start": 77.44,
    "startOffset": 1208,
    "word": "we",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we"
   },
   {
    "alignedWord": "booked",
@@ -113,7 +118,8 @@
    "start": 77.6,
    "startOffset": 1211,
    "word": "booked",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "booked"
   },
   {
    "alignedWord": "uh",
@@ -129,7 +135,8 @@
    "start": 78.44,
    "startOffset": 1218,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "that",
@@ -153,7 +160,8 @@
    "start": 79.07,
    "startOffset": 1222,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "room",
@@ -177,14 +185,16 @@
    "start": 79.35,
    "startOffset": 1228,
    "word": "Room",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "room"
   },
   {
    "start": 79.78,
    "end": 80.43,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

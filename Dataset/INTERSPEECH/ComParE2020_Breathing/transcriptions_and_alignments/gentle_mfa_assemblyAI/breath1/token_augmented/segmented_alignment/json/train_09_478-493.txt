@@ -5,7 +5,8 @@
    "end": 175.02999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "yeah",
@@ -25,7 +26,8 @@
    "start": 175.03,
    "startOffset": 2217,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "i",
@@ -41,7 +43,8 @@
    "start": 175.389999,
    "startOffset": 2223,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "don't",
@@ -65,7 +68,8 @@
    "start": 175.52,
    "startOffset": 2225,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "really",
@@ -93,7 +97,8 @@
    "start": 175.719999,
    "startOffset": 2231,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "like",
@@ -117,7 +122,8 @@
    "start": 175.92,
    "startOffset": 2238,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "traditional",
@@ -169,7 +175,8 @@
    "start": 176.77,
    "startOffset": 2243,
    "word": "traditional",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "traditional"
   },
   {
    "alignedWord": "musicals",
@@ -217,7 +224,8 @@
    "start": 177.41,
    "startOffset": 2255,
    "word": "musicals",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "musicals"
   },
   {
    "alignedWord": "but",
@@ -241,7 +249,8 @@
    "start": 178.129999,
    "startOffset": 2265,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "i",
@@ -257,7 +266,8 @@
    "start": 178.209999,
    "startOffset": 2269,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "thought",
@@ -281,7 +291,8 @@
    "start": 178.32,
    "startOffset": 2271,
    "word": "thought",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "thought"
   },
   {
    "case": "not-found-in-audio",
@@ -290,7 +301,8 @@
    "word": "those",
    "start": 178.53,
    "end": 178.81,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "those"
   },
   {
    "case": "not-found-in-audio",
@@ -299,7 +311,8 @@
    "word": "were",
    "start": 178.81,
    "end": 178.82,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "were"
   },
   {
    "alignedWord": "really",
@@ -327,7 +340,8 @@
    "start": 178.82,
    "startOffset": 2290,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "good",
@@ -351,14 +365,16 @@
    "start": 179.15,
    "startOffset": 2297,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "start": 179.53,
    "end": 180.23,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

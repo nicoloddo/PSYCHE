@@ -18,7 +18,8 @@
    "start": 3.72,
    "startOffset": 0,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i'm",
@@ -38,7 +39,8 @@
    "start": 4.48,
    "startOffset": 3,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "alignedWord": "in",
@@ -58,7 +60,8 @@
    "start": 4.75,
    "startOffset": 7,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -94,7 +97,8 @@
    "start": 4.91,
    "startOffset": 10,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "right",
@@ -118,7 +122,8 @@
    "start": 5.31,
    "startOffset": 17,
    "word": "right",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "right"
   },
   {
    "alignedWord": "now",
@@ -138,7 +143,8 @@
    "start": 5.5,
    "startOffset": 23,
    "word": "now",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "now"
   },
   {
    "alignedWord": "because",
@@ -170,7 +176,8 @@
    "start": 5.75,
    "startOffset": 27,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "i",
@@ -186,7 +193,8 @@
    "start": 6.33,
    "startOffset": 35,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "am",
@@ -206,7 +214,8 @@
    "start": 6.56,
    "startOffset": 37,
    "word": "am",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "am"
   },
   {
    "alignedWord": "doing",
@@ -234,7 +243,8 @@
    "start": 6.76,
    "startOffset": 40,
    "word": "doing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "doing"
   },
   {
    "alignedWord": "a",
@@ -250,7 +260,8 @@
    "start": 7.15,
    "startOffset": 46,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "<unk>",
@@ -266,7 +277,8 @@
    "start": 7.27,
    "startOffset": 48,
    "word": "PhD",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "phd"
   },
   {
    "alignedWord": "in",
@@ -286,7 +298,8 @@
    "start": 8.0,
    "startOffset": 52,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "cognitive",
@@ -330,7 +343,8 @@
    "start": 8.13,
    "startOffset": 55,
    "word": "cognitive",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cognitive"
   },
   {
    "alignedWord": "neuroscience",
@@ -382,14 +396,16 @@
    "start": 8.67,
    "startOffset": 65,
    "word": "neuroscience",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "neuroscience"
   },
   {
    "start": 9.61,
    "end": 10.139999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

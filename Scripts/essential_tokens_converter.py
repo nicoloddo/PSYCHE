@@ -54,27 +54,41 @@ def main(args):
             _, _, text = ndt.get_info(word)
             if text.lower() in DISFLUENCIES:
                 word['token'] = '<disfl.' + text.lower() + '>'
+                word['converted'] = word['token']
             elif not text == args.breath_token:
                 word['token'] = '<word>'
+                if args.convert_words:
+                    word['converted'] = word['token']
+                else:
+                    word['converted'] = text.lower()
             elif text == args.breath_token:
                 word['token'] = '<breath>'
+                word['converted'] = word['token']
             else:
                 sys.exit("Error: a word is neither a normal word, a disfluency or a breath.")
             
-            token_transcript += word['token'] + ' '
+            token_transcript += word['converted'] + ' '
         
         token_transcript = token_transcript[:-1] # to delete the last space
-        with open(save_path + 'json/' + filename, 'w') as f:
+        if args.convert_words:
+            converted_filename = filename[:-5] + '_essential'
+        else:
+            converted_filename = filename[:-5]
+        with open(save_path + 'json/' + converted_filename + '.json', 'w') as f:
             json.dump({'words':words}, f, indent = 1)
-        with open(save_path + filename[:-5] + '.txt', 'w') as f:
+        with open(save_path + converted_filename + '.txt', 'w') as f:
             f.write(token_transcript) # save the transcription
-            
+    
+    print("Saved in:", save_path)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--breath_alignment_dir', type = str, default = 'gentle_mfa_assemblyAI/breath1/',
         help = 'The directory of the alignments. The augmented alignment will be saved in a folder named "token_augmented" in the directory of the breath set.')
+    
+    parser.add_argument('--convert_words', type = bool, default = False,
+        help = 'If the script is supposed to convert all words to a token named <word>.')
     
     parser.add_argument('--breath_token', type = str, default = ndt.BREATH_TOKEN,
         help = 'The breath token used in the transcription.')

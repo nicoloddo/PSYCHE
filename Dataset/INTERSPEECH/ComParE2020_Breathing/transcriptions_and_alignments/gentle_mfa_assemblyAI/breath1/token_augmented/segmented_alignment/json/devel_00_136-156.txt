@@ -5,7 +5,8 @@
    "end": 49.74000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "built",
@@ -33,7 +34,8 @@
    "start": 49.74000000000001,
    "startOffset": 652,
    "word": "built",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "built"
   },
   {
    "alignedWord": "out",
@@ -53,7 +55,8 @@
    "start": 49.970000000000006,
    "startOffset": 658,
    "word": "out",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "out"
   },
   {
    "alignedWord": "and",
@@ -77,7 +80,8 @@
    "start": 50.219999,
    "startOffset": 663,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -93,7 +97,8 @@
    "start": 50.49,
    "startOffset": 667,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "guess",
@@ -117,7 +122,8 @@
    "start": 50.589999,
    "startOffset": 669,
    "word": "guess",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guess"
   },
   {
    "alignedWord": "my",
@@ -137,7 +143,8 @@
    "start": 50.849999,
    "startOffset": 675,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -173,7 +180,8 @@
    "start": 51.019999999999996,
    "startOffset": 678,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurant",
@@ -217,7 +225,8 @@
    "start": 51.730000000000004,
    "startOffset": 687,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "used",
@@ -245,14 +254,16 @@
    "start": 52.260000000000005,
    "startOffset": 698,
    "word": "used",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "used"
   },
   {
    "start": 52.300000000000004,
    "end": 53.010000000000005,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -272,7 +283,8 @@
    "start": 53.010000000000005,
    "startOffset": 704,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "<unk>",
@@ -288,7 +300,8 @@
    "start": 53.93,
    "startOffset": 714,
    "word": "nando's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nando's"
   },
   {
    "case": "not-found-in-audio",
@@ -297,7 +310,8 @@
    "word": "to",
    "start": 53.96,
    "end": 54.05,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "case": "not-found-in-audio",
@@ -306,7 +320,8 @@
    "word": "be",
    "start": 54.05,
    "end": 54.31,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "be"
   },
   {
    "alignedWord": "but",
@@ -330,7 +345,8 @@
    "start": 55.08,
    "startOffset": 723,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "it's",
@@ -354,7 +370,8 @@
    "start": 55.32,
    "startOffset": 727,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "now",
@@ -374,7 +391,8 @@
    "start": 55.52,
    "startOffset": 732,
    "word": "now",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "now"
   },
   {
    "alignedWord": "more",
@@ -398,7 +416,8 @@
    "start": 56.4,
    "startOffset": 736,
    "word": "more",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "more"
   },
   {
    "alignedWord": "um",
@@ -418,14 +437,16 @@
    "start": 56.83,
    "startOffset": 742,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 57.36,
    "end": 57.74,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

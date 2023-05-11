@@ -5,7 +5,8 @@
    "end": 27.529999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 27.53,
    "startOffset": 351,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i",
@@ -41,7 +43,8 @@
    "start": 28.4,
    "startOffset": 355,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "like",
@@ -65,7 +68,8 @@
    "start": 28.509999999999998,
    "startOffset": 357,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "the",
@@ -85,7 +89,8 @@
    "start": 28.939999999999998,
    "startOffset": 362,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "transport",
@@ -133,7 +138,8 @@
    "start": 29.059998999999998,
    "startOffset": 366,
    "word": "transport",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "transport"
   },
   {
    "alignedWord": "it",
@@ -153,7 +159,8 @@
    "start": 29.719999,
    "startOffset": 377,
    "word": "It",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "takes",
@@ -181,7 +188,8 @@
    "start": 29.759999,
    "startOffset": 380,
    "word": "takes",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "takes"
   },
   {
    "alignedWord": "you",
@@ -201,7 +209,8 @@
    "start": 30.009999,
    "startOffset": 386,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "everywhere",
@@ -241,7 +250,8 @@
    "start": 30.119999999999997,
    "startOffset": 390,
    "word": "everywhere",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "everywhere"
   },
   {
    "alignedWord": "you",
@@ -261,7 +271,8 @@
    "start": 30.5,
    "startOffset": 402,
    "word": "You",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "don't",
@@ -289,7 +300,8 @@
    "start": 30.71,
    "startOffset": 406,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "need",
@@ -313,14 +325,16 @@
    "start": 30.98,
    "startOffset": 412,
    "word": "need",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "need"
   },
   {
    "start": 31.47,
    "end": 32.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

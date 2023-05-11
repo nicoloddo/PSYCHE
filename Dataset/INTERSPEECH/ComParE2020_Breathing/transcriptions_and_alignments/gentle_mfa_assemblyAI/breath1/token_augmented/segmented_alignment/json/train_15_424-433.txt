@@ -5,7 +5,8 @@
    "end": 121.527,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "the",
@@ -25,7 +26,8 @@
    "start": 121.62,
    "startOffset": 2020,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "poetry",
@@ -61,7 +63,8 @@
    "start": 121.719999,
    "startOffset": 2024,
    "word": "poetry",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "poetry"
   },
   {
    "alignedWord": "made",
@@ -85,7 +88,8 @@
    "start": 122.12,
    "startOffset": 2031,
    "word": "made",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "made"
   },
   {
    "alignedWord": "me",
@@ -105,7 +109,8 @@
    "start": 122.309999,
    "startOffset": 2036,
    "word": "me",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "me"
   },
   {
    "alignedWord": "think",
@@ -133,7 +138,8 @@
    "start": 122.42,
    "startOffset": 2039,
    "word": "think",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "alignedWord": "of",
@@ -153,7 +159,8 @@
    "start": 122.639999,
    "startOffset": 2045,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "neuroscience",
@@ -205,7 +212,8 @@
    "start": 123.12,
    "startOffset": 2048,
    "word": "neuroscience",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "neuroscience"
   },
   {
    "alignedWord": "um",
@@ -225,14 +233,16 @@
    "start": 124.029999,
    "startOffset": 2062,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 124.629999,
    "end": 125.149999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

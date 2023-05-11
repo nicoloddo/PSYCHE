@@ -5,7 +5,8 @@
    "end": 200.97,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "independent",
@@ -61,7 +62,8 @@
    "start": 200.97,
    "startOffset": 2388,
    "word": "independent",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "independent"
   },
   {
    "alignedWord": "shops",
@@ -89,7 +91,8 @@
    "start": 201.64,
    "startOffset": 2400,
    "word": "shops",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "shops"
   },
   {
    "alignedWord": "that",
@@ -113,7 +116,8 @@
    "start": 202.04,
    "startOffset": 2406,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "still",
@@ -141,7 +145,8 @@
    "start": 202.23,
    "startOffset": 2411,
    "word": "still",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "still"
   },
   {
    "alignedWord": "are",
@@ -161,7 +166,8 @@
    "start": 202.65,
    "startOffset": 2417,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "in",
@@ -181,7 +187,8 @@
    "start": 202.97,
    "startOffset": 2421,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "<unk>",
@@ -197,7 +204,8 @@
    "start": 203.39,
    "startOffset": 2424,
    "word": "covent",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "covent"
   },
   {
    "alignedWord": "garden",
@@ -233,14 +241,16 @@
    "start": 203.74,
    "startOffset": 2431,
    "word": "Garden",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "garden"
   },
   {
    "start": 204.27,
    "end": 204.83,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

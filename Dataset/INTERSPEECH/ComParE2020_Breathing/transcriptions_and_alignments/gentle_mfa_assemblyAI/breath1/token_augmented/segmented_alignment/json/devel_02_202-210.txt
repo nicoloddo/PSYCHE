@@ -5,7 +5,8 @@
    "end": 55.17,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "miles",
@@ -33,7 +34,8 @@
    "start": 55.17,
    "startOffset": 952,
    "word": "miles",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "miles"
   },
   {
    "alignedWord": "away",
@@ -57,7 +59,8 @@
    "start": 55.56,
    "startOffset": 958,
    "word": "away",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "away"
   },
   {
    "alignedWord": "parts",
@@ -89,7 +92,8 @@
    "start": 55.76,
    "startOffset": 963,
    "word": "parts",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "parts"
   },
   {
    "alignedWord": "of",
@@ -109,7 +113,8 @@
    "start": 56.0,
    "startOffset": 969,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "london",
@@ -145,7 +150,8 @@
    "start": 56.11,
    "startOffset": 972,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "um",
@@ -165,7 +171,8 @@
    "start": 56.74,
    "startOffset": 980,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "like",
@@ -189,14 +196,16 @@
    "start": 57.66,
    "startOffset": 984,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "start": 58.46,
    "end": 59.07,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

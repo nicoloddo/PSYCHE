@@ -5,7 +5,8 @@
    "end": 127.27999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "just",
@@ -33,7 +34,8 @@
    "start": 127.279999,
    "startOffset": 2043,
    "word": "Just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "two",
@@ -53,7 +55,8 @@
    "start": 127.48,
    "startOffset": 2048,
    "word": "two",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "two"
   },
   {
    "alignedWord": "minutes",
@@ -89,14 +92,16 @@
    "start": 127.61000000000001,
    "startOffset": 2052,
    "word": "minutes",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "minutes"
   },
   {
    "start": 128.10000000000002,
    "end": 130.09000000000003,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

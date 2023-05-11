@@ -5,7 +5,8 @@
    "end": 24.45,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 24.45,
    "startOffset": 260,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "it's",
@@ -49,7 +51,8 @@
    "start": 25.25,
    "startOffset": 264,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "highly",
@@ -77,7 +80,8 @@
    "start": 25.46,
    "startOffset": 269,
    "word": "highly",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "highly"
   },
   {
    "alignedWord": "productive",
@@ -125,7 +129,8 @@
    "start": 25.990000000000002,
    "startOffset": 276,
    "word": "productive",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "productive"
   },
   {
    "alignedWord": "there's",
@@ -153,7 +158,8 @@
    "start": 26.889999,
    "startOffset": 288,
    "word": "There's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there's"
   },
   {
    "alignedWord": "lots",
@@ -181,7 +187,8 @@
    "start": 27.09,
    "startOffset": 296,
    "word": "lots",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lots"
   },
   {
    "alignedWord": "of",
@@ -201,7 +208,8 @@
    "start": 27.25,
    "startOffset": 301,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "really",
@@ -229,7 +237,8 @@
    "start": 27.369999999999997,
    "startOffset": 304,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "interesting",
@@ -277,7 +286,8 @@
    "start": 27.59,
    "startOffset": 311,
    "word": "interesting",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "interesting"
   },
   {
    "alignedWord": "stuff",
@@ -305,7 +315,8 @@
    "start": 28.04,
    "startOffset": 323,
    "word": "stuff",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "stuff"
   },
   {
    "alignedWord": "going",
@@ -333,7 +344,8 @@
    "start": 28.36,
    "startOffset": 329,
    "word": "going",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "going"
   },
   {
    "alignedWord": "on",
@@ -353,7 +365,8 @@
    "start": 28.679999000000002,
    "startOffset": 335,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "alignedWord": "lots",
@@ -381,7 +394,8 @@
    "start": 29.16,
    "startOffset": 339,
    "word": "lots",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lots"
   },
   {
    "alignedWord": "of",
@@ -401,7 +415,8 @@
    "start": 29.349999,
    "startOffset": 344,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "talks",
@@ -429,14 +444,16 @@
    "start": 29.48,
    "startOffset": 347,
    "word": "talks",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "talks"
   },
   {
    "start": 30.194,
    "end": 30.79,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

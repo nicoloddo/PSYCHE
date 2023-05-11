@@ -5,7 +5,8 @@
    "end": 97.68,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "night",
@@ -29,14 +30,16 @@
    "start": 97.68,
    "startOffset": 1372,
    "word": "night",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "night"
   },
   {
    "start": 98.04,
    "end": 98.54,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "down",
@@ -60,7 +63,8 @@
    "start": 98.53999999999999,
    "startOffset": 1378,
    "word": "down",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "down"
   },
   {
    "alignedWord": "in",
@@ -80,7 +84,8 @@
    "start": 98.889999,
    "startOffset": 1383,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "like",
@@ -104,7 +109,8 @@
    "start": 99.4,
    "startOffset": 1386,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "<unk>",
@@ -120,7 +126,8 @@
    "start": 99.599999,
    "startOffset": 1392,
    "word": "portobello",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "portobello"
   },
   {
    "alignedWord": "road",
@@ -144,7 +151,8 @@
    "start": 100.11,
    "startOffset": 1403,
    "word": "Road",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "road"
   },
   {
    "alignedWord": "which",
@@ -168,7 +176,8 @@
    "start": 100.8,
    "startOffset": 1409,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "is",
@@ -188,7 +197,8 @@
    "start": 100.92,
    "startOffset": 1415,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "quite",
@@ -216,7 +226,8 @@
    "start": 101.01,
    "startOffset": 1418,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "a",
@@ -232,7 +243,8 @@
    "start": 101.19,
    "startOffset": 1424,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "good",
@@ -256,7 +268,8 @@
    "start": 101.2,
    "startOffset": 1426,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "alignedWord": "one",
@@ -280,14 +293,16 @@
    "start": 101.36,
    "startOffset": 1431,
    "word": "one",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "one"
   },
   {
    "start": 101.61,
    "end": 102.09,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

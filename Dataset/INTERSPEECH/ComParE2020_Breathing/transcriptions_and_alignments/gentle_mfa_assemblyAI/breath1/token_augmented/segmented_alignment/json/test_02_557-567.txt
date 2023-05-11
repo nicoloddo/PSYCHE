@@ -5,7 +5,8 @@
    "end": 222.38,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 222.38,
    "startOffset": 2380,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 223.07999999999998,
    "end": 223.64,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "there",
@@ -56,7 +59,8 @@
    "start": 223.64,
    "startOffset": 2384,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "were",
@@ -76,7 +80,8 @@
    "start": 223.82,
    "startOffset": 2390,
    "word": "were",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "were"
   },
   {
    "alignedWord": "also",
@@ -104,7 +109,8 @@
    "start": 223.91,
    "startOffset": 2395,
    "word": "also",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "also"
   },
   {
    "alignedWord": "lots",
@@ -132,7 +138,8 @@
    "start": 224.26,
    "startOffset": 2400,
    "word": "lots",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lots"
   },
   {
    "alignedWord": "of",
@@ -152,7 +159,8 @@
    "start": 224.45,
    "startOffset": 2405,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "case": "not-found-in-audio",
@@ -161,7 +169,8 @@
    "word": "squirrel",
    "start": 224.55,
    "end": 224.55,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "squirrel"
   },
   {
    "alignedWord": "squirrels",
@@ -201,14 +210,16 @@
    "start": 224.55,
    "startOffset": 2417,
    "word": "squirrels",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "squirrels"
   },
   {
    "start": 225.20000000000002,
    "end": 225.70000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

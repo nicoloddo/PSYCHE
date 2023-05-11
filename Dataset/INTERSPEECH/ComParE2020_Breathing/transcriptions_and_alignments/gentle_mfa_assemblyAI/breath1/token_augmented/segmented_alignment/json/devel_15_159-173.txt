@@ -5,7 +5,8 @@
    "end": 55.3,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 55.3,
    "startOffset": 745,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "one",
@@ -49,7 +51,8 @@
    "start": 55.32,
    "startOffset": 749,
    "word": "one",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "one"
   },
   {
    "alignedWord": "<unk>",
@@ -65,7 +68,8 @@
    "start": 55.61,
    "startOffset": 802,
    "word": "impressively",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "impressively"
   },
   {
    "case": "not-found-in-audio",
@@ -74,7 +78,8 @@
    "word": "of",
    "start": 55.76,
    "end": 55.82,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "case": "not-found-in-audio",
@@ -83,7 +88,8 @@
    "word": "my",
    "start": 55.82,
    "end": 55.95,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "case": "not-found-in-audio",
@@ -92,7 +98,8 @@
    "word": "friends",
    "start": 55.95,
    "end": 56.32,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "friends"
   },
   {
    "case": "not-found-in-audio",
@@ -101,7 +108,8 @@
    "word": "is",
    "start": 56.32,
    "end": 56.38,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "case": "not-found-in-audio",
@@ -110,7 +118,8 @@
    "word": "really",
    "start": 56.38,
    "end": 56.46,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "case": "not-found-in-audio",
@@ -119,7 +128,8 @@
    "word": "into",
    "start": 56.46,
    "end": 56.93,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "into"
   },
   {
    "case": "not-found-in-audio",
@@ -128,7 +138,8 @@
    "word": "um",
    "start": 57.04,
    "end": 57.45,
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "case": "not-found-in-audio",
@@ -137,14 +148,16 @@
    "word": "dressing",
    "start": 57.45,
    "end": 57.65,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "dressing"
   },
   {
    "start": 57.65,
    "end": 58.150999999999996,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "case": "not-found-in-audio",
@@ -153,14 +166,16 @@
    "word": "really",
    "start": 58.4,
    "end": 58.67,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "start": 60.993,
    "end": 61.550000000000004,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

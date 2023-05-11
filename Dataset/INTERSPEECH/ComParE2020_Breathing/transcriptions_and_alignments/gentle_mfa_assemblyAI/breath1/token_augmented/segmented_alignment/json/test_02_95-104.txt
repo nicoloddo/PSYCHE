@@ -5,7 +5,8 @@
    "end": 42.51,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "everything",
@@ -45,7 +46,8 @@
    "start": 42.51,
    "startOffset": 379,
    "word": "everything",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "everything"
   },
   {
    "alignedWord": "is",
@@ -65,7 +67,8 @@
    "start": 42.97,
    "startOffset": 390,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "so",
@@ -85,7 +88,8 @@
    "start": 43.07,
    "startOffset": 393,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "expensive",
@@ -133,7 +137,8 @@
    "start": 43.2,
    "startOffset": 396,
    "word": "expensive",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "expensive"
   },
   {
    "alignedWord": "so",
@@ -153,7 +158,8 @@
    "start": 43.78,
    "startOffset": 407,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "it's",
@@ -177,7 +183,8 @@
    "start": 43.94,
    "startOffset": 410,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "very",
@@ -205,7 +212,8 @@
    "start": 44.32,
    "startOffset": 415,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "difficult",
@@ -249,14 +257,16 @@
    "start": 44.61,
    "startOffset": 420,
    "word": "difficult",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "difficult"
   },
   {
    "start": 45.11,
    "end": 45.76,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

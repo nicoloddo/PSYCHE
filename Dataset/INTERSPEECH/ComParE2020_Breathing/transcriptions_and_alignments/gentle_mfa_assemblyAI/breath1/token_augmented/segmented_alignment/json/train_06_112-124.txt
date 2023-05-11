@@ -5,7 +5,8 @@
    "end": 42.81,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,7 +30,8 @@
    "start": 42.81,
    "startOffset": 506,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -45,7 +47,8 @@
    "start": 43.12,
    "startOffset": 510,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "had",
@@ -69,7 +72,8 @@
    "start": 43.17,
    "startOffset": 512,
    "word": "had",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "had"
   },
   {
    "alignedWord": "to",
@@ -89,14 +93,16 @@
    "start": 43.38,
    "startOffset": 516,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "start": 43.95,
    "end": 44.31,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "go",
@@ -116,7 +122,8 @@
    "start": 44.309999,
    "startOffset": 519,
    "word": "go",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "go"
   },
   {
    "alignedWord": "through",
@@ -140,7 +147,8 @@
    "start": 44.519999999999996,
    "startOffset": 522,
    "word": "through",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "through"
   },
   {
    "alignedWord": "an",
@@ -160,7 +168,8 @@
    "start": 44.75,
    "startOffset": 530,
    "word": "an",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "an"
   },
   {
    "alignedWord": "entire",
@@ -192,7 +201,8 @@
    "start": 44.849999,
    "startOffset": 533,
    "word": "entire",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "entire"
   },
   {
    "alignedWord": "process",
@@ -228,7 +238,8 @@
    "start": 45.21,
    "startOffset": 540,
    "word": "process",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "process"
   },
   {
    "alignedWord": "to",
@@ -248,14 +259,16 @@
    "start": 45.980000000000004,
    "startOffset": 548,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "start": 46.510000000000005,
    "end": 46.95,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

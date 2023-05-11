@@ -5,7 +5,8 @@
    "end": 197.62999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 197.629999,
    "startOffset": 2347,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "to",
@@ -45,7 +47,8 @@
    "start": 198.129999,
    "startOffset": 2351,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "go",
@@ -65,7 +68,8 @@
    "start": 198.219999,
    "startOffset": 2354,
    "word": "go",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "go"
   },
   {
    "alignedWord": "and",
@@ -89,7 +93,8 @@
    "start": 198.359999,
    "startOffset": 2357,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "visit",
@@ -121,7 +126,8 @@
    "start": 198.5,
    "startOffset": 2361,
    "word": "visit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "visit"
   },
   {
    "alignedWord": "uh",
@@ -137,7 +143,8 @@
    "start": 199.49,
    "startOffset": 2368,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "like",
@@ -161,7 +168,8 @@
    "start": 199.81,
    "startOffset": 2372,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "the",
@@ -181,7 +189,8 @@
    "start": 200.02,
    "startOffset": 2377,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "natural",
@@ -217,7 +226,8 @@
    "start": 200.12,
    "startOffset": 2381,
    "word": "Natural",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "natural"
   },
   {
    "alignedWord": "history",
@@ -253,7 +263,8 @@
    "start": 200.41,
    "startOffset": 2389,
    "word": "History",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "history"
   },
   {
    "alignedWord": "museum",
@@ -293,7 +304,8 @@
    "start": 200.77,
    "startOffset": 2397,
    "word": "Museum",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "museum"
   },
   {
    "alignedWord": "and",
@@ -317,7 +329,8 @@
    "start": 201.49,
    "startOffset": 2404,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "victoria",
@@ -361,7 +374,8 @@
    "start": 201.61,
    "startOffset": 2408,
    "word": "Victoria",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "victoria"
   },
   {
    "alignedWord": "and",
@@ -385,7 +399,8 @@
    "start": 202.03,
    "startOffset": 2417,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "albert",
@@ -417,7 +432,8 @@
    "start": 202.11,
    "startOffset": 2421,
    "word": "Albert",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "albert"
   },
   {
    "alignedWord": "museum",
@@ -457,14 +473,16 @@
    "start": 202.51,
    "startOffset": 2428,
    "word": "Museum",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "museum"
   },
   {
    "start": 203.19,
    "end": 203.84,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

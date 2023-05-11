@@ -5,7 +5,8 @@
    "end": 61.629999999999995,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 61.63,
    "startOffset": 744,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -45,7 +47,8 @@
    "start": 61.83,
    "startOffset": 746,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "previously",
@@ -93,7 +96,8 @@
    "start": 62.03,
    "startOffset": 750,
    "word": "previously",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "previously"
   },
   {
    "alignedWord": "a",
@@ -109,7 +113,8 @@
    "start": 62.96,
    "startOffset": 761,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "nurse",
@@ -133,7 +138,8 @@
    "start": 63.09,
    "startOffset": 763,
    "word": "nurse",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nurse"
   },
   {
    "alignedWord": "in",
@@ -153,7 +159,8 @@
    "start": 63.54,
    "startOffset": 769,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "the",
@@ -173,7 +180,8 @@
    "start": 63.75,
    "startOffset": 772,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "intensive",
@@ -217,7 +225,8 @@
    "start": 63.88,
    "startOffset": 776,
    "word": "intensive",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "intensive"
   },
   {
    "alignedWord": "care",
@@ -241,7 +250,8 @@
    "start": 64.32,
    "startOffset": 786,
    "word": "care",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "care"
   },
   {
    "alignedWord": "unit",
@@ -273,14 +283,16 @@
    "start": 64.52,
    "startOffset": 791,
    "word": "unit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "unit"
   },
   {
    "start": 64.92,
    "end": 65.5,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

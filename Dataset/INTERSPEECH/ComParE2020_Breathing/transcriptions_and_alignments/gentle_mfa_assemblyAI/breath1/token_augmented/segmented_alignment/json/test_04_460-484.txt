@@ -5,7 +5,8 @@
    "end": 133.34,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "case": "not-found-in-audio",
@@ -14,7 +15,8 @@
    "word": "I'm",
    "start": 133.34,
    "end": 133.35,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "alignedWord": "uh",
@@ -30,7 +32,8 @@
    "start": 133.35,
    "startOffset": 2144,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "going",
@@ -58,7 +61,8 @@
    "start": 133.59,
    "startOffset": 2148,
    "word": "going",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "going"
   },
   {
    "alignedWord": "to",
@@ -78,7 +82,8 @@
    "start": 133.64,
    "startOffset": 2154,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "be",
@@ -98,7 +103,8 @@
    "start": 133.66,
    "startOffset": 2157,
    "word": "be",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "be"
   },
   {
    "alignedWord": "moving",
@@ -130,7 +136,8 @@
    "start": 133.72,
    "startOffset": 2160,
    "word": "moving",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "moving"
   },
   {
    "alignedWord": "to",
@@ -150,7 +157,8 @@
    "start": 134.07,
    "startOffset": 2167,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "edinburgh",
@@ -190,7 +198,8 @@
    "start": 134.23,
    "startOffset": 2170,
    "word": "Edinburgh",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "edinburgh"
   },
   {
    "alignedWord": "for",
@@ -210,7 +219,8 @@
    "start": 134.639999,
    "startOffset": 2180,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "a",
@@ -226,7 +236,8 @@
    "start": 134.78,
    "startOffset": 2184,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "couple",
@@ -258,7 +269,8 @@
    "start": 134.84,
    "startOffset": 2186,
    "word": "couple",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "couple"
   },
   {
    "alignedWord": "of",
@@ -278,7 +290,8 @@
    "start": 135.09,
    "startOffset": 2193,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "months",
@@ -310,7 +323,8 @@
    "start": 135.17,
    "startOffset": 2196,
    "word": "months",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "months"
   },
   {
    "alignedWord": "to",
@@ -330,7 +344,8 @@
    "start": 135.74,
    "startOffset": 2203,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "work",
@@ -354,7 +369,8 @@
    "start": 135.91,
    "startOffset": 2206,
    "word": "work",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "work"
   },
   {
    "alignedWord": "with",
@@ -378,7 +394,8 @@
    "start": 136.21,
    "startOffset": 2211,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "my",
@@ -398,7 +415,8 @@
    "start": 136.51,
    "startOffset": 2216,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "industry",
@@ -442,7 +460,8 @@
    "start": 136.719999,
    "startOffset": 2219,
    "word": "industry",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "industry"
   },
   {
    "alignedWord": "partner",
@@ -478,7 +497,8 @@
    "start": 137.03,
    "startOffset": 2228,
    "word": "partner",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "partner"
   },
   {
    "alignedWord": "for",
@@ -498,7 +518,8 @@
    "start": 137.38,
    "startOffset": 2236,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "my",
@@ -518,7 +539,8 @@
    "start": 137.44,
    "startOffset": 2240,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "<unk>",
@@ -534,7 +556,8 @@
    "start": 137.62,
    "startOffset": 2243,
    "word": "PhD",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "phd"
   },
   {
    "alignedWord": "where",
@@ -558,14 +581,16 @@
    "start": 138.09,
    "startOffset": 2248,
    "word": "where",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "where"
   },
   {
    "start": 138.12,
    "end": 138.83,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

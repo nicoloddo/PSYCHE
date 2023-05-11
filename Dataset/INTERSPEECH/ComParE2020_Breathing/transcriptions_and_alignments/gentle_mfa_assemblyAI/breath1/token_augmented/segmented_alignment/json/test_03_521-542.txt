@@ -5,7 +5,8 @@
    "end": 150.11,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "little",
@@ -37,7 +38,8 @@
    "start": 150.11,
    "startOffset": 2549,
    "word": "little",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "little"
   },
   {
    "alignedWord": "<unk>",
@@ -53,7 +55,8 @@
    "start": 150.54,
    "startOffset": 2556,
    "word": "yappy",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yappy"
   },
   {
    "alignedWord": "things",
@@ -81,7 +84,8 @@
    "start": 150.83,
    "startOffset": 2562,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "and",
@@ -105,7 +109,8 @@
    "start": 151.13,
    "startOffset": 2569,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "big",
@@ -129,7 +134,8 @@
    "start": 151.6,
    "startOffset": 2573,
    "word": "big",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "big"
   },
   {
    "alignedWord": "bloodhounds",
@@ -173,7 +179,8 @@
    "start": 151.81,
    "startOffset": 2577,
    "word": "bloodhounds",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bloodhounds"
   },
   {
    "alignedWord": "and",
@@ -197,7 +204,8 @@
    "start": 152.309999,
    "startOffset": 2589,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "irish",
@@ -225,7 +233,8 @@
    "start": 152.65,
    "startOffset": 2593,
    "word": "Irish",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "irish"
   },
   {
    "alignedWord": "wolf",
@@ -253,7 +262,8 @@
    "start": 152.95,
    "startOffset": 2599,
    "word": "wolf",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wolf"
   },
   {
    "alignedWord": "hounds",
@@ -285,7 +295,8 @@
    "start": 153.16,
    "startOffset": 2604,
    "word": "hounds",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hounds"
   },
   {
    "alignedWord": "and",
@@ -309,7 +320,8 @@
    "start": 153.36,
    "startOffset": 2611,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "all",
@@ -329,7 +341,8 @@
    "start": 153.46,
    "startOffset": 2615,
    "word": "all",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "all"
   },
   {
    "alignedWord": "sorts",
@@ -361,7 +374,8 @@
    "start": 153.559999,
    "startOffset": 2619,
    "word": "sorts",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sorts"
   },
   {
    "alignedWord": "and",
@@ -385,7 +399,8 @@
    "start": 153.82,
    "startOffset": 2626,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -401,7 +416,8 @@
    "start": 153.94,
    "startOffset": 2630,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "just",
@@ -429,7 +445,8 @@
    "start": 153.98,
    "startOffset": 2632,
    "word": "just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "find",
@@ -457,7 +474,8 @@
    "start": 154.139999,
    "startOffset": 2637,
    "word": "find",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "find"
   },
   {
    "alignedWord": "it",
@@ -477,7 +495,8 @@
    "start": 154.349999,
    "startOffset": 2642,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "really",
@@ -505,7 +524,8 @@
    "start": 154.44,
    "startOffset": 2645,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "entertaining",
@@ -553,14 +573,16 @@
    "start": 154.63,
    "startOffset": 2652,
    "word": "entertaining",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "entertaining"
   },
   {
    "start": 155.25,
    "end": 155.72,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

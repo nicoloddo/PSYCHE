@@ -5,7 +5,8 @@
    "end": 78.714,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "coming",
@@ -37,7 +38,8 @@
    "start": 78.73,
    "startOffset": 1060,
    "word": "Coming",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "coming"
   },
   {
    "alignedWord": "to",
@@ -57,7 +59,8 @@
    "start": 79.11,
    "startOffset": 1067,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "<unk>",
@@ -73,7 +76,8 @@
    "start": 79.23,
    "startOffset": 1070,
    "word": "ucl",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ucl"
   },
   {
    "alignedWord": "has",
@@ -97,7 +101,8 @@
    "start": 79.91,
    "startOffset": 1074,
    "word": "has",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "has"
   },
   {
    "alignedWord": "been",
@@ -121,7 +126,8 @@
    "start": 80.139999,
    "startOffset": 1078,
    "word": "been",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "been"
   },
   {
    "alignedWord": "great",
@@ -149,7 +155,8 @@
    "start": 80.37,
    "startOffset": 1083,
    "word": "great",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "great"
   },
   {
    "alignedWord": "because",
@@ -181,7 +188,8 @@
    "start": 80.88,
    "startOffset": 1089,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "it",
@@ -201,7 +209,8 @@
    "start": 81.51,
    "startOffset": 1098,
    "word": "It",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "is",
@@ -221,7 +230,8 @@
    "start": 81.679999,
    "startOffset": 1101,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "<unk>",
@@ -237,7 +247,8 @@
    "start": 82.03,
    "startOffset": 1104,
    "word": "worldclass",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "worldclass"
   },
   {
    "alignedWord": "university",
@@ -289,14 +300,16 @@
    "start": 82.71000000000001,
    "startOffset": 1115,
    "word": "University",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "university"
   },
   {
    "start": 83.61000000000001,
    "end": 84.02000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

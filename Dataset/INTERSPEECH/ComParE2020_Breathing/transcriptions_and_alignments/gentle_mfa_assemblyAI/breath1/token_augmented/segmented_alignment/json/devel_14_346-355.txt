@@ -5,7 +5,8 @@
    "end": 144.46000000000004,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 144.459999,
    "startOffset": 1658,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "having",
@@ -57,7 +59,8 @@
    "start": 145.71,
    "startOffset": 1662,
    "word": "having",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "having"
   },
   {
    "alignedWord": "said",
@@ -81,7 +84,8 @@
    "start": 145.99,
    "startOffset": 1669,
    "word": "said",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "said"
   },
   {
    "alignedWord": "that",
@@ -105,7 +109,8 @@
    "start": 146.17,
    "startOffset": 1674,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "so",
@@ -125,7 +130,8 @@
    "start": 146.37,
    "startOffset": 1680,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "is",
@@ -145,7 +151,8 @@
    "start": 146.54,
    "startOffset": 1683,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "hyde",
@@ -169,7 +176,8 @@
    "start": 146.71,
    "startOffset": 1686,
    "word": "hyde",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hyde"
   },
   {
    "alignedWord": "park",
@@ -197,14 +205,16 @@
    "start": 147.06,
    "startOffset": 1691,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "start": 147.58,
    "end": 148.04000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

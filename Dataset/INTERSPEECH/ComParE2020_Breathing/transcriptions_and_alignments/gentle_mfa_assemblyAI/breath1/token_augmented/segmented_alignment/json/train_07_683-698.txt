@@ -5,7 +5,8 @@
    "end": 204.3,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 204.3,
    "startOffset": 3198,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "case": "not-found-in-audio",
@@ -34,7 +36,8 @@
    "word": "so",
    "start": 204.74,
    "end": 204.84,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "that",
@@ -58,7 +61,8 @@
    "start": 204.84,
    "startOffset": 3205,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "was",
@@ -82,7 +86,8 @@
    "start": 205.02,
    "startOffset": 3210,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "quite",
@@ -110,7 +115,8 @@
    "start": 205.15,
    "startOffset": 3214,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "fun",
@@ -134,7 +140,8 @@
    "start": 205.33,
    "startOffset": 3220,
    "word": "fun",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fun"
   },
   {
    "alignedWord": "we",
@@ -154,7 +161,8 @@
    "start": 205.58,
    "startOffset": 3225,
    "word": "We",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we"
   },
   {
    "alignedWord": "got",
@@ -178,7 +186,8 @@
    "start": 205.68,
    "startOffset": 3228,
    "word": "got",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "got"
   },
   {
    "alignedWord": "a",
@@ -194,7 +203,8 @@
    "start": 205.77,
    "startOffset": 3232,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "lot",
@@ -218,7 +228,8 @@
    "start": 205.81,
    "startOffset": 3234,
    "word": "lot",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lot"
   },
   {
    "alignedWord": "of",
@@ -238,7 +249,8 @@
    "start": 205.98,
    "startOffset": 3238,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "mold",
@@ -266,7 +278,8 @@
    "start": 206.04,
    "startOffset": 3241,
    "word": "mold",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "mold"
   },
   {
    "alignedWord": "wine",
@@ -290,7 +303,8 @@
    "start": 206.25,
    "startOffset": 3246,
    "word": "wine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wine"
   },
   {
    "alignedWord": "um",
@@ -310,14 +324,16 @@
    "start": 206.82,
    "startOffset": 3252,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 207.38,
    "end": 208.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 212.91999900000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 212.92,
    "startOffset": 2790,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "so",
@@ -45,7 +47,8 @@
    "start": 213.62,
    "startOffset": 2794,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "he",
@@ -65,7 +68,8 @@
    "start": 213.79,
    "startOffset": 2797,
    "word": "he",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "he"
   },
   {
    "alignedWord": "got",
@@ -89,7 +93,8 @@
    "start": 213.92,
    "startOffset": 2800,
    "word": "got",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "got"
   },
   {
    "alignedWord": "really",
@@ -117,7 +122,8 @@
    "start": 214.059999,
    "startOffset": 2804,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "into",
@@ -145,7 +151,8 @@
    "start": 214.25,
    "startOffset": 2811,
    "word": "into",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "into"
   },
   {
    "alignedWord": "tacos",
@@ -177,7 +184,8 @@
    "start": 214.440001,
    "startOffset": 2816,
    "word": "tacos",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tacos"
   },
   {
    "alignedWord": "um",
@@ -197,7 +205,8 @@
    "start": 215.15,
    "startOffset": 2823,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "case": "not-found-in-audio",
@@ -206,7 +215,8 @@
    "word": "and",
    "start": 215.49,
    "end": 215.57999999999998,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "actually",
@@ -238,7 +248,8 @@
    "start": 215.57999999999998,
    "startOffset": 2831,
    "word": "actually",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "actually"
   },
   {
    "alignedWord": "there",
@@ -262,7 +273,8 @@
    "start": 215.85,
    "startOffset": 2840,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "are",
@@ -282,7 +294,8 @@
    "start": 216.0,
    "startOffset": 2846,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "some",
@@ -306,7 +319,8 @@
    "start": 216.18,
    "startOffset": 2850,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "quite",
@@ -334,7 +348,8 @@
    "start": 216.36,
    "startOffset": 2855,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "good",
@@ -358,7 +373,8 @@
    "start": 216.64,
    "startOffset": 2861,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "alignedWord": "taco",
@@ -386,7 +402,8 @@
    "start": 217.02,
    "startOffset": 2866,
    "word": "taco",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "taco"
   },
   {
    "alignedWord": "places",
@@ -422,7 +439,8 @@
    "start": 217.41,
    "startOffset": 2871,
    "word": "places",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "places"
   },
   {
    "alignedWord": "in",
@@ -442,14 +460,16 @@
    "start": 217.78,
    "startOffset": 2878,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "start": 218.038,
    "end": 218.61200000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

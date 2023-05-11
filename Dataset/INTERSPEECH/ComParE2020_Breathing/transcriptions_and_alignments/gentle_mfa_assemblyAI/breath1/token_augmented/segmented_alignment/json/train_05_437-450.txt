@@ -5,7 +5,8 @@
    "end": 142.681,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 142.719999,
    "startOffset": 2058,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "so",
@@ -45,7 +47,8 @@
    "start": 143.549999,
    "startOffset": 2062,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "it's",
@@ -69,7 +72,8 @@
    "start": 143.76,
    "startOffset": 2065,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "really",
@@ -97,7 +101,8 @@
    "start": 143.92000000000002,
    "startOffset": 2070,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "nice",
@@ -121,7 +126,8 @@
    "start": 144.129999,
    "startOffset": 2077,
    "word": "nice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nice"
   },
   {
    "alignedWord": "they",
@@ -141,7 +147,8 @@
    "start": 144.52,
    "startOffset": 2083,
    "word": "They",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "they"
   },
   {
    "alignedWord": "also",
@@ -169,7 +176,8 @@
    "start": 144.76,
    "startOffset": 2088,
    "word": "also",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "also"
   },
   {
    "alignedWord": "have",
@@ -193,7 +201,8 @@
    "start": 144.88,
    "startOffset": 2093,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "cows",
@@ -217,7 +226,8 @@
    "start": 145.07,
    "startOffset": 2098,
    "word": "cows",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cows"
   },
   {
    "alignedWord": "horses",
@@ -253,7 +263,8 @@
    "start": 145.62,
    "startOffset": 2104,
    "word": "horses",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "horses"
   },
   {
    "alignedWord": "chickens",
@@ -289,7 +300,8 @@
    "start": 146.21,
    "startOffset": 2112,
    "word": "chickens",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "chickens"
   },
   {
    "alignedWord": "because",
@@ -321,14 +333,16 @@
    "start": 146.8,
    "startOffset": 2122,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "start": 147.3,
    "end": 147.65,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

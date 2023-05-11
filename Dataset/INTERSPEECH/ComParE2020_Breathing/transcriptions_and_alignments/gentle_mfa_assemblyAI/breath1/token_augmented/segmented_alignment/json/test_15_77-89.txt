@@ -5,7 +5,8 @@
    "end": 35.699999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 35.699999,
    "startOffset": 388,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "lose",
@@ -45,7 +47,8 @@
    "start": 35.9,
    "startOffset": 392,
    "word": "lose",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lose"
   },
   {
    "alignedWord": "the",
@@ -65,7 +68,8 @@
    "start": 36.33,
    "startOffset": 397,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "toilets",
@@ -101,7 +105,8 @@
    "start": 36.41,
    "startOffset": 401,
    "word": "toilets",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "toilets"
   },
   {
    "alignedWord": "are",
@@ -121,7 +126,8 @@
    "start": 36.94,
    "startOffset": 409,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "amazing",
@@ -157,7 +163,8 @@
    "start": 37.12,
    "startOffset": 413,
    "word": "amazing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "amazing"
   },
   {
    "alignedWord": "because",
@@ -189,7 +196,8 @@
    "start": 37.74,
    "startOffset": 421,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "they're",
@@ -213,7 +221,8 @@
    "start": 38.03,
    "startOffset": 429,
    "word": "they're",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "they're"
   },
   {
    "alignedWord": "like",
@@ -237,7 +246,8 @@
    "start": 38.2,
    "startOffset": 437,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "space",
@@ -265,7 +275,8 @@
    "start": 39.23,
    "startOffset": 442,
    "word": "space",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "space"
   },
   {
    "alignedWord": "pods",
@@ -293,14 +304,16 @@
    "start": 39.78,
    "startOffset": 448,
    "word": "pods",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pods"
   },
   {
    "start": 40.25,
    "end": 40.66,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

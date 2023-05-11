@@ -5,7 +5,8 @@
    "end": 22.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 22.0,
    "startOffset": 353,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 22.66,
    "end": 23.94,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "yeah",
@@ -52,14 +55,16 @@
    "start": 23.94,
    "startOffset": 357,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "start": 24.34,
    "end": 24.856,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -75,7 +80,8 @@
    "start": 25.17,
    "startOffset": 363,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "don't",
@@ -99,7 +105,8 @@
    "start": 25.450000000000003,
    "startOffset": 365,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "know",
@@ -119,7 +126,8 @@
    "start": 25.480000000000004,
    "startOffset": 371,
    "word": "know",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "know"
   },
   {
    "alignedWord": "what",
@@ -143,7 +151,8 @@
    "start": 25.730000000000004,
    "startOffset": 376,
    "word": "what",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "what"
   },
   {
    "alignedWord": "more",
@@ -167,7 +176,8 @@
    "start": 25.800000000000004,
    "startOffset": 381,
    "word": "more",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "more"
   },
   {
    "alignedWord": "to",
@@ -187,7 +197,8 @@
    "start": 25.880000000000003,
    "startOffset": 386,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "say",
@@ -207,7 +218,8 @@
    "start": 26.040000000000003,
    "startOffset": 389,
    "word": "say",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "say"
   },
   {
    "alignedWord": "uh",
@@ -223,7 +235,8 @@
    "start": 26.150000000000002,
    "startOffset": 394,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "um",
@@ -243,7 +256,8 @@
    "start": 27.15,
    "startOffset": 398,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i'll",
@@ -263,7 +277,8 @@
    "start": 28.09,
    "startOffset": 402,
    "word": "I'll",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'll"
   },
   {
    "alignedWord": "talk",
@@ -287,7 +302,8 @@
    "start": 28.189999999999998,
    "startOffset": 407,
    "word": "talk",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "talk"
   },
   {
    "alignedWord": "about",
@@ -315,7 +331,8 @@
    "start": 28.369999999999997,
    "startOffset": 412,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "my",
@@ -335,7 +352,8 @@
    "start": 28.58,
    "startOffset": 418,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "course",
@@ -363,14 +381,16 @@
    "start": 28.679999000000002,
    "startOffset": 421,
    "word": "course",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "course"
   },
   {
    "start": 29.079999,
    "end": 29.439999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

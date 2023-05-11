@@ -5,7 +5,8 @@
    "end": 203.14,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "it's",
@@ -29,7 +30,8 @@
    "start": 203.14,
    "startOffset": 2704,
    "word": "It's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "a",
@@ -45,7 +47,8 @@
    "start": 203.3,
    "startOffset": 2709,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "very",
@@ -73,7 +76,8 @@
    "start": 203.36,
    "startOffset": 2711,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "nice",
@@ -97,7 +101,8 @@
    "start": 203.59,
    "startOffset": 2716,
    "word": "nice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nice"
   },
   {
    "alignedWord": "walk",
@@ -121,7 +126,8 @@
    "start": 203.89,
    "startOffset": 2721,
    "word": "walk",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "walk"
   },
   {
    "alignedWord": "as",
@@ -141,7 +147,8 @@
    "start": 204.19,
    "startOffset": 2726,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "well",
@@ -165,14 +172,16 @@
    "start": 204.33,
    "startOffset": 2729,
    "word": "well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "start": 204.69000000000003,
    "end": 205.23000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -192,14 +201,16 @@
    "start": 205.23,
    "startOffset": 2735,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 206.658,
    "end": 207.483,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

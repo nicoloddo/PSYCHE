@@ -5,7 +5,8 @@
    "end": 120.36999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 120.37,
    "startOffset": 1162,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "melbourne",
@@ -61,14 +63,16 @@
    "start": 121.74,
    "startOffset": 1166,
    "word": "Melbourne",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "melbourne"
   },
   {
    "start": 122.49,
    "end": 123.11,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "which",
@@ -92,7 +96,8 @@
    "start": 123.11,
    "startOffset": 1177,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "is",
@@ -112,7 +117,8 @@
    "start": 123.429999,
    "startOffset": 1183,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "part",
@@ -140,14 +146,16 @@
    "start": 124.15999899999998,
    "startOffset": 1186,
    "word": "part",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "part"
   },
   {
    "start": 124.19999899999999,
    "end": 125.24999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

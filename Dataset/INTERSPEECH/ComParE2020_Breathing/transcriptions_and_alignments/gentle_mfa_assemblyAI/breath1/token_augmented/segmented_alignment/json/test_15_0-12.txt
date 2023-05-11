@@ -18,7 +18,8 @@
    "start": 0.72,
    "startOffset": 0,
    "word": "Um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "okay",
@@ -42,14 +43,16 @@
    "start": 1.43,
    "startOffset": 4,
    "word": "okay",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "okay"
   },
   {
    "start": 2.25,
    "end": 2.64,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "so",
@@ -69,7 +72,8 @@
    "start": 2.64,
    "startOffset": 10,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "things",
@@ -97,7 +101,8 @@
    "start": 3.12,
    "startOffset": 13,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "that",
@@ -121,7 +126,8 @@
    "start": 3.87,
    "startOffset": 20,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "i",
@@ -137,7 +143,8 @@
    "start": 4.21,
    "startOffset": 25,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "like",
@@ -161,7 +168,8 @@
    "start": 4.64,
    "startOffset": 27,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "favorite",
@@ -197,7 +205,8 @@
    "start": 5.67,
    "startOffset": 33,
    "word": "Favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurant",
@@ -241,7 +250,8 @@
    "start": 6.05,
    "startOffset": 42,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "oh",
@@ -257,7 +267,8 @@
    "start": 6.55,
    "startOffset": 54,
    "word": "Oh",
-   "token": "<disfl.oh>"
+   "token": "<disfl.oh>",
+   "converted": "<disfl.oh>"
   },
   {
    "alignedWord": "actually",
@@ -289,14 +300,16 @@
    "start": 6.67,
    "startOffset": 58,
    "word": "actually",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "actually"
   },
   {
    "start": 7.11,
    "end": 7.694,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

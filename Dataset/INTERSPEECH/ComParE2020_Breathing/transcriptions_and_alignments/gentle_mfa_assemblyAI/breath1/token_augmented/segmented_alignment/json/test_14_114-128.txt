@@ -5,7 +5,8 @@
    "end": 40.04,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "london",
@@ -41,7 +42,8 @@
    "start": 40.04,
    "startOffset": 519,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "is",
@@ -61,7 +63,8 @@
    "start": 40.5,
    "startOffset": 526,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "a",
@@ -77,7 +80,8 @@
    "start": 40.62,
    "startOffset": 529,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "melting",
@@ -113,7 +117,8 @@
    "start": 40.699999999999996,
    "startOffset": 531,
    "word": "melting",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "melting"
   },
   {
    "alignedWord": "pot",
@@ -137,7 +142,8 @@
    "start": 41.449999999999996,
    "startOffset": 539,
    "word": "pot",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pot"
   },
   {
    "alignedWord": "with",
@@ -161,7 +167,8 @@
    "start": 41.8,
    "startOffset": 543,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "people",
@@ -193,7 +200,8 @@
    "start": 42.21,
    "startOffset": 548,
    "word": "people",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "people"
   },
   {
    "alignedWord": "from",
@@ -217,7 +225,8 @@
    "start": 42.669999999999995,
    "startOffset": 555,
    "word": "from",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "from"
   },
   {
    "alignedWord": "different",
@@ -257,7 +266,8 @@
    "start": 42.879999999999995,
    "startOffset": 560,
    "word": "different",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "different"
   },
   {
    "alignedWord": "cultures",
@@ -293,7 +303,8 @@
    "start": 43.209999999999994,
    "startOffset": 570,
    "word": "cultures",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cultures"
   },
   {
    "alignedWord": "from",
@@ -317,7 +328,8 @@
    "start": 43.849999999999994,
    "startOffset": 580,
    "word": "from",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "from"
   },
   {
    "alignedWord": "different",
@@ -357,7 +369,8 @@
    "start": 44.019999999999996,
    "startOffset": 585,
    "word": "different",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "different"
   },
   {
    "alignedWord": "countries",
@@ -397,14 +410,16 @@
    "start": 44.349999999999994,
    "startOffset": 595,
    "word": "countries",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "countries"
   },
   {
    "start": 44.983,
    "end": 45.4,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

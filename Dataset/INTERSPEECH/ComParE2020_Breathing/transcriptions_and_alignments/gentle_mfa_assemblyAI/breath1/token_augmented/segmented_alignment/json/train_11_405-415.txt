@@ -5,7 +5,8 @@
    "end": 142.04,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "this",
@@ -29,7 +30,8 @@
    "start": 142.039999,
    "startOffset": 1918,
    "word": "this",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "this"
   },
   {
    "alignedWord": "past",
@@ -57,7 +59,8 @@
    "start": 142.279999,
    "startOffset": 1923,
    "word": "past",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "past"
   },
   {
    "alignedWord": "weekend",
@@ -93,7 +96,8 @@
    "start": 142.719999,
    "startOffset": 1928,
    "word": "weekend",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "weekend"
   },
   {
    "alignedWord": "which",
@@ -117,7 +121,8 @@
    "start": 143.279999,
    "startOffset": 1936,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "was",
@@ -141,7 +146,8 @@
    "start": 143.48,
    "startOffset": 1942,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "very",
@@ -169,7 +175,8 @@
    "start": 143.699999,
    "startOffset": 1946,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "very",
@@ -197,7 +204,8 @@
    "start": 144.1,
    "startOffset": 1952,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "nice",
@@ -221,7 +229,8 @@
    "start": 144.35,
    "startOffset": 1957,
    "word": "nice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nice"
   },
   {
    "alignedWord": "um",
@@ -241,14 +250,16 @@
    "start": 145.05,
    "startOffset": 1963,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 145.74,
    "end": 146.39000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

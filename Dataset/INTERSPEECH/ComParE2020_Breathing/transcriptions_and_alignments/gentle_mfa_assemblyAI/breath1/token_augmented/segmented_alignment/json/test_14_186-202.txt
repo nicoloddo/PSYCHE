@@ -5,7 +5,8 @@
    "end": 63.11,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,14 +30,16 @@
    "start": 63.11,
    "startOffset": 899,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "start": 63.69,
    "end": 64.23,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -52,7 +55,8 @@
    "start": 64.23,
    "startOffset": 903,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "just",
@@ -80,7 +84,8 @@
    "start": 64.36,
    "startOffset": 905,
    "word": "just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "really",
@@ -108,7 +113,8 @@
    "start": 64.84,
    "startOffset": 910,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "love",
@@ -132,7 +138,8 @@
    "start": 65.17,
    "startOffset": 917,
    "word": "love",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "love"
   },
   {
    "alignedWord": "that",
@@ -156,7 +163,8 @@
    "start": 65.46000000000001,
    "startOffset": 922,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "sense",
@@ -184,7 +192,8 @@
    "start": 65.679999,
    "startOffset": 927,
    "word": "sense",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sense"
   },
   {
    "alignedWord": "of",
@@ -204,7 +213,8 @@
    "start": 65.889999,
    "startOffset": 933,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "spirit",
@@ -240,7 +250,8 @@
    "start": 66.0,
    "startOffset": 936,
    "word": "spirit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "spirit"
   },
   {
    "alignedWord": "and",
@@ -264,7 +275,8 @@
    "start": 66.36,
    "startOffset": 943,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "case": "not-found-in-audio",
@@ -273,7 +285,8 @@
    "word": "that",
    "start": 66.46,
    "end": 66.57,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "sense",
@@ -301,7 +314,8 @@
    "start": 66.57,
    "startOffset": 952,
    "word": "sense",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sense"
   },
   {
    "alignedWord": "of",
@@ -321,7 +335,8 @@
    "start": 66.84,
    "startOffset": 958,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "understanding",
@@ -377,14 +392,16 @@
    "start": 66.9,
    "startOffset": 961,
    "word": "understanding",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "understanding"
   },
   {
    "start": 67.80400000000002,
    "end": 68.31000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 93.33,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 93.33,
    "startOffset": 1342,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 94.08,
    "end": 94.67,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "london",
@@ -68,7 +71,8 @@
    "start": 94.67,
    "startOffset": 1346,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "has",
@@ -92,7 +96,8 @@
    "start": 94.95,
    "startOffset": 1353,
    "word": "has",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "has"
   },
   {
    "alignedWord": "become",
@@ -124,7 +129,8 @@
    "start": 95.09,
    "startOffset": 1357,
    "word": "become",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "become"
   },
   {
    "alignedWord": "a",
@@ -140,7 +146,8 @@
    "start": 95.5,
    "startOffset": 1364,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "very",
@@ -168,7 +175,8 @@
    "start": 95.63,
    "startOffset": 1366,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "dirty",
@@ -196,7 +204,8 @@
    "start": 96.07,
    "startOffset": 1371,
    "word": "dirty",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "dirty"
   },
   {
    "alignedWord": "city",
@@ -224,14 +233,16 @@
    "start": 96.56,
    "startOffset": 1377,
    "word": "city",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "city"
   },
   {
    "start": 97.12,
    "end": 97.56,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

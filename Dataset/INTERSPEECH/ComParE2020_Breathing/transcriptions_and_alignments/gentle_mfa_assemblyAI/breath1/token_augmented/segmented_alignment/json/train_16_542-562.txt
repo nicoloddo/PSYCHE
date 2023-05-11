@@ -5,7 +5,8 @@
    "end": 159.28,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 159.28,
    "startOffset": 2555,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "in",
@@ -41,7 +43,8 @@
    "start": 159.88,
    "startOffset": 2559,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "sydney",
@@ -73,7 +76,8 @@
    "start": 160.299999,
    "startOffset": 2562,
    "word": "Sydney",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sydney"
   },
   {
    "alignedWord": "for",
@@ -93,7 +97,8 @@
    "start": 160.92000000000002,
    "startOffset": 2569,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "a",
@@ -109,7 +114,8 @@
    "start": 161.039999,
    "startOffset": 2573,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "bit",
@@ -133,7 +139,8 @@
    "start": 161.1,
    "startOffset": 2575,
    "word": "bit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bit"
   },
   {
    "alignedWord": "melbourne",
@@ -169,7 +176,8 @@
    "start": 161.379999,
    "startOffset": 2580,
    "word": "Melbourne",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "melbourne"
   },
   {
    "alignedWord": "south",
@@ -193,7 +201,8 @@
    "start": 162.049999,
    "startOffset": 2591,
    "word": "South",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "south"
   },
   {
    "alignedWord": "africa",
@@ -229,7 +238,8 @@
    "start": 162.32999999999998,
    "startOffset": 2597,
    "word": "Africa",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "africa"
   },
   {
    "alignedWord": "south",
@@ -253,7 +263,8 @@
    "start": 163.119999,
    "startOffset": 2605,
    "word": "South",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "south"
   },
   {
    "case": "not-found-in-audio",
@@ -262,7 +273,8 @@
    "word": "America",
    "start": 163.5,
    "end": 164.04,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "america"
   },
   {
    "alignedWord": "lived",
@@ -290,7 +302,8 @@
    "start": 164.1,
    "startOffset": 2619,
    "word": "lived",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lived"
   },
   {
    "alignedWord": "in",
@@ -310,7 +323,8 @@
    "start": 164.29,
    "startOffset": 2625,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "africa",
@@ -346,7 +360,8 @@
    "start": 164.37,
    "startOffset": 2628,
    "word": "Africa",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "africa"
   },
   {
    "alignedWord": "for",
@@ -366,7 +381,8 @@
    "start": 164.79,
    "startOffset": 2635,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "little",
@@ -398,7 +414,8 @@
    "start": 164.96,
    "startOffset": 2639,
    "word": "little",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "little"
   },
   {
    "alignedWord": "bits",
@@ -426,7 +443,8 @@
    "start": 165.06,
    "startOffset": 2646,
    "word": "bits",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bits"
   },
   {
    "alignedWord": "of",
@@ -446,7 +464,8 @@
    "start": 165.35,
    "startOffset": 2651,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "time",
@@ -470,14 +489,16 @@
    "start": 165.49,
    "startOffset": 2654,
    "word": "time",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "time"
   },
   {
    "start": 166.02500000000003,
    "end": 166.38000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

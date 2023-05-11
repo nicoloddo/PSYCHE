@@ -5,7 +5,8 @@
    "end": 46.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 46.0,
    "startOffset": 466,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 47.31,
    "end": 48.18,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "so",
@@ -52,7 +55,8 @@
    "start": 48.179999,
    "startOffset": 470,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "some",
@@ -76,7 +80,8 @@
    "start": 49.79,
    "startOffset": 473,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "of",
@@ -96,7 +101,8 @@
    "start": 49.99,
    "startOffset": 478,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "my",
@@ -116,7 +122,8 @@
    "start": 50.139999,
    "startOffset": 481,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "hobbies",
@@ -148,7 +155,8 @@
    "start": 50.28,
    "startOffset": 484,
    "word": "hobbies",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hobbies"
   },
   {
    "alignedWord": "include",
@@ -184,14 +192,16 @@
    "start": 51.08,
    "startOffset": 492,
    "word": "include",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "include"
   },
   {
    "start": 51.839999999999996,
    "end": 52.459999999999994,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 90.75,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 90.75,
    "startOffset": 1315,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "over",
@@ -49,7 +51,8 @@
    "start": 91.4,
    "startOffset": 1319,
    "word": "over",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "over"
   },
   {
    "alignedWord": "half",
@@ -73,7 +76,8 @@
    "start": 91.68,
    "startOffset": 1324,
    "word": "half",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "half"
   },
   {
    "alignedWord": "of",
@@ -93,7 +97,8 @@
    "start": 91.93,
    "startOffset": 1329,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "case": "not-found-in-audio",
@@ -102,7 +107,8 @@
    "word": "the",
    "start": 92.09,
    "end": 92.21,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "metro",
@@ -134,7 +140,8 @@
    "start": 92.21,
    "startOffset": 1350,
    "word": "metro",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "metro"
   },
   {
    "case": "not-found-in-audio",
@@ -143,7 +150,8 @@
    "word": "population",
    "start": 93.01,
    "end": 93.55,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "population"
   },
   {
    "case": "not-found-in-audio",
@@ -152,7 +160,8 @@
    "word": "of",
    "start": 93.55,
    "end": 93.63,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "vancouver",
@@ -192,7 +201,8 @@
    "start": 93.91,
    "startOffset": 1356,
    "word": "Vancouver",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "vancouver"
   },
   {
    "alignedWord": "is",
@@ -212,7 +222,8 @@
    "start": 94.62,
    "startOffset": 1366,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "asian",
@@ -240,14 +251,16 @@
    "start": 94.97,
    "startOffset": 1369,
    "word": "Asian",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "asian"
   },
   {
    "start": 95.47,
    "end": 96.03999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

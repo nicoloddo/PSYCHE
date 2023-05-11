@@ -5,7 +5,8 @@
    "end": 190.64600000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "london",
@@ -41,7 +42,8 @@
    "start": 190.66,
    "startOffset": 2696,
    "word": "london",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "eye",
@@ -57,7 +59,8 @@
    "start": 191.09,
    "startOffset": 2703,
    "word": "Eye",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "eye"
   },
   {
    "alignedWord": "south",
@@ -81,7 +84,8 @@
    "start": 191.41,
    "startOffset": 2708,
    "word": "South",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "south"
   },
   {
    "alignedWord": "bank",
@@ -109,7 +113,8 @@
    "start": 191.77,
    "startOffset": 2714,
    "word": "Bank",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bank"
   },
   {
    "alignedWord": "tate",
@@ -133,7 +138,8 @@
    "start": 192.17,
    "startOffset": 2720,
    "word": "tate",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tate"
   },
   {
    "alignedWord": "borough",
@@ -157,7 +163,8 @@
    "start": 193.719999,
    "startOffset": 2725,
    "word": "Borough",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "borough"
   },
   {
    "alignedWord": "market",
@@ -193,14 +200,16 @@
    "start": 194.08,
    "startOffset": 2733,
    "word": "Market",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "market"
   },
   {
    "start": 194.67000000000002,
    "end": 195.33,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

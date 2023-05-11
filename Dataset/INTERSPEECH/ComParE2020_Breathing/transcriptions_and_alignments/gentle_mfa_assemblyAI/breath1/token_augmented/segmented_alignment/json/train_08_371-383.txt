@@ -5,7 +5,8 @@
    "end": 124.759999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 124.76,
    "startOffset": 1695,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 125.28,
    "end": 125.65,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "it's",
@@ -56,7 +59,8 @@
    "start": 125.65,
    "startOffset": 1699,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "probably",
@@ -100,7 +104,8 @@
    "start": 125.859999,
    "startOffset": 1704,
    "word": "probably",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "probably"
   },
   {
    "alignedWord": "tokyo",
@@ -132,7 +137,8 @@
    "start": 126.41,
    "startOffset": 1713,
    "word": "Tokyo",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tokyo"
   },
   {
    "alignedWord": "<unk>",
@@ -148,7 +154,8 @@
    "start": 126.789999,
    "startOffset": 1719,
    "word": "dinah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "dinah"
   },
   {
    "alignedWord": "which",
@@ -172,7 +179,8 @@
    "start": 127.29,
    "startOffset": 1726,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "is",
@@ -192,7 +200,8 @@
    "start": 127.53,
    "startOffset": 1732,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "near",
@@ -216,7 +225,8 @@
    "start": 127.66,
    "startOffset": 1735,
    "word": "near",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "near"
   },
   {
    "alignedWord": "leicester",
@@ -248,7 +258,8 @@
    "start": 127.81,
    "startOffset": 1740,
    "word": "Leicester",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "leicester"
   },
   {
    "alignedWord": "square",
@@ -280,14 +291,16 @@
    "start": 128.07,
    "startOffset": 1750,
    "word": "Square",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "square"
   },
   {
    "start": 128.5,
    "end": 129.05,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

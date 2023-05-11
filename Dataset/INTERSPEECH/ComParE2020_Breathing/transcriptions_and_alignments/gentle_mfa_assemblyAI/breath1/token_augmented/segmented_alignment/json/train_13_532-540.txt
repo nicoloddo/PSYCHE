@@ -5,14 +5,16 @@
    "end": 198.15799999999996,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "start": 198.25099999999998,
    "end": 198.89,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "favorite",
@@ -48,7 +50,8 @@
    "start": 198.89,
    "startOffset": 2401,
    "word": "Favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "cuisine",
@@ -84,7 +87,8 @@
    "start": 199.09,
    "startOffset": 2410,
    "word": "cuisine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cuisine"
   },
   {
    "alignedWord": "recently",
@@ -124,7 +128,8 @@
    "start": 199.91,
    "startOffset": 2419,
    "word": "Recently",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "recently"
   },
   {
    "alignedWord": "i've",
@@ -144,7 +149,8 @@
    "start": 200.55,
    "startOffset": 2429,
    "word": "I've",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i've"
   },
   {
    "alignedWord": "been",
@@ -168,7 +174,8 @@
    "start": 200.69,
    "startOffset": 2434,
    "word": "been",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "been"
   },
   {
    "alignedWord": "enjoying",
@@ -204,14 +211,16 @@
    "start": 201.02,
    "startOffset": 2439,
    "word": "enjoying",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "enjoying"
   },
   {
    "start": 202.43,
    "end": 203.23000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

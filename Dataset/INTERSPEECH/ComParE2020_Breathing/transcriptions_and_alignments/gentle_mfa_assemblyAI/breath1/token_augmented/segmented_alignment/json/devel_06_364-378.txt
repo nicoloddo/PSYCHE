@@ -5,7 +5,8 @@
    "end": 118.08999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "also",
@@ -33,7 +34,8 @@
    "start": 118.09,
    "startOffset": 1771,
    "word": "Also",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "also"
   },
   {
    "alignedWord": "uh",
@@ -49,7 +51,8 @@
    "start": 118.139999,
    "startOffset": 1777,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "regents",
@@ -89,7 +92,8 @@
    "start": 118.829999,
    "startOffset": 1781,
    "word": "regents",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "regents"
   },
   {
    "alignedWord": "park",
@@ -117,7 +121,8 @@
    "start": 119.17999900000001,
    "startOffset": 1789,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "case": "not-found-in-audio",
@@ -126,7 +131,8 @@
    "word": "is",
    "start": 119.36,
    "end": 119.44,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "very",
@@ -154,7 +160,8 @@
    "start": 119.509999,
    "startOffset": 1797,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "nice",
@@ -178,14 +185,16 @@
    "start": 119.63,
    "startOffset": 1802,
    "word": "nice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nice"
   },
   {
    "start": 120.207,
    "end": 120.6,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "but",
@@ -209,7 +218,8 @@
    "start": 120.599999,
    "startOffset": 1808,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "a",
@@ -225,7 +235,8 @@
    "start": 120.74,
    "startOffset": 1812,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "lot",
@@ -249,7 +260,8 @@
    "start": 120.75,
    "startOffset": 1814,
    "word": "lot",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lot"
   },
   {
    "alignedWord": "busier",
@@ -281,7 +293,8 @@
    "start": 120.92,
    "startOffset": 1818,
    "word": "busier",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "busier"
   },
   {
    "alignedWord": "i",
@@ -297,14 +310,16 @@
    "start": 121.41,
    "startOffset": 1826,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "start": 121.474,
    "end": 122.12,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 209.82000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "for",
@@ -25,7 +26,8 @@
    "start": 209.82,
    "startOffset": 2663,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "new",
@@ -45,7 +47,8 @@
    "start": 210.009999,
    "startOffset": 2667,
    "word": "New",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "new"
   },
   {
    "alignedWord": "years",
@@ -73,21 +76,24 @@
    "start": 210.2,
    "startOffset": 2671,
    "word": "Years",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "years"
   },
   {
    "start": 210.67,
    "end": 211.01399999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "start": 211.90699999999998,
    "end": 212.69,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "another",
@@ -119,7 +125,8 @@
    "start": 212.69,
    "startOffset": 2678,
    "word": "Another",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "another"
   },
   {
    "alignedWord": "m",
@@ -139,7 +146,8 @@
    "start": 213.07,
    "startOffset": 2686,
    "word": "M",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "m"
   },
   {
    "alignedWord": "thing",
@@ -163,7 +171,8 @@
    "start": 213.11,
    "startOffset": 2688,
    "word": "thing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "thing"
   },
   {
    "alignedWord": "that",
@@ -187,14 +196,16 @@
    "start": 213.48,
    "startOffset": 2694,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "start": 213.78,
    "end": 214.21,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

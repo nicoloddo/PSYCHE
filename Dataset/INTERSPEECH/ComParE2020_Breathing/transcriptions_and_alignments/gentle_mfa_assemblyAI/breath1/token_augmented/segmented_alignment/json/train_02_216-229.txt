@@ -5,7 +5,8 @@
    "end": 78.63,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 78.63,
    "startOffset": 1012,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 79.45,
    "startOffset": 1016,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "it's",
@@ -73,7 +76,8 @@
    "start": 79.56,
    "startOffset": 1020,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "decently",
@@ -117,7 +121,8 @@
    "start": 79.66,
    "startOffset": 1025,
    "word": "decently",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "decently"
   },
   {
    "alignedWord": "cheap",
@@ -141,7 +146,8 @@
    "start": 80.03,
    "startOffset": 1034,
    "word": "cheap",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cheap"
   },
   {
    "alignedWord": "especially",
@@ -181,7 +187,8 @@
    "start": 80.33,
    "startOffset": 1041,
    "word": "especially",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "especially"
   },
   {
    "alignedWord": "for",
@@ -201,7 +208,8 @@
    "start": 80.679999,
    "startOffset": 1052,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "being",
@@ -229,7 +237,8 @@
    "start": 80.82,
    "startOffset": 1056,
    "word": "being",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "being"
   },
   {
    "alignedWord": "in",
@@ -249,7 +258,8 @@
    "start": 81.11,
    "startOffset": 1062,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "case": "not-found-in-audio",
@@ -258,7 +268,8 @@
    "word": "the",
    "start": 81.19,
    "end": 81.29,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "case": "not-found-in-audio",
@@ -267,7 +278,8 @@
    "word": "O",
    "start": 81.29,
    "end": 81.38,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "o"
   },
   {
    "alignedWord": "two",
@@ -287,14 +299,16 @@
    "start": 81.4,
    "startOffset": 1071,
    "word": "Two",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "two"
   },
   {
    "start": 81.69000000000001,
    "end": 83.01,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

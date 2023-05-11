@@ -5,14 +5,16 @@
    "end": 107.34400099999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "start": 107.345001,
    "end": 107.690001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "so",
@@ -32,7 +34,8 @@
    "start": 107.690001,
    "startOffset": 1540,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "one",
@@ -56,7 +59,8 @@
    "start": 107.809999,
    "startOffset": 1543,
    "word": "one",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "one"
   },
   {
    "alignedWord": "of",
@@ -76,7 +80,8 @@
    "start": 107.959999,
    "startOffset": 1547,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "my",
@@ -96,7 +101,8 @@
    "start": 108.02,
    "startOffset": 1550,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -132,7 +138,8 @@
    "start": 108.16,
    "startOffset": 1553,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurants",
@@ -180,7 +187,8 @@
    "start": 108.67,
    "startOffset": 1562,
    "word": "restaurants",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurants"
   },
   {
    "case": "not-found-in-audio",
@@ -189,7 +197,8 @@
    "word": "in",
    "start": 109.29,
    "end": 109.33,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -225,7 +234,8 @@
    "start": 109.33,
    "startOffset": 1577,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "would",
@@ -249,7 +259,8 @@
    "start": 109.84,
    "startOffset": 1584,
    "word": "would",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "would"
   },
   {
    "alignedWord": "have",
@@ -273,7 +284,8 @@
    "start": 109.97,
    "startOffset": 1590,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "to",
@@ -293,7 +305,8 @@
    "start": 110.2,
    "startOffset": 1595,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "be",
@@ -313,7 +326,8 @@
    "start": 110.33,
    "startOffset": 1598,
    "word": "be",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "be"
   },
   {
    "alignedWord": "<unk>",
@@ -329,14 +343,16 @@
    "start": 110.57,
    "startOffset": 1601,
    "word": "benihana",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "benihana"
   },
   {
    "start": 111.33,
    "end": 111.77,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

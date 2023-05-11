@@ -5,7 +5,8 @@
    "end": 100.8,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 100.8,
    "startOffset": 1344,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "mainly",
@@ -57,7 +59,8 @@
    "start": 101.16,
    "startOffset": 1348,
    "word": "mainly",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "mainly"
   },
   {
    "alignedWord": "because",
@@ -89,7 +92,8 @@
    "start": 101.48,
    "startOffset": 1355,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "i",
@@ -105,7 +109,8 @@
    "start": 101.809999,
    "startOffset": 1363,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "just",
@@ -133,7 +138,8 @@
    "start": 101.95,
    "startOffset": 1365,
    "word": "just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "had",
@@ -157,7 +163,8 @@
    "start": 102.05,
    "startOffset": 1370,
    "word": "had",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "had"
   },
   {
    "alignedWord": "no",
@@ -177,7 +184,8 @@
    "start": 102.259999,
    "startOffset": 1374,
    "word": "no",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "no"
   },
   {
    "alignedWord": "interest",
@@ -217,7 +225,8 @@
    "start": 102.469999,
    "startOffset": 1377,
    "word": "interest",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "interest"
   },
   {
    "alignedWord": "as",
@@ -237,7 +246,8 @@
    "start": 103.19,
    "startOffset": 1387,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "did",
@@ -261,7 +271,8 @@
    "start": 103.71000000000001,
    "startOffset": 1390,
    "word": "did",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "did"
   },
   {
    "alignedWord": "my",
@@ -281,7 +292,8 @@
    "start": 103.91,
    "startOffset": 1394,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "friends",
@@ -313,14 +325,16 @@
    "start": 104.049999,
    "startOffset": 1397,
    "word": "friends",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "friends"
   },
   {
    "start": 104.579999,
    "end": 105.399999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 107.809999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "no",
@@ -25,7 +26,8 @@
    "start": 107.809999,
    "startOffset": 1624,
    "word": "no",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "no"
   },
   {
    "alignedWord": "the",
@@ -45,7 +47,8 @@
    "start": 108.18,
    "startOffset": 1628,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "<unk>",
@@ -61,7 +64,8 @@
    "start": 108.59,
    "startOffset": 1632,
    "word": "viennese",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "viennese"
   },
   {
    "alignedWord": "like",
@@ -85,7 +89,8 @@
    "start": 109.23,
    "startOffset": 1641,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "to",
@@ -105,7 +110,8 @@
    "start": 109.51,
    "startOffset": 1646,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "keep",
@@ -129,7 +135,8 @@
    "start": 109.93,
    "startOffset": 1649,
    "word": "keep",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "keep"
   },
   {
    "alignedWord": "things",
@@ -157,7 +164,8 @@
    "start": 110.17,
    "startOffset": 1654,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "open",
@@ -185,14 +193,16 @@
    "start": 110.54,
    "startOffset": 1661,
    "word": "open",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "open"
   },
   {
    "start": 110.92,
    "end": 111.85000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 201.433,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "case": "not-found-in-audio",
@@ -14,7 +15,8 @@
    "word": "of",
    "start": 201.62,
    "end": 201.68,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "my",
@@ -34,7 +36,8 @@
    "start": 201.68,
    "startOffset": 2645,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "school",
@@ -62,7 +65,8 @@
    "start": 201.84,
    "startOffset": 2648,
    "word": "school",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "school"
   },
   {
    "alignedWord": "and",
@@ -86,7 +90,8 @@
    "start": 202.16,
    "startOffset": 2655,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "earlier",
@@ -114,7 +119,8 @@
    "start": 202.38,
    "startOffset": 2659,
    "word": "earlier",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "earlier"
   },
   {
    "alignedWord": "on",
@@ -134,14 +140,16 @@
    "start": 202.71,
    "startOffset": 2667,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "start": 203.416,
    "end": 204.43,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "done",
@@ -165,7 +173,8 @@
    "start": 204.43,
    "startOffset": 2670,
    "word": "done",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "done"
   },
   {
    "alignedWord": "in",
@@ -185,7 +194,8 @@
    "start": 204.62,
    "startOffset": 2675,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "a",
@@ -201,7 +211,8 @@
    "start": 204.75,
    "startOffset": 2678,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "more",
@@ -225,7 +236,8 @@
    "start": 204.83,
    "startOffset": 2680,
    "word": "more",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "more"
   },
   {
    "alignedWord": "rural",
@@ -257,7 +269,8 @@
    "start": 205.1,
    "startOffset": 2685,
    "word": "rural",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "rural"
   },
   {
    "alignedWord": "setting",
@@ -289,14 +302,16 @@
    "start": 205.65,
    "startOffset": 2691,
    "word": "setting",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "setting"
   },
   {
    "start": 206.22,
    "end": 206.85999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

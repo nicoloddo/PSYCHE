@@ -5,7 +5,8 @@
    "end": 102.29,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "a",
@@ -21,7 +22,8 @@
    "start": 102.28999999999999,
    "startOffset": 942,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "number",
@@ -53,7 +55,8 @@
    "start": 102.38,
    "startOffset": 944,
    "word": "number",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "number"
   },
   {
    "alignedWord": "of",
@@ -73,7 +76,8 @@
    "start": 102.71000000000001,
    "startOffset": 951,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "restaurants",
@@ -121,7 +125,8 @@
    "start": 102.78999999999999,
    "startOffset": 954,
    "word": "restaurants",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurants"
   },
   {
    "alignedWord": "particularly",
@@ -177,7 +182,8 @@
    "start": 103.599999,
    "startOffset": 967,
    "word": "particularly",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "particularly"
   },
   {
    "case": "not-found-in-audio",
@@ -186,7 +192,8 @@
    "word": "monkas",
    "start": 103.83,
    "end": 104.599999,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "monkas"
   },
   {
    "alignedWord": "um",
@@ -206,7 +213,8 @@
    "start": 104.599999,
    "startOffset": 981,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i",
@@ -222,7 +230,8 @@
    "start": 105.799999,
    "startOffset": 985,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "would",
@@ -246,7 +255,8 @@
    "start": 105.9,
    "startOffset": 987,
    "word": "would",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "would"
   },
   {
    "alignedWord": "say",
@@ -266,7 +276,8 @@
    "start": 106.039999,
    "startOffset": 993,
    "word": "say",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "say"
   },
   {
    "alignedWord": "my",
@@ -286,7 +297,8 @@
    "start": 106.18,
    "startOffset": 997,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -322,7 +334,8 @@
    "start": 106.32,
    "startOffset": 1000,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "is",
@@ -342,14 +355,16 @@
    "start": 106.690001,
    "startOffset": 1009,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "start": 106.870001,
    "end": 107.250001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

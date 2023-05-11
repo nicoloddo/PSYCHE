@@ -5,7 +5,8 @@
    "end": 82.03,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "don't",
@@ -29,7 +30,8 @@
    "start": 82.03,
    "startOffset": 1046,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "really",
@@ -57,7 +59,8 @@
    "start": 82.28,
    "startOffset": 1052,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "have",
@@ -81,7 +84,8 @@
    "start": 82.76,
    "startOffset": 1059,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "a",
@@ -97,7 +101,8 @@
    "start": 83.08,
    "startOffset": 1064,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "favorite",
@@ -133,7 +138,8 @@
    "start": 83.179999,
    "startOffset": 1066,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurant",
@@ -177,7 +183,8 @@
    "start": 83.929999,
    "startOffset": 1076,
    "word": "Restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "in",
@@ -197,7 +204,8 @@
    "start": 84.559999,
    "startOffset": 1087,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -233,14 +241,16 @@
    "start": 85.049999,
    "startOffset": 1090,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "start": 85.649999,
    "end": 86.019999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

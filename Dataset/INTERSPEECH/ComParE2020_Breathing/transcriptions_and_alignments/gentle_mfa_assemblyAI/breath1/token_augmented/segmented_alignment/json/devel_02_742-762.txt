@@ -5,7 +5,8 @@
    "end": 211.14,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,7 +30,8 @@
    "start": 211.139999,
    "startOffset": 3496,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -45,7 +47,8 @@
    "start": 211.27,
    "startOffset": 3500,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "case": "not-found-in-audio",
@@ -54,7 +57,8 @@
    "word": "don't",
    "start": 211.3,
    "end": 211.45,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "think",
@@ -82,7 +86,8 @@
    "start": 211.49,
    "startOffset": 3508,
    "word": "think",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "alignedWord": "i've",
@@ -102,7 +107,8 @@
    "start": 211.599999,
    "startOffset": 3514,
    "word": "I've",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i've"
   },
   {
    "alignedWord": "actually",
@@ -134,7 +140,8 @@
    "start": 211.71,
    "startOffset": 3519,
    "word": "actually",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "actually"
   },
   {
    "alignedWord": "felt",
@@ -162,7 +169,8 @@
    "start": 211.95,
    "startOffset": 3528,
    "word": "felt",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "felt"
   },
   {
    "alignedWord": "any",
@@ -186,7 +194,8 @@
    "start": 212.19,
    "startOffset": 3533,
    "word": "any",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "any"
   },
   {
    "alignedWord": "effects",
@@ -218,7 +227,8 @@
    "start": 212.32,
    "startOffset": 3537,
    "word": "effects",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "effects"
   },
   {
    "alignedWord": "of",
@@ -238,7 +248,8 @@
    "start": 212.61,
    "startOffset": 3545,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "it",
@@ -258,7 +269,8 @@
    "start": 212.73,
    "startOffset": 3548,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "but",
@@ -282,7 +294,8 @@
    "start": 212.9,
    "startOffset": 3552,
    "word": "But",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "every",
@@ -310,7 +323,8 @@
    "start": 212.98,
    "startOffset": 3556,
    "word": "every",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "every"
   },
   {
    "alignedWord": "so",
@@ -330,7 +344,8 @@
    "start": 213.2,
    "startOffset": 3562,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "often",
@@ -358,7 +373,8 @@
    "start": 213.32,
    "startOffset": 3565,
    "word": "often",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "often"
   },
   {
    "alignedWord": "you",
@@ -378,7 +394,8 @@
    "start": 213.58,
    "startOffset": 3571,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "have",
@@ -402,7 +419,8 @@
    "start": 213.69,
    "startOffset": 3575,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "these",
@@ -426,7 +444,8 @@
    "start": 213.92,
    "startOffset": 3580,
    "word": "these",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "these"
   },
   {
    "alignedWord": "news",
@@ -450,14 +469,16 @@
    "start": 214.299999,
    "startOffset": 3586,
    "word": "news",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "news"
   },
   {
    "start": 214.85999900000002,
    "end": 215.38999900000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

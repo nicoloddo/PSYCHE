@@ -5,7 +5,8 @@
    "end": 149.24800000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "king",
@@ -29,7 +30,8 @@
    "start": 149.42,
    "startOffset": 2102,
    "word": "King",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "king"
   },
   {
    "alignedWord": "um",
@@ -49,7 +51,8 @@
    "start": 149.59,
    "startOffset": 2108,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "george's",
@@ -85,7 +88,8 @@
    "start": 149.61,
    "startOffset": 2112,
    "word": "george's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "george's"
   },
   {
    "alignedWord": "park",
@@ -113,7 +117,8 @@
    "start": 149.97,
    "startOffset": 2121,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "alignedWord": "in",
@@ -133,7 +138,8 @@
    "start": 150.27,
    "startOffset": 2126,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "<unk>",
@@ -149,14 +155,16 @@
    "start": 150.42,
    "startOffset": 2129,
    "word": "wandsworth",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wandsworth"
   },
   {
    "start": 151.07999999999998,
    "end": 151.70999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -176,14 +184,16 @@
    "start": 151.71,
    "startOffset": 2141,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 153.03,
    "end": 154.67,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

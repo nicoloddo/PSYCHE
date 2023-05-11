@@ -5,7 +5,8 @@
    "end": 88.14999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "<unk>",
@@ -21,21 +22,24 @@
    "start": 88.15,
    "startOffset": 1433,
    "word": "choco",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "choco"
   },
   {
    "start": 89.158,
    "end": 89.505,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "start": 90.124,
    "end": 90.54,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "<unk>",
@@ -51,7 +55,8 @@
    "start": 90.539999,
    "startOffset": 1439,
    "word": "flan",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "flan"
   },
   {
    "alignedWord": "where",
@@ -75,7 +80,8 @@
    "start": 90.6,
    "startOffset": 1444,
    "word": "where",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "where"
   },
   {
    "alignedWord": "you",
@@ -95,7 +101,8 @@
    "start": 90.629999,
    "startOffset": 1450,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "put",
@@ -119,7 +126,8 @@
    "start": 90.71,
    "startOffset": 1454,
    "word": "put",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "put"
   },
   {
    "alignedWord": "in",
@@ -139,14 +147,16 @@
    "start": 90.95,
    "startOffset": 1458,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "start": 91.512,
    "end": 91.85000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

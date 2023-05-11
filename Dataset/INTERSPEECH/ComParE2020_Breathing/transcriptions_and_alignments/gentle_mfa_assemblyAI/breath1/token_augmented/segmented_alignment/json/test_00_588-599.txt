@@ -5,7 +5,8 @@
    "end": 225.409999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 225.41,
    "startOffset": 3137,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "followed",
@@ -53,7 +55,8 @@
    "start": 225.77,
    "startOffset": 3141,
    "word": "followed",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "followed"
   },
   {
    "alignedWord": "by",
@@ -73,7 +76,8 @@
    "start": 226.2,
    "startOffset": 3150,
    "word": "by",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "by"
   },
   {
    "alignedWord": "st",
@@ -101,7 +105,8 @@
    "start": 226.44,
    "startOffset": 3153,
    "word": "St",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "st"
   },
   {
    "alignedWord": "<unk>",
@@ -117,7 +122,8 @@
    "start": 227.17,
    "startOffset": 3157,
    "word": "james's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "james's"
   },
   {
    "alignedWord": "park",
@@ -145,7 +151,8 @@
    "start": 227.429999,
    "startOffset": 3165,
    "word": "park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "alignedWord": "followed",
@@ -177,7 +184,8 @@
    "start": 227.96,
    "startOffset": 3171,
    "word": "followed",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "followed"
   },
   {
    "alignedWord": "by",
@@ -197,7 +205,8 @@
    "start": 228.41,
    "startOffset": 3180,
    "word": "by",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "by"
   },
   {
    "alignedWord": "richmond",
@@ -237,7 +246,8 @@
    "start": 228.849999,
    "startOffset": 3183,
    "word": "Richmond",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "richmond"
   },
   {
    "alignedWord": "park",
@@ -265,14 +275,16 @@
    "start": 229.28,
    "startOffset": 3192,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "start": 229.72,
    "end": 230.16,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

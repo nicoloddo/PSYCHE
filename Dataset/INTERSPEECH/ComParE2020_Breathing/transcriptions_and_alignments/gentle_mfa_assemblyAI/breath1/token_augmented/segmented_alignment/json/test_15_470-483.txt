@@ -5,7 +5,8 @@
    "end": 187.07,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "on",
@@ -25,7 +26,8 @@
    "start": 187.07,
    "startOffset": 2184,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "alignedWord": "afternoon",
@@ -65,7 +67,8 @@
    "start": 187.33,
    "startOffset": 2187,
    "word": "afternoon",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "afternoon"
   },
   {
    "alignedWord": "tea",
@@ -85,7 +88,8 @@
    "start": 187.61,
    "startOffset": 2197,
    "word": "tea",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tea"
   },
   {
    "alignedWord": "what",
@@ -109,7 +113,8 @@
    "start": 187.8,
    "startOffset": 2202,
    "word": "What",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "what"
   },
   {
    "alignedWord": "is",
@@ -129,7 +134,8 @@
    "start": 187.93,
    "startOffset": 2207,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "it",
@@ -149,7 +155,8 @@
    "start": 188.01,
    "startOffset": 2210,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "called",
@@ -177,7 +184,8 @@
    "start": 188.11,
    "startOffset": 2213,
    "word": "called",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "called"
   },
   {
    "alignedWord": "<unk>",
@@ -193,7 +201,8 @@
    "start": 188.47,
    "startOffset": 2221,
    "word": "bmb's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bmb's"
   },
   {
    "alignedWord": "um",
@@ -213,7 +222,8 @@
    "start": 188.49,
    "startOffset": 2228,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "bakery",
@@ -245,7 +255,8 @@
    "start": 189.84,
    "startOffset": 2232,
    "word": "bakery",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bakery"
   },
   {
    "alignedWord": "i",
@@ -261,7 +272,8 @@
    "start": 190.32,
    "startOffset": 2240,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "think",
@@ -289,14 +301,16 @@
    "start": 190.38,
    "startOffset": 2242,
    "word": "think",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "start": 190.74,
    "end": 191.31,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

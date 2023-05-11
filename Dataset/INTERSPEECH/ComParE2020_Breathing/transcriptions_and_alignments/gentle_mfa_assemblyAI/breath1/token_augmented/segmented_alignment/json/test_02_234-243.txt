@@ -5,7 +5,8 @@
    "end": 99.05,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "then",
@@ -29,14 +30,16 @@
    "start": 99.05,
    "startOffset": 1009,
    "word": "then",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "then"
   },
   {
    "start": 99.44,
    "end": 99.83,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "experience",
@@ -88,7 +91,8 @@
    "start": 99.83,
    "startOffset": 1014,
    "word": "experience",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "experience"
   },
   {
    "alignedWord": "the",
@@ -108,7 +112,8 @@
    "start": 100.59,
    "startOffset": 1025,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "same",
@@ -132,14 +137,16 @@
    "start": 100.719999,
    "startOffset": 1029,
    "word": "same",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "same"
   },
   {
    "start": 101.357999,
    "end": 101.779999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "food",
@@ -163,7 +170,8 @@
    "start": 101.78,
    "startOffset": 1034,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "alignedWord": "again",
@@ -191,14 +199,16 @@
    "start": 102.28,
    "startOffset": 1039,
    "word": "again",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "again"
   },
   {
    "start": 102.91,
    "end": 103.33,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

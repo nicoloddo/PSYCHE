@@ -5,7 +5,8 @@
    "end": 6.96,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 6.96,
    "startOffset": 90,
    "word": "Uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "i",
@@ -37,7 +39,8 @@
    "start": 7.56,
    "startOffset": 94,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -61,7 +64,8 @@
    "start": 7.77,
    "startOffset": 96,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "born",
@@ -89,7 +93,8 @@
    "start": 8.26,
    "startOffset": 100,
    "word": "born",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "born"
   },
   {
    "alignedWord": "in",
@@ -109,7 +114,8 @@
    "start": 8.66,
    "startOffset": 105,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "japan",
@@ -141,7 +147,8 @@
    "start": 8.9,
    "startOffset": 108,
    "word": "Japan",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "japan"
   },
   {
    "alignedWord": "but",
@@ -165,7 +172,8 @@
    "start": 9.29,
    "startOffset": 115,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "i",
@@ -181,7 +189,8 @@
    "start": 9.45,
    "startOffset": 119,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "came",
@@ -205,7 +214,8 @@
    "start": 9.55,
    "startOffset": 121,
    "word": "came",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "came"
   },
   {
    "alignedWord": "here",
@@ -229,7 +239,8 @@
    "start": 9.83,
    "startOffset": 126,
    "word": "here",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "here"
   },
   {
    "alignedWord": "when",
@@ -253,7 +264,8 @@
    "start": 9.95,
    "startOffset": 131,
    "word": "when",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "when"
   },
   {
    "alignedWord": "i",
@@ -269,7 +281,8 @@
    "start": 10.099999,
    "startOffset": 136,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -293,7 +306,8 @@
    "start": 10.16,
    "startOffset": 138,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "four",
@@ -317,7 +331,8 @@
    "start": 10.33,
    "startOffset": 142,
    "word": "four",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "four"
   },
   {
    "alignedWord": "years",
@@ -345,7 +360,8 @@
    "start": 10.53,
    "startOffset": 147,
    "word": "years",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "years"
   },
   {
    "alignedWord": "old",
@@ -369,7 +385,8 @@
    "start": 10.71,
    "startOffset": 153,
    "word": "old",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "old"
   },
   {
    "alignedWord": "so",
@@ -389,14 +406,16 @@
    "start": 10.969999,
    "startOffset": 158,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "start": 11.355999,
    "end": 12.079999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

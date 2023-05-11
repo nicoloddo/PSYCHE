@@ -5,7 +5,8 @@
    "end": 70.1,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 70.1,
    "startOffset": 852,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 70.61,
    "end": 71.28,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "ear",
@@ -52,7 +55,8 @@
    "start": 71.279999,
    "startOffset": 856,
    "word": "ear",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ear"
   },
   {
    "alignedWord": "nose",
@@ -76,7 +80,8 @@
    "start": 71.469999,
    "startOffset": 861,
    "word": "nose",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nose"
   },
   {
    "alignedWord": "and",
@@ -100,7 +105,8 @@
    "start": 71.639999,
    "startOffset": 866,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "throat",
@@ -128,7 +134,8 @@
    "start": 71.76,
    "startOffset": 870,
    "word": "throat",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "throat"
   },
   {
    "alignedWord": "surgeries",
@@ -164,14 +171,16 @@
    "start": 72.0,
    "startOffset": 877,
    "word": "surgeries",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "surgeries"
   },
   {
    "start": 72.87,
    "end": 73.58,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "as",
@@ -191,7 +200,8 @@
    "start": 73.58,
    "startOffset": 888,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "well",
@@ -215,7 +225,8 @@
    "start": 73.78,
    "startOffset": 891,
    "word": "well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "alignedWord": "as",
@@ -235,7 +246,8 @@
    "start": 73.97,
    "startOffset": 896,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "various",
@@ -271,7 +283,8 @@
    "start": 74.18,
    "startOffset": 899,
    "word": "various",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "various"
   },
   {
    "alignedWord": "medical",
@@ -311,7 +324,8 @@
    "start": 74.52,
    "startOffset": 907,
    "word": "medical",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "medical"
   },
   {
    "alignedWord": "conditions",
@@ -359,7 +373,8 @@
    "start": 74.84,
    "startOffset": 915,
    "word": "conditions",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "conditions"
   },
   {
    "alignedWord": "like",
@@ -383,7 +398,8 @@
    "start": 75.38,
    "startOffset": 926,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "respiratory",
@@ -435,7 +451,8 @@
    "start": 75.55,
    "startOffset": 931,
    "word": "respiratory",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "respiratory"
   },
   {
    "alignedWord": "failure",
@@ -467,14 +484,16 @@
    "start": 76.03,
    "startOffset": 943,
    "word": "failure",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "failure"
   },
   {
    "start": 76.57000000000001,
    "end": 77.07000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

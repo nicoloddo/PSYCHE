@@ -5,7 +5,8 @@
    "end": 128.12,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 128.12,
    "startOffset": 1828,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 128.49,
    "startOffset": 1832,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "a",
@@ -65,7 +68,8 @@
    "start": 128.64,
    "startOffset": 1836,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "river",
@@ -93,7 +97,8 @@
    "start": 128.7,
    "startOffset": 1838,
    "word": "river",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "river"
   },
   {
    "alignedWord": "and",
@@ -117,7 +122,8 @@
    "start": 129.39,
    "startOffset": 1845,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "you",
@@ -137,7 +143,8 @@
    "start": 129.57,
    "startOffset": 1849,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "can",
@@ -161,7 +168,8 @@
    "start": 129.64,
    "startOffset": 1853,
    "word": "can",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "can"
   },
   {
    "alignedWord": "go",
@@ -181,7 +189,8 @@
    "start": 129.75,
    "startOffset": 1857,
    "word": "go",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "go"
   },
   {
    "alignedWord": "canoeing",
@@ -217,7 +226,8 @@
    "start": 129.93,
    "startOffset": 1860,
    "word": "canoeing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "canoeing"
   },
   {
    "alignedWord": "on",
@@ -237,7 +247,8 @@
    "start": 130.34,
    "startOffset": 1869,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "alignedWord": "the",
@@ -257,7 +268,8 @@
    "start": 130.45,
    "startOffset": 1872,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "river",
@@ -285,7 +297,8 @@
    "start": 130.57,
    "startOffset": 1876,
    "word": "river",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "river"
   },
   {
    "alignedWord": "and",
@@ -309,7 +322,8 @@
    "start": 131.02,
    "startOffset": 1883,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "they",
@@ -329,7 +343,8 @@
    "start": 131.16,
    "startOffset": 1887,
    "word": "they",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "they"
   },
   {
    "alignedWord": "have",
@@ -353,7 +368,8 @@
    "start": 131.2,
    "startOffset": 1892,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "like",
@@ -377,7 +393,8 @@
    "start": 131.46,
    "startOffset": 1897,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "swans",
@@ -409,7 +426,8 @@
    "start": 131.69,
    "startOffset": 1903,
    "word": "swans",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "swans"
   },
   {
    "alignedWord": "and",
@@ -433,7 +451,8 @@
    "start": 132.19,
    "startOffset": 1909,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "ducks",
@@ -461,14 +480,16 @@
    "start": 132.39,
    "startOffset": 1913,
    "word": "ducks",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ducks"
   },
   {
    "start": 132.97,
    "end": 133.47,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

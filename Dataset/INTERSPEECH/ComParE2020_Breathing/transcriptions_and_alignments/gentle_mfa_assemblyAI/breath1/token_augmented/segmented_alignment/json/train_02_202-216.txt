@@ -5,7 +5,8 @@
    "end": 73.44000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "just",
@@ -33,7 +34,8 @@
    "start": 73.59,
    "startOffset": 950,
    "word": "Just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "like",
@@ -57,7 +59,8 @@
    "start": 73.68,
    "startOffset": 955,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "this",
@@ -81,7 +84,8 @@
    "start": 73.84,
    "startOffset": 960,
    "word": "this",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "this"
   },
   {
    "alignedWord": "whole",
@@ -105,14 +109,16 @@
    "start": 74.05,
    "startOffset": 965,
    "word": "whole",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "whole"
   },
   {
    "start": 74.58,
    "end": 75.41,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -128,7 +134,8 @@
    "start": 75.41,
    "startOffset": 972,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "all",
@@ -148,7 +155,8 @@
    "start": 75.74,
    "startOffset": 976,
    "word": "all",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "all"
   },
   {
    "alignedWord": "you",
@@ -168,7 +176,8 @@
    "start": 75.91,
    "startOffset": 980,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "can",
@@ -192,7 +201,8 @@
    "start": 76.12,
    "startOffset": 984,
    "word": "can",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "can"
   },
   {
    "alignedWord": "eat",
@@ -212,7 +222,8 @@
    "start": 76.49,
    "startOffset": 988,
    "word": "eat",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "eat"
   },
   {
    "alignedWord": "buffet",
@@ -240,7 +251,8 @@
    "start": 76.84,
    "startOffset": 993,
    "word": "buffet",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "buffet"
   },
   {
    "alignedWord": "type",
@@ -264,7 +276,8 @@
    "start": 77.32,
    "startOffset": 1000,
    "word": "type",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "type"
   },
   {
    "alignedWord": "place",
@@ -292,14 +305,16 @@
    "start": 77.57,
    "startOffset": 1005,
    "word": "place",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "place"
   },
   {
    "start": 78.08,
    "end": 78.63,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

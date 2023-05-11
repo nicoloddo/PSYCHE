@@ -5,7 +5,8 @@
    "end": 187.1,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 187.1,
    "startOffset": 1988,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 187.95,
    "end": 188.582,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -48,7 +51,8 @@
    "start": 189.07,
    "startOffset": 1992,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "this",
@@ -72,7 +76,8 @@
    "start": 189.349999,
    "startOffset": 1996,
    "word": "this",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "this"
   },
   {
    "alignedWord": "park",
@@ -100,7 +105,8 @@
    "start": 189.599999,
    "startOffset": 2001,
    "word": "park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "alignedWord": "is",
@@ -120,7 +126,8 @@
    "start": 189.87,
    "startOffset": 2006,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "also",
@@ -148,7 +155,8 @@
    "start": 190.02,
    "startOffset": 2009,
    "word": "also",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "also"
   },
   {
    "alignedWord": "special",
@@ -184,7 +192,8 @@
    "start": 190.42,
    "startOffset": 2014,
    "word": "special",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "special"
   },
   {
    "alignedWord": "because",
@@ -216,14 +225,16 @@
    "start": 191.03,
    "startOffset": 2022,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "start": 191.61,
    "end": 192.03,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 35.779999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "developmental",
@@ -69,7 +70,8 @@
    "start": 35.779999000000004,
    "startOffset": 353,
    "word": "Developmental",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "developmental"
   },
   {
    "alignedWord": "psychology",
@@ -113,7 +115,8 @@
    "start": 36.469999,
    "startOffset": 367,
    "word": "psychology",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "psychology"
   },
   {
    "alignedWord": "either",
@@ -137,7 +140,8 @@
    "start": 37.42,
    "startOffset": 378,
    "word": "either",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "either"
   },
   {
    "alignedWord": "at",
@@ -157,7 +161,8 @@
    "start": 37.72,
    "startOffset": 385,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "<unk>",
@@ -173,7 +178,8 @@
    "start": 37.83,
    "startOffset": 388,
    "word": "ucl",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ucl"
   },
   {
    "alignedWord": "or",
@@ -193,7 +199,8 @@
    "start": 38.39,
    "startOffset": 392,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "at",
@@ -213,7 +220,8 @@
    "start": 38.54,
    "startOffset": 395,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "kings",
@@ -241,14 +249,16 @@
    "start": 38.68,
    "startOffset": 398,
    "word": "Kings",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "kings"
   },
   {
    "start": 39.29,
    "end": 39.99,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

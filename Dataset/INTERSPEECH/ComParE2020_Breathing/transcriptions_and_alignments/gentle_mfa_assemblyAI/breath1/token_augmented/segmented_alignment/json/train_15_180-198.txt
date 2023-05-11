@@ -5,7 +5,8 @@
    "end": 53.32,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 53.32,
    "startOffset": 874,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "he",
@@ -45,7 +47,8 @@
    "start": 53.82,
    "startOffset": 878,
    "word": "he",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "he"
   },
   {
    "case": "not-found-in-audio",
@@ -54,7 +57,8 @@
    "word": "worked",
    "start": 53.92,
    "end": 54.209998999999996,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "worked"
   },
   {
    "alignedWord": "on",
@@ -74,7 +78,8 @@
    "start": 54.209998999999996,
    "startOffset": 888,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "alignedWord": "<unk>",
@@ -90,7 +95,8 @@
    "start": 54.33,
    "startOffset": 891,
    "word": "alchemy",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "alchemy"
   },
   {
    "alignedWord": "and",
@@ -114,7 +120,8 @@
    "start": 54.82,
    "startOffset": 899,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "tried",
@@ -142,7 +149,8 @@
    "start": 54.92,
    "startOffset": 903,
    "word": "tried",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tried"
   },
   {
    "alignedWord": "to",
@@ -162,7 +170,8 @@
    "start": 55.13,
    "startOffset": 909,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "turn",
@@ -186,7 +195,8 @@
    "start": 55.22,
    "startOffset": 912,
    "word": "turn",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "turn"
   },
   {
    "alignedWord": "lead",
@@ -210,7 +220,8 @@
    "start": 55.47,
    "startOffset": 917,
    "word": "lead",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lead"
   },
   {
    "alignedWord": "into",
@@ -238,7 +249,8 @@
    "start": 55.64,
    "startOffset": 922,
    "word": "into",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "into"
   },
   {
    "alignedWord": "gold",
@@ -266,7 +278,8 @@
    "start": 55.91,
    "startOffset": 927,
    "word": "gold",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "gold"
   },
   {
    "alignedWord": "but",
@@ -290,7 +303,8 @@
    "start": 56.66,
    "startOffset": 933,
    "word": "But",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "<unk>",
@@ -306,7 +320,8 @@
    "start": 56.84,
    "startOffset": 937,
    "word": "herschel's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "herschel's"
   },
   {
    "case": "not-found-in-audio",
@@ -315,7 +330,8 @@
    "word": "bit",
    "start": 57.36,
    "end": 57.45,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bit"
   },
   {
    "alignedWord": "<unk>",
@@ -331,7 +347,8 @@
    "start": 57.45,
    "startOffset": 955,
    "word": "nuttery",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nuttery"
   },
   {
    "case": "not-found-in-audio",
@@ -340,14 +357,16 @@
    "word": "of",
    "start": 57.65,
    "end": 57.73,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "start": 58.266,
    "end": 58.699999999999996,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

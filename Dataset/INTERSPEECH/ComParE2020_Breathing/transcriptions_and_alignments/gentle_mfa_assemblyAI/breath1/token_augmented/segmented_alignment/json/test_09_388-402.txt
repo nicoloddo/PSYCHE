@@ -5,7 +5,8 @@
    "end": 131.08,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,21 +26,24 @@
    "start": 131.08,
    "startOffset": 1874,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 131.78,
    "end": 132.237,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "start": 132.593,
    "end": 133.29,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "do",
@@ -59,7 +63,8 @@
    "start": 133.29,
    "startOffset": 1878,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "i",
@@ -75,7 +80,8 @@
    "start": 133.48,
    "startOffset": 1881,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "have",
@@ -99,7 +105,8 @@
    "start": 133.51,
    "startOffset": 1883,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "a",
@@ -115,7 +122,8 @@
    "start": 133.6,
    "startOffset": 1888,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "favorite",
@@ -151,7 +159,8 @@
    "start": 133.66,
    "startOffset": 1890,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurant",
@@ -195,7 +204,8 @@
    "start": 134.059999,
    "startOffset": 1899,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "in",
@@ -215,7 +225,8 @@
    "start": 134.52,
    "startOffset": 1910,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -251,7 +262,8 @@
    "start": 134.66,
    "startOffset": 1913,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "favorite",
@@ -287,7 +299,8 @@
    "start": 135.17,
    "startOffset": 1921,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "food",
@@ -311,14 +324,16 @@
    "start": 135.559999,
    "startOffset": 1930,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "start": 136.236999,
    "end": 137.04999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

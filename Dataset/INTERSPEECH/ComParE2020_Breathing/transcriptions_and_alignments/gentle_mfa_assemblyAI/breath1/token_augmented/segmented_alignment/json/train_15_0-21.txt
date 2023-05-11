@@ -18,7 +18,8 @@
    "start": 0.63,
    "startOffset": 0,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "the",
@@ -38,7 +39,8 @@
    "start": 0.83,
    "startOffset": 3,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "great",
@@ -66,7 +68,8 @@
    "start": 0.91,
    "startOffset": 7,
    "word": "Great",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "great"
   },
   {
    "alignedWord": "pyramid",
@@ -106,7 +109,8 @@
    "start": 1.14,
    "startOffset": 13,
    "word": "pyramid",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pyramid"
   },
   {
    "alignedWord": "of",
@@ -126,7 +130,8 @@
    "start": 1.47,
    "startOffset": 21,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "geez",
@@ -150,7 +155,8 @@
    "start": 1.61,
    "startOffset": 24,
    "word": "geez",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "geez"
   },
   {
    "alignedWord": "a",
@@ -166,7 +172,8 @@
    "start": 1.87,
    "startOffset": 29,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "bit",
@@ -190,7 +197,8 @@
    "start": 1.93,
    "startOffset": 31,
    "word": "bit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bit"
   },
   {
    "alignedWord": "made",
@@ -214,7 +222,8 @@
    "start": 2.32,
    "startOffset": 35,
    "word": "made",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "made"
   },
   {
    "alignedWord": "me",
@@ -234,7 +243,8 @@
    "start": 2.63,
    "startOffset": 40,
    "word": "me",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "me"
   },
   {
    "alignedWord": "think",
@@ -262,7 +272,8 @@
    "start": 2.74,
    "startOffset": 43,
    "word": "think",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "alignedWord": "about",
@@ -290,7 +301,8 @@
    "start": 3.02,
    "startOffset": 49,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "churches",
@@ -322,7 +334,8 @@
    "start": 3.67,
    "startOffset": 55,
    "word": "churches",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "churches"
   },
   {
    "alignedWord": "and",
@@ -346,7 +359,8 @@
    "start": 4.56,
    "startOffset": 64,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "how",
@@ -366,7 +380,8 @@
    "start": 4.91,
    "startOffset": 68,
    "word": "how",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "how"
   },
   {
    "alignedWord": "much",
@@ -390,7 +405,8 @@
    "start": 5.03,
    "startOffset": 72,
    "word": "much",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "much"
   },
   {
    "alignedWord": "i",
@@ -406,7 +422,8 @@
    "start": 5.26,
    "startOffset": 77,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "hate",
@@ -430,7 +447,8 @@
    "start": 5.38,
    "startOffset": 79,
    "word": "hate",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hate"
   },
   {
    "alignedWord": "going",
@@ -458,7 +476,8 @@
    "start": 5.71,
    "startOffset": 84,
    "word": "going",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "going"
   },
   {
    "alignedWord": "in",
@@ -478,7 +497,8 @@
    "start": 5.96,
    "startOffset": 90,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "them",
@@ -502,14 +522,16 @@
    "start": 6.12,
    "startOffset": 93,
    "word": "them",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "them"
   },
   {
    "start": 6.37,
    "end": 6.71,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

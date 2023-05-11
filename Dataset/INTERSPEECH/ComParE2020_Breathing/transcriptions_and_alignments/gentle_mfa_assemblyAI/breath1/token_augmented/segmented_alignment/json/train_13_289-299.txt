@@ -5,7 +5,8 @@
    "end": 112.16999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 112.17,
    "startOffset": 1307,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "mean",
@@ -45,7 +47,8 @@
    "start": 112.24,
    "startOffset": 1309,
    "word": "mean",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "mean"
   },
   {
    "alignedWord": "that's",
@@ -73,7 +76,8 @@
    "start": 112.37,
    "startOffset": 1315,
    "word": "that's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that's"
   },
   {
    "alignedWord": "a",
@@ -89,7 +93,8 @@
    "start": 112.59,
    "startOffset": 1322,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "pretty",
@@ -121,7 +126,8 @@
    "start": 112.65,
    "startOffset": 1324,
    "word": "pretty",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pretty"
   },
   {
    "alignedWord": "bad",
@@ -145,7 +151,8 @@
    "start": 112.89,
    "startOffset": 1331,
    "word": "bad",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bad"
   },
   {
    "alignedWord": "thing",
@@ -169,7 +176,8 @@
    "start": 113.2,
    "startOffset": 1335,
    "word": "thing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "thing"
   },
   {
    "alignedWord": "i",
@@ -185,7 +193,8 @@
    "start": 113.39,
    "startOffset": 1342,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "guess",
@@ -209,14 +218,16 @@
    "start": 113.5,
    "startOffset": 1344,
    "word": "guess",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guess"
   },
   {
    "start": 113.97,
    "end": 114.47,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

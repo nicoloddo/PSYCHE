@@ -14,7 +14,8 @@
    "start": 1.62,
    "startOffset": 0,
    "word": "Uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "so",
@@ -34,7 +35,8 @@
    "start": 1.92,
    "startOffset": 4,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i",
@@ -50,7 +52,8 @@
    "start": 2.09,
    "startOffset": 7,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "moved",
@@ -78,7 +81,8 @@
    "start": 2.24,
    "startOffset": 9,
    "word": "moved",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "moved"
   },
   {
    "alignedWord": "to",
@@ -98,7 +102,8 @@
    "start": 2.55,
    "startOffset": 15,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -134,7 +139,8 @@
    "start": 2.67,
    "startOffset": 18,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "to",
@@ -154,7 +160,8 @@
    "start": 3.26,
    "startOffset": 25,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "start",
@@ -186,7 +193,8 @@
    "start": 3.59,
    "startOffset": 28,
    "word": "start",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "start"
   },
   {
    "alignedWord": "a",
@@ -202,7 +210,8 @@
    "start": 3.93,
    "startOffset": 34,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "master's",
@@ -238,7 +247,8 @@
    "start": 4.03,
    "startOffset": 36,
    "word": "master's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "master's"
   },
   {
    "alignedWord": "degree",
@@ -270,7 +280,8 @@
    "start": 4.43,
    "startOffset": 45,
    "word": "degree",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "degree"
   },
   {
    "alignedWord": "at",
@@ -290,7 +301,8 @@
    "start": 4.83,
    "startOffset": 52,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "university",
@@ -342,7 +354,8 @@
    "start": 5.56,
    "startOffset": 55,
    "word": "University",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "university"
   },
   {
    "case": "not-found-in-audio",
@@ -351,7 +364,8 @@
    "word": "uh",
    "start": 6.07,
    "end": 6.08,
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "college",
@@ -383,7 +397,8 @@
    "start": 6.11,
    "startOffset": 71,
    "word": "College",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "college"
   },
   {
    "alignedWord": "london",
@@ -419,14 +434,16 @@
    "start": 6.38,
    "startOffset": 79,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "start": 6.78,
    "end": 7.3500000000000005,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

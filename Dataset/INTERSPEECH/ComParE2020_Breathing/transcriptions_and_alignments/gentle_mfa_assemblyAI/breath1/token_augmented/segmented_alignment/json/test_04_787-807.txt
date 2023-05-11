@@ -5,7 +5,8 @@
    "end": 220.54,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 220.54,
    "startOffset": 3708,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i",
@@ -41,7 +43,8 @@
    "start": 221.03,
    "startOffset": 3712,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "like",
@@ -65,7 +68,8 @@
    "start": 221.14,
    "startOffset": 3714,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "the",
@@ -85,14 +89,16 @@
    "start": 221.89,
    "startOffset": 3719,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "start": 222.614,
    "end": 223.18,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "<unk>",
@@ -108,7 +114,8 @@
    "start": 223.18,
    "startOffset": 3723,
    "word": "terrapins",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "terrapins"
   },
   {
    "case": "not-found-in-audio",
@@ -117,7 +124,8 @@
    "word": "and",
    "start": 224.019,
    "end": 224.33,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "the",
@@ -137,7 +145,8 @@
    "start": 224.33,
    "startOffset": 3737,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "pelicans",
@@ -181,7 +190,8 @@
    "start": 224.429999,
    "startOffset": 3741,
    "word": "pelicans",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pelicans"
   },
   {
    "alignedWord": "that",
@@ -205,7 +215,8 @@
    "start": 224.97,
    "startOffset": 3750,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "they",
@@ -225,7 +236,8 @@
    "start": 225.01,
    "startOffset": 3755,
    "word": "they",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "they"
   },
   {
    "alignedWord": "have",
@@ -249,7 +261,8 @@
    "start": 225.17,
    "startOffset": 3760,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "there",
@@ -273,7 +286,8 @@
    "start": 225.4,
    "startOffset": 3765,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "which",
@@ -301,7 +315,8 @@
    "start": 226.03,
    "startOffset": 3772,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "i",
@@ -317,7 +332,8 @@
    "start": 226.27,
    "startOffset": 3778,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "case": "not-found-in-audio",
@@ -326,7 +342,8 @@
    "word": "think",
    "start": 226.329,
    "end": 226.469,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "case": "not-found-in-audio",
@@ -335,7 +352,8 @@
    "word": "is",
    "start": 226.469,
    "end": 226.48,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "quite",
@@ -363,7 +381,8 @@
    "start": 226.48,
    "startOffset": 3789,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "fun",
@@ -387,14 +406,16 @@
    "start": 226.78,
    "startOffset": 3795,
    "word": "fun",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fun"
   },
   {
    "start": 227.26,
    "end": 227.82999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 208.59,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "as",
@@ -25,7 +26,8 @@
    "start": 208.59,
    "startOffset": 2943,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "a",
@@ -41,7 +43,8 @@
    "start": 208.8,
    "startOffset": 2946,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "result",
@@ -77,7 +80,8 @@
    "start": 208.87,
    "startOffset": 2948,
    "word": "result",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "result"
   },
   {
    "alignedWord": "of",
@@ -97,7 +101,8 @@
    "start": 209.07,
    "startOffset": 2955,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "which",
@@ -121,7 +126,8 @@
    "start": 209.16,
    "startOffset": 2958,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "i've",
@@ -141,7 +147,8 @@
    "start": 209.3,
    "startOffset": 2964,
    "word": "I've",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i've"
   },
   {
    "alignedWord": "been",
@@ -165,7 +172,8 @@
    "start": 209.349999,
    "startOffset": 2969,
    "word": "been",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "been"
   },
   {
    "alignedWord": "taking",
@@ -197,7 +205,8 @@
    "start": 209.48,
    "startOffset": 2974,
    "word": "taking",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "taking"
   },
   {
    "alignedWord": "this",
@@ -221,7 +230,8 @@
    "start": 209.719999,
    "startOffset": 2981,
    "word": "this",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "this"
   },
   {
    "alignedWord": "dog",
@@ -245,7 +255,8 @@
    "start": 209.849999,
    "startOffset": 2986,
    "word": "dog",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "dog"
   },
   {
    "alignedWord": "both",
@@ -269,7 +280,8 @@
    "start": 210.07,
    "startOffset": 2990,
    "word": "both",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "both"
   },
   {
    "alignedWord": "for",
@@ -289,7 +301,8 @@
    "start": 210.25,
    "startOffset": 2995,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "regents",
@@ -329,7 +342,8 @@
    "start": 210.37,
    "startOffset": 2999,
    "word": "regents",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "regents"
   },
   {
    "alignedWord": "park",
@@ -357,7 +371,8 @@
    "start": 210.75,
    "startOffset": 3007,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "alignedWord": "and",
@@ -381,7 +396,8 @@
    "start": 211.23,
    "startOffset": 3012,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "to",
@@ -401,7 +417,8 @@
    "start": 211.469999,
    "startOffset": 3016,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "<unk>",
@@ -417,7 +434,8 @@
    "start": 211.599999,
    "startOffset": 3019,
    "word": "paddington",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "paddington"
   },
   {
    "alignedWord": "recreation",
@@ -465,7 +483,8 @@
    "start": 211.929999,
    "startOffset": 3030,
    "word": "Recreation",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "recreation"
   },
   {
    "alignedWord": "ground",
@@ -497,14 +516,16 @@
    "start": 212.75,
    "startOffset": 3041,
    "word": "Ground",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ground"
   },
   {
    "start": 213.37,
    "end": 214.41,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

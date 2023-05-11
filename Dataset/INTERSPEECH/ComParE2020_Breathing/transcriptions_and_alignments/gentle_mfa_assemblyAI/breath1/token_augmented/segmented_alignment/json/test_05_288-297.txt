@@ -5,7 +5,8 @@
    "end": 107.11999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "really",
@@ -33,7 +34,8 @@
    "start": 107.119999,
    "startOffset": 1351,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "good",
@@ -57,7 +59,8 @@
    "start": 107.440001,
    "startOffset": 1358,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "alignedWord": "quality",
@@ -97,7 +100,8 @@
    "start": 107.68,
    "startOffset": 1363,
    "word": "quality",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quality"
   },
   {
    "alignedWord": "fish",
@@ -121,7 +125,8 @@
    "start": 108.17,
    "startOffset": 1371,
    "word": "fish",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fish"
   },
   {
    "alignedWord": "and",
@@ -145,7 +150,8 @@
    "start": 108.93,
    "startOffset": 1376,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "also",
@@ -173,7 +179,8 @@
    "start": 109.14,
    "startOffset": 1380,
    "word": "also",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "also"
   },
   {
    "alignedWord": "great",
@@ -201,7 +208,8 @@
    "start": 109.61,
    "startOffset": 1385,
    "word": "great",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "great"
   },
   {
    "alignedWord": "<unk>",
@@ -217,14 +225,16 @@
    "start": 109.93,
    "startOffset": 1391,
    "word": "haloumi",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "haloumi"
   },
   {
    "start": 110.53900000000002,
    "end": 110.99000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

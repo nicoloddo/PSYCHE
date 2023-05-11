@@ -5,7 +5,8 @@
    "end": 103.299999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "cuisine",
@@ -41,7 +42,8 @@
    "start": 103.299999,
    "startOffset": 1343,
    "word": "cuisine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cuisine"
   },
   {
    "alignedWord": "is",
@@ -61,7 +63,8 @@
    "start": 103.969999,
    "startOffset": 1351,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "indian",
@@ -97,7 +100,8 @@
    "start": 104.58,
    "startOffset": 1354,
    "word": "Indian",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "indian"
   },
   {
    "alignedWord": "food",
@@ -121,7 +125,8 @@
    "start": 105.049999,
    "startOffset": 1361,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "alignedWord": "and",
@@ -145,7 +150,8 @@
    "start": 105.549999,
    "startOffset": 1366,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "yeah",
@@ -165,7 +171,8 @@
    "start": 105.77,
    "startOffset": 1370,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "there's",
@@ -193,7 +200,8 @@
    "start": 105.94,
    "startOffset": 1376,
    "word": "there's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there's"
   },
   {
    "alignedWord": "loads",
@@ -221,7 +229,8 @@
    "start": 106.18,
    "startOffset": 1384,
    "word": "loads",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "loads"
   },
   {
    "alignedWord": "of",
@@ -241,7 +250,8 @@
    "start": 106.33,
    "startOffset": 1390,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "indian",
@@ -277,7 +287,8 @@
    "start": 106.379999,
    "startOffset": 1393,
    "word": "Indian",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "indian"
   },
   {
    "alignedWord": "restaurants",
@@ -325,7 +336,8 @@
    "start": 106.719999,
    "startOffset": 1400,
    "word": "restaurants",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurants"
   },
   {
    "alignedWord": "in",
@@ -345,7 +357,8 @@
    "start": 107.1,
    "startOffset": 1412,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -381,7 +394,8 @@
    "start": 107.19999899999999,
    "startOffset": 1415,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "especially",
@@ -421,7 +435,8 @@
    "start": 107.609999,
    "startOffset": 1423,
    "word": "especially",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "especially"
   },
   {
    "alignedWord": "in",
@@ -441,7 +456,8 @@
    "start": 108.26,
    "startOffset": 1434,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "like",
@@ -465,7 +481,8 @@
    "start": 108.42,
    "startOffset": 1438,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "<unk>",
@@ -481,7 +498,8 @@
    "start": 108.7,
    "startOffset": 1444,
    "word": "brixton",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "brixton"
   },
   {
    "alignedWord": "area",
@@ -509,14 +527,16 @@
    "start": 109.26,
    "startOffset": 1452,
    "word": "area",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "area"
   },
   {
    "start": 109.84,
    "end": 110.8,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

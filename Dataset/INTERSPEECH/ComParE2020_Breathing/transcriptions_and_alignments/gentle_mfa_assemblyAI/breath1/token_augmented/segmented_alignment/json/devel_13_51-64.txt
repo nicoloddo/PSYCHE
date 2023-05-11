@@ -5,7 +5,8 @@
    "end": 18.89,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i'm",
@@ -25,7 +26,8 @@
    "start": 18.889999,
    "startOffset": 255,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "alignedWord": "hoping",
@@ -57,7 +59,8 @@
    "start": 19.139999,
    "startOffset": 259,
    "word": "hoping",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hoping"
   },
   {
    "alignedWord": "to",
@@ -77,7 +80,8 @@
    "start": 19.48,
    "startOffset": 266,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "study",
@@ -109,7 +113,8 @@
    "start": 19.57,
    "startOffset": 269,
    "word": "study",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "study"
   },
   {
    "alignedWord": "fine",
@@ -133,7 +138,8 @@
    "start": 19.93,
    "startOffset": 275,
    "word": "fine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fine"
   },
   {
    "alignedWord": "art",
@@ -157,7 +163,8 @@
    "start": 20.259999999999998,
    "startOffset": 280,
    "word": "art",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "art"
   },
   {
    "alignedWord": "at",
@@ -177,7 +184,8 @@
    "start": 20.91,
    "startOffset": 284,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "<unk>",
@@ -193,7 +201,8 @@
    "start": 21.05,
    "startOffset": 287,
    "word": "ucl",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ucl"
   },
   {
    "alignedWord": "again",
@@ -221,7 +230,8 @@
    "start": 21.58,
    "startOffset": 291,
    "word": "again",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "again"
   },
   {
    "alignedWord": "in",
@@ -241,7 +251,8 @@
    "start": 22.14,
    "startOffset": 297,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "september",
@@ -285,7 +296,8 @@
    "start": 22.32,
    "startOffset": 300,
    "word": "September",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "september"
   },
   {
    "alignedWord": "<unk>",
@@ -301,14 +313,16 @@
    "start": 22.72,
    "startOffset": 310,
    "word": "2020",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "2020"
   },
   {
    "start": 24.24,
    "end": 25.569999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

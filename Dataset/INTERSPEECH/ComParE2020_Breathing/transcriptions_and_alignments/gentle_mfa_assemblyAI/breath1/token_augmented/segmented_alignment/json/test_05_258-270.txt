@@ -5,7 +5,8 @@
    "end": 98.18,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 98.179999,
    "startOffset": 1225,
    "word": "Um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 98.799999,
    "end": 99.419999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "yeah",
@@ -52,7 +55,8 @@
    "start": 99.42,
    "startOffset": 1229,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "there",
@@ -76,7 +80,8 @@
    "start": 99.84,
    "startOffset": 1235,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "are",
@@ -92,7 +97,8 @@
    "start": 100.33,
    "startOffset": 1241,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "lots",
@@ -120,7 +126,8 @@
    "start": 100.44,
    "startOffset": 1245,
    "word": "lots",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lots"
   },
   {
    "alignedWord": "of",
@@ -140,7 +147,8 @@
    "start": 100.63,
    "startOffset": 1250,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "different",
@@ -180,7 +188,8 @@
    "start": 100.77,
    "startOffset": 1253,
    "word": "different",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "different"
   },
   {
    "alignedWord": "styles",
@@ -212,7 +221,8 @@
    "start": 101.03,
    "startOffset": 1263,
    "word": "styles",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "styles"
   },
   {
    "alignedWord": "of",
@@ -232,7 +242,8 @@
    "start": 101.52,
    "startOffset": 1270,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "food",
@@ -256,14 +267,16 @@
    "start": 101.63,
    "startOffset": 1273,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "start": 102.1,
    "end": 102.47,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 177.57000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 177.57,
    "startOffset": 1861,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 177.95,
    "startOffset": 1865,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "all",
@@ -69,7 +72,8 @@
    "start": 178.16,
    "startOffset": 1869,
    "word": "all",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "all"
   },
   {
    "alignedWord": "the",
@@ -89,7 +93,8 @@
    "start": 178.289999,
    "startOffset": 1873,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "people",
@@ -121,7 +126,8 @@
    "start": 178.369999,
    "startOffset": 1877,
    "word": "people",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "people"
   },
   {
    "alignedWord": "who",
@@ -141,7 +147,8 @@
    "start": 178.699999,
    "startOffset": 1884,
    "word": "who",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "who"
   },
   {
    "alignedWord": "were",
@@ -161,7 +168,8 @@
    "start": 178.84,
    "startOffset": 1888,
    "word": "were",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "were"
   },
   {
    "alignedWord": "queuing",
@@ -193,7 +201,8 @@
    "start": 178.959999,
    "startOffset": 1893,
    "word": "queuing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "queuing"
   },
   {
    "alignedWord": "up",
@@ -213,7 +222,8 @@
    "start": 179.26,
    "startOffset": 1901,
    "word": "up",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "up"
   },
   {
    "alignedWord": "to",
@@ -233,14 +243,16 @@
    "start": 179.76,
    "startOffset": 1904,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "start": 181.255,
    "end": 181.676,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

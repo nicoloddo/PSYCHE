@@ -5,7 +5,8 @@
    "end": 7.73,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,14 +22,16 @@
    "start": 7.73,
    "startOffset": 87,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "start": 8.43,
    "end": 9.42,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "started",
@@ -68,7 +71,8 @@
    "start": 9.42,
    "startOffset": 89,
    "word": "started",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "started"
   },
   {
    "alignedWord": "um",
@@ -88,7 +92,8 @@
    "start": 10.4,
    "startOffset": 98,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "a",
@@ -104,7 +109,8 @@
    "start": 11.01,
    "startOffset": 102,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "degree",
@@ -136,7 +142,8 @@
    "start": 11.11,
    "startOffset": 104,
    "word": "degree",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "degree"
   },
   {
    "alignedWord": "in",
@@ -156,7 +163,8 @@
    "start": 11.38,
    "startOffset": 111,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "biomedical",
@@ -208,7 +216,8 @@
    "start": 11.49,
    "startOffset": 114,
    "word": "biomedical",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "biomedical"
   },
   {
    "alignedWord": "sciences",
@@ -248,7 +257,8 @@
    "start": 12.03,
    "startOffset": 125,
    "word": "Sciences",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sciences"
   },
   {
    "alignedWord": "it",
@@ -268,7 +278,8 @@
    "start": 12.719999,
    "startOffset": 135,
    "word": "It",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "was",
@@ -292,7 +303,8 @@
    "start": 12.809999,
    "startOffset": 138,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "a",
@@ -308,7 +320,8 @@
    "start": 12.95,
    "startOffset": 142,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "<unk>",
@@ -324,14 +337,16 @@
    "start": 13.03,
    "startOffset": 144,
    "word": "bsc",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bsc"
   },
   {
    "start": 13.745,
    "end": 14.594,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

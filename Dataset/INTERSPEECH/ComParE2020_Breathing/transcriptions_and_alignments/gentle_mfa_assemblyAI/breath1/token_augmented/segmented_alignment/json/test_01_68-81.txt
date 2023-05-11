@@ -5,7 +5,8 @@
    "end": 24.14,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 24.14,
    "startOffset": 304,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 24.78,
    "end": 25.43,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "london",
@@ -68,7 +71,8 @@
    "start": 25.43,
    "startOffset": 307,
    "word": "london",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "is",
@@ -88,7 +92,8 @@
    "start": 25.8,
    "startOffset": 314,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "quite",
@@ -116,7 +121,8 @@
    "start": 25.91,
    "startOffset": 317,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "different",
@@ -156,7 +162,8 @@
    "start": 26.119999999999997,
    "startOffset": 323,
    "word": "different",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "different"
   },
   {
    "alignedWord": "i",
@@ -172,7 +179,8 @@
    "start": 26.46,
    "startOffset": 334,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -196,7 +204,8 @@
    "start": 26.52,
    "startOffset": 336,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "in",
@@ -216,7 +225,8 @@
    "start": 26.65,
    "startOffset": 340,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "oxford",
@@ -252,7 +262,8 @@
    "start": 26.809998999999998,
    "startOffset": 343,
    "word": "Oxford",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "oxford"
   },
   {
    "alignedWord": "before",
@@ -284,7 +295,8 @@
    "start": 27.2,
    "startOffset": 350,
    "word": "before",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "before"
   },
   {
    "alignedWord": "which",
@@ -308,14 +320,16 @@
    "start": 27.73,
    "startOffset": 358,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "start": 27.76,
    "end": 28.310000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

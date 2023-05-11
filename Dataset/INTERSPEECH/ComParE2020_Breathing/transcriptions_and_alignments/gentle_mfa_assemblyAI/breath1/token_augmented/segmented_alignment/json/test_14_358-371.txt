@@ -5,7 +5,8 @@
    "end": 121.78999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "the",
@@ -25,7 +26,8 @@
    "start": 121.78999999999999,
    "startOffset": 1763,
    "word": "The",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "seasoning",
@@ -65,7 +67,8 @@
    "start": 121.96000000000001,
    "startOffset": 1767,
    "word": "seasoning",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "seasoning"
   },
   {
    "alignedWord": "the",
@@ -85,7 +88,8 @@
    "start": 123.16,
    "startOffset": 1778,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "fresh",
@@ -113,7 +117,8 @@
    "start": 123.299999,
    "startOffset": 1782,
    "word": "fresh",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fresh"
   },
   {
    "alignedWord": "fish",
@@ -137,7 +142,8 @@
    "start": 123.599999,
    "startOffset": 1788,
    "word": "fish",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fish"
   },
   {
    "alignedWord": "the",
@@ -157,7 +163,8 @@
    "start": 124.19999899999999,
    "startOffset": 1794,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "sushi",
@@ -185,7 +192,8 @@
    "start": 124.32,
    "startOffset": 1798,
    "word": "sushi",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sushi"
   },
   {
    "alignedWord": "the",
@@ -205,7 +213,8 @@
    "start": 125.51,
    "startOffset": 1805,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "beef",
@@ -229,7 +238,8 @@
    "start": 125.75,
    "startOffset": 1809,
    "word": "beef",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "beef"
   },
   {
    "alignedWord": "the",
@@ -249,7 +259,8 @@
    "start": 126.279999,
    "startOffset": 1815,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "teriyaki",
@@ -293,7 +304,8 @@
    "start": 126.369999,
    "startOffset": 1819,
    "word": "teriyaki",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "teriyaki"
   },
   {
    "alignedWord": "sauce",
@@ -317,14 +329,16 @@
    "start": 127.02,
    "startOffset": 1828,
    "word": "sauce",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sauce"
   },
   {
    "start": 127.6,
    "end": 127.99,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

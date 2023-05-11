@@ -5,7 +5,8 @@
    "end": 7.694,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "favorite",
@@ -41,7 +42,8 @@
    "start": 7.84,
    "startOffset": 67,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "case": "not-found-in-audio",
@@ -50,7 +52,8 @@
    "word": "ah",
    "start": 8.06,
    "end": 8.12,
-   "token": "<disfl.ah>"
+   "token": "<disfl.ah>",
+   "converted": "<disfl.ah>"
   },
   {
    "alignedWord": "restaurant",
@@ -94,7 +97,8 @@
    "start": 8.17,
    "startOffset": 81,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "um",
@@ -114,14 +118,16 @@
    "start": 9.01,
    "startOffset": 93,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 9.4,
    "end": 9.89,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -137,7 +143,8 @@
    "start": 9.889999,
    "startOffset": 97,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "went",
@@ -165,7 +172,8 @@
    "start": 10.099999,
    "startOffset": 99,
    "word": "went",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "went"
   },
   {
    "alignedWord": "to",
@@ -185,7 +193,8 @@
    "start": 11.75,
    "startOffset": 104,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "sketch",
@@ -213,7 +222,8 @@
    "start": 11.77,
    "startOffset": 107,
    "word": "sketch",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sketch"
   },
   {
    "alignedWord": "ah",
@@ -229,7 +239,8 @@
    "start": 12.259999,
    "startOffset": 115,
    "word": "ah",
-   "token": "<disfl.ah>"
+   "token": "<disfl.ah>",
+   "converted": "<disfl.ah>"
   },
   {
    "alignedWord": "the",
@@ -249,7 +260,8 @@
    "start": 12.309999,
    "startOffset": 119,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "other",
@@ -273,7 +285,8 @@
    "start": 12.53,
    "startOffset": 123,
    "word": "other",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "other"
   },
   {
    "alignedWord": "day",
@@ -293,14 +306,16 @@
    "start": 12.73,
    "startOffset": 129,
    "word": "day",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "day"
   },
   {
    "start": 13.09,
    "end": 13.67,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

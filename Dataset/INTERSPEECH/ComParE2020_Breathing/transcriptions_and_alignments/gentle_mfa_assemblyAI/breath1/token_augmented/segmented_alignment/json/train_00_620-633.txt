@@ -5,7 +5,8 @@
    "end": 234.77999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 234.779999,
    "startOffset": 3099,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "feel",
@@ -45,7 +47,8 @@
    "start": 234.98,
    "startOffset": 3101,
    "word": "feel",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "feel"
   },
   {
    "alignedWord": "like",
@@ -69,7 +72,8 @@
    "start": 235.27,
    "startOffset": 3106,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "if",
@@ -89,7 +93,8 @@
    "start": 235.69,
    "startOffset": 3111,
    "word": "if",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "if"
   },
   {
    "alignedWord": "you're",
@@ -113,7 +118,8 @@
    "start": 236.24,
    "startOffset": 3114,
    "word": "you're",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you're"
   },
   {
    "alignedWord": "with",
@@ -137,7 +143,8 @@
    "start": 236.5,
    "startOffset": 3121,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "someone",
@@ -173,7 +180,8 @@
    "start": 236.69,
    "startOffset": 3126,
    "word": "someone",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "someone"
   },
   {
    "alignedWord": "who",
@@ -193,7 +201,8 @@
    "start": 236.93,
    "startOffset": 3134,
    "word": "who",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "who"
   },
   {
    "alignedWord": "really",
@@ -221,7 +230,8 @@
    "start": 237.05,
    "startOffset": 3138,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "wants",
@@ -253,7 +263,8 @@
    "start": 237.51,
    "startOffset": 3145,
    "word": "wants",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wants"
   },
   {
    "alignedWord": "to",
@@ -273,7 +284,8 @@
    "start": 237.82,
    "startOffset": 3151,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "go",
@@ -293,14 +305,16 @@
    "start": 237.95,
    "startOffset": 3154,
    "word": "go",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "go"
   },
   {
    "start": 238.45,
    "end": 238.79,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

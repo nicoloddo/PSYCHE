@@ -5,7 +5,8 @@
    "end": 207.76,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 207.76,
    "startOffset": 2574,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "got",
@@ -45,7 +47,8 @@
    "start": 208.27,
    "startOffset": 2576,
    "word": "got",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "got"
   },
   {
    "alignedWord": "a",
@@ -61,7 +64,8 @@
    "start": 208.48,
    "startOffset": 2580,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "little",
@@ -93,7 +97,8 @@
    "start": 208.5,
    "startOffset": 2582,
    "word": "little",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "little"
   },
   {
    "alignedWord": "better",
@@ -121,7 +126,8 @@
    "start": 208.73,
    "startOffset": 2589,
    "word": "better",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "better"
   },
   {
    "alignedWord": "with",
@@ -145,7 +151,8 @@
    "start": 209.219999,
    "startOffset": 2596,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "some",
@@ -169,7 +176,8 @@
    "start": 209.45,
    "startOffset": 2601,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "fluids",
@@ -205,7 +213,8 @@
    "start": 209.66,
    "startOffset": 2606,
    "word": "fluids",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fluids"
   },
   {
    "alignedWord": "and",
@@ -229,14 +238,16 @@
    "start": 210.11,
    "startOffset": 2613,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "start": 210.45000000000002,
    "end": 211.02,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "<unk>",
@@ -252,7 +263,8 @@
    "start": 211.02,
    "startOffset": 2617,
    "word": "IV",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "iv"
   },
   {
    "alignedWord": "antibiotics",
@@ -308,14 +320,16 @@
    "start": 211.309999,
    "startOffset": 2620,
    "word": "antibiotics",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "antibiotics"
   },
   {
    "start": 212.099999,
    "end": 212.759999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

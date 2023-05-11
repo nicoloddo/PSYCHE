@@ -33,7 +33,7 @@ def interspeech_speaker_id(transcript_filename):
 def main(args):
     preposition = "data/" + args.data_name + "/"
     
-    save_path = TRANSCR_DIR + args.transcr_dir + 'flowtron_filelist/'
+    save_path = TRANSCR_DIR + args.transcr_dir + 'filelist/'
     exists = os.path.exists(save_path)
     if not exists:
        # Create the save directory
@@ -61,12 +61,14 @@ def main(args):
             f.write(file_preposition + transcript + '|' + str(speaker_id)) # save to the filelist file
             if i < len(filenames)-1:
                 f.write("\n")
+    
+    print("Saved in:", save_path)
             
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--transcr_dir', type = str, default = 'gentle_mfa_assemblyAI/breath1/token_augmented/segmented_tokens/',
+    parser.add_argument('--transcr_dir', type = str, default = 'gentle_mfa_assemblyAI/breath1/token_augmented/segmented_alignment/',
         help = 'The directory of the transcriptions to consider.')
     
     parser.add_argument('--data_name', type = str, default = 'INTERSPEECH_segmented',

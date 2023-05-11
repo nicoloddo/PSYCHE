@@ -5,7 +5,8 @@
    "end": 220.51,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "on",
@@ -25,7 +26,8 @@
    "start": 220.51,
    "startOffset": 2871,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "alignedWord": "oak",
@@ -45,7 +47,8 @@
    "start": 220.81,
    "startOffset": 2874,
    "word": "Oak",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "oak"
   },
   {
    "alignedWord": "park",
@@ -73,7 +76,8 @@
    "start": 221.02,
    "startOffset": 2878,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "alignedWord": "is",
@@ -93,7 +97,8 @@
    "start": 221.38,
    "startOffset": 2883,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "very",
@@ -121,7 +126,8 @@
    "start": 221.54,
    "startOffset": 2886,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "nice",
@@ -145,7 +151,8 @@
    "start": 221.76,
    "startOffset": 2891,
    "word": "nice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nice"
   },
   {
    "alignedWord": "as",
@@ -165,7 +172,8 @@
    "start": 222.02,
    "startOffset": 2896,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "well",
@@ -189,7 +197,8 @@
    "start": 222.16,
    "startOffset": 2899,
    "word": "well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "alignedWord": "near",
@@ -213,14 +222,16 @@
    "start": 222.47,
    "startOffset": 2905,
    "word": "Near",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "near"
   },
   {
    "start": 222.905,
    "end": 224.56199999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

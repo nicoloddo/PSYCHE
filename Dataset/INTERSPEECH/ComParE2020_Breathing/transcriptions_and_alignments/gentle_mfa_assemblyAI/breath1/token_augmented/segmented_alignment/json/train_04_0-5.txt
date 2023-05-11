@@ -14,7 +14,8 @@
    "start": 3.2,
    "startOffset": 0,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "came",
@@ -38,7 +39,8 @@
    "start": 3.99,
    "startOffset": 2,
    "word": "came",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "came"
   },
   {
    "alignedWord": "to",
@@ -58,7 +60,8 @@
    "start": 4.35,
    "startOffset": 7,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -94,7 +97,8 @@
    "start": 5.15,
    "startOffset": 10,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "um",
@@ -114,14 +118,16 @@
    "start": 6.28,
    "startOffset": 18,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 6.9,
    "end": 7.58,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 120.65,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 120.65,
    "startOffset": 1483,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "think",
@@ -49,7 +51,8 @@
    "start": 120.78,
    "startOffset": 1485,
    "word": "think",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "alignedWord": "my",
@@ -69,7 +72,8 @@
    "start": 121.5,
    "startOffset": 1491,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -105,7 +109,8 @@
    "start": 121.63,
    "startOffset": 1494,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "bit",
@@ -129,7 +134,8 @@
    "start": 122.86,
    "startOffset": 1503,
    "word": "bit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bit"
   },
   {
    "alignedWord": "is",
@@ -149,7 +155,8 @@
    "start": 123.52,
    "startOffset": 1507,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "hampstead",
@@ -193,7 +200,8 @@
    "start": 123.849999,
    "startOffset": 1510,
    "word": "hampstead",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hampstead"
   },
   {
    "alignedWord": "heath",
@@ -217,7 +225,8 @@
    "start": 124.35,
    "startOffset": 1520,
    "word": "heath",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "heath"
   },
   {
    "alignedWord": "and",
@@ -241,7 +250,8 @@
    "start": 124.98,
    "startOffset": 1526,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "um",
@@ -261,7 +271,8 @@
    "start": 125.75,
    "startOffset": 1531,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "going",
@@ -289,7 +300,8 @@
    "start": 126.299999,
    "startOffset": 1535,
    "word": "going",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "going"
   },
   {
    "alignedWord": "to",
@@ -309,7 +321,8 @@
    "start": 126.8,
    "startOffset": 1541,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "places",
@@ -345,7 +358,8 @@
    "start": 127.04,
    "startOffset": 1544,
    "word": "places",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "places"
   },
   {
    "alignedWord": "like",
@@ -369,7 +383,8 @@
    "start": 127.46,
    "startOffset": 1551,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "<unk>",
@@ -385,7 +400,8 @@
    "start": 127.65,
    "startOffset": 1557,
    "word": "Kenwood",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "kenwood"
   },
   {
    "alignedWord": "house",
@@ -409,14 +425,16 @@
    "start": 127.99,
    "startOffset": 1565,
    "word": "House",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "house"
   },
   {
    "start": 128.42,
    "end": 128.82999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

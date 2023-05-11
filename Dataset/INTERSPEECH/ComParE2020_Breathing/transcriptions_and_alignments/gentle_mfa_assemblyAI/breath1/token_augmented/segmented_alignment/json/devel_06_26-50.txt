@@ -5,7 +5,8 @@
    "end": 10.799999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "because",
@@ -37,7 +38,8 @@
    "start": 10.8,
    "startOffset": 126,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "i",
@@ -53,7 +55,8 @@
    "start": 11.24,
    "startOffset": 134,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -77,7 +80,8 @@
    "start": 11.37,
    "startOffset": 136,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "bored",
@@ -105,7 +109,8 @@
    "start": 11.55,
    "startOffset": 140,
    "word": "bored",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bored"
   },
   {
    "alignedWord": "of",
@@ -125,7 +130,8 @@
    "start": 11.8,
    "startOffset": 146,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "my",
@@ -145,7 +151,8 @@
    "start": 11.889999,
    "startOffset": 149,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "job",
@@ -169,7 +176,8 @@
    "start": 12.04,
    "startOffset": 152,
    "word": "job",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "job"
   },
   {
    "alignedWord": "and",
@@ -193,7 +201,8 @@
    "start": 12.36,
    "startOffset": 156,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "thought",
@@ -217,7 +226,8 @@
    "start": 12.52,
    "startOffset": 160,
    "word": "thought",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "thought"
   },
   {
    "alignedWord": "i",
@@ -233,7 +243,8 @@
    "start": 12.78,
    "startOffset": 168,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "should",
@@ -257,7 +268,8 @@
    "start": 12.849999,
    "startOffset": 170,
    "word": "should",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "should"
   },
   {
    "alignedWord": "do",
@@ -277,7 +289,8 @@
    "start": 13.04,
    "startOffset": 177,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "something",
@@ -313,7 +326,8 @@
    "start": 13.21,
    "startOffset": 180,
    "word": "something",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "something"
   },
   {
    "alignedWord": "more",
@@ -337,7 +351,8 @@
    "start": 13.69,
    "startOffset": 190,
    "word": "more",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "more"
   },
   {
    "alignedWord": "useful",
@@ -373,7 +388,8 @@
    "start": 13.91,
    "startOffset": 195,
    "word": "useful",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "useful"
   },
   {
    "alignedWord": "so",
@@ -393,7 +409,8 @@
    "start": 14.41,
    "startOffset": 203,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i",
@@ -409,7 +426,8 @@
    "start": 14.599999,
    "startOffset": 206,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "came",
@@ -433,7 +451,8 @@
    "start": 14.71,
    "startOffset": 208,
    "word": "came",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "came"
   },
   {
    "alignedWord": "to",
@@ -453,7 +472,8 @@
    "start": 15.17,
    "startOffset": 213,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "<unk>",
@@ -469,7 +489,8 @@
    "start": 15.339999,
    "startOffset": 216,
    "word": "ucl",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ucl"
   },
   {
    "alignedWord": "to",
@@ -489,7 +510,8 @@
    "start": 15.75,
    "startOffset": 220,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "study",
@@ -521,7 +543,8 @@
    "start": 15.88,
    "startOffset": 223,
    "word": "study",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "study"
   },
   {
    "alignedWord": "anthropology",
@@ -577,14 +600,16 @@
    "start": 16.16,
    "startOffset": 229,
    "word": "anthropology",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "anthropology"
   },
   {
    "start": 17.01,
    "end": 17.57,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

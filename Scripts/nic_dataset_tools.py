@@ -658,7 +658,9 @@ def print_save_segments_by_index(start_index, end_index, words, json_filename, p
     for i in range(start_index, end_index + 1): # without the +1 end_index would be skipped
         segm_alignment['words'].append(words[i])
         start, end, text = get_info(words[i])
-        segm_transcr += text + ' '
+        if 'converted' not in words[i]:
+            sys.exit("Error: you did not run the token converter.")
+        segm_transcr += words[i]['converted'] + ' '
         if token_segment:
             segm_token_transcr += words[i]['token'] + ' '
         

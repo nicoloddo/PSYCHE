@@ -5,7 +5,8 @@
    "end": 200.829999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "basically",
@@ -45,7 +46,8 @@
    "start": 200.82999900000002,
    "startOffset": 2205,
    "word": "basically",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "basically"
   },
   {
    "alignedWord": "all",
@@ -65,7 +67,8 @@
    "start": 201.32999900000002,
    "startOffset": 2215,
    "word": "all",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "all"
   },
   {
    "alignedWord": "the",
@@ -85,7 +88,8 @@
    "start": 201.549999,
    "startOffset": 2219,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "attractions",
@@ -133,7 +137,8 @@
    "start": 201.699999,
    "startOffset": 2223,
    "word": "attractions",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "attractions"
   },
   {
    "alignedWord": "in",
@@ -153,7 +158,8 @@
    "start": 202.419999,
    "startOffset": 2235,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -189,7 +195,8 @@
    "start": 202.509999,
    "startOffset": 2238,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "and",
@@ -213,14 +220,16 @@
    "start": 203.289999,
    "startOffset": 2246,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "start": 203.729999,
    "end": 204.249999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "it",
@@ -240,7 +249,8 @@
    "start": 204.249999,
    "startOffset": 2250,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "was",
@@ -264,7 +274,8 @@
    "start": 204.349999,
    "startOffset": 2253,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "nice",
@@ -288,7 +299,8 @@
    "start": 205.7,
    "startOffset": 2257,
    "word": "nice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nice"
   },
   {
    "alignedWord": "i",
@@ -304,7 +316,8 @@
    "start": 206.28,
    "startOffset": 2263,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "wouldn't",
@@ -340,7 +353,8 @@
    "start": 206.47,
    "startOffset": 2265,
    "word": "wouldn't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wouldn't"
   },
   {
    "alignedWord": "say",
@@ -360,7 +374,8 @@
    "start": 206.77,
    "startOffset": 2274,
    "word": "say",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "say"
   },
   {
    "alignedWord": "it",
@@ -380,7 +395,8 @@
    "start": 207.389999,
    "startOffset": 2278,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "was",
@@ -404,7 +420,8 @@
    "start": 207.53,
    "startOffset": 2281,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "overrated",
@@ -448,7 +465,8 @@
    "start": 207.71,
    "startOffset": 2285,
    "word": "overrated",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "overrated"
   },
   {
    "alignedWord": "necessarily",
@@ -500,7 +518,8 @@
    "start": 208.37,
    "startOffset": 2295,
    "word": "necessarily",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "necessarily"
   },
   {
    "alignedWord": "but",
@@ -524,7 +543,8 @@
    "start": 209.17,
    "startOffset": 2308,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "um",
@@ -544,14 +564,16 @@
    "start": 209.8,
    "startOffset": 2313,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 210.67000000000002,
    "end": 211.45000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

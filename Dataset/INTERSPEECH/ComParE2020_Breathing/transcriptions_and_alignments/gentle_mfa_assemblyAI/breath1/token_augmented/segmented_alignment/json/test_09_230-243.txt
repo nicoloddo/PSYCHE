@@ -5,7 +5,8 @@
    "end": 79.05,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "so",
@@ -25,7 +26,8 @@
    "start": 79.05,
    "startOffset": 1099,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "for",
@@ -45,7 +47,8 @@
    "start": 79.39,
    "startOffset": 1103,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "example",
@@ -89,7 +92,8 @@
    "start": 79.53,
    "startOffset": 1107,
    "word": "example",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "example"
   },
   {
    "alignedWord": "i",
@@ -105,7 +109,8 @@
    "start": 80.05,
    "startOffset": 1116,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "was",
@@ -129,7 +134,8 @@
    "start": 80.11,
    "startOffset": 1118,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "in",
@@ -149,7 +155,8 @@
    "start": 80.28,
    "startOffset": 1122,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "<unk>",
@@ -165,7 +172,8 @@
    "start": 80.9,
    "startOffset": 1125,
    "word": "primrose",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "primrose"
   },
   {
    "alignedWord": "hill",
@@ -189,7 +197,8 @@
    "start": 81.36,
    "startOffset": 1134,
    "word": "Hill",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hill"
   },
   {
    "alignedWord": "a",
@@ -205,7 +214,8 @@
    "start": 81.59,
    "startOffset": 1139,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "few",
@@ -229,7 +239,8 @@
    "start": 81.639999,
    "startOffset": 1141,
    "word": "few",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "few"
   },
   {
    "alignedWord": "years",
@@ -257,7 +268,8 @@
    "start": 81.83,
    "startOffset": 1145,
    "word": "years",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "years"
   },
   {
    "alignedWord": "ago",
@@ -281,14 +293,16 @@
    "start": 82.11,
    "startOffset": 1151,
    "word": "ago",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ago"
   },
   {
    "start": 82.55,
    "end": 83.16,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

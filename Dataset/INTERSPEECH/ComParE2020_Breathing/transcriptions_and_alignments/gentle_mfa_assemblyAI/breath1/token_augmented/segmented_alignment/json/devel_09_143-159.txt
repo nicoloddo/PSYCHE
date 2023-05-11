@@ -5,7 +5,8 @@
    "end": 62.192,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 62.26,
    "startOffset": 702,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i",
@@ -41,7 +43,8 @@
    "start": 62.75,
    "startOffset": 706,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "am",
@@ -61,7 +64,8 @@
    "start": 63.25,
    "startOffset": 708,
    "word": "am",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "am"
   },
   {
    "alignedWord": "from",
@@ -89,7 +93,8 @@
    "start": 63.5,
    "startOffset": 711,
    "word": "from",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "from"
   },
   {
    "alignedWord": "a",
@@ -105,7 +110,8 @@
    "start": 63.92,
    "startOffset": 716,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "little",
@@ -137,7 +143,8 @@
    "start": 64.16,
    "startOffset": 718,
    "word": "little",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "little"
   },
   {
    "alignedWord": "village",
@@ -169,7 +176,8 @@
    "start": 64.26,
    "startOffset": 725,
    "word": "village",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "village"
   },
   {
    "case": "not-found-in-audio",
@@ -178,7 +186,8 @@
    "word": "in",
    "start": 64.76,
    "end": 64.89,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "the",
@@ -198,7 +207,8 @@
    "start": 64.9,
    "startOffset": 736,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "countryside",
@@ -246,7 +256,8 @@
    "start": 64.98,
    "startOffset": 740,
    "word": "countryside",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "countryside"
   },
   {
    "alignedWord": "in",
@@ -266,7 +277,8 @@
    "start": 65.67,
    "startOffset": 752,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "the",
@@ -286,7 +298,8 @@
    "start": 65.83,
    "startOffset": 755,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "middle",
@@ -318,7 +331,8 @@
    "start": 65.91,
    "startOffset": 759,
    "word": "middle",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "middle"
   },
   {
    "alignedWord": "of",
@@ -338,7 +352,8 @@
    "start": 66.08,
    "startOffset": 766,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "nowhere",
@@ -370,14 +385,16 @@
    "start": 66.2,
    "startOffset": 769,
    "word": "nowhere",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nowhere"
   },
   {
    "start": 66.60000000000001,
    "end": 67.15,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 69.59100000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "quickly",
@@ -41,7 +42,8 @@
    "start": 70.0,
    "startOffset": 1069,
    "word": "quickly",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quickly"
   },
   {
    "alignedWord": "um",
@@ -61,7 +63,8 @@
    "start": 70.369999,
    "startOffset": 1077,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "found",
@@ -89,7 +92,8 @@
    "start": 70.389999,
    "startOffset": 1081,
    "word": "found",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "found"
   },
   {
    "alignedWord": "accommodation",
@@ -141,7 +145,8 @@
    "start": 70.940001,
    "startOffset": 1087,
    "word": "accommodation",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "accommodation"
   },
   {
    "alignedWord": "uh",
@@ -157,7 +162,8 @@
    "start": 71.42,
    "startOffset": 1102,
    "word": "Uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "we'd",
@@ -181,7 +187,8 @@
    "start": 71.440001,
    "startOffset": 1106,
    "word": "we'd",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we'd"
   },
   {
    "alignedWord": "been",
@@ -205,7 +212,8 @@
    "start": 71.719999,
    "startOffset": 1111,
    "word": "been",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "been"
   },
   {
    "alignedWord": "to",
@@ -225,7 +233,8 @@
    "start": 72.02,
    "startOffset": 1116,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "vienna",
@@ -257,7 +266,8 @@
    "start": 72.24,
    "startOffset": 1119,
    "word": "vienna",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "vienna"
   },
   {
    "alignedWord": "once",
@@ -285,7 +295,8 @@
    "start": 72.6,
    "startOffset": 1126,
    "word": "once",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "once"
   },
   {
    "alignedWord": "before",
@@ -317,7 +328,8 @@
    "start": 72.87,
    "startOffset": 1131,
    "word": "before",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "before"
   },
   {
    "alignedWord": "and",
@@ -341,7 +353,8 @@
    "start": 73.22,
    "startOffset": 1139,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "we",
@@ -361,7 +374,8 @@
    "start": 73.35,
    "startOffset": 1143,
    "word": "we",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we"
   },
   {
    "alignedWord": "knew",
@@ -385,7 +399,8 @@
    "start": 73.44,
    "startOffset": 1146,
    "word": "knew",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "knew"
   },
   {
    "alignedWord": "where",
@@ -409,7 +424,8 @@
    "start": 73.61,
    "startOffset": 1151,
    "word": "where",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "where"
   },
   {
    "alignedWord": "to",
@@ -429,7 +445,8 @@
    "start": 73.75,
    "startOffset": 1157,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "stay",
@@ -453,7 +470,8 @@
    "start": 73.87,
    "startOffset": 1160,
    "word": "stay",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "stay"
   },
   {
    "alignedWord": "um",
@@ -473,7 +491,8 @@
    "start": 74.27,
    "startOffset": 1166,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "excellent",
@@ -517,7 +536,8 @@
    "start": 74.82,
    "startOffset": 1170,
    "word": "excellent",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "excellent"
   },
   {
    "alignedWord": "hostel",
@@ -553,7 +573,8 @@
    "start": 75.24,
    "startOffset": 1180,
    "word": "hostel",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hostel"
   },
   {
    "alignedWord": "there",
@@ -577,14 +598,16 @@
    "start": 75.71,
    "startOffset": 1187,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "start": 75.97,
    "end": 76.45,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

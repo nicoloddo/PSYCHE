@@ -5,7 +5,8 @@
    "end": 11.94,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 11.94,
    "startOffset": 145,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i",
@@ -41,7 +43,8 @@
    "start": 12.54,
    "startOffset": 149,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "studied",
@@ -77,7 +80,8 @@
    "start": 12.7,
    "startOffset": 151,
    "word": "studied",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "studied"
   },
   {
    "alignedWord": "cognitive",
@@ -121,7 +125,8 @@
    "start": 13.139999,
    "startOffset": 159,
    "word": "cognitive",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cognitive"
   },
   {
    "alignedWord": "neuroscience",
@@ -173,7 +178,8 @@
    "start": 13.53,
    "startOffset": 169,
    "word": "neuroscience",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "neuroscience"
   },
   {
    "alignedWord": "at",
@@ -193,7 +199,8 @@
    "start": 14.4,
    "startOffset": 182,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "the",
@@ -213,7 +220,8 @@
    "start": 14.77,
    "startOffset": 185,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "<unk>",
@@ -229,7 +237,8 @@
    "start": 15.57,
    "startOffset": 189,
    "word": "icn",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "icn"
   },
   {
    "alignedWord": "which",
@@ -253,7 +262,8 @@
    "start": 16.34,
    "startOffset": 194,
    "word": "which",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "which"
   },
   {
    "alignedWord": "is",
@@ -273,14 +283,16 @@
    "start": 16.549999,
    "startOffset": 200,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "start": 16.849999,
    "end": 17.269999000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

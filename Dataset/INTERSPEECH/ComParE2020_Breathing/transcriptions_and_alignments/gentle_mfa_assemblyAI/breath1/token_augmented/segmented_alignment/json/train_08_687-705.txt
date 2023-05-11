@@ -5,7 +5,8 @@
    "end": 220.12,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 220.12,
    "startOffset": 3227,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "quite",
@@ -53,7 +55,8 @@
    "start": 220.85,
    "startOffset": 3231,
    "word": "quite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "quite"
   },
   {
    "alignedWord": "a",
@@ -69,7 +72,8 @@
    "start": 221.03,
    "startOffset": 3237,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "few",
@@ -93,7 +97,8 @@
    "start": 221.08,
    "startOffset": 3239,
    "word": "few",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "few"
   },
   {
    "alignedWord": "people",
@@ -125,7 +130,8 @@
    "start": 221.22,
    "startOffset": 3243,
    "word": "people",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "people"
   },
   {
    "alignedWord": "visit",
@@ -157,7 +163,8 @@
    "start": 221.5,
    "startOffset": 3250,
    "word": "visit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "visit"
   },
   {
    "alignedWord": "london",
@@ -193,7 +200,8 @@
    "start": 221.77,
    "startOffset": 3256,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "but",
@@ -217,7 +225,8 @@
    "start": 222.09,
    "startOffset": 3263,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "don't",
@@ -245,7 +254,8 @@
    "start": 222.26,
    "startOffset": 3267,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "know",
@@ -265,7 +275,8 @@
    "start": 222.43,
    "startOffset": 3273,
    "word": "know",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "know"
   },
   {
    "alignedWord": "about",
@@ -293,7 +304,8 @@
    "start": 222.57,
    "startOffset": 3278,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "the",
@@ -313,7 +325,8 @@
    "start": 222.8,
    "startOffset": 3284,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "heath",
@@ -337,7 +350,8 @@
    "start": 222.89,
    "startOffset": 3288,
    "word": "heath",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "heath"
   },
   {
    "alignedWord": "um",
@@ -357,7 +371,8 @@
    "start": 223.58,
    "startOffset": 3295,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "hansen",
@@ -393,7 +408,8 @@
    "start": 223.84,
    "startOffset": 3299,
    "word": "hansen",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hansen"
   },
   {
    "alignedWord": "heath",
@@ -417,7 +433,8 @@
    "start": 224.15,
    "startOffset": 3306,
    "word": "heath",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "heath"
   },
   {
    "alignedWord": "so",
@@ -437,14 +454,16 @@
    "start": 224.559999,
    "startOffset": 3313,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "start": 224.949999,
    "end": 225.635999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

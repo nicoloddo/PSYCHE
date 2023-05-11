@@ -5,7 +5,8 @@
    "end": 57.22,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "in",
@@ -25,7 +26,8 @@
    "start": 57.22,
    "startOffset": 975,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "a",
@@ -41,7 +43,8 @@
    "start": 57.38,
    "startOffset": 978,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "restaurant",
@@ -85,7 +88,8 @@
    "start": 57.44,
    "startOffset": 980,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "that",
@@ -109,7 +113,8 @@
    "start": 57.83,
    "startOffset": 991,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "constantly",
@@ -161,7 +166,8 @@
    "start": 58.0,
    "startOffset": 996,
    "word": "constantly",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "constantly"
   },
   {
    "alignedWord": "plates",
@@ -193,7 +199,8 @@
    "start": 58.36,
    "startOffset": 1007,
    "word": "plates",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "plates"
   },
   {
    "alignedWord": "heavy",
@@ -221,7 +228,8 @@
    "start": 58.84,
    "startOffset": 1014,
    "word": "heavy",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "heavy"
   },
   {
    "alignedWord": "metal",
@@ -253,14 +261,16 @@
    "start": 59.09,
    "startOffset": 1020,
    "word": "metal",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "metal"
   },
   {
    "start": 59.611000000000004,
    "end": 60.050000000000004,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -280,14 +290,16 @@
    "start": 60.05,
    "startOffset": 1027,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 60.489999999999995,
    "end": 60.919999999999995,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

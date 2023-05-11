@@ -5,7 +5,8 @@
    "end": 154.31,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 154.309999,
    "startOffset": 2107,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 154.62,
    "startOffset": 2111,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "my",
@@ -69,7 +72,8 @@
    "start": 154.76,
    "startOffset": 2115,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -105,7 +109,8 @@
    "start": 154.889999,
    "startOffset": 2118,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "food",
@@ -129,7 +134,8 @@
    "start": 155.34,
    "startOffset": 2127,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "alignedWord": "that",
@@ -153,7 +159,8 @@
    "start": 155.599999,
    "startOffset": 2132,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "they",
@@ -173,7 +180,8 @@
    "start": 155.71,
    "startOffset": 2137,
    "word": "they",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "they"
   },
   {
    "alignedWord": "do",
@@ -193,7 +201,8 @@
    "start": 155.809999,
    "startOffset": 2142,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "there",
@@ -217,7 +226,8 @@
    "start": 155.94,
    "startOffset": 2145,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "is",
@@ -237,7 +247,8 @@
    "start": 156.12,
    "startOffset": 2151,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "the",
@@ -257,7 +268,8 @@
    "start": 156.29,
    "startOffset": 2154,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "tofu",
@@ -285,7 +297,8 @@
    "start": 156.46,
    "startOffset": 2158,
    "word": "Tofu",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tofu"
   },
   {
    "alignedWord": "<unk>",
@@ -301,7 +314,8 @@
    "start": 156.75,
    "startOffset": 2163,
    "word": "katsu",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "katsu"
   },
   {
    "alignedWord": "curry",
@@ -325,14 +339,16 @@
    "start": 157.049999,
    "startOffset": 2169,
    "word": "curry",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "curry"
   },
   {
    "start": 157.59299900000002,
    "end": 158.339999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

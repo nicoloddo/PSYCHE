@@ -5,7 +5,8 @@
    "end": 117.64,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,7 +30,8 @@
    "start": 117.639999,
    "startOffset": 1660,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "<unk>",
@@ -45,7 +47,8 @@
    "start": 118.03,
    "startOffset": 1664,
    "word": "hackney",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hackney"
   },
   {
    "alignedWord": "downs",
@@ -73,7 +76,8 @@
    "start": 118.41,
    "startOffset": 1672,
    "word": "Downs",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "downs"
   },
   {
    "alignedWord": "so",
@@ -93,7 +97,8 @@
    "start": 119.13,
    "startOffset": 1679,
    "word": "So",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i",
@@ -109,7 +114,8 @@
    "start": 119.33,
    "startOffset": 1683,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "live",
@@ -133,7 +139,8 @@
    "start": 119.429999,
    "startOffset": 1685,
    "word": "live",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "live"
   },
   {
    "alignedWord": "in",
@@ -153,7 +160,8 @@
    "start": 119.59,
    "startOffset": 1690,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "<unk>",
@@ -169,7 +177,8 @@
    "start": 119.7,
    "startOffset": 1693,
    "word": "hackney",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hackney"
   },
   {
    "alignedWord": "and",
@@ -193,7 +202,8 @@
    "start": 120.23,
    "startOffset": 1701,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "stoke",
@@ -221,7 +231,8 @@
    "start": 120.349999,
    "startOffset": 1705,
    "word": "Stoke",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "stoke"
   },
   {
    "alignedWord": "<unk>",
@@ -237,14 +248,16 @@
    "start": 120.639999,
    "startOffset": 1711,
    "word": "newington",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "newington"
   },
   {
    "start": 121.229999,
    "end": 121.65999900000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

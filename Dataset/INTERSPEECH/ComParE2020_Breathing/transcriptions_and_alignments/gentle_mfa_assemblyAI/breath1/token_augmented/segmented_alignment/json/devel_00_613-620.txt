@@ -5,7 +5,8 @@
    "end": 220.146,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "guess",
@@ -29,7 +30,8 @@
    "start": 220.22,
    "startOffset": 2870,
    "word": "guess",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guess"
   },
   {
    "alignedWord": "in",
@@ -49,7 +51,8 @@
    "start": 221.18,
    "startOffset": 2876,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -85,7 +88,8 @@
    "start": 221.45,
    "startOffset": 2879,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "the",
@@ -105,7 +109,8 @@
    "start": 222.14,
    "startOffset": 2886,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "best",
@@ -133,7 +138,8 @@
    "start": 222.26,
    "startOffset": 2890,
    "word": "best",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "best"
   },
   {
    "alignedWord": "things",
@@ -161,14 +167,16 @@
    "start": 223.12,
    "startOffset": 2895,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "start": 223.963,
    "end": 224.44,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

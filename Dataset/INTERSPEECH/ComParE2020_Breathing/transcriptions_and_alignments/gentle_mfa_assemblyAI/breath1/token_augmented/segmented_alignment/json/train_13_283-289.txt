@@ -5,7 +5,8 @@
    "end": 107.2,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 107.19999899999999,
    "startOffset": 1277,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "guess",
@@ -45,7 +47,8 @@
    "start": 107.34,
    "startOffset": 1279,
    "word": "guess",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guess"
   },
   {
    "alignedWord": "things",
@@ -73,7 +76,8 @@
    "start": 107.75,
    "startOffset": 1285,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "are",
@@ -89,7 +93,8 @@
    "start": 108.049999,
    "startOffset": 1292,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "expensive",
@@ -137,14 +142,16 @@
    "start": 108.1,
    "startOffset": 1296,
    "word": "expensive",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "expensive"
   },
   {
    "start": 109.98899999999999,
    "end": 112.16999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

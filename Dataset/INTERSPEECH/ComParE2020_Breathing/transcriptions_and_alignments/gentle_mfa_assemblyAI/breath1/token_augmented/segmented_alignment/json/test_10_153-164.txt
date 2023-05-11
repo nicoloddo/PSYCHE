@@ -5,7 +5,8 @@
    "end": 54.720000999999996,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "you",
@@ -25,7 +26,8 @@
    "start": 54.72,
    "startOffset": 773,
    "word": "You",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "feel",
@@ -49,7 +51,8 @@
    "start": 54.87,
    "startOffset": 777,
    "word": "feel",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "feel"
   },
   {
    "alignedWord": "like",
@@ -73,7 +76,8 @@
    "start": 55.13,
    "startOffset": 782,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "you're",
@@ -97,7 +101,8 @@
    "start": 55.32,
    "startOffset": 787,
    "word": "you're",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you're"
   },
   {
    "alignedWord": "fighting",
@@ -129,7 +134,8 @@
    "start": 55.47,
    "startOffset": 794,
    "word": "fighting",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fighting"
   },
   {
    "alignedWord": "for",
@@ -149,7 +155,8 @@
    "start": 56.0,
    "startOffset": 803,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "space",
@@ -177,7 +184,8 @@
    "start": 56.17,
    "startOffset": 807,
    "word": "space",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "space"
   },
   {
    "alignedWord": "all",
@@ -197,7 +205,8 @@
    "start": 56.77,
    "startOffset": 813,
    "word": "all",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "all"
   },
   {
    "alignedWord": "the",
@@ -217,7 +226,8 @@
    "start": 57.03,
    "startOffset": 817,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "time",
@@ -241,14 +251,16 @@
    "start": 57.14,
    "startOffset": 821,
    "word": "time",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "time"
   },
   {
    "start": 57.67,
    "end": 61.72,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

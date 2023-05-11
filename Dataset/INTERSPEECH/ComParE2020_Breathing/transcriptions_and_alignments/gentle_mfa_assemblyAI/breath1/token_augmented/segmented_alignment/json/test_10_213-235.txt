@@ -5,7 +5,8 @@
    "end": 81.14,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 81.139999,
    "startOffset": 1072,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "being",
@@ -53,7 +55,8 @@
    "start": 81.99,
    "startOffset": 1076,
    "word": "being",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "being"
   },
   {
    "alignedWord": "served",
@@ -81,7 +84,8 @@
    "start": 82.349999,
    "startOffset": 1082,
    "word": "served",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "served"
   },
   {
    "alignedWord": "wine",
@@ -105,7 +109,8 @@
    "start": 82.78,
    "startOffset": 1089,
    "word": "wine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wine"
   },
   {
    "alignedWord": "from",
@@ -133,7 +138,8 @@
    "start": 83.259999,
    "startOffset": 1094,
    "word": "from",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "from"
   },
   {
    "alignedWord": "a",
@@ -149,7 +155,8 @@
    "start": 83.49,
    "startOffset": 1099,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "chalice",
@@ -181,7 +188,8 @@
    "start": 83.57,
    "startOffset": 1101,
    "word": "chalice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "chalice"
   },
   {
    "alignedWord": "or",
@@ -201,7 +209,8 @@
    "start": 84.49,
    "startOffset": 1110,
    "word": "Or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "you",
@@ -221,7 +230,8 @@
    "start": 84.639999,
    "startOffset": 1113,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "may",
@@ -241,7 +251,8 @@
    "start": 84.77,
    "startOffset": 1117,
    "word": "may",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "may"
   },
   {
    "alignedWord": "be",
@@ -261,7 +272,8 @@
    "start": 84.969999,
    "startOffset": 1121,
    "word": "be",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "be"
   },
   {
    "alignedWord": "sitting",
@@ -293,7 +305,8 @@
    "start": 85.13,
    "startOffset": 1124,
    "word": "sitting",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sitting"
   },
   {
    "alignedWord": "staring",
@@ -329,7 +342,8 @@
    "start": 85.559999,
    "startOffset": 1132,
    "word": "staring",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "staring"
   },
   {
    "alignedWord": "at",
@@ -349,7 +363,8 @@
    "start": 86.07,
    "startOffset": 1140,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "a",
@@ -365,7 +380,8 @@
    "start": 86.179999,
    "startOffset": 1143,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "<unk>",
@@ -381,7 +397,8 @@
    "start": 86.299999,
    "startOffset": 1145,
    "word": "pulpit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pulpit"
   },
   {
    "alignedWord": "with",
@@ -405,7 +422,8 @@
    "start": 86.86,
    "startOffset": 1152,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "no",
@@ -425,7 +443,8 @@
    "start": 87.03999999999999,
    "startOffset": 1157,
    "word": "no",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "no"
   },
   {
    "alignedWord": "minister",
@@ -465,7 +484,8 @@
    "start": 87.21000000000001,
    "startOffset": 1160,
    "word": "minister",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "minister"
   },
   {
    "alignedWord": "in",
@@ -485,7 +505,8 @@
    "start": 87.799999,
    "startOffset": 1169,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "it",
@@ -505,14 +526,16 @@
    "start": 87.94,
    "startOffset": 1172,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "start": 88.14999999999999,
    "end": 88.77,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 84.22399999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "one",
@@ -29,7 +30,8 @@
    "start": 84.509999,
    "startOffset": 1420,
    "word": "one",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "one"
   },
   {
    "alignedWord": "for",
@@ -49,7 +51,8 @@
    "start": 84.67,
    "startOffset": 1424,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "biology",
@@ -89,7 +92,8 @@
    "start": 84.77,
    "startOffset": 1428,
    "word": "biology",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "biology"
   },
   {
    "alignedWord": "he",
@@ -109,7 +113,8 @@
    "start": 85.389999,
    "startOffset": 1437,
    "word": "He",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "he"
   },
   {
    "alignedWord": "was",
@@ -133,7 +138,8 @@
    "start": 85.429999,
    "startOffset": 1440,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "in",
@@ -153,7 +159,8 @@
    "start": 85.549999,
    "startOffset": 1444,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "a",
@@ -169,7 +176,8 @@
    "start": 85.66,
    "startOffset": 1447,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "race",
@@ -193,7 +201,8 @@
    "start": 85.73,
    "startOffset": 1449,
    "word": "race",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "race"
   },
   {
    "alignedWord": "with",
@@ -217,7 +226,8 @@
    "start": 85.98,
    "startOffset": 1454,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "watson",
@@ -253,7 +263,8 @@
    "start": 86.09,
    "startOffset": 1459,
    "word": "Watson",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "watson"
   },
   {
    "alignedWord": "and",
@@ -277,7 +288,8 @@
    "start": 86.389999,
    "startOffset": 1466,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "crick",
@@ -305,7 +317,8 @@
    "start": 86.48,
    "startOffset": 1470,
    "word": "crick",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "crick"
   },
   {
    "alignedWord": "for",
@@ -325,7 +338,8 @@
    "start": 86.69,
    "startOffset": 1476,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "<unk>",
@@ -341,14 +355,16 @@
    "start": 87.44,
    "startOffset": 1480,
    "word": "DNA",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "dna"
   },
   {
    "start": 87.45,
    "end": 87.82000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

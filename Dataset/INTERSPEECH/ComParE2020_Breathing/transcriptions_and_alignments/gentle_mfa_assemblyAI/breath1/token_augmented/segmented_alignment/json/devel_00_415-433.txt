@@ -5,7 +5,8 @@
    "end": 153.326999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,7 +22,8 @@
    "start": 153.559999,
    "startOffset": 1960,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "i",
@@ -37,7 +39,8 @@
    "start": 153.73,
    "startOffset": 1964,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "wasn't",
@@ -73,7 +76,8 @@
    "start": 153.82,
    "startOffset": 1966,
    "word": "wasn't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wasn't"
   },
   {
    "alignedWord": "really",
@@ -101,7 +105,8 @@
    "start": 154.059999,
    "startOffset": 1973,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "into",
@@ -129,7 +134,8 @@
    "start": 154.3,
    "startOffset": 1980,
    "word": "into",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "into"
   },
   {
    "alignedWord": "the",
@@ -149,7 +155,8 @@
    "start": 154.69,
    "startOffset": 1985,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "surgical",
@@ -189,7 +196,8 @@
    "start": 154.8,
    "startOffset": 1989,
    "word": "surgical",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "surgical"
   },
   {
    "alignedWord": "aspects",
@@ -229,7 +237,8 @@
    "start": 155.389999,
    "startOffset": 1998,
    "word": "aspects",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "aspects"
   },
   {
    "alignedWord": "of",
@@ -249,7 +258,8 @@
    "start": 155.98,
    "startOffset": 2006,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "medicine",
@@ -289,7 +299,8 @@
    "start": 156.21,
    "startOffset": 2009,
    "word": "medicine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "medicine"
   },
   {
    "alignedWord": "and",
@@ -313,7 +324,8 @@
    "start": 156.639999,
    "startOffset": 2019,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "so",
@@ -333,7 +345,8 @@
    "start": 156.759999,
    "startOffset": 2023,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "we",
@@ -353,7 +366,8 @@
    "start": 157.0,
    "startOffset": 2026,
    "word": "we",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we"
   },
   {
    "alignedWord": "obviously",
@@ -397,7 +411,8 @@
    "start": 157.469999,
    "startOffset": 2029,
    "word": "obviously",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "obviously"
   },
   {
    "alignedWord": "had",
@@ -421,7 +436,8 @@
    "start": 157.67,
    "startOffset": 2039,
    "word": "had",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "had"
   },
   {
    "alignedWord": "to",
@@ -441,7 +457,8 @@
    "start": 157.799999,
    "startOffset": 2043,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "do",
@@ -461,14 +478,16 @@
    "start": 157.91,
    "startOffset": 2046,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "start": 158.25,
    "end": 158.63,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

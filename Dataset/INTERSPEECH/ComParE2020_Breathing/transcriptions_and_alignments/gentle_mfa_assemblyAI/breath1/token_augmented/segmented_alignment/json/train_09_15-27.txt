@@ -5,7 +5,8 @@
    "end": 6.23,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i'm",
@@ -25,7 +26,8 @@
    "start": 6.23,
    "startOffset": 83,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "alignedWord": "studying",
@@ -65,7 +67,8 @@
    "start": 6.51,
    "startOffset": 87,
    "word": "studying",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "studying"
   },
   {
    "alignedWord": "applied",
@@ -97,7 +100,8 @@
    "start": 6.99,
    "startOffset": 96,
    "word": "applied",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "applied"
   },
   {
    "alignedWord": "pediatric",
@@ -145,7 +149,8 @@
    "start": 7.36,
    "startOffset": 104,
    "word": "pediatric",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pediatric"
   },
   {
    "alignedWord": "<unk>",
@@ -161,7 +166,8 @@
    "start": 7.86,
    "startOffset": 114,
    "word": "neuropsychology",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "neuropsychology"
   },
   {
    "alignedWord": "in",
@@ -181,7 +187,8 @@
    "start": 8.929999,
    "startOffset": 130,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "the",
@@ -201,7 +208,8 @@
    "start": 9.449999,
    "startOffset": 133,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "institute",
@@ -245,7 +253,8 @@
    "start": 9.469999000000001,
    "startOffset": 137,
    "word": "Institute",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "institute"
   },
   {
    "alignedWord": "of",
@@ -265,7 +274,8 @@
    "start": 9.639999000000001,
    "startOffset": 147,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "child",
@@ -293,7 +303,8 @@
    "start": 9.719999000000001,
    "startOffset": 150,
    "word": "Child",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "child"
   },
   {
    "alignedWord": "health",
@@ -321,14 +332,16 @@
    "start": 10.049999000000001,
    "startOffset": 156,
    "word": "Health",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "health"
   },
   {
    "start": 10.569999000000001,
    "end": 11.189999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

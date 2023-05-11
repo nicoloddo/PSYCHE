@@ -5,7 +5,8 @@
    "end": 44.741,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 44.88,
    "startOffset": 514,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i",
@@ -41,7 +43,8 @@
    "start": 46.37,
    "startOffset": 518,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "worked",
@@ -69,7 +72,8 @@
    "start": 46.38,
    "startOffset": 520,
    "word": "worked",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "worked"
   },
   {
    "alignedWord": "full",
@@ -93,7 +97,8 @@
    "start": 46.48,
    "startOffset": 527,
    "word": "full",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "full"
   },
   {
    "alignedWord": "time",
@@ -117,7 +122,8 @@
    "start": 46.63,
    "startOffset": 532,
    "word": "time",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "time"
   },
   {
    "alignedWord": "at",
@@ -137,7 +143,8 @@
    "start": 47.07,
    "startOffset": 537,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "various",
@@ -173,7 +180,8 @@
    "start": 47.46,
    "startOffset": 540,
    "word": "various",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "various"
   },
   {
    "alignedWord": "cafes",
@@ -205,14 +213,16 @@
    "start": 47.849999,
    "startOffset": 548,
    "word": "cafes",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cafes"
   },
   {
    "start": 48.499998999999995,
    "end": 49.079998999999994,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

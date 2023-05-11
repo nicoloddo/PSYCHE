@@ -5,7 +5,8 @@
    "end": 9.504,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "case": "not-found-in-audio",
@@ -14,7 +15,8 @@
    "word": "uh",
    "start": 9.6,
    "end": 9.61,
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "case": "not-found-in-audio",
@@ -23,7 +25,8 @@
    "word": "in",
    "start": 9.61,
    "end": 9.67,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "here",
@@ -47,7 +50,8 @@
    "start": 9.67,
    "startOffset": 115,
    "word": "here",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "here"
   },
   {
    "alignedWord": "london",
@@ -83,7 +87,8 @@
    "start": 9.92,
    "startOffset": 128,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "so",
@@ -103,7 +108,8 @@
    "start": 10.37,
    "startOffset": 136,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i",
@@ -119,7 +125,8 @@
    "start": 10.87,
    "startOffset": 139,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "moved",
@@ -147,7 +154,8 @@
    "start": 11.559999,
    "startOffset": 141,
    "word": "moved",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "moved"
   },
   {
    "alignedWord": "here",
@@ -171,7 +179,8 @@
    "start": 11.889999,
    "startOffset": 147,
    "word": "here",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "here"
   },
   {
    "alignedWord": "to",
@@ -191,7 +200,8 @@
    "start": 12.179999,
    "startOffset": 152,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "join",
@@ -215,7 +225,8 @@
    "start": 12.3,
    "startOffset": 155,
    "word": "join",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "join"
   },
   {
    "alignedWord": "him",
@@ -239,7 +250,8 @@
    "start": 12.53,
    "startOffset": 160,
    "word": "him",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "him"
   },
   {
    "alignedWord": "here",
@@ -263,14 +275,16 @@
    "start": 12.679999,
    "startOffset": 164,
    "word": "here",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "here"
   },
   {
    "start": 12.904999,
    "end": 13.349999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

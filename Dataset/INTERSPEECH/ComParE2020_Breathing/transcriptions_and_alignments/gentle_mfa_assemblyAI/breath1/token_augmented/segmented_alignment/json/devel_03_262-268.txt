@@ -5,7 +5,8 @@
    "end": 129.29999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 129.29999899999999,
    "startOffset": 1210,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 130.629999,
    "end": 131.009999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "bali",
@@ -60,7 +63,8 @@
    "start": 131.009999,
    "startOffset": 1214,
    "word": "bali",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bali"
   },
   {
    "alignedWord": "in",
@@ -80,7 +84,8 @@
    "start": 132.22,
    "startOffset": 1219,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "indonesia",
@@ -124,14 +129,16 @@
    "start": 132.24,
    "startOffset": 1222,
    "word": "Indonesia",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "indonesia"
   },
   {
    "start": 132.95000000000002,
    "end": 133.32000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

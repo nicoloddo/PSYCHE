@@ -26,7 +26,8 @@
    "start": 0.57,
    "startOffset": 0,
    "word": "What",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "what"
   },
   {
    "alignedWord": "brings",
@@ -58,7 +59,8 @@
    "start": 0.82,
    "startOffset": 5,
    "word": "brings",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "brings"
   },
   {
    "alignedWord": "you",
@@ -78,7 +80,8 @@
    "start": 1.14,
    "startOffset": 12,
    "word": "you",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "you"
   },
   {
    "alignedWord": "to",
@@ -98,7 +101,8 @@
    "start": 1.45,
    "startOffset": 16,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -134,7 +138,8 @@
    "start": 1.66,
    "startOffset": 19,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "um",
@@ -154,7 +159,8 @@
    "start": 2.26,
    "startOffset": 27,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "i",
@@ -170,7 +176,8 @@
    "start": 3.09,
    "startOffset": 31,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "moved",
@@ -198,7 +205,8 @@
    "start": 3.2,
    "startOffset": 33,
    "word": "moved",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "moved"
   },
   {
    "alignedWord": "here",
@@ -222,7 +230,8 @@
    "start": 3.58,
    "startOffset": 39,
    "word": "here",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "here"
   },
   {
    "alignedWord": "to",
@@ -242,14 +251,16 @@
    "start": 4.07,
    "startOffset": 44,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "start": 4.640000000000001,
    "end": 5.290000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 125.24999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "of",
@@ -25,7 +26,8 @@
    "start": 125.24999899999999,
    "startOffset": 1191,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "australia",
@@ -69,14 +71,16 @@
    "start": 125.38999899999999,
    "startOffset": 1194,
    "word": "Australia",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "australia"
   },
   {
    "start": 126.149999,
    "end": 126.939999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -100,14 +104,16 @@
    "start": 126.93999899999999,
    "startOffset": 1205,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "start": 128.849999,
    "end": 129.29999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

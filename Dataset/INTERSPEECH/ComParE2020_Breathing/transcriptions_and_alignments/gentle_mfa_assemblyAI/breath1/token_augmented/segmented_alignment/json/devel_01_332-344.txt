@@ -5,7 +5,8 @@
    "end": 109.92,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,7 +30,8 @@
    "start": 109.92,
    "startOffset": 1594,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "uh",
@@ -45,7 +47,8 @@
    "start": 110.57,
    "startOffset": 1598,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "i",
@@ -61,7 +64,8 @@
    "start": 110.78,
    "startOffset": 1602,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "do",
@@ -81,7 +85,8 @@
    "start": 110.91,
    "startOffset": 1604,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "like",
@@ -105,7 +110,8 @@
    "start": 111.13,
    "startOffset": 1607,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "the",
@@ -125,7 +131,8 @@
    "start": 112.03,
    "startOffset": 1612,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "cosmopolitan",
@@ -185,7 +192,8 @@
    "start": 112.22,
    "startOffset": 1616,
    "word": "cosmopolitan",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cosmopolitan"
   },
   {
    "alignedWord": "nature",
@@ -213,7 +221,8 @@
    "start": 113.01,
    "startOffset": 1629,
    "word": "nature",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nature"
   },
   {
    "alignedWord": "of",
@@ -233,7 +242,8 @@
    "start": 113.32,
    "startOffset": 1636,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "the",
@@ -253,7 +263,8 @@
    "start": 113.44,
    "startOffset": 1639,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "city",
@@ -281,14 +292,16 @@
    "start": 113.53,
    "startOffset": 1643,
    "word": "city",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "city"
   },
   {
    "start": 114.04,
    "end": 114.46000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

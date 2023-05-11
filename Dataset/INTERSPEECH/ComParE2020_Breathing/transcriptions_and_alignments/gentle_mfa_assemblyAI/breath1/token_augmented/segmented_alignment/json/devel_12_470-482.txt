@@ -5,7 +5,8 @@
    "end": 153.24999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 153.25,
    "startOffset": 2329,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "my",
@@ -45,7 +47,8 @@
    "start": 153.62,
    "startOffset": 2333,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -81,7 +84,8 @@
    "start": 153.76,
    "startOffset": 2336,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurant",
@@ -125,7 +129,8 @@
    "start": 154.23,
    "startOffset": 2345,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "in",
@@ -145,7 +150,8 @@
    "start": 154.73,
    "startOffset": 2356,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -181,7 +187,8 @@
    "start": 154.889999,
    "startOffset": 2359,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "is",
@@ -201,7 +208,8 @@
    "start": 155.24,
    "startOffset": 2366,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "this",
@@ -225,7 +233,8 @@
    "start": 155.42,
    "startOffset": 2369,
    "word": "this",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "this"
   },
   {
    "alignedWord": "place",
@@ -253,7 +262,8 @@
    "start": 155.63,
    "startOffset": 2374,
    "word": "place",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "place"
   },
   {
    "alignedWord": "called",
@@ -281,7 +291,8 @@
    "start": 156.0,
    "startOffset": 2380,
    "word": "called",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "called"
   },
   {
    "alignedWord": "um",
@@ -301,14 +312,16 @@
    "start": 157.099999,
    "startOffset": 2388,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 157.759999,
    "end": 159.51999899999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

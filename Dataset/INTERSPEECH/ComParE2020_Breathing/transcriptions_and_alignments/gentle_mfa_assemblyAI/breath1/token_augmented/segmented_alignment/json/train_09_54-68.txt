@@ -5,7 +5,8 @@
    "end": 18.37,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "because",
@@ -37,7 +38,8 @@
    "start": 18.369999,
    "startOffset": 287,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "i",
@@ -53,7 +55,8 @@
    "start": 18.84,
    "startOffset": 295,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "only",
@@ -81,7 +84,8 @@
    "start": 18.969999,
    "startOffset": 297,
    "word": "only",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "only"
   },
   {
    "alignedWord": "get",
@@ -105,7 +109,8 @@
    "start": 19.27,
    "startOffset": 302,
    "word": "get",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "get"
   },
   {
    "alignedWord": "a",
@@ -121,7 +126,8 @@
    "start": 19.51,
    "startOffset": 306,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "loan",
@@ -145,7 +151,8 @@
    "start": 19.61,
    "startOffset": 308,
    "word": "loan",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "loan"
   },
   {
    "alignedWord": "that",
@@ -169,7 +176,8 @@
    "start": 19.87,
    "startOffset": 313,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "doesn't",
@@ -205,7 +213,8 @@
    "start": 20.02,
    "startOffset": 318,
    "word": "doesn't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "doesn't"
   },
   {
    "alignedWord": "even",
@@ -233,7 +242,8 @@
    "start": 20.259999999999998,
    "startOffset": 326,
    "word": "even",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "even"
   },
   {
    "alignedWord": "cover",
@@ -261,7 +271,8 @@
    "start": 20.44,
    "startOffset": 331,
    "word": "cover",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cover"
   },
   {
    "alignedWord": "my",
@@ -281,7 +292,8 @@
    "start": 20.68,
    "startOffset": 337,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "course",
@@ -309,7 +321,8 @@
    "start": 20.83,
    "startOffset": 340,
    "word": "course",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "course"
   },
   {
    "alignedWord": "fees",
@@ -333,14 +346,16 @@
    "start": 21.09,
    "startOffset": 347,
    "word": "fees",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fees"
   },
   {
    "start": 21.52,
    "end": 22.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

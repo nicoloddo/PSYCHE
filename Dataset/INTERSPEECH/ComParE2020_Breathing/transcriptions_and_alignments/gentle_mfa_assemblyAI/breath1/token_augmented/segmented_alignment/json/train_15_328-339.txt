@@ -5,7 +5,8 @@
    "end": 93.92999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 93.93,
    "startOffset": 1585,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "it",
@@ -45,7 +47,8 @@
    "start": 94.5,
    "startOffset": 1589,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "would",
@@ -69,7 +72,8 @@
    "start": 94.67,
    "startOffset": 1592,
    "word": "would",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "would"
   },
   {
    "alignedWord": "obey",
@@ -93,7 +97,8 @@
    "start": 94.81,
    "startOffset": 1598,
    "word": "obey",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "obey"
   },
   {
    "alignedWord": "cancer",
@@ -125,14 +130,16 @@
    "start": 95.13,
    "startOffset": 1603,
    "word": "cancer",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cancer"
   },
   {
    "start": 95.75,
    "end": 96.19,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -156,14 +163,16 @@
    "start": 96.19,
    "startOffset": 1611,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "start": 96.58,
    "end": 96.98,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "because",
@@ -195,7 +204,8 @@
    "start": 96.98,
    "startOffset": 1615,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "i",
@@ -211,14 +221,16 @@
    "start": 97.28,
    "startOffset": 1623,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "start": 97.57000000000001,
    "end": 97.96000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

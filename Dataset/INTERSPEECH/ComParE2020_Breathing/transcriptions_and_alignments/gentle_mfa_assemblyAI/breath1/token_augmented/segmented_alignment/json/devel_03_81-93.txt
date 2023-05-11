@@ -5,7 +5,8 @@
    "end": 39.99,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,7 +30,8 @@
    "start": 39.99,
    "startOffset": 405,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -45,7 +47,8 @@
    "start": 40.38,
    "startOffset": 409,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "hope",
@@ -69,7 +72,8 @@
    "start": 40.56,
    "startOffset": 411,
    "word": "hope",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hope"
   },
   {
    "alignedWord": "to",
@@ -89,7 +93,8 @@
    "start": 40.9,
    "startOffset": 416,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "be",
@@ -109,7 +114,8 @@
    "start": 41.09,
    "startOffset": 419,
    "word": "be",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "be"
   },
   {
    "alignedWord": "a",
@@ -125,7 +131,8 @@
    "start": 41.63,
    "startOffset": 422,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "uh",
@@ -141,7 +148,8 @@
    "start": 41.92,
    "startOffset": 425,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "developmental",
@@ -205,7 +213,8 @@
    "start": 42.0,
    "startOffset": 429,
    "word": "developmental",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "developmental"
   },
   {
    "alignedWord": "or",
@@ -221,7 +230,8 @@
    "start": 42.97,
    "startOffset": 443,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "child",
@@ -249,7 +259,8 @@
    "start": 43.04,
    "startOffset": 446,
    "word": "child",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "child"
   },
   {
    "alignedWord": "psychologist",
@@ -301,14 +312,16 @@
    "start": 43.35,
    "startOffset": 452,
    "word": "psychologist",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "psychologist"
   },
   {
    "start": 44.35,
    "end": 46.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

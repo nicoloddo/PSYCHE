@@ -5,7 +5,8 @@
    "end": 179.192,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 179.42000000000002,
    "startOffset": 2738,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 179.84,
    "end": 180.93,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "yeah",
@@ -52,7 +55,8 @@
    "start": 180.93,
    "startOffset": 2741,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "i",
@@ -68,7 +72,8 @@
    "start": 181.209999,
    "startOffset": 2747,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "haven't",
@@ -100,7 +105,8 @@
    "start": 181.26,
    "startOffset": 2749,
    "word": "haven't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "haven't"
   },
   {
    "alignedWord": "really",
@@ -128,7 +134,8 @@
    "start": 181.34,
    "startOffset": 2757,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "been",
@@ -152,7 +159,8 @@
    "start": 181.5,
    "startOffset": 2764,
    "word": "been",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "been"
   },
   {
    "alignedWord": "to",
@@ -172,7 +180,8 @@
    "start": 181.71,
    "startOffset": 2769,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "many",
@@ -200,7 +209,8 @@
    "start": 181.8,
    "startOffset": 2772,
    "word": "many",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "many"
   },
   {
    "alignedWord": "of",
@@ -220,7 +230,8 @@
    "start": 181.92,
    "startOffset": 2777,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "case": "not-found-in-audio",
@@ -229,7 +240,8 @@
    "word": "the",
    "start": 182.02,
    "end": 182.02,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "tourist",
@@ -265,7 +277,8 @@
    "start": 182.02,
    "startOffset": 2784,
    "word": "tourist",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tourist"
   },
   {
    "alignedWord": "attractions",
@@ -313,7 +326,8 @@
    "start": 182.31,
    "startOffset": 2792,
    "word": "attractions",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "attractions"
   },
   {
    "alignedWord": "i",
@@ -329,7 +343,8 @@
    "start": 182.97,
    "startOffset": 2805,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "case": "not-found-in-audio",
@@ -338,7 +353,8 @@
    "word": "haven't",
    "start": 183.03,
    "end": 183.219,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "haven't"
   },
   {
    "alignedWord": "been",
@@ -362,7 +378,8 @@
    "start": 183.22,
    "startOffset": 2815,
    "word": "been",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "been"
   },
   {
    "alignedWord": "to",
@@ -382,7 +399,8 @@
    "start": 183.37,
    "startOffset": 2820,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -418,7 +436,8 @@
    "start": 183.5,
    "startOffset": 2823,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "eye",
@@ -434,7 +453,8 @@
    "start": 183.8,
    "startOffset": 2830,
    "word": "eye",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "eye"
   },
   {
    "alignedWord": "very",
@@ -462,7 +482,8 @@
    "start": 184.47,
    "startOffset": 2834,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "expensive",
@@ -510,14 +531,16 @@
    "start": 184.68,
    "startOffset": 2839,
    "word": "expensive",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "expensive"
   },
   {
    "start": 185.41,
    "end": 185.9,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

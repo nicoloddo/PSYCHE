@@ -5,7 +5,8 @@
    "end": 221.736,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "case": "not-found-in-audio",
@@ -14,14 +15,16 @@
    "word": "of",
    "start": 221.92,
    "end": 222.01,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "start": 222.529,
    "end": 223.16,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -37,7 +40,8 @@
    "start": 223.16,
    "startOffset": 2678,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "had",
@@ -61,7 +65,8 @@
    "start": 223.26,
    "startOffset": 2680,
    "word": "had",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "had"
   },
   {
    "alignedWord": "never",
@@ -89,7 +94,8 @@
    "start": 223.36,
    "startOffset": 2684,
    "word": "never",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "never"
   },
   {
    "alignedWord": "even",
@@ -117,7 +123,8 @@
    "start": 223.58,
    "startOffset": 2690,
    "word": "even",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "even"
   },
   {
    "alignedWord": "seen",
@@ -141,7 +148,8 @@
    "start": 223.88,
    "startOffset": 2695,
    "word": "seen",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "seen"
   },
   {
    "alignedWord": "my",
@@ -161,7 +169,8 @@
    "start": 224.11,
    "startOffset": 2700,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "<unk>",
@@ -177,14 +186,16 @@
    "start": 224.59,
    "startOffset": 2703,
    "word": "vp",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "vp"
   },
   {
    "start": 225.39000000000001,
    "end": 225.82000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

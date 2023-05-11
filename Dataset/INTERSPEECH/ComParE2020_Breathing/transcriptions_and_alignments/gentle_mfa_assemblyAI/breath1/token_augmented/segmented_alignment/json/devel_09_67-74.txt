@@ -5,7 +5,8 @@
    "end": 28.673,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "for",
@@ -29,7 +30,8 @@
    "start": 28.75,
    "startOffset": 337,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "archaeology",
@@ -77,7 +79,8 @@
    "start": 29.07,
    "startOffset": 341,
    "word": "archaeology",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "archaeology"
   },
   {
    "alignedWord": "uh",
@@ -93,7 +96,8 @@
    "start": 30.09,
    "startOffset": 354,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "that",
@@ -117,7 +121,8 @@
    "start": 30.369999999999997,
    "startOffset": 358,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "was",
@@ -141,7 +146,8 @@
    "start": 30.509999,
    "startOffset": 363,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "a",
@@ -157,14 +163,16 @@
    "start": 30.679999000000002,
    "startOffset": 367,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "start": 31.054999000000002,
    "end": 31.679999000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

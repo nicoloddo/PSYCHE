@@ -5,7 +5,8 @@
    "end": 29.09,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 29.09,
    "startOffset": 407,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 29.759999,
    "startOffset": 411,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -65,7 +68,8 @@
    "start": 29.9,
    "startOffset": 415,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "like",
@@ -89,7 +93,8 @@
    "start": 30.0,
    "startOffset": 417,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "london",
@@ -125,7 +130,8 @@
    "start": 30.240000000000002,
    "startOffset": 422,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "because",
@@ -157,7 +163,8 @@
    "start": 30.59,
    "startOffset": 429,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "there's",
@@ -185,7 +192,8 @@
    "start": 30.91,
    "startOffset": 437,
    "word": "there's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there's"
   },
   {
    "alignedWord": "lots",
@@ -213,7 +221,8 @@
    "start": 31.09,
    "startOffset": 445,
    "word": "lots",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lots"
   },
   {
    "alignedWord": "of",
@@ -233,7 +242,8 @@
    "start": 31.28,
    "startOffset": 450,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "stuff",
@@ -261,7 +271,8 @@
    "start": 31.369999999999997,
    "startOffset": 453,
    "word": "stuff",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "stuff"
   },
   {
    "alignedWord": "going",
@@ -289,7 +300,8 @@
    "start": 31.65,
    "startOffset": 459,
    "word": "going",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "going"
   },
   {
    "alignedWord": "on",
@@ -309,7 +321,8 @@
    "start": 31.969999,
    "startOffset": 465,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "alignedWord": "it's",
@@ -333,7 +346,8 @@
    "start": 32.7,
    "startOffset": 469,
    "word": "It's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "very",
@@ -361,7 +375,8 @@
    "start": 33.04,
    "startOffset": 474,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "buzzing",
@@ -393,7 +408,8 @@
    "start": 33.95,
    "startOffset": 479,
    "word": "buzzing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "buzzing"
   },
   {
    "alignedWord": "with",
@@ -417,7 +433,8 @@
    "start": 34.639999,
    "startOffset": 487,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "culture",
@@ -449,7 +466,8 @@
    "start": 35.059999000000005,
    "startOffset": 492,
    "word": "culture",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "culture"
   },
   {
    "alignedWord": "and",
@@ -473,7 +491,8 @@
    "start": 35.719999,
    "startOffset": 500,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "case": "not-found-in-audio",
@@ -482,7 +501,8 @@
    "word": "arts",
    "start": 35.99,
    "end": 36.55,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "arts"
   },
   {
    "alignedWord": "and",
@@ -506,7 +526,8 @@
    "start": 36.61,
    "startOffset": 509,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "music",
@@ -542,14 +563,16 @@
    "start": 37.2,
    "startOffset": 513,
    "word": "music",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "music"
   },
   {
    "start": 37.870000000000005,
    "end": 38.480000000000004,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

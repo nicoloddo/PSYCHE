@@ -5,7 +5,8 @@
    "end": 10.959999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 10.96,
    "startOffset": 111,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "started",
@@ -61,7 +63,8 @@
    "start": 11.2,
    "startOffset": 113,
    "word": "started",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "started"
   },
   {
    "alignedWord": "first",
@@ -89,7 +92,8 @@
    "start": 11.74,
    "startOffset": 121,
    "word": "first",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "first"
   },
   {
    "alignedWord": "working",
@@ -121,7 +125,8 @@
    "start": 12.17,
    "startOffset": 127,
    "word": "working",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "working"
   },
   {
    "alignedWord": "at",
@@ -141,7 +146,8 @@
    "start": 12.69,
    "startOffset": 135,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "an",
@@ -161,7 +167,8 @@
    "start": 13.21,
    "startOffset": 138,
    "word": "an",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "an"
   },
   {
    "alignedWord": "institution",
@@ -213,7 +220,8 @@
    "start": 13.429999,
    "startOffset": 141,
    "word": "institution",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "institution"
   },
   {
    "alignedWord": "called",
@@ -241,7 +249,8 @@
    "start": 14.099999,
    "startOffset": 153,
    "word": "called",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "called"
   },
   {
    "alignedWord": "london",
@@ -277,7 +286,8 @@
    "start": 14.48,
    "startOffset": 160,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "<unk>",
@@ -293,7 +303,8 @@
    "start": 14.969999,
    "startOffset": 167,
    "word": "guildhall",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guildhall"
   },
   {
    "alignedWord": "university",
@@ -345,14 +356,16 @@
    "start": 15.48,
    "startOffset": 177,
    "word": "University",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "university"
   },
   {
    "start": 16.25,
    "end": 16.89,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

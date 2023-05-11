@@ -18,14 +18,16 @@
    "start": 0.75,
    "startOffset": 0,
    "word": "M",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "m"
   },
   {
    "start": 0.85,
    "end": 1.62,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -41,7 +43,8 @@
    "start": 1.62,
    "startOffset": 3,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "came",
@@ -65,7 +68,8 @@
    "start": 1.77,
    "startOffset": 5,
    "word": "came",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "came"
   },
   {
    "alignedWord": "to",
@@ -85,7 +89,8 @@
    "start": 2.01,
    "startOffset": 10,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -121,7 +126,8 @@
    "start": 2.11,
    "startOffset": 13,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "about",
@@ -149,7 +155,8 @@
    "start": 2.83,
    "startOffset": 20,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "six",
@@ -177,7 +184,8 @@
    "start": 3.66,
    "startOffset": 26,
    "word": "six",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "six"
   },
   {
    "alignedWord": "years",
@@ -201,7 +209,8 @@
    "start": 4.0,
    "startOffset": 30,
    "word": "years",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "years"
   },
   {
    "alignedWord": "ago",
@@ -225,7 +234,8 @@
    "start": 4.22,
    "startOffset": 36,
    "word": "ago",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ago"
   },
   {
    "alignedWord": "to",
@@ -245,7 +255,8 @@
    "start": 4.72,
    "startOffset": 40,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "study",
@@ -277,14 +288,16 @@
    "start": 4.99,
    "startOffset": 43,
    "word": "study",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "study"
   },
   {
    "start": 5.61,
    "end": 6.0600000000000005,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

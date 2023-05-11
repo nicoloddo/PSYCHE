@@ -14,7 +14,8 @@
    "start": 1.54,
    "startOffset": 0,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "came",
@@ -38,7 +39,8 @@
    "start": 1.7,
    "startOffset": 2,
    "word": "came",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "came"
   },
   {
    "alignedWord": "to",
@@ -58,7 +60,8 @@
    "start": 2.03,
    "startOffset": 7,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -94,7 +97,8 @@
    "start": 2.17,
    "startOffset": 10,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "for",
@@ -114,7 +118,8 @@
    "start": 2.59,
    "startOffset": 17,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "work",
@@ -138,7 +143,8 @@
    "start": 2.79,
    "startOffset": 21,
    "word": "work",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "work"
   },
   {
    "alignedWord": "largely",
@@ -174,7 +180,8 @@
    "start": 3.56,
    "startOffset": 26,
    "word": "largely",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "largely"
   },
   {
    "alignedWord": "by",
@@ -194,7 +201,8 @@
    "start": 4.04,
    "startOffset": 34,
    "word": "by",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "by"
   },
   {
    "alignedWord": "necessity",
@@ -238,7 +246,8 @@
    "start": 4.16,
    "startOffset": 37,
    "word": "necessity",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "necessity"
   },
   {
    "alignedWord": "because",
@@ -270,7 +279,8 @@
    "start": 4.82,
    "startOffset": 48,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "of",
@@ -290,7 +300,8 @@
    "start": 5.48,
    "startOffset": 56,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "a",
@@ -306,7 +317,8 @@
    "start": 5.58,
    "startOffset": 59,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "lack",
@@ -330,7 +342,8 @@
    "start": 5.63,
    "startOffset": 61,
    "word": "lack",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lack"
   },
   {
    "alignedWord": "of",
@@ -350,7 +363,8 @@
    "start": 5.88,
    "startOffset": 66,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "interesting",
@@ -398,7 +412,8 @@
    "start": 6.0,
    "startOffset": 69,
    "word": "interesting",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "interesting"
   },
   {
    "alignedWord": "opportunities",
@@ -450,14 +465,16 @@
    "start": 6.46,
    "startOffset": 81,
    "word": "opportunities",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "opportunities"
   },
   {
    "start": 7.28,
    "end": 7.720000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 215.38999900000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "<unk>",
@@ -21,7 +22,8 @@
    "start": 215.389999,
    "startOffset": 3591,
    "word": "BBC",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bbc"
   },
   {
    "alignedWord": "news",
@@ -45,7 +47,8 @@
    "start": 215.91,
    "startOffset": 3595,
    "word": "News",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "news"
   },
   {
    "alignedWord": "articles",
@@ -89,7 +92,8 @@
    "start": 215.99,
    "startOffset": 3600,
    "word": "articles",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "articles"
   },
   {
    "alignedWord": "or",
@@ -105,7 +109,8 @@
    "start": 216.35,
    "startOffset": 3609,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "whatever",
@@ -141,7 +146,8 @@
    "start": 216.38,
    "startOffset": 3612,
    "word": "whatever",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "whatever"
   },
   {
    "alignedWord": "come",
@@ -165,7 +171,8 @@
    "start": 216.66,
    "startOffset": 3621,
    "word": "come",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "come"
   },
   {
    "alignedWord": "out",
@@ -185,7 +192,8 @@
    "start": 216.87,
    "startOffset": 3626,
    "word": "out",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "out"
   },
   {
    "alignedWord": "that",
@@ -209,7 +217,8 @@
    "start": 217.09,
    "startOffset": 3630,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "say",
@@ -229,7 +238,8 @@
    "start": 217.23,
    "startOffset": 3635,
    "word": "say",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "say"
   },
   {
    "alignedWord": "the",
@@ -249,7 +259,8 @@
    "start": 217.48,
    "startOffset": 3639,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "most",
@@ -273,7 +284,8 @@
    "start": 218.17,
    "startOffset": 3643,
    "word": "most",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "most"
   },
   {
    "alignedWord": "polluted",
@@ -313,7 +325,8 @@
    "start": 218.43,
    "startOffset": 3648,
    "word": "polluted",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "polluted"
   },
   {
    "alignedWord": "places",
@@ -349,7 +362,8 @@
    "start": 219.01,
    "startOffset": 3657,
    "word": "places",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "places"
   },
   {
    "alignedWord": "in",
@@ -369,7 +383,8 @@
    "start": 219.43,
    "startOffset": 3664,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "the",
@@ -389,7 +404,8 @@
    "start": 219.52,
    "startOffset": 3667,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "city",
@@ -417,14 +433,16 @@
    "start": 219.6,
    "startOffset": 3671,
    "word": "city",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "city"
   },
   {
    "start": 220.18,
    "end": 220.94,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

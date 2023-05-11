@@ -5,7 +5,8 @@
    "end": 209.25400000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "doing",
@@ -33,7 +34,8 @@
    "start": 209.28,
    "startOffset": 3301,
    "word": "doing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "doing"
   },
   {
    "alignedWord": "um",
@@ -53,7 +55,8 @@
    "start": 209.49,
    "startOffset": 3308,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "interesting",
@@ -101,7 +104,8 @@
    "start": 209.639999,
    "startOffset": 3312,
    "word": "interesting",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "interesting"
   },
   {
    "alignedWord": "projects",
@@ -141,7 +145,8 @@
    "start": 210.15,
    "startOffset": 3324,
    "word": "projects",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "projects"
   },
   {
    "alignedWord": "my",
@@ -161,7 +166,8 @@
    "start": 210.62,
    "startOffset": 3334,
    "word": "My",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "own",
@@ -181,7 +187,8 @@
    "start": 210.849999,
    "startOffset": 3337,
    "word": "own",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "own"
   },
   {
    "alignedWord": "project",
@@ -221,7 +228,8 @@
    "start": 210.87,
    "startOffset": 3341,
    "word": "project",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "project"
   },
   {
    "alignedWord": "is",
@@ -241,7 +249,8 @@
    "start": 211.36,
    "startOffset": 3349,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "um",
@@ -261,14 +270,16 @@
    "start": 211.559999,
    "startOffset": 3353,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 212.029999,
    "end": 212.744999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

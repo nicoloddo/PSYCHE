@@ -5,7 +5,8 @@
    "end": 152.45,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 152.45,
    "startOffset": 1902,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "as",
@@ -45,7 +47,8 @@
    "start": 152.76,
    "startOffset": 1906,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "well",
@@ -69,7 +72,8 @@
    "start": 152.95,
    "startOffset": 1909,
    "word": "well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "alignedWord": "as",
@@ -89,7 +93,8 @@
    "start": 153.139999,
    "startOffset": 1914,
    "word": "as",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "as"
   },
   {
    "alignedWord": "people",
@@ -121,7 +126,8 @@
    "start": 153.38,
    "startOffset": 1917,
    "word": "people",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "people"
   },
   {
    "alignedWord": "from",
@@ -145,7 +151,8 @@
    "start": 153.73,
    "startOffset": 1924,
    "word": "from",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "from"
   },
   {
    "alignedWord": "spain",
@@ -173,7 +180,8 @@
    "start": 153.98,
    "startOffset": 1929,
    "word": "Spain",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "spain"
   },
   {
    "alignedWord": "portugal",
@@ -217,14 +225,16 @@
    "start": 154.469999,
    "startOffset": 1936,
    "word": "Portugal",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "portugal"
   },
   {
    "start": 155.149999,
    "end": 156.129999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

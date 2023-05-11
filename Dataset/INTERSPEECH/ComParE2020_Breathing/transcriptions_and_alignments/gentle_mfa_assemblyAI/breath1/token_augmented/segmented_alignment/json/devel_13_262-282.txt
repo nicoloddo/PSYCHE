@@ -5,7 +5,8 @@
    "end": 101.578,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "restaurant",
@@ -49,7 +50,8 @@
    "start": 101.98,
    "startOffset": 1217,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "at",
@@ -69,7 +71,8 @@
    "start": 103.15,
    "startOffset": 1229,
    "word": "At",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "the",
@@ -89,7 +92,8 @@
    "start": 103.36,
    "startOffset": 1232,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "moment",
@@ -125,14 +129,16 @@
    "start": 103.49,
    "startOffset": 1236,
    "word": "moment",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "moment"
   },
   {
    "start": 104.53,
    "end": 105.11,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -148,7 +154,8 @@
    "start": 105.11,
    "startOffset": 1243,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "don't",
@@ -172,7 +179,8 @@
    "start": 105.25,
    "startOffset": 1245,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "really",
@@ -200,7 +208,8 @@
    "start": 105.4,
    "startOffset": 1251,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "have",
@@ -224,7 +233,8 @@
    "start": 105.63,
    "startOffset": 1258,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "a",
@@ -240,7 +250,8 @@
    "start": 105.809999,
    "startOffset": 1263,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "favorite",
@@ -276,7 +287,8 @@
    "start": 105.88,
    "startOffset": 1265,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurant",
@@ -320,7 +332,8 @@
    "start": 106.279999,
    "startOffset": 1274,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "case": "not-found-in-audio",
@@ -329,7 +342,8 @@
    "word": "but",
    "start": 107.12,
    "end": 107.21,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "i",
@@ -345,7 +359,8 @@
    "start": 107.299999,
    "startOffset": 1290,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "did",
@@ -369,7 +384,8 @@
    "start": 107.309999,
    "startOffset": 1292,
    "word": "did",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "did"
   },
   {
    "alignedWord": "hear",
@@ -393,7 +409,8 @@
    "start": 107.59,
    "startOffset": 1296,
    "word": "hear",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hear"
   },
   {
    "alignedWord": "that",
@@ -417,7 +434,8 @@
    "start": 107.83,
    "startOffset": 1301,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "roti",
@@ -445,7 +463,8 @@
    "start": 108.049999,
    "startOffset": 1306,
    "word": "Roti",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "roti"
   },
   {
    "alignedWord": "king",
@@ -469,14 +488,16 @@
    "start": 108.37,
    "startOffset": 1311,
    "word": "King",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "king"
   },
   {
    "start": 108.80000000000001,
    "end": 109.48000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

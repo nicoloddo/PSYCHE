@@ -5,7 +5,8 @@
    "end": 117.24000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 117.24,
    "startOffset": 1955,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 117.71,
    "end": 118.05,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "some",
@@ -56,7 +59,8 @@
    "start": 118.179999,
    "startOffset": 1959,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "things",
@@ -84,7 +88,8 @@
    "start": 118.44,
    "startOffset": 1964,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "i",
@@ -100,7 +105,8 @@
    "start": 118.7,
    "startOffset": 1971,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "do",
@@ -120,7 +126,8 @@
    "start": 118.76,
    "startOffset": 1973,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "not",
@@ -144,7 +151,8 @@
    "start": 118.94,
    "startOffset": 1976,
    "word": "not",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "not"
   },
   {
    "alignedWord": "like",
@@ -168,7 +176,8 @@
    "start": 119.28,
    "startOffset": 1980,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "about",
@@ -196,7 +205,8 @@
    "start": 119.45,
    "startOffset": 1985,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "london",
@@ -232,7 +242,8 @@
    "start": 119.74,
    "startOffset": 1991,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "i",
@@ -248,7 +259,8 @@
    "start": 120.599999,
    "startOffset": 1999,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "feel",
@@ -272,7 +284,8 @@
    "start": 120.679999,
    "startOffset": 2001,
    "word": "feel",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "feel"
   },
   {
    "alignedWord": "like",
@@ -296,7 +309,8 @@
    "start": 120.809999,
    "startOffset": 2006,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "this",
@@ -320,7 +334,8 @@
    "start": 120.929999,
    "startOffset": 2011,
    "word": "this",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "this"
   },
   {
    "alignedWord": "is",
@@ -340,7 +355,8 @@
    "start": 121.03,
    "startOffset": 2016,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "not",
@@ -364,7 +380,8 @@
    "start": 121.17,
    "startOffset": 2019,
    "word": "not",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "not"
   },
   {
    "alignedWord": "like",
@@ -388,7 +405,8 @@
    "start": 121.38,
    "startOffset": 2024,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "specific",
@@ -432,7 +450,8 @@
    "start": 121.53,
    "startOffset": 2030,
    "word": "specific",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "specific"
   },
   {
    "alignedWord": "to",
@@ -452,7 +471,8 @@
    "start": 121.95,
    "startOffset": 2039,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -488,14 +508,16 @@
    "start": 122.03999999999999,
    "startOffset": 2042,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "start": 122.53999999999999,
    "end": 122.88999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

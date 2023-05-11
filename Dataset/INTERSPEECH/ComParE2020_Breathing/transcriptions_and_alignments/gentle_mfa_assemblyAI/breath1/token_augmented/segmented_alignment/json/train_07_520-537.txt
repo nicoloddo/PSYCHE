@@ -5,7 +5,8 @@
    "end": 157.051,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "that",
@@ -29,7 +30,8 @@
    "start": 157.309999,
    "startOffset": 2460,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "ah",
@@ -45,7 +47,8 @@
    "start": 157.389999,
    "startOffset": 2466,
    "word": "ah",
-   "token": "<disfl.ah>"
+   "token": "<disfl.ah>",
+   "converted": "<disfl.ah>"
   },
   {
    "alignedWord": "so",
@@ -65,7 +68,8 @@
    "start": 157.48,
    "startOffset": 2470,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i",
@@ -81,7 +85,8 @@
    "start": 157.74,
    "startOffset": 2473,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "don't",
@@ -109,7 +114,8 @@
    "start": 157.79,
    "startOffset": 2475,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "uh",
@@ -125,7 +131,8 @@
    "start": 158.19,
    "startOffset": 2482,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "look",
@@ -149,7 +156,8 @@
    "start": 158.469999,
    "startOffset": 2486,
    "word": "look",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "look"
   },
   {
    "alignedWord": "like",
@@ -173,7 +181,8 @@
    "start": 158.679999,
    "startOffset": 2491,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "too",
@@ -193,7 +202,8 @@
    "start": 158.849999,
    "startOffset": 2496,
    "word": "too",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "too"
   },
   {
    "alignedWord": "much",
@@ -217,7 +227,8 @@
    "start": 158.99,
    "startOffset": 2500,
    "word": "much",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "much"
   },
   {
    "alignedWord": "of",
@@ -237,7 +248,8 @@
    "start": 159.17,
    "startOffset": 2505,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "a",
@@ -253,7 +265,8 @@
    "start": 159.27,
    "startOffset": 2508,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "wimp",
@@ -281,7 +294,8 @@
    "start": 159.32,
    "startOffset": 2510,
    "word": "wimp",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "wimp"
   },
   {
    "alignedWord": "when",
@@ -305,7 +319,8 @@
    "start": 159.599999,
    "startOffset": 2515,
    "word": "when",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "when"
   },
   {
    "alignedWord": "i'm",
@@ -325,7 +340,8 @@
    "start": 159.809999,
    "startOffset": 2520,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "alignedWord": "<unk>",
@@ -341,14 +357,16 @@
    "start": 160.23,
    "startOffset": 2524,
    "word": "nervously",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nervously"
   },
   {
    "start": 160.56,
    "end": 160.982,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

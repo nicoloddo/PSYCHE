@@ -5,7 +5,8 @@
    "end": 60.1,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "but",
@@ -29,7 +30,8 @@
    "start": 60.1,
    "startOffset": 744,
    "word": "But",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "yeah",
@@ -49,7 +51,8 @@
    "start": 60.36,
    "startOffset": 748,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "london's",
@@ -89,7 +92,8 @@
    "start": 60.96,
    "startOffset": 754,
    "word": "London's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london's"
   },
   {
    "alignedWord": "not",
@@ -113,7 +117,8 @@
    "start": 61.37,
    "startOffset": 763,
    "word": "not",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "not"
   },
   {
    "alignedWord": "bad",
@@ -137,7 +142,8 @@
    "start": 61.5,
    "startOffset": 767,
    "word": "bad",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bad"
   },
   {
    "alignedWord": "at",
@@ -157,7 +163,8 @@
    "start": 61.7,
    "startOffset": 771,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "all",
@@ -177,7 +184,8 @@
    "start": 61.8,
    "startOffset": 774,
    "word": "all",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "all"
   },
   {
    "alignedWord": "do",
@@ -197,14 +205,16 @@
    "start": 61.82,
    "startOffset": 779,
    "word": "Do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "start": 62.205,
    "end": 63.02,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 28.65,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "free",
@@ -29,7 +30,8 @@
    "start": 28.65,
    "startOffset": 372,
    "word": "free",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "free"
   },
   {
    "alignedWord": "of",
@@ -49,7 +51,8 @@
    "start": 29.23,
    "startOffset": 377,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "charge",
@@ -77,7 +80,8 @@
    "start": 29.380000000000003,
    "startOffset": 380,
    "word": "charge",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "charge"
   },
   {
    "alignedWord": "and",
@@ -101,7 +105,8 @@
    "start": 29.91,
    "startOffset": 387,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "see",
@@ -121,7 +126,8 @@
    "start": 30.08,
    "startOffset": 391,
    "word": "see",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "see"
   },
   {
    "alignedWord": "the",
@@ -141,7 +147,8 @@
    "start": 30.59,
    "startOffset": 395,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "many",
@@ -169,7 +176,8 @@
    "start": 30.719999,
    "startOffset": 399,
    "word": "many",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "many"
   },
   {
    "alignedWord": "great",
@@ -197,7 +205,8 @@
    "start": 31.009999,
    "startOffset": 404,
    "word": "great",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "great"
   },
   {
    "alignedWord": "buildings",
@@ -237,14 +246,16 @@
    "start": 31.29,
    "startOffset": 410,
    "word": "buildings",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "buildings"
   },
   {
    "start": 31.98,
    "end": 32.38,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

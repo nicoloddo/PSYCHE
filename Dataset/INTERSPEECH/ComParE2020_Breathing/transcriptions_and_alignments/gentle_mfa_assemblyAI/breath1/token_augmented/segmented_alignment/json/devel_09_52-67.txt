@@ -5,7 +5,8 @@
    "end": 21.43,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 21.43,
    "startOffset": 247,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 22.21,
    "startOffset": 251,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "then",
@@ -73,7 +76,8 @@
    "start": 22.35,
    "startOffset": 255,
    "word": "then",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "then"
   },
   {
    "alignedWord": "the",
@@ -93,7 +97,8 @@
    "start": 22.77,
    "startOffset": 260,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "following",
@@ -129,7 +134,8 @@
    "start": 22.88,
    "startOffset": 264,
    "word": "following",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "following"
   },
   {
    "alignedWord": "week",
@@ -153,7 +159,8 @@
    "start": 23.17,
    "startOffset": 274,
    "word": "week",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "week"
   },
   {
    "alignedWord": "i",
@@ -169,7 +176,8 @@
    "start": 23.56,
    "startOffset": 280,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "submitted",
@@ -213,7 +221,8 @@
    "start": 24.53,
    "startOffset": 282,
    "word": "submitted",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "submitted"
   },
   {
    "alignedWord": "an",
@@ -233,7 +242,8 @@
    "start": 24.93,
    "startOffset": 292,
    "word": "an",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "an"
   },
   {
    "alignedWord": "application",
@@ -281,7 +291,8 @@
    "start": 25.009999999999998,
    "startOffset": 295,
    "word": "application",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "application"
   },
   {
    "alignedWord": "for",
@@ -305,7 +316,8 @@
    "start": 25.740000000000002,
    "startOffset": 307,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "university",
@@ -357,7 +369,8 @@
    "start": 26.32,
    "startOffset": 311,
    "word": "University",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "university"
   },
   {
    "alignedWord": "college",
@@ -389,7 +402,8 @@
    "start": 26.82,
    "startOffset": 322,
    "word": "College",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "college"
   },
   {
    "alignedWord": "london",
@@ -425,14 +439,16 @@
    "start": 27.11,
    "startOffset": 330,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "start": 27.599999999999998,
    "end": 28.673,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

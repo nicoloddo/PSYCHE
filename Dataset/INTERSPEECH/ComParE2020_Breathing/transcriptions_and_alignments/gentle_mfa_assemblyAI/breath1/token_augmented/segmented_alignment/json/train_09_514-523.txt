@@ -5,7 +5,8 @@
    "end": 185.622,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "in",
@@ -25,7 +26,8 @@
    "start": 185.7,
    "startOffset": 2405,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "<unk>",
@@ -41,7 +43,8 @@
    "start": 185.88,
    "startOffset": 2408,
    "word": "brixton",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "brixton"
   },
   {
    "alignedWord": "so",
@@ -61,7 +64,8 @@
    "start": 186.56,
    "startOffset": 2417,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "that",
@@ -85,7 +89,8 @@
    "start": 186.69,
    "startOffset": 2420,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "would",
@@ -109,7 +114,8 @@
    "start": 186.81,
    "startOffset": 2425,
    "word": "would",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "would"
   },
   {
    "alignedWord": "be",
@@ -129,7 +135,8 @@
    "start": 186.95,
    "startOffset": 2431,
    "word": "be",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "be"
   },
   {
    "alignedWord": "cool",
@@ -153,7 +160,8 @@
    "start": 187.05,
    "startOffset": 2434,
    "word": "cool",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cool"
   },
   {
    "alignedWord": "um",
@@ -173,14 +181,16 @@
    "start": 187.8,
    "startOffset": 2440,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 188.52,
    "end": 189.70000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

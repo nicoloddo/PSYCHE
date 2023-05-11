@@ -5,7 +5,8 @@
    "end": 192.12,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "enjoyed",
@@ -37,7 +38,8 @@
    "start": 192.12,
    "startOffset": 3298,
    "word": "enjoyed",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "enjoyed"
   },
   {
    "alignedWord": "um",
@@ -57,7 +59,8 @@
    "start": 192.91,
    "startOffset": 3307,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "other",
@@ -81,7 +84,8 @@
    "start": 193.58,
    "startOffset": 3311,
    "word": "other",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "other"
   },
   {
    "alignedWord": "things",
@@ -109,7 +113,8 @@
    "start": 193.83,
    "startOffset": 3317,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "that",
@@ -133,7 +138,8 @@
    "start": 194.15,
    "startOffset": 3324,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "i've",
@@ -153,7 +159,8 @@
    "start": 194.299999,
    "startOffset": 3329,
    "word": "I've",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i've"
   },
   {
    "alignedWord": "done",
@@ -177,7 +184,8 @@
    "start": 194.49,
    "startOffset": 3334,
    "word": "done",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "done"
   },
   {
    "alignedWord": "i've",
@@ -197,7 +205,8 @@
    "start": 194.889999,
    "startOffset": 3340,
    "word": "I've",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i've"
   },
   {
    "alignedWord": "sometimes",
@@ -237,7 +246,8 @@
    "start": 195.03,
    "startOffset": 3345,
    "word": "sometimes",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sometimes"
   },
   {
    "alignedWord": "gone",
@@ -261,7 +271,8 @@
    "start": 195.42,
    "startOffset": 3355,
    "word": "gone",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "gone"
   },
   {
    "alignedWord": "on",
@@ -281,7 +292,8 @@
    "start": 195.69,
    "startOffset": 3360,
    "word": "on",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "on"
   },
   {
    "alignedWord": "the",
@@ -301,14 +313,16 @@
    "start": 195.88,
    "startOffset": 3363,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "start": 196.319,
    "end": 196.947,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

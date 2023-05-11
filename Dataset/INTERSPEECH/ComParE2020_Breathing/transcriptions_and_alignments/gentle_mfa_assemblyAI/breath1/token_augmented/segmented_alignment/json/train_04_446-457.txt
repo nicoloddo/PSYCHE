@@ -5,7 +5,8 @@
    "end": 200.26000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 200.26,
    "startOffset": 1975,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 200.95899999999997,
    "end": 201.55599999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "british",
@@ -68,7 +71,8 @@
    "start": 201.61,
    "startOffset": 1979,
    "word": "British",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "british"
   },
   {
    "alignedWord": "library",
@@ -108,7 +112,8 @@
    "start": 201.92,
    "startOffset": 1987,
    "word": "Library",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "library"
   },
   {
    "alignedWord": "uh",
@@ -124,7 +129,8 @@
    "start": 202.27,
    "startOffset": 1996,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "not",
@@ -148,7 +154,8 @@
    "start": 202.48,
    "startOffset": 2000,
    "word": "not",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "not"
   },
   {
    "alignedWord": "the",
@@ -168,7 +175,8 @@
    "start": 202.68,
    "startOffset": 2004,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "british",
@@ -204,7 +212,8 @@
    "start": 202.77,
    "startOffset": 2008,
    "word": "British",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "british"
   },
   {
    "alignedWord": "library",
@@ -244,7 +253,8 @@
    "start": 203.01,
    "startOffset": 2016,
    "word": "Library",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "library"
   },
   {
    "alignedWord": "the",
@@ -264,14 +274,16 @@
    "start": 203.58,
    "startOffset": 2025,
    "word": "The",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "start": 204.244,
    "end": 204.99,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

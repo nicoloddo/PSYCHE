@@ -5,7 +5,8 @@
    "end": 57.67,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "well",
@@ -29,7 +30,8 @@
    "start": 57.67,
    "startOffset": 803,
    "word": "Well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "alignedWord": "i've",
@@ -49,7 +51,8 @@
    "start": 58.24,
    "startOffset": 809,
    "word": "I've",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i've"
   },
   {
    "alignedWord": "spoken",
@@ -85,7 +88,8 @@
    "start": 58.36,
    "startOffset": 814,
    "word": "spoken",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "spoken"
   },
   {
    "alignedWord": "about",
@@ -113,7 +117,8 @@
    "start": 58.71,
    "startOffset": 821,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "the",
@@ -133,7 +138,8 @@
    "start": 59.28,
    "startOffset": 827,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "transport",
@@ -181,7 +187,8 @@
    "start": 59.4,
    "startOffset": 831,
    "word": "transport",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "transport"
   },
   {
    "alignedWord": "system",
@@ -217,14 +224,16 @@
    "start": 59.84,
    "startOffset": 841,
    "word": "system",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "system"
   },
   {
    "start": 60.440000000000005,
    "end": 61.290000000000006,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

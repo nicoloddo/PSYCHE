@@ -5,7 +5,8 @@
    "end": 38.82,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "uh",
@@ -21,14 +22,16 @@
    "start": 38.82,
    "startOffset": 333,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "start": 39.27,
    "end": 39.81,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "different",
@@ -68,7 +71,8 @@
    "start": 39.81,
    "startOffset": 337,
    "word": "different",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "different"
   },
   {
    "alignedWord": "things",
@@ -96,7 +100,8 @@
    "start": 40.08,
    "startOffset": 347,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "we",
@@ -116,7 +121,8 @@
    "start": 40.33,
    "startOffset": 354,
    "word": "we",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "we"
   },
   {
    "alignedWord": "can",
@@ -140,7 +146,8 @@
    "start": 40.47,
    "startOffset": 357,
    "word": "can",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "can"
   },
   {
    "alignedWord": "do",
@@ -160,7 +167,8 @@
    "start": 40.71,
    "startOffset": 361,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "in",
@@ -180,7 +188,8 @@
    "start": 40.84,
    "startOffset": 364,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -216,7 +225,8 @@
    "start": 40.96,
    "startOffset": 367,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "but",
@@ -240,14 +250,16 @@
    "start": 41.33,
    "startOffset": 375,
    "word": "But",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "start": 41.6,
    "end": 42.51,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

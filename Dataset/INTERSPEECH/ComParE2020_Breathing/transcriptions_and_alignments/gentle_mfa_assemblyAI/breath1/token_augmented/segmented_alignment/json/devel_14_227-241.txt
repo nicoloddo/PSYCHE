@@ -5,7 +5,8 @@
    "end": 93.94,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 93.94,
    "startOffset": 1089,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "so",
@@ -45,7 +47,8 @@
    "start": 95.02,
    "startOffset": 1093,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "yeah",
@@ -65,7 +68,8 @@
    "start": 95.51,
    "startOffset": 1096,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "it's",
@@ -89,7 +93,8 @@
    "start": 95.74,
    "startOffset": 1102,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "case": "not-found-in-audio",
@@ -98,7 +103,8 @@
    "word": "kind",
    "start": 95.97,
    "end": 96.21,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "kind"
   },
   {
    "alignedWord": "of",
@@ -118,7 +124,8 @@
    "start": 96.43,
    "startOffset": 1112,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "like",
@@ -142,7 +149,8 @@
    "start": 96.58,
    "startOffset": 1115,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "middle",
@@ -174,7 +182,8 @@
    "start": 96.78,
    "startOffset": 1120,
    "word": "Middle",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "middle"
   },
   {
    "alignedWord": "eastern",
@@ -206,7 +215,8 @@
    "start": 97.11,
    "startOffset": 1127,
    "word": "Eastern",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "eastern"
   },
   {
    "alignedWord": "but",
@@ -230,7 +240,8 @@
    "start": 97.71,
    "startOffset": 1135,
    "word": "but",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "but"
   },
   {
    "alignedWord": "mediterranean",
@@ -286,7 +297,8 @@
    "start": 97.96,
    "startOffset": 1139,
    "word": "Mediterranean",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "mediterranean"
   },
   {
    "alignedWord": "style",
@@ -314,7 +326,8 @@
    "start": 98.96000000000001,
    "startOffset": 1153,
    "word": "style",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "style"
   },
   {
    "alignedWord": "food",
@@ -338,14 +351,16 @@
    "start": 99.46000000000001,
    "startOffset": 1159,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "start": 100.10000000000001,
    "end": 101.11000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

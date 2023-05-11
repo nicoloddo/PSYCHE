@@ -5,7 +5,8 @@
    "end": 63.98,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 63.980000000000004,
    "startOffset": 606,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "it's",
@@ -49,7 +51,8 @@
    "start": 64.76,
    "startOffset": 610,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "a",
@@ -65,7 +68,8 @@
    "start": 64.969999,
    "startOffset": 615,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "restaurant",
@@ -109,7 +113,8 @@
    "start": 65.059999,
    "startOffset": 617,
    "word": "restaurant",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurant"
   },
   {
    "alignedWord": "that",
@@ -133,7 +138,8 @@
    "start": 65.67,
    "startOffset": 628,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "is",
@@ -153,7 +159,8 @@
    "start": 66.099999,
    "startOffset": 633,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "in",
@@ -173,7 +180,8 @@
    "start": 66.59,
    "startOffset": 636,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "chinatown",
@@ -213,14 +221,16 @@
    "start": 66.84,
    "startOffset": 639,
    "word": "chinatown",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "chinatown"
   },
   {
    "start": 68.00300000000001,
    "end": 68.57300000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

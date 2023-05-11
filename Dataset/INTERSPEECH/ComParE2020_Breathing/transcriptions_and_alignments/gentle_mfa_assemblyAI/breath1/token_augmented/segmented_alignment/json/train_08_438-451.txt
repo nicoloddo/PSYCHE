@@ -5,7 +5,8 @@
    "end": 149.51,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "other",
@@ -29,7 +30,8 @@
    "start": 149.51,
    "startOffset": 2035,
    "word": "other",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "other"
   },
   {
    "alignedWord": "sort",
@@ -57,7 +59,8 @@
    "start": 149.77,
    "startOffset": 2041,
    "word": "sort",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sort"
   },
   {
    "alignedWord": "of",
@@ -77,7 +80,8 @@
    "start": 149.87,
    "startOffset": 2046,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "vegetarian",
@@ -129,7 +133,8 @@
    "start": 150.0,
    "startOffset": 2049,
    "word": "vegetarian",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "vegetarian"
   },
   {
    "alignedWord": "substitutes",
@@ -181,7 +186,8 @@
    "start": 150.67,
    "startOffset": 2060,
    "word": "substitutes",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "substitutes"
   },
   {
    "alignedWord": "um",
@@ -201,7 +207,8 @@
    "start": 151.75,
    "startOffset": 2073,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "that",
@@ -225,7 +232,8 @@
    "start": 152.37,
    "startOffset": 2077,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "don't",
@@ -253,7 +261,8 @@
    "start": 152.54,
    "startOffset": 2082,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "have",
@@ -277,7 +286,8 @@
    "start": 152.72,
    "startOffset": 2088,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "meat",
@@ -301,7 +311,8 @@
    "start": 152.91,
    "startOffset": 2093,
    "word": "meat",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "meat"
   },
   {
    "alignedWord": "or",
@@ -317,7 +328,8 @@
    "start": 153.099999,
    "startOffset": 2098,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "fish",
@@ -341,14 +353,16 @@
    "start": 153.19,
    "startOffset": 2101,
    "word": "fish",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fish"
   },
   {
    "start": 153.59,
    "end": 154.31,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

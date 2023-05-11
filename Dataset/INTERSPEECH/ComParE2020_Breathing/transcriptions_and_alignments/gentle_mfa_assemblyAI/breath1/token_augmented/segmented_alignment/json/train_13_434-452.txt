@@ -5,7 +5,8 @@
    "end": 169.79000000000002,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 169.79,
    "startOffset": 1977,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 170.72,
    "end": 171.088,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -56,7 +59,8 @@
    "start": 171.22,
    "startOffset": 1981,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "that",
@@ -80,7 +84,8 @@
    "start": 172.2,
    "startOffset": 1985,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "is",
@@ -100,7 +105,8 @@
    "start": 172.58,
    "startOffset": 1990,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "one",
@@ -124,7 +130,8 @@
    "start": 173.13,
    "startOffset": 1993,
    "word": "one",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "one"
   },
   {
    "alignedWord": "called",
@@ -152,7 +159,8 @@
    "start": 173.469999,
    "startOffset": 1997,
    "word": "called",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "called"
   },
   {
    "alignedWord": "<unk>",
@@ -168,7 +176,8 @@
    "start": 173.759999,
    "startOffset": 2004,
    "word": "ginz",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ginz"
   },
   {
    "alignedWord": "in",
@@ -188,7 +197,8 @@
    "start": 174.259999,
    "startOffset": 2009,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "chinatown",
@@ -228,7 +238,8 @@
    "start": 174.38,
    "startOffset": 2012,
    "word": "chinatown",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "chinatown"
   },
   {
    "alignedWord": "they",
@@ -248,7 +259,8 @@
    "start": 174.889999,
    "startOffset": 2023,
    "word": "They",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "they"
   },
   {
    "alignedWord": "do",
@@ -268,7 +280,8 @@
    "start": 175.009999,
    "startOffset": 2028,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "a",
@@ -284,7 +297,8 @@
    "start": 175.21,
    "startOffset": 2031,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "really",
@@ -312,7 +326,8 @@
    "start": 175.299999,
    "startOffset": 2033,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "good",
@@ -336,7 +351,8 @@
    "start": 175.639999,
    "startOffset": 2040,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "alignedWord": "hot",
@@ -360,7 +376,8 @@
    "start": 175.9,
    "startOffset": 2045,
    "word": "hot",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hot"
   },
   {
    "alignedWord": "pot",
@@ -384,14 +401,16 @@
    "start": 176.13,
    "startOffset": 2049,
    "word": "pot",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pot"
   },
   {
    "start": 176.44,
    "end": 177.03,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

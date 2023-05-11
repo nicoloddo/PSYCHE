@@ -5,7 +5,8 @@
    "end": 89.359999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "okay",
@@ -29,7 +30,8 @@
    "start": 89.359999,
    "startOffset": 1213,
    "word": "Okay",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "okay"
   },
   {
    "alignedWord": "do",
@@ -49,7 +51,8 @@
    "start": 89.609999,
    "startOffset": 1219,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "i",
@@ -65,7 +68,8 @@
    "start": 89.73,
    "startOffset": 1222,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "have",
@@ -89,7 +93,8 @@
    "start": 89.77,
    "startOffset": 1224,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "a",
@@ -105,7 +110,8 @@
    "start": 89.9,
    "startOffset": 1229,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "favorite",
@@ -141,7 +147,8 @@
    "start": 89.969999,
    "startOffset": 1231,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "restaurants",
@@ -189,7 +196,8 @@
    "start": 90.59,
    "startOffset": 1240,
    "word": "restaurants",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "restaurants"
   },
   {
    "alignedWord": "or",
@@ -205,7 +213,8 @@
    "start": 91.17,
    "startOffset": 1252,
    "word": "or",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "or"
   },
   {
    "alignedWord": "cuisine",
@@ -241,7 +250,8 @@
    "start": 91.22,
    "startOffset": 1255,
    "word": "cuisine",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "cuisine"
   },
   {
    "alignedWord": "well",
@@ -265,7 +275,8 @@
    "start": 91.82,
    "startOffset": 1264,
    "word": "Well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "alignedWord": "being",
@@ -293,7 +304,8 @@
    "start": 92.25,
    "startOffset": 1270,
    "word": "being",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "being"
   },
   {
    "alignedWord": "a",
@@ -309,7 +321,8 @@
    "start": 92.47,
    "startOffset": 1276,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "relatively",
@@ -357,7 +370,8 @@
    "start": 92.54,
    "startOffset": 1278,
    "word": "relatively",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "relatively"
   },
   {
    "alignedWord": "<unk>",
@@ -373,7 +387,8 @@
    "start": 92.99,
    "startOffset": 1289,
    "word": "uncultured",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "uncultured"
   },
   {
    "alignedWord": "individual",
@@ -429,7 +444,8 @@
    "start": 93.49,
    "startOffset": 1300,
    "word": "individual",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "individual"
   },
   {
    "alignedWord": "i",
@@ -445,7 +461,8 @@
    "start": 94.05,
    "startOffset": 1312,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "suppose",
@@ -477,7 +494,8 @@
    "start": 94.1,
    "startOffset": 1314,
    "word": "suppose",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "suppose"
   },
   {
    "alignedWord": "i",
@@ -493,7 +511,8 @@
    "start": 94.45,
    "startOffset": 1322,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "should",
@@ -517,7 +536,8 @@
    "start": 94.51,
    "startOffset": 1324,
    "word": "should",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "should"
   },
   {
    "alignedWord": "say",
@@ -537,14 +557,16 @@
    "start": 94.76,
    "startOffset": 1331,
    "word": "say",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "say"
   },
   {
    "start": 95.14,
    "end": 95.65,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

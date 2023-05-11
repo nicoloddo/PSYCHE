@@ -5,7 +5,8 @@
    "end": 191.15999899999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 191.16,
    "startOffset": 2586,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "think",
@@ -49,7 +51,8 @@
    "start": 191.259999,
    "startOffset": 2588,
    "word": "think",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "think"
   },
   {
    "alignedWord": "probably",
@@ -93,7 +96,8 @@
    "start": 191.55,
    "startOffset": 2594,
    "word": "probably",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "probably"
   },
   {
    "alignedWord": "my",
@@ -113,7 +117,8 @@
    "start": 193.28,
    "startOffset": 2603,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -149,7 +154,8 @@
    "start": 193.559999,
    "startOffset": 2606,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "landmark",
@@ -193,7 +199,8 @@
    "start": 194.19,
    "startOffset": 2615,
    "word": "landmark",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "landmark"
   },
   {
    "alignedWord": "in",
@@ -213,7 +220,8 @@
    "start": 194.839999,
    "startOffset": 2624,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -249,7 +257,8 @@
    "start": 195.03,
    "startOffset": 2627,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "is",
@@ -269,7 +278,8 @@
    "start": 195.49,
    "startOffset": 2634,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "tower",
@@ -293,7 +303,8 @@
    "start": 195.71,
    "startOffset": 2637,
    "word": "Tower",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tower"
   },
   {
    "alignedWord": "bridge",
@@ -321,14 +332,16 @@
    "start": 196.1,
    "startOffset": 2643,
    "word": "Bridge",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bridge"
   },
   {
    "start": 196.81,
    "end": 197.38,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

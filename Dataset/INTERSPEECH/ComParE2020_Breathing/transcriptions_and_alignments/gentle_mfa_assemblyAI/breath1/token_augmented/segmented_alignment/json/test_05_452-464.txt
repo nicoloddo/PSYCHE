@@ -5,7 +5,8 @@
    "end": 167.07,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 167.07,
    "startOffset": 2132,
    "word": "Um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 167.88,
    "startOffset": 2136,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "yeah",
@@ -69,7 +72,8 @@
    "start": 168.45,
    "startOffset": 2140,
    "word": "yeah",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "yeah"
   },
   {
    "alignedWord": "it's",
@@ -93,7 +97,8 @@
    "start": 168.78,
    "startOffset": 2146,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "just",
@@ -121,7 +126,8 @@
    "start": 168.97,
    "startOffset": 2151,
    "word": "just",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "just"
   },
   {
    "alignedWord": "a",
@@ -137,7 +143,8 @@
    "start": 169.17,
    "startOffset": 2156,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "really",
@@ -165,7 +172,8 @@
    "start": 169.25,
    "startOffset": 2158,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "nice",
@@ -189,7 +197,8 @@
    "start": 169.47,
    "startOffset": 2166,
    "word": "Nice",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "nice"
   },
   {
    "alignedWord": "place",
@@ -217,7 +226,8 @@
    "start": 169.71,
    "startOffset": 2171,
    "word": "place",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "place"
   },
   {
    "alignedWord": "to",
@@ -237,7 +247,8 @@
    "start": 169.97,
    "startOffset": 2177,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "walk",
@@ -261,14 +272,16 @@
    "start": 170.13,
    "startOffset": 2180,
    "word": "walk",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "walk"
   },
   {
    "start": 170.69899999999998,
    "end": 171.04,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

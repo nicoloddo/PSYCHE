@@ -5,7 +5,8 @@
    "end": 110.48,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "piece",
@@ -29,7 +30,8 @@
    "start": 110.48,
    "startOffset": 1512,
    "word": "piece",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "piece"
   },
   {
    "alignedWord": "of",
@@ -49,7 +51,8 @@
    "start": 110.72,
    "startOffset": 1518,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "equipment",
@@ -97,7 +100,8 @@
    "start": 110.89,
    "startOffset": 1521,
    "word": "equipment",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "equipment"
   },
   {
    "alignedWord": "in",
@@ -117,7 +121,8 @@
    "start": 111.39,
    "startOffset": 1531,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "the",
@@ -137,7 +142,8 @@
    "start": 111.56,
    "startOffset": 1534,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "middle",
@@ -169,7 +175,8 @@
    "start": 111.63,
    "startOffset": 1538,
    "word": "middle",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "middle"
   },
   {
    "alignedWord": "of",
@@ -189,7 +196,8 @@
    "start": 111.84,
    "startOffset": 1545,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "the",
@@ -209,7 +217,8 @@
    "start": 111.91,
    "startOffset": 1548,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "street",
@@ -241,14 +250,16 @@
    "start": 112.04,
    "startOffset": 1552,
    "word": "street",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "street"
   },
   {
    "start": 112.68,
    "end": 113.30000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

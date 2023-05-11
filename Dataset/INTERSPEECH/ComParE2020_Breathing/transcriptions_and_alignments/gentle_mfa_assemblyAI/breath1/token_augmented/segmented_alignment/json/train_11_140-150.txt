@@ -5,7 +5,8 @@
    "end": 51.319999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 51.32,
    "startOffset": 637,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 52.747,
    "end": 53.689,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -48,7 +51,8 @@
    "start": 55.86,
    "startOffset": 641,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "like",
@@ -72,7 +76,8 @@
    "start": 55.93,
    "startOffset": 643,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "the",
@@ -92,7 +97,8 @@
    "start": 56.1,
    "startOffset": 648,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "apartment",
@@ -140,7 +146,8 @@
    "start": 56.2,
    "startOffset": 652,
    "word": "apartment",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "apartment"
   },
   {
    "alignedWord": "better",
@@ -168,7 +175,8 @@
    "start": 56.66,
    "startOffset": 662,
    "word": "better",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "better"
   },
   {
    "alignedWord": "for",
@@ -188,7 +196,8 @@
    "start": 57.29,
    "startOffset": 670,
    "word": "for",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "for"
   },
   {
    "alignedWord": "sure",
@@ -212,14 +221,16 @@
    "start": 57.42,
    "startOffset": 674,
    "word": "sure",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sure"
   },
   {
    "start": 57.83,
    "end": 58.498,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

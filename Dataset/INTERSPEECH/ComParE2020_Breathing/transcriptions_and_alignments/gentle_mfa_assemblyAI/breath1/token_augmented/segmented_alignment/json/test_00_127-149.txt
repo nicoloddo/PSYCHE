@@ -5,7 +5,8 @@
    "end": 54.981998999999995,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 55.04,
    "startOffset": 697,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "enjoyed",
@@ -53,7 +55,8 @@
    "start": 55.11,
    "startOffset": 699,
    "word": "enjoyed",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "enjoyed"
   },
   {
    "alignedWord": "working",
@@ -85,7 +88,8 @@
    "start": 55.57,
    "startOffset": 707,
    "word": "working",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "working"
   },
   {
    "alignedWord": "at",
@@ -105,7 +109,8 @@
    "start": 55.89,
    "startOffset": 715,
    "word": "at",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "at"
   },
   {
    "alignedWord": "london",
@@ -141,7 +146,8 @@
    "start": 56.01,
    "startOffset": 718,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "mets",
@@ -169,7 +175,8 @@
    "start": 56.28,
    "startOffset": 725,
    "word": "mets",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "mets"
   },
   {
    "alignedWord": "it",
@@ -189,7 +196,8 @@
    "start": 56.72,
    "startOffset": 731,
    "word": "It",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "was",
@@ -213,7 +221,8 @@
    "start": 56.9,
    "startOffset": 734,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "a",
@@ -229,7 +238,8 @@
    "start": 57.38,
    "startOffset": 738,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "trial",
@@ -257,7 +267,8 @@
    "start": 57.47,
    "startOffset": 740,
    "word": "trial",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "trial"
   },
   {
    "alignedWord": "by",
@@ -277,7 +288,8 @@
    "start": 57.76,
    "startOffset": 746,
    "word": "by",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "by"
   },
   {
    "alignedWord": "fire",
@@ -301,7 +313,8 @@
    "start": 57.99,
    "startOffset": 749,
    "word": "fire",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fire"
   },
   {
    "alignedWord": "to",
@@ -321,7 +334,8 @@
    "start": 58.38,
    "startOffset": 754,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "some",
@@ -345,7 +359,8 @@
    "start": 58.57,
    "startOffset": 757,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "extent",
@@ -385,7 +400,8 @@
    "start": 58.72,
    "startOffset": 762,
    "word": "extent",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "extent"
   },
   {
    "alignedWord": "it",
@@ -405,7 +421,8 @@
    "start": 59.55,
    "startOffset": 770,
    "word": "It",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "was",
@@ -429,7 +446,8 @@
    "start": 59.72,
    "startOffset": 773,
    "word": "was",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "was"
   },
   {
    "alignedWord": "a",
@@ -445,7 +463,8 @@
    "start": 59.89,
    "startOffset": 777,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "post",
@@ -473,7 +492,8 @@
    "start": 60.05,
    "startOffset": 779,
    "word": "post",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "post"
   },
   {
    "alignedWord": "<unk>",
@@ -489,7 +509,8 @@
    "start": 60.17,
    "startOffset": 784,
    "word": "92",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "92"
   },
   {
    "alignedWord": "university",
@@ -541,14 +562,16 @@
    "start": 60.730000000000004,
    "startOffset": 787,
    "word": "university",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "university"
   },
   {
    "start": 61.620000000000005,
    "end": 61.96000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

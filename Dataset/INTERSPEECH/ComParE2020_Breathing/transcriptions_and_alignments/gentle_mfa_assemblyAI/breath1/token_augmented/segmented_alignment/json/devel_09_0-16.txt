@@ -14,7 +14,8 @@
    "start": 1.88,
    "startOffset": 0,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "came",
@@ -38,7 +39,8 @@
    "start": 2.2,
    "startOffset": 2,
    "word": "came",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "came"
   },
   {
    "alignedWord": "to",
@@ -58,7 +60,8 @@
    "start": 2.44,
    "startOffset": 7,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "london",
@@ -94,7 +97,8 @@
    "start": 2.53,
    "startOffset": 10,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "um",
@@ -114,7 +118,8 @@
    "start": 3.28,
    "startOffset": 18,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "to",
@@ -134,7 +139,8 @@
    "start": 3.78,
    "startOffset": 22,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "do",
@@ -154,7 +160,8 @@
    "start": 3.89,
    "startOffset": 25,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "my",
@@ -174,7 +181,8 @@
    "start": 4.03,
    "startOffset": 28,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "undergrad",
@@ -218,7 +226,8 @@
    "start": 4.39,
    "startOffset": 31,
    "word": "undergrad",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "undergrad"
   },
   {
    "alignedWord": "degree",
@@ -250,7 +259,8 @@
    "start": 4.93,
    "startOffset": 41,
    "word": "degree",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "degree"
   },
   {
    "alignedWord": "following",
@@ -286,7 +296,8 @@
    "start": 5.42,
    "startOffset": 49,
    "word": "Following",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "following"
   },
   {
    "alignedWord": "uh",
@@ -302,7 +313,8 @@
    "start": 6.02,
    "startOffset": 60,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "alignedWord": "finishing",
@@ -342,7 +354,8 @@
    "start": 6.25,
    "startOffset": 64,
    "word": "finishing",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "finishing"
   },
   {
    "alignedWord": "my",
@@ -362,7 +375,8 @@
    "start": 6.57,
    "startOffset": 74,
    "word": "my",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "a",
@@ -378,7 +392,8 @@
    "start": 6.7,
    "startOffset": 77,
    "word": "A",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "levels",
@@ -414,14 +429,16 @@
    "start": 6.87,
    "startOffset": 79,
    "word": "levels",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "levels"
   },
   {
    "start": 7.29,
    "end": 7.73,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

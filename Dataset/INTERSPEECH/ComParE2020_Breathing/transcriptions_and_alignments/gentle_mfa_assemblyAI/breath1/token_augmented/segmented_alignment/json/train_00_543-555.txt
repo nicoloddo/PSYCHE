@@ -5,7 +5,8 @@
    "end": 202.61,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,21 +26,24 @@
    "start": 202.61,
    "startOffset": 2723,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 203.399,
    "end": 203.787,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "start": 204.185,
    "end": 204.59,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "so",
@@ -59,7 +63,8 @@
    "start": 204.59,
    "startOffset": 2727,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i",
@@ -75,7 +80,8 @@
    "start": 204.8,
    "startOffset": 2730,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "went",
@@ -103,7 +109,8 @@
    "start": 204.86,
    "startOffset": 2732,
    "word": "went",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "went"
   },
   {
    "alignedWord": "in",
@@ -123,7 +130,8 @@
    "start": 205.06,
    "startOffset": 2737,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "with",
@@ -147,7 +155,8 @@
    "start": 205.20000000000002,
    "startOffset": 2740,
    "word": "with",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "with"
   },
   {
    "alignedWord": "pretty",
@@ -179,7 +188,8 @@
    "start": 205.61,
    "startOffset": 2745,
    "word": "pretty",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pretty"
   },
   {
    "alignedWord": "low",
@@ -199,7 +209,8 @@
    "start": 205.99,
    "startOffset": 2752,
    "word": "low",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "low"
   },
   {
    "alignedWord": "expectations",
@@ -259,14 +270,16 @@
    "start": 206.21,
    "startOffset": 2756,
    "word": "expectations",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "expectations"
   },
   {
    "start": 207.364,
    "end": 207.85,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

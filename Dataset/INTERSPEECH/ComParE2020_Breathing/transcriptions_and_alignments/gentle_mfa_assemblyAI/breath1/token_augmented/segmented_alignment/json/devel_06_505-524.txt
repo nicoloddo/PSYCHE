@@ -5,7 +5,8 @@
    "end": 160.0,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 160.0,
    "startOffset": 2446,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 160.82,
    "end": 161.54,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -48,7 +51,8 @@
    "start": 161.539999,
    "startOffset": 2450,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "don't",
@@ -76,7 +80,8 @@
    "start": 161.619999,
    "startOffset": 2452,
    "word": "don't",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "don't"
   },
   {
    "alignedWord": "really",
@@ -104,7 +109,8 @@
    "start": 161.76,
    "startOffset": 2458,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "know",
@@ -124,7 +130,8 @@
    "start": 161.889999,
    "startOffset": 2465,
    "word": "know",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "know"
   },
   {
    "alignedWord": "tourist",
@@ -160,7 +167,8 @@
    "start": 162.059999,
    "startOffset": 2470,
    "word": "tourist",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tourist"
   },
   {
    "case": "not-found-in-audio",
@@ -169,7 +177,8 @@
    "word": "tractions",
    "start": 162.35,
    "end": 162.67,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tractions"
   },
   {
    "alignedWord": "very",
@@ -197,7 +206,8 @@
    "start": 162.72,
    "startOffset": 2488,
    "word": "very",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "very"
   },
   {
    "alignedWord": "well",
@@ -221,7 +231,8 @@
    "start": 162.82,
    "startOffset": 2493,
    "word": "well",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "well"
   },
   {
    "case": "not-found-in-audio",
@@ -230,7 +241,8 @@
    "word": "so",
    "start": 163.0,
    "end": 163.1,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "case": "not-found-in-audio",
@@ -239,7 +251,8 @@
    "word": "I'd",
    "start": 163.1,
    "end": 163.15,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'd"
   },
   {
    "alignedWord": "probably",
@@ -275,7 +288,8 @@
    "start": 163.15,
    "startOffset": 2506,
    "word": "probably",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "probably"
   },
   {
    "alignedWord": "be",
@@ -295,7 +309,8 @@
    "start": 163.41,
    "startOffset": 2515,
    "word": "be",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "be"
   },
   {
    "alignedWord": "a",
@@ -311,7 +326,8 @@
    "start": 163.77,
    "startOffset": 2518,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "really",
@@ -339,7 +355,8 @@
    "start": 163.87,
    "startOffset": 2520,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "bad",
@@ -363,7 +380,8 @@
    "start": 164.27,
    "startOffset": 2527,
    "word": "bad",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bad"
   },
   {
    "alignedWord": "guide",
@@ -387,14 +405,16 @@
    "start": 164.54,
    "startOffset": 2531,
    "word": "guide",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guide"
   },
   {
    "start": 165.022,
    "end": 165.7,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

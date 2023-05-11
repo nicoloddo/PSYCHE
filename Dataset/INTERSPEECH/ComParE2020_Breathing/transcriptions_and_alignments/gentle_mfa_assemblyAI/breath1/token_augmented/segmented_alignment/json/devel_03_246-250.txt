@@ -5,7 +5,8 @@
    "end": 116.81,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "greece",
@@ -33,14 +34,16 @@
    "start": 116.809999,
    "startOffset": 1143,
    "word": "Greece",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "greece"
   },
   {
    "start": 117.75999900000001,
    "end": 118.469999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "<unk>",
@@ -56,14 +59,16 @@
    "start": 118.469999,
    "startOffset": 1151,
    "word": "mauritius",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "mauritius"
   },
   {
    "start": 119.679999,
    "end": 120.36999899999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

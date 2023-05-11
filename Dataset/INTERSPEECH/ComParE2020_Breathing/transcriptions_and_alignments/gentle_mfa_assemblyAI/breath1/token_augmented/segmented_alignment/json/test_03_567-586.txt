@@ -5,7 +5,8 @@
    "end": 162.75,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,14 +26,16 @@
    "start": 163.38,
    "startOffset": 2775,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "start": 163.6,
    "end": 164.01999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "some",
@@ -56,7 +59,8 @@
    "start": 164.02,
    "startOffset": 2779,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "good",
@@ -80,7 +84,8 @@
    "start": 164.24,
    "startOffset": 2784,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "alignedWord": "craft",
@@ -112,7 +117,8 @@
    "start": 164.4,
    "startOffset": 2789,
    "word": "craft",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "craft"
   },
   {
    "alignedWord": "beer",
@@ -136,7 +142,8 @@
    "start": 164.69,
    "startOffset": 2795,
    "word": "beer",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "beer"
   },
   {
    "alignedWord": "breweries",
@@ -172,7 +179,8 @@
    "start": 165.1,
    "startOffset": 2800,
    "word": "breweries",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "breweries"
   },
   {
    "alignedWord": "and",
@@ -196,7 +204,8 @@
    "start": 165.69,
    "startOffset": 2810,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "there",
@@ -220,7 +229,8 @@
    "start": 165.84,
    "startOffset": 2814,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "are",
@@ -236,7 +246,8 @@
    "start": 165.94,
    "startOffset": 2820,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "lots",
@@ -264,7 +275,8 @@
    "start": 166.02,
    "startOffset": 2824,
    "word": "lots",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "lots"
   },
   {
    "alignedWord": "around",
@@ -292,7 +304,8 @@
    "start": 166.38,
    "startOffset": 2829,
    "word": "around",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "around"
   },
   {
    "alignedWord": "there",
@@ -316,7 +329,8 @@
    "start": 166.71,
    "startOffset": 2837,
    "word": "there",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "there"
   },
   {
    "alignedWord": "are",
@@ -332,7 +346,8 @@
    "start": 166.85,
    "startOffset": 2843,
    "word": "are",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "are"
   },
   {
    "alignedWord": "some",
@@ -356,7 +371,8 @@
    "start": 166.91,
    "startOffset": 2847,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "around",
@@ -380,7 +396,8 @@
    "start": 167.12,
    "startOffset": 2852,
    "word": "around",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "around"
   },
   {
    "alignedWord": "waltham",
@@ -416,7 +433,8 @@
    "start": 167.38,
    "startOffset": 2859,
    "word": "waltham",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "waltham"
   },
   {
    "alignedWord": "<unk>",
@@ -432,14 +450,16 @@
    "start": 167.75,
    "startOffset": 2867,
    "word": "stowe",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "stowe"
   },
   {
    "start": 168.18,
    "end": 168.6,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 231.34999999999997,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 231.349999,
    "startOffset": 3296,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "and",
@@ -49,7 +51,8 @@
    "start": 231.71,
    "startOffset": 3300,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "full",
@@ -73,7 +76,8 @@
    "start": 231.889999,
    "startOffset": 3304,
    "word": "full",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "full"
   },
   {
    "alignedWord": "of",
@@ -93,7 +97,8 @@
    "start": 232.07,
    "startOffset": 3309,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "people",
@@ -125,7 +130,8 @@
    "start": 232.17000000000002,
    "startOffset": 3312,
    "word": "people",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "people"
   },
   {
    "alignedWord": "that",
@@ -149,7 +155,8 @@
    "start": 233.02,
    "startOffset": 3319,
    "word": "that",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "that"
   },
   {
    "alignedWord": "i",
@@ -165,7 +172,8 @@
    "start": 233.25,
    "startOffset": 3324,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "tend",
@@ -193,7 +201,8 @@
    "start": 233.549999,
    "startOffset": 3326,
    "word": "tend",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tend"
   },
   {
    "alignedWord": "to",
@@ -213,7 +222,8 @@
    "start": 233.809999,
    "startOffset": 3331,
    "word": "to",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "to"
   },
   {
    "alignedWord": "steer",
@@ -241,7 +251,8 @@
    "start": 233.92000000000002,
    "startOffset": 3334,
    "word": "steer",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "steer"
   },
   {
    "alignedWord": "clear",
@@ -269,14 +280,16 @@
    "start": 234.17000000000002,
    "startOffset": 3340,
    "word": "clear",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "clear"
   },
   {
    "start": 234.58,
    "end": 235.02,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

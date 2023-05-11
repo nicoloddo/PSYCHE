@@ -5,7 +5,8 @@
    "end": 7.17,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -25,7 +26,8 @@
    "start": 7.17,
    "startOffset": 83,
    "word": "um",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "case": "not-found-in-audio",
@@ -34,7 +36,8 @@
    "word": "um",
    "start": 7.2,
    "end": 7.31,
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "so",
@@ -54,7 +57,8 @@
    "start": 7.58,
    "startOffset": 87,
    "word": "so",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "so"
   },
   {
    "alignedWord": "i'm",
@@ -74,14 +78,16 @@
    "start": 7.82,
    "startOffset": 90,
    "word": "I'm",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i'm"
   },
   {
    "start": 8.18,
    "end": 9.424,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "a",
@@ -97,7 +103,8 @@
    "start": 9.5,
    "startOffset": 94,
    "word": "a",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "a"
   },
   {
    "alignedWord": "little",
@@ -129,7 +136,8 @@
    "start": 9.55,
    "startOffset": 96,
    "word": "little",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "little"
   },
   {
    "alignedWord": "bit",
@@ -153,7 +161,8 @@
    "start": 9.8,
    "startOffset": 103,
    "word": "bit",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "bit"
   },
   {
    "alignedWord": "sort",
@@ -181,7 +190,8 @@
    "start": 10.05,
    "startOffset": 107,
    "word": "sort",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sort"
   },
   {
    "alignedWord": "of",
@@ -201,7 +211,8 @@
    "start": 10.26,
    "startOffset": 112,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "case": "not-found-in-audio",
@@ -210,7 +221,8 @@
    "word": "blase",
    "start": 10.79,
    "end": 11.05,
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "blase"
   },
   {
    "alignedWord": "about",
@@ -238,7 +250,8 @@
    "start": 11.17,
    "startOffset": 121,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "it",
@@ -258,7 +271,8 @@
    "start": 11.509999,
    "startOffset": 127,
    "word": "it",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it"
   },
   {
    "alignedWord": "i",
@@ -274,7 +288,8 @@
    "start": 11.63,
    "startOffset": 131,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "guess",
@@ -298,14 +313,16 @@
    "start": 11.7,
    "startOffset": 133,
    "word": "guess",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "guess"
   },
   {
    "start": 12.091,
    "end": 12.47,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

@@ -5,7 +5,8 @@
    "end": 107.250001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "probably",
@@ -49,7 +50,8 @@
    "start": 107.25,
    "startOffset": 1012,
    "word": "probably",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "probably"
   },
   {
    "alignedWord": "<unk>",
@@ -65,14 +67,16 @@
    "start": 107.74,
    "startOffset": 1021,
    "word": "franco",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "franco"
   },
   {
    "start": 108.72999999999999,
    "end": 109.29999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "they",
@@ -92,7 +96,8 @@
    "start": 109.3,
    "startOffset": 1036,
    "word": "They",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "they"
   },
   {
    "alignedWord": "have",
@@ -116,7 +121,8 @@
    "start": 109.42,
    "startOffset": 1041,
    "word": "have",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "have"
   },
   {
    "alignedWord": "really",
@@ -144,7 +150,8 @@
    "start": 109.54,
    "startOffset": 1046,
    "word": "really",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "really"
   },
   {
    "alignedWord": "good",
@@ -168,7 +175,8 @@
    "start": 109.73,
    "startOffset": 1053,
    "word": "good",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "good"
   },
   {
    "alignedWord": "pizza",
@@ -200,14 +208,16 @@
    "start": 109.89,
    "startOffset": 1058,
    "word": "pizza",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "pizza"
   },
   {
    "start": 110.38900000000001,
    "end": 111.36,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

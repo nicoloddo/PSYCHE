@@ -5,7 +5,8 @@
    "end": 67.33999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "and",
@@ -29,7 +30,8 @@
    "start": 67.34,
    "startOffset": 801,
    "word": "And",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "every",
@@ -57,7 +59,8 @@
    "start": 68.27,
    "startOffset": 805,
    "word": "every",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "every"
   },
   {
    "alignedWord": "night",
@@ -81,7 +84,8 @@
    "start": 68.599999,
    "startOffset": 811,
    "word": "night",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "night"
   },
   {
    "alignedWord": "without",
@@ -113,7 +117,8 @@
    "start": 68.799999,
    "startOffset": 817,
    "word": "without",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "without"
   },
   {
    "alignedWord": "fail",
@@ -137,7 +142,8 @@
    "start": 69.17,
    "startOffset": 825,
    "word": "fail",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "fail"
   },
   {
    "alignedWord": "i",
@@ -153,7 +159,8 @@
    "start": 69.53999999999999,
    "startOffset": 831,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "hear",
@@ -177,7 +184,8 @@
    "start": 69.63,
    "startOffset": 833,
    "word": "hear",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "hear"
   },
   {
    "alignedWord": "ambulances",
@@ -233,7 +241,8 @@
    "start": 69.9,
    "startOffset": 838,
    "word": "ambulances",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ambulances"
   },
   {
    "alignedWord": "and",
@@ -257,7 +266,8 @@
    "start": 70.75,
    "startOffset": 849,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "police",
@@ -289,7 +299,8 @@
    "start": 70.93,
    "startOffset": 853,
    "word": "police",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "police"
   },
   {
    "alignedWord": "sirens",
@@ -325,14 +336,16 @@
    "start": 71.34,
    "startOffset": 860,
    "word": "sirens",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "sirens"
   },
   {
    "start": 72.09,
    "end": 72.429,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

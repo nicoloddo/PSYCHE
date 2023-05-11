@@ -5,7 +5,8 @@
    "end": 178.82999999999998,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "my",
@@ -25,7 +26,8 @@
    "start": 178.82999999999998,
    "startOffset": 2673,
    "word": "My",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "my"
   },
   {
    "alignedWord": "favorite",
@@ -61,7 +63,8 @@
    "start": 179.0,
    "startOffset": 2676,
    "word": "favorite",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "favorite"
   },
   {
    "alignedWord": "park",
@@ -89,7 +92,8 @@
    "start": 179.359999,
    "startOffset": 2685,
    "word": "park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "alignedWord": "in",
@@ -109,7 +113,8 @@
    "start": 179.629999,
    "startOffset": 2690,
    "word": "in",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "in"
   },
   {
    "alignedWord": "london",
@@ -145,7 +150,8 @@
    "start": 179.76,
    "startOffset": 2693,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "alignedWord": "is",
@@ -165,7 +171,8 @@
    "start": 180.209999,
    "startOffset": 2700,
    "word": "is",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "is"
   },
   {
    "alignedWord": "richmond",
@@ -205,7 +212,8 @@
    "start": 180.43,
    "startOffset": 2703,
    "word": "Richmond",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "richmond"
   },
   {
    "alignedWord": "park",
@@ -233,14 +241,16 @@
    "start": 180.9,
    "startOffset": 2712,
    "word": "Park",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "park"
   },
   {
    "start": 181.4,
    "end": 181.79,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

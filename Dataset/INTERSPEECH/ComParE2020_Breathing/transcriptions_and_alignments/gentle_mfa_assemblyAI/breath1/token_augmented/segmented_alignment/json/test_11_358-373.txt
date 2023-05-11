@@ -5,7 +5,8 @@
    "end": 122.29,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "some",
@@ -29,7 +30,8 @@
    "start": 122.28999999999999,
    "startOffset": 1816,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "of",
@@ -49,7 +51,8 @@
    "start": 122.509999,
    "startOffset": 1821,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "the",
@@ -69,7 +72,8 @@
    "start": 122.549999,
    "startOffset": 1824,
    "word": "the",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "the"
   },
   {
    "alignedWord": "most",
@@ -93,7 +97,8 @@
    "start": 122.61,
    "startOffset": 1828,
    "word": "most",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "most"
   },
   {
    "alignedWord": "extraordinary",
@@ -157,7 +162,8 @@
    "start": 122.9,
    "startOffset": 1833,
    "word": "extraordinary",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "extraordinary"
   },
   {
    "alignedWord": "christmas",
@@ -197,7 +203,8 @@
    "start": 123.98,
    "startOffset": 1847,
    "word": "Christmas",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "christmas"
   },
   {
    "alignedWord": "um",
@@ -217,7 +224,8 @@
    "start": 124.139999,
    "startOffset": 1857,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "markets",
@@ -257,7 +265,8 @@
    "start": 125.19999899999999,
    "startOffset": 1861,
    "word": "markets",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "markets"
   },
   {
    "alignedWord": "i",
@@ -273,7 +282,8 @@
    "start": 125.629999,
    "startOffset": 1869,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "had",
@@ -297,7 +307,8 @@
    "start": 125.85,
    "startOffset": 1871,
    "word": "had",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "had"
   },
   {
    "alignedWord": "ever",
@@ -321,7 +332,8 @@
    "start": 126.029999,
    "startOffset": 1875,
    "word": "ever",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "ever"
   },
   {
    "alignedWord": "seen",
@@ -345,7 +357,8 @@
    "start": 126.26,
    "startOffset": 1880,
    "word": "seen",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "seen"
   },
   {
    "alignedWord": "especially",
@@ -385,7 +398,8 @@
    "start": 126.68,
    "startOffset": 1886,
    "word": "Especially",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "especially"
   },
   {
    "alignedWord": "uh",
@@ -401,14 +415,16 @@
    "start": 126.76,
    "startOffset": 1897,
    "word": "uh",
-   "token": "<disfl.uh>"
+   "token": "<disfl.uh>",
+   "converted": "<disfl.uh>"
   },
   {
    "start": 127.11,
    "end": 127.797,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

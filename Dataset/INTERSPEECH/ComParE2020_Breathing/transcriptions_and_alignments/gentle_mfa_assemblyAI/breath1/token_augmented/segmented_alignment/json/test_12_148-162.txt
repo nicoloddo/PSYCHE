@@ -5,7 +5,8 @@
    "end": 52.129999999999995,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "tower",
@@ -29,7 +30,8 @@
    "start": 52.129999999999995,
    "startOffset": 742,
    "word": "Tower",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "tower"
   },
   {
    "alignedWord": "of",
@@ -49,7 +51,8 @@
    "start": 52.42,
    "startOffset": 748,
    "word": "of",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "of"
   },
   {
    "alignedWord": "london",
@@ -85,14 +88,16 @@
    "start": 52.629999,
    "startOffset": 751,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "start": 53.279999,
    "end": 54.619999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "um",
@@ -112,7 +117,8 @@
    "start": 54.619999,
    "startOffset": 759,
    "word": "UM",
-   "token": "<disfl.um>"
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
   },
   {
    "alignedWord": "some",
@@ -136,7 +142,8 @@
    "start": 55.5,
    "startOffset": 763,
    "word": "some",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "some"
   },
   {
    "alignedWord": "things",
@@ -164,7 +171,8 @@
    "start": 55.71,
    "startOffset": 768,
    "word": "things",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "things"
   },
   {
    "alignedWord": "i",
@@ -180,7 +188,8 @@
    "start": 55.95,
    "startOffset": 775,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "do",
@@ -200,7 +209,8 @@
    "start": 56.02,
    "startOffset": 777,
    "word": "do",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "do"
   },
   {
    "alignedWord": "not",
@@ -224,7 +234,8 @@
    "start": 56.17,
    "startOffset": 780,
    "word": "not",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "not"
   },
   {
    "alignedWord": "like",
@@ -248,7 +259,8 @@
    "start": 56.32,
    "startOffset": 784,
    "word": "like",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "like"
   },
   {
    "alignedWord": "about",
@@ -276,7 +288,8 @@
    "start": 56.54,
    "startOffset": 789,
    "word": "about",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "about"
   },
   {
    "alignedWord": "london",
@@ -312,14 +325,16 @@
    "start": 56.75,
    "startOffset": 795,
    "word": "London",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "london"
   },
   {
    "start": 57.11,
    "end": 57.67,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }

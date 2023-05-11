@@ -5,7 +5,8 @@
    "end": 117.16000000000001,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   },
   {
    "alignedWord": "i",
@@ -21,7 +22,8 @@
    "start": 117.16,
    "startOffset": 1683,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "love",
@@ -45,7 +47,8 @@
    "start": 117.34,
    "startOffset": 1685,
    "word": "love",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "love"
   },
   {
    "alignedWord": "<unk>",
@@ -61,7 +64,8 @@
    "start": 117.55,
    "startOffset": 1690,
    "word": "benihana",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "benihana"
   },
   {
    "alignedWord": "because",
@@ -93,7 +97,8 @@
    "start": 117.99,
    "startOffset": 1699,
    "word": "because",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "because"
   },
   {
    "alignedWord": "it's",
@@ -117,7 +122,8 @@
    "start": 118.219999,
    "startOffset": 1707,
    "word": "it's",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "it's"
   },
   {
    "alignedWord": "japanese",
@@ -157,7 +163,8 @@
    "start": 118.349999,
    "startOffset": 1712,
    "word": "Japanese",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "japanese"
   },
   {
    "alignedWord": "food",
@@ -181,7 +188,8 @@
    "start": 118.9,
    "startOffset": 1721,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "alignedWord": "and",
@@ -205,7 +213,8 @@
    "start": 119.3,
    "startOffset": 1726,
    "word": "and",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "and"
   },
   {
    "alignedWord": "i",
@@ -221,7 +230,8 @@
    "start": 119.4,
    "startOffset": 1730,
    "word": "I",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "i"
   },
   {
    "alignedWord": "absolutely",
@@ -269,7 +279,8 @@
    "start": 119.559999,
    "startOffset": 1732,
    "word": "absolutely",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "absolutely"
   },
   {
    "alignedWord": "love",
@@ -293,7 +304,8 @@
    "start": 120.05,
    "startOffset": 1743,
    "word": "love",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "love"
   },
   {
    "alignedWord": "japanese",
@@ -333,7 +345,8 @@
    "start": 120.49,
    "startOffset": 1748,
    "word": "Japanese",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "japanese"
   },
   {
    "alignedWord": "food",
@@ -357,14 +370,16 @@
    "start": 121.03999999999999,
    "startOffset": 1757,
    "word": "food",
-   "token": "<word>"
+   "token": "<word>",
+   "converted": "food"
   },
   {
    "start": 121.44,
    "end": 121.78999999999999,
    "word": "<breath>",
    "case": "breath",
-   "token": "<breath>"
+   "token": "<breath>",
+   "converted": "<breath>"
   }
  ]
 }
