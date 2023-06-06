@@ -1,0 +1,269 @@
+{
+ "words": [
+  {
+   "start": 18.55,
+   "end": 18.92,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "because",
+   "case": "success",
+   "end": 20.07,
+   "endOffset": 212,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "b_B"
+    },
+    {
+     "duration": 0.1,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.16,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.38,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.43,
+     "phone": "z_E"
+    }
+   ],
+   "start": 18.92,
+   "startOffset": 205,
+   "word": "because",
+   "token": "<word>",
+   "converted": "because"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 20.89,
+   "endOffset": 216,
+   "phones": [
+    {
+     "duration": 0.64,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 20.25,
+   "startOffset": 213,
+   "word": "ucl",
+   "token": "<word>",
+   "converted": "ucl"
+  },
+  {
+   "alignedWord": "is",
+   "case": "success",
+   "end": 21.330000000000002,
+   "endOffset": 219,
+   "phones": [
+    {
+     "duration": 0.3,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "z_E"
+    }
+   ],
+   "start": 20.92,
+   "startOffset": 217,
+   "word": "is",
+   "token": "<word>",
+   "converted": "is"
+  },
+  {
+   "alignedWord": "a",
+   "case": "success",
+   "end": 21.490000000000002,
+   "endOffset": 221,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "ah_S"
+    }
+   ],
+   "start": 21.37,
+   "startOffset": 220,
+   "word": "a",
+   "token": "<word>",
+   "converted": "a"
+  },
+  {
+   "alignedWord": "really",
+   "case": "success",
+   "end": 21.8,
+   "endOffset": 228,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "r_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 21.490000000000002,
+   "startOffset": 222,
+   "word": "really",
+   "token": "<word>",
+   "converted": "really"
+  },
+  {
+   "alignedWord": "great",
+   "case": "success",
+   "end": 22.08,
+   "endOffset": 234,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "g_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "t_E"
+    }
+   ],
+   "start": 21.8,
+   "startOffset": 229,
+   "word": "great",
+   "token": "<word>",
+   "converted": "great"
+  },
+  {
+   "alignedWord": "school",
+   "case": "success",
+   "end": 22.65,
+   "endOffset": 241,
+   "phones": [
+    {
+     "duration": 0.14,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.27,
+     "phone": "l_E"
+    }
+   ],
+   "start": 22.08,
+   "startOffset": 235,
+   "word": "school",
+   "token": "<word>",
+   "converted": "school"
+  },
+  {
+   "alignedWord": "for",
+   "case": "success",
+   "end": 22.89,
+   "endOffset": 245,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.1,
+     "phone": "er_E"
+    }
+   ],
+   "start": 22.67,
+   "startOffset": 242,
+   "word": "for",
+   "token": "<word>",
+   "converted": "for"
+  },
+  {
+   "alignedWord": "neuroscience",
+   "case": "success",
+   "end": 23.91,
+   "endOffset": 258,
+   "phones": [
+    {
+     "duration": 0.02,
+     "phone": "n_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "y_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "uh_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ow_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.16,
+     "phone": "ay_I"
+    },
+    {
+     "duration": 0.12,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.21,
+     "phone": "s_E"
+    }
+   ],
+   "start": 22.89,
+   "startOffset": 246,
+   "word": "neuroscience",
+   "token": "<word>",
+   "converted": "neuroscience"
+  },
+  {
+   "start": 23.91,
+   "end": 24.45,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

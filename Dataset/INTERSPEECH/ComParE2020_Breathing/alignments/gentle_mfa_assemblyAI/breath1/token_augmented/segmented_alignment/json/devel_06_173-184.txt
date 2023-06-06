@@ -1,0 +1,261 @@
+{
+ "words": [
+  {
+   "start": 57.71,
+   "end": 58.050000000000004,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "it's",
+   "case": "success",
+   "end": 58.239999999999995,
+   "endOffset": 857,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "s_E"
+    }
+   ],
+   "start": 58.05,
+   "startOffset": 853,
+   "word": "it's",
+   "token": "<word>",
+   "converted": "it's"
+  },
+  {
+   "alignedWord": "only",
+   "case": "success",
+   "end": 58.61,
+   "endOffset": 862,
+   "phones": [
+    {
+     "duration": 0.13,
+     "phone": "ow_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 58.26,
+   "startOffset": 858,
+   "word": "only",
+   "token": "<word>",
+   "converted": "only"
+  },
+  {
+   "alignedWord": "good",
+   "case": "success",
+   "end": 58.91,
+   "endOffset": 867,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "g_B"
+    },
+    {
+     "duration": 0.1,
+     "phone": "uh_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "d_E"
+    }
+   ],
+   "start": 58.64,
+   "startOffset": 863,
+   "word": "good",
+   "token": "<word>",
+   "converted": "good"
+  },
+  {
+   "alignedWord": "when",
+   "case": "success",
+   "end": 59.04,
+   "endOffset": 872,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "n_E"
+    }
+   ],
+   "start": 58.91,
+   "startOffset": 868,
+   "word": "when",
+   "token": "<word>",
+   "converted": "when"
+  },
+  {
+   "alignedWord": "you're",
+   "case": "success",
+   "end": 59.43,
+   "endOffset": 879,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "y_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "uh_I"
+    },
+    {
+     "duration": 0.29,
+     "phone": "r_E"
+    }
+   ],
+   "start": 59.04,
+   "startOffset": 873,
+   "word": "you're",
+   "token": "<word>",
+   "converted": "you're"
+  },
+  {
+   "start": 59.43,
+   "end": 60.47,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "kind",
+   "case": "success",
+   "end": 60.71,
+   "endOffset": 884,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "k_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ay_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "d_E"
+    }
+   ],
+   "start": 60.47,
+   "startOffset": 880,
+   "word": "kind",
+   "token": "<word>",
+   "converted": "kind"
+  },
+  {
+   "alignedWord": "of",
+   "case": "success",
+   "end": 60.89,
+   "endOffset": 887,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.1,
+     "phone": "v_E"
+    }
+   ],
+   "start": 60.71,
+   "startOffset": 885,
+   "word": "of",
+   "token": "<word>",
+   "converted": "of"
+  },
+  {
+   "alignedWord": "younger",
+   "case": "success",
+   "end": 61.410000000000004,
+   "endOffset": 895,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "y_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ng_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "g_I"
+    },
+    {
+     "duration": 0.17,
+     "phone": "er_E"
+    }
+   ],
+   "start": 60.89,
+   "startOffset": 888,
+   "word": "younger",
+   "token": "<word>",
+   "converted": "younger"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 62.709999999999994,
+   "endOffset": 899,
+   "phones": [
+    {
+     "duration": 0.51,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.43,
+     "phone": "m_E"
+    }
+   ],
+   "start": 61.769999999999996,
+   "startOffset": 897,
+   "word": "um",
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "start": 62.709999999999994,
+   "end": 63.529999999999994,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

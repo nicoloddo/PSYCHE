@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "start": 163.54999999999998,
+   "end": 164.73,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 165.10999999999999,
+   "endOffset": 1875,
+   "phones": [
+    {
+     "duration": 0.17,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.21,
+     "phone": "m_E"
+    }
+   ],
+   "start": 164.73,
+   "startOffset": 1873,
+   "word": "um",
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "start": 165.10999999999999,
+   "end": 165.89,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 166.58,
+   "endOffset": 1880,
+   "phones": [
+    {
+     "duration": 0.22,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "d_E"
+    }
+   ],
+   "start": 166.22,
+   "startOffset": 1877,
+   "word": "and",
+   "token": "<word>",
+   "converted": "and"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 166.85999999999999,
+   "endOffset": 1883,
+   "phones": [
+    {
+     "duration": 0.14,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "m_E"
+    }
+   ],
+   "start": 166.63,
+   "startOffset": 1881,
+   "word": "um",
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "alignedWord": "you",
+   "case": "success",
+   "end": 166.96,
+   "endOffset": 1888,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "y_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 166.86,
+   "startOffset": 1885,
+   "word": "you",
+   "token": "<word>",
+   "converted": "you"
+  },
+  {
+   "alignedWord": "get",
+   "case": "success",
+   "end": 167.11,
+   "endOffset": 1892,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "g_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "t_E"
+    }
+   ],
+   "start": 166.96,
+   "startOffset": 1889,
+   "word": "get",
+   "token": "<word>",
+   "converted": "get"
+  },
+  {
+   "alignedWord": "the",
+   "case": "success",
+   "end": 167.26,
+   "endOffset": 1896,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "ah_E"
+    }
+   ],
+   "start": 167.12,
+   "startOffset": 1893,
+   "word": "the",
+   "token": "<word>",
+   "converted": "the"
+  },
+  {
+   "alignedWord": "very",
+   "case": "success",
+   "end": 167.53,
+   "endOffset": 1901,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "v_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 167.26,
+   "startOffset": 1897,
+   "word": "very",
+   "token": "<word>",
+   "converted": "very"
+  },
+  {
+   "alignedWord": "tasty",
+   "case": "success",
+   "end": 167.9,
+   "endOffset": 1907,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "t_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "t_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 167.53,
+   "startOffset": 1902,
+   "word": "tasty",
+   "token": "<word>",
+   "converted": "tasty"
+  },
+  {
+   "alignedWord": "sausage",
+   "case": "success",
+   "end": 168.42999999999998,
+   "endOffset": 1915,
+   "phones": [
+    {
+     "duration": 0.12,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ao_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "jh_E"
+    }
+   ],
+   "start": 168.01,
+   "startOffset": 1908,
+   "word": "sausage",
+   "token": "<word>",
+   "converted": "sausage"
+  },
+  {
+   "alignedWord": "rolls",
+   "case": "success",
+   "end": 168.84,
+   "endOffset": 1921,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "r_B"
+    },
+    {
+     "duration": 0.11,
+     "phone": "ow_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.11,
+     "phone": "z_E"
+    }
+   ],
+   "start": 168.43,
+   "startOffset": 1916,
+   "word": "rolls",
+   "token": "<word>",
+   "converted": "rolls"
+  },
+  {
+   "start": 168.84,
+   "end": 169.3,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

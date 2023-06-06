@@ -11,7 +11,8 @@ from os.path import isfile, join
 
 import json
 
-import nic_dataset_tools as ndt
+import __libpath
+from psychelibrary import nic_dataset_tools as ndt
 
 interspeech_dataset_dir_relative = "INTERSPEECH/ComParE2020_Breathing/"
 interspeech_breath_labels_dir_relative = 'lab/labels.csv'

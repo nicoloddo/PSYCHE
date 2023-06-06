@@ -65,14 +65,27 @@ def process_file_metadata(file_path, root_folder):
 
     transcripts = {}
     with open(transcript_path, 'r') as f:
-        for line in f.read().splitlines():
-            turn_id, transcription = line.split(':')
-            turn_id = turn_id.split('[')[0].strip()
+        lines = f.read().splitlines()
+        lines_clean = [x for x in lines if x.startswith('Ses')] # remove non segmented audios
+        for i, line in enumerate(lines_clean):
+            turn_id_time, transcription = line.split(':')
+            
+            if i == 0:
+                time = turn_id_time.split('[')[1][:-1].split('-')
+                convo_start_time = time[0]
+            if i == len(lines_clean) - 1:
+                time = turn_id_time.split('[')[1][:-1].split('-')
+                convo_end_time = time[1]
+                
+            turn_id = turn_id_time.split('[')[0].strip()
+
             transcription = transcription.strip()
             transcripts[turn_id] = transcription
             
     # now return a dict with all these data
     return {
+        'start_time' : float(convo_start_time),
+        'end_time' : float(convo_end_time),
         'session': session_num,
         'leading_actor': leading_actor,
         'secondary_actor': secondary_actor,
@@ -90,7 +103,7 @@ def parse_line(line):
             'start_time': float(result.group(1)),
             'end_time': float(result.group(2)),
             'turn_name': result.group(3),
-            'emotion_abbreviation': result.group(4),
+            'emotion': result.group(4),
             'valence': float(result.group(5)),
             'activation': float(result.group(6)),
             'dominance': float(result.group(7))
@@ -160,5 +173,9 @@ def parse_file_content(file_path, root_folder, file_metadata):
 
 
 dialog_df, content_df = process_all_files(ROOT_FOLDER)
+
+dialog_df['conversation_duration'] = dialog_df['end_time'].sub(dialog_df['start_time'], axis = 0)
+content_df['turn_duration'] = content_df['end_time'].sub(content_df['start_time'], axis = 0)
+
 dialog_df.to_pickle("Save/dialog.pkl")
 content_df.to_pickle("Save/content.pkl")

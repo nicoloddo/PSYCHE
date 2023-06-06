@@ -1,0 +1,199 @@
+{
+ "words": [
+  {
+   "start": 185.89000000000001,
+   "end": 186.67000000000002,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 186.80999999999997,
+   "endOffset": 2418,
+   "phones": [
+    {
+     "duration": 0.14,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 186.67,
+   "startOffset": 2417,
+   "word": "I",
+   "token": "<word>",
+   "converted": "i"
+  },
+  {
+   "alignedWord": "really",
+   "case": "success",
+   "end": 187.01,
+   "endOffset": 2425,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "r_B"
+    },
+    {
+     "duration": 0.02,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 186.81,
+   "startOffset": 2419,
+   "word": "really",
+   "token": "<word>",
+   "converted": "really"
+  },
+  {
+   "alignedWord": "like",
+   "case": "success",
+   "end": 187.19,
+   "endOffset": 2430,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "l_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "ay_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "k_E"
+    }
+   ],
+   "start": 187.01,
+   "startOffset": 2426,
+   "word": "like",
+   "token": "<word>",
+   "converted": "like"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 187.53,
+   "endOffset": 2439,
+   "phones": [
+    {
+     "duration": 0.33,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 187.2,
+   "startOffset": 2431,
+   "word": "primrose",
+   "token": "<word>",
+   "converted": "primrose"
+  },
+  {
+   "alignedWord": "hill",
+   "case": "success",
+   "end": 187.99,
+   "endOffset": 2444,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "hh_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.29,
+     "phone": "l_E"
+    }
+   ],
+   "start": 187.56,
+   "startOffset": 2440,
+   "word": "Hill",
+   "token": "<word>",
+   "converted": "hill"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 188.66,
+   "endOffset": 2448,
+   "phones": [
+    {
+     "duration": 0.2,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.34,
+     "phone": "m_E"
+    }
+   ],
+   "start": 188.12,
+   "startOffset": 2446,
+   "word": "um",
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "alignedWord": "especially",
+   "case": "success",
+   "end": 189.54000000000002,
+   "endOffset": 2460,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "p_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.1,
+     "phone": "sh_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.29,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 188.74,
+   "startOffset": 2450,
+   "word": "especially",
+   "token": "<word>",
+   "converted": "especially"
+  },
+  {
+   "start": 189.57700000000003,
+   "end": 190.28000000000003,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

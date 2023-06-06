@@ -1,0 +1,136 @@
+{
+ "words": [
+  {
+   "start": 80.16000000000001,
+   "end": 80.86000000000001,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "punch",
+   "case": "success",
+   "end": 81.21,
+   "endOffset": 1121,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "p_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.12,
+     "phone": "ch_E"
+    }
+   ],
+   "start": 80.86,
+   "startOffset": 1116,
+   "word": "punch",
+   "token": "<word>",
+   "converted": "punch"
+  },
+  {
+   "alignedWord": "all",
+   "case": "success",
+   "end": 81.23,
+   "endOffset": 1126,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ao_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "l_E"
+    }
+   ],
+   "start": 81.21000000000001,
+   "startOffset": 1123,
+   "word": "all",
+   "token": "<word>",
+   "converted": "all"
+  },
+  {
+   "alignedWord": "and",
+   "case": "success",
+   "end": 81.26,
+   "endOffset": 1130,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.01,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "d_E"
+    }
+   ],
+   "start": 81.23,
+   "startOffset": 1127,
+   "word": "and",
+   "token": "<word>",
+   "converted": "and"
+  },
+  {
+   "start": 81.367,
+   "end": 82.489,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "delays",
+   "case": "success",
+   "end": 83.77000000000001,
+   "endOffset": 1137,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.21,
+     "phone": "z_E"
+    }
+   ],
+   "start": 83.13000000000001,
+   "startOffset": 1131,
+   "word": "delays",
+   "token": "<word>",
+   "converted": "delays"
+  },
+  {
+   "start": 83.77000000000001,
+   "end": 84.21000000000001,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

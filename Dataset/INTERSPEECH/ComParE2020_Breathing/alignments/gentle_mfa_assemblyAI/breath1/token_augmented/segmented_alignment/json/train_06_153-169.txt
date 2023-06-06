@@ -1,0 +1,367 @@
+{
+ "words": [
+  {
+   "start": 56.74,
+   "end": 57.17,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "<unk>",
+   "case": "success",
+   "end": 57.88,
+   "endOffset": 677,
+   "phones": [
+    {
+     "duration": 0.71,
+     "phone": "oov_S"
+    }
+   ],
+   "start": 57.17,
+   "startOffset": 665,
+   "word": "rheumatology",
+   "token": "<word>",
+   "converted": "rheumatology"
+  },
+  {
+   "alignedWord": "ward",
+   "case": "success",
+   "end": 58.25,
+   "endOffset": 682,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ao_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.14,
+     "phone": "d_E"
+    }
+   ],
+   "start": 57.88,
+   "startOffset": 678,
+   "word": "ward",
+   "token": "<word>",
+   "converted": "ward"
+  },
+  {
+   "start": 58.25,
+   "end": 58.854,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "which",
+   "case": "success",
+   "end": 59.2,
+   "endOffset": 689,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "w_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ch_E"
+    }
+   ],
+   "start": 59.03,
+   "startOffset": 684,
+   "word": "which",
+   "token": "<word>",
+   "converted": "which"
+  },
+  {
+   "alignedWord": "is",
+   "case": "success",
+   "end": 59.21,
+   "endOffset": 697,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "ih_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "z_E"
+    }
+   ],
+   "start": 59.2,
+   "startOffset": 695,
+   "word": "is",
+   "token": "<word>",
+   "converted": "is"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 693,
+   "startOffset": 691,
+   "word": "um",
+   "start": 59.21,
+   "end": 59.23,
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "alignedWord": "very",
+   "case": "success",
+   "end": 59.559999999999995,
+   "endOffset": 702,
+   "phones": [
+    {
+     "duration": 0.03,
+     "phone": "v_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "eh_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 59.33,
+   "startOffset": 698,
+   "word": "very",
+   "token": "<word>",
+   "converted": "very"
+  },
+  {
+   "alignedWord": "different",
+   "case": "success",
+   "end": 59.88,
+   "endOffset": 712,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "f_I"
+    },
+    {
+     "duration": 0.01,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.02,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.04,
+     "phone": "t_E"
+    }
+   ],
+   "start": 59.56,
+   "startOffset": 703,
+   "word": "different",
+   "token": "<word>",
+   "converted": "different"
+  },
+  {
+   "alignedWord": "than",
+   "case": "success",
+   "end": 60.0,
+   "endOffset": 717,
+   "phones": [
+    {
+     "duration": 0.02,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "n_E"
+    }
+   ],
+   "start": 59.88,
+   "startOffset": 713,
+   "word": "than",
+   "token": "<word>",
+   "converted": "than"
+  },
+  {
+   "alignedWord": "the",
+   "case": "success",
+   "end": 60.07,
+   "endOffset": 721,
+   "phones": [
+    {
+     "duration": 0.03,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "ah_E"
+    }
+   ],
+   "start": 60.0,
+   "startOffset": 718,
+   "word": "the",
+   "token": "<word>",
+   "converted": "the"
+  },
+  {
+   "alignedWord": "nursing",
+   "case": "success",
+   "end": 60.41,
+   "endOffset": 729,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "n_B"
+    },
+    {
+     "duration": 0.12,
+     "phone": "er_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "s_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ng_E"
+    }
+   ],
+   "start": 60.07,
+   "startOffset": 722,
+   "word": "nursing",
+   "token": "<word>",
+   "converted": "nursing"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 60.459999999999994,
+   "endOffset": 731,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 60.41,
+   "startOffset": 730,
+   "word": "I",
+   "token": "<word>",
+   "converted": "i"
+  },
+  {
+   "alignedWord": "used",
+   "case": "success",
+   "end": 60.68,
+   "endOffset": 736,
+   "phones": [
+    {
+     "duration": 0.07,
+     "phone": "y_B"
+    },
+    {
+     "duration": 0.03,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "z_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "d_E"
+    }
+   ],
+   "start": 60.46,
+   "startOffset": 732,
+   "word": "used",
+   "token": "<word>",
+   "converted": "used"
+  },
+  {
+   "alignedWord": "to",
+   "case": "success",
+   "end": 60.75,
+   "endOffset": 739,
+   "phones": [
+    {
+     "duration": 0.01,
+     "phone": "t_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ih_E"
+    }
+   ],
+   "start": 60.68,
+   "startOffset": 737,
+   "word": "to",
+   "token": "<word>",
+   "converted": "to"
+  },
+  {
+   "alignedWord": "do",
+   "case": "success",
+   "end": 61.08,
+   "endOffset": 742,
+   "phones": [
+    {
+     "duration": 0.06,
+     "phone": "d_B"
+    },
+    {
+     "duration": 0.27,
+     "phone": "uw_E"
+    }
+   ],
+   "start": 60.75,
+   "startOffset": 740,
+   "word": "do",
+   "token": "<word>",
+   "converted": "do"
+  },
+  {
+   "start": 61.08,
+   "end": 61.629999999999995,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "words": [
+  {
+   "start": 208.629,
+   "end": 209.84,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 210.619999,
+   "endOffset": 2708,
+   "phones": [
+    {
+     "duration": 0.32,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.2,
+     "phone": "m_E"
+    }
+   ],
+   "start": 210.099999,
+   "startOffset": 2706,
+   "word": "um",
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "alignedWord": "my",
+   "case": "success",
+   "end": 211.089999,
+   "endOffset": 2712,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "m_B"
+    },
+    {
+     "duration": 0.13,
+     "phone": "ay_E"
+    }
+   ],
+   "start": 210.849999,
+   "startOffset": 2710,
+   "word": "my",
+   "token": "<word>",
+   "converted": "my"
+  },
+  {
+   "alignedWord": "favorite",
+   "case": "success",
+   "end": 211.54,
+   "endOffset": 2721,
+   "phones": [
+    {
+     "duration": 0.17,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.1,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "v_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "t_E"
+    }
+   ],
+   "start": 211.09,
+   "startOffset": 2713,
+   "word": "favorite",
+   "token": "<word>",
+   "converted": "favorite"
+  },
+  {
+   "alignedWord": "park",
+   "case": "success",
+   "end": 212.07999999999998,
+   "endOffset": 2726,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "p_B"
+    },
+    {
+     "duration": 0.15,
+     "phone": "aa_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.22,
+     "phone": "k_E"
+    }
+   ],
+   "start": 211.54,
+   "startOffset": 2722,
+   "word": "park",
+   "token": "<word>",
+   "converted": "park"
+  },
+  {
+   "start": 212.07999999999998,
+   "end": 212.74999999999997,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

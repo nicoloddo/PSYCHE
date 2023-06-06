@@ -1,0 +1,258 @@
+{
+ "words": [
+  {
+   "start": 85.39,
+   "end": 85.93,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 86.63999899999999,
+   "endOffset": 1263,
+   "phones": [
+    {
+     "duration": 0.31,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.4,
+     "phone": "m_E"
+    }
+   ],
+   "start": 85.929999,
+   "startOffset": 1261,
+   "word": "um",
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "start": 86.63999899999999,
+   "end": 87.372999,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "i",
+   "case": "success",
+   "end": 87.64,
+   "endOffset": 1266,
+   "phones": [
+    {
+     "duration": 0.11,
+     "phone": "ay_S"
+    }
+   ],
+   "start": 87.53999999999999,
+   "startOffset": 1265,
+   "word": "I",
+   "token": "<word>",
+   "converted": "i"
+  },
+  {
+   "case": "not-found-in-audio",
+   "endOffset": 1273,
+   "startOffset": 1267,
+   "word": "missed",
+   "start": 87.64,
+   "end": 87.88,
+   "token": "<word>",
+   "converted": "missed"
+  },
+  {
+   "alignedWord": "the",
+   "case": "success",
+   "end": 88.08,
+   "endOffset": 1277,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "dh_B"
+    },
+    {
+     "duration": 0.15,
+     "phone": "ah_E"
+    }
+   ],
+   "start": 87.88,
+   "startOffset": 1274,
+   "word": "the",
+   "token": "<word>",
+   "converted": "the"
+  },
+  {
+   "alignedWord": "asian",
+   "case": "success",
+   "end": 88.499999,
+   "endOffset": 1283,
+   "phones": [
+    {
+     "duration": 0.14,
+     "phone": "ey_B"
+    },
+    {
+     "duration": 0.07,
+     "phone": "zh_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "n_E"
+    }
+   ],
+   "start": 88.119999,
+   "startOffset": 1278,
+   "word": "Asian",
+   "token": "<word>",
+   "converted": "asian"
+  },
+  {
+   "alignedWord": "food",
+   "case": "success",
+   "end": 88.809999,
+   "endOffset": 1288,
+   "phones": [
+    {
+     "duration": 0.1,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.13,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "d_E"
+    }
+   ],
+   "start": 88.5,
+   "startOffset": 1284,
+   "word": "food",
+   "token": "<word>",
+   "converted": "food"
+  },
+  {
+   "alignedWord": "from",
+   "case": "success",
+   "end": 88.969999,
+   "endOffset": 1293,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "f_B"
+    },
+    {
+     "duration": 0.04,
+     "phone": "r_I"
+    },
+    {
+     "duration": 0.03,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "m_E"
+    }
+   ],
+   "start": 88.809999,
+   "startOffset": 1289,
+   "word": "from",
+   "token": "<word>",
+   "converted": "from"
+  },
+  {
+   "alignedWord": "vancouver",
+   "case": "success",
+   "end": 89.489999,
+   "endOffset": 1303,
+   "phones": [
+    {
+     "duration": 0.05,
+     "phone": "v_B"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ae_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "n_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "uw_I"
+    },
+    {
+     "duration": 0.09,
+     "phone": "v_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "er_E"
+    }
+   ],
+   "start": 88.969999,
+   "startOffset": 1294,
+   "word": "Vancouver",
+   "token": "<word>",
+   "converted": "vancouver"
+  },
+  {
+   "alignedWord": "actually",
+   "case": "success",
+   "end": 90.05,
+   "endOffset": 1313,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "ae_B"
+    },
+    {
+     "duration": 0.09,
+     "phone": "k_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "sh_I"
+    },
+    {
+     "duration": 0.07,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "l_I"
+    },
+    {
+     "duration": 0.19,
+     "phone": "iy_E"
+    }
+   ],
+   "start": 89.49,
+   "startOffset": 1305,
+   "word": "actually",
+   "token": "<word>",
+   "converted": "actually"
+  },
+  {
+   "start": 90.05,
+   "end": 90.75,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

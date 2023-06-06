@@ -1,0 +1,136 @@
+{
+ "words": [
+  {
+   "start": 161.03,
+   "end": 162.96,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "same",
+   "case": "success",
+   "end": 163.35,
+   "endOffset": 1879,
+   "phones": [
+    {
+     "duration": 0.26,
+     "phone": "s_B"
+    },
+    {
+     "duration": 0.08,
+     "phone": "ey_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "m_E"
+    }
+   ],
+   "start": 162.96,
+   "startOffset": 1875,
+   "word": "Same",
+   "token": "<word>",
+   "converted": "same"
+  },
+  {
+   "alignedWord": "about",
+   "case": "success",
+   "end": 163.62,
+   "endOffset": 1885,
+   "phones": [
+    {
+     "duration": 0.09,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.05,
+     "phone": "b_I"
+    },
+    {
+     "duration": 0.05,
+     "phone": "aw_I"
+    },
+    {
+     "duration": 0.08,
+     "phone": "t_E"
+    }
+   ],
+   "start": 163.35,
+   "startOffset": 1880,
+   "word": "about",
+   "token": "<word>",
+   "converted": "about"
+  },
+  {
+   "alignedWord": "cuisine",
+   "case": "success",
+   "end": 164.14000000000001,
+   "endOffset": 1893,
+   "phones": [
+    {
+     "duration": 0.04,
+     "phone": "k_B"
+    },
+    {
+     "duration": 0.02,
+     "phone": "w_I"
+    },
+    {
+     "duration": 0.06,
+     "phone": "ih_I"
+    },
+    {
+     "duration": 0.11,
+     "phone": "z_I"
+    },
+    {
+     "duration": 0.16,
+     "phone": "iy_I"
+    },
+    {
+     "duration": 0.13,
+     "phone": "n_E"
+    }
+   ],
+   "start": 163.62,
+   "startOffset": 1886,
+   "word": "cuisine",
+   "token": "<word>",
+   "converted": "cuisine"
+  },
+  {
+   "alignedWord": "but",
+   "case": "success",
+   "end": 164.5,
+   "endOffset": 1898,
+   "phones": [
+    {
+     "duration": 0.08,
+     "phone": "b_B"
+    },
+    {
+     "duration": 0.1,
+     "phone": "ah_I"
+    },
+    {
+     "duration": 0.15,
+     "phone": "t_E"
+    }
+   ],
+   "start": 164.17,
+   "startOffset": 1895,
+   "word": "But",
+   "token": "<word>",
+   "converted": "but"
+  },
+  {
+   "start": 164.5,
+   "end": 165.03,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}

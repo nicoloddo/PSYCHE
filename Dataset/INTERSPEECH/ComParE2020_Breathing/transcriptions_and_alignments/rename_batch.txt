@@ -1,5 +1,0 @@
-ren devel_??_aligned_transcr.txt devel_??.txt && ren test_??_aligned_transcr.txt test_??.txt && ren train_??_aligned_transcr.txt train_??.txt
-
-ren devel_??_aligned.json devel_??.json && ren test_??_aligned.json test_??.json && ren train_??_aligned.json train_??.json
-
-ren devel_??_transcript.txt devel_??.txt && ren test_??_transcript.txt test_??.txt && ren train_??_transcript.txt train_??.txt

@@ -1,0 +1,41 @@
+{
+ "words": [
+  {
+   "start": 135.0,
+   "end": 136.059,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  },
+  {
+   "alignedWord": "um",
+   "case": "success",
+   "end": 137.05,
+   "endOffset": 1835,
+   "phones": [
+    {
+     "duration": 0.34,
+     "phone": "ah_B"
+    },
+    {
+     "duration": 0.52,
+     "phone": "m_E"
+    }
+   ],
+   "start": 136.19,
+   "startOffset": 1833,
+   "word": "um",
+   "token": "<disfl.um>",
+   "converted": "<disfl.um>"
+  },
+  {
+   "start": 137.05,
+   "end": 139.3,
+   "word": "<breath>",
+   "case": "breath",
+   "token": "<breath>",
+   "converted": "<breath>"
+  }
+ ]
+}
