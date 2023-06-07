@@ -10,6 +10,7 @@ import sys
 
 import os
 from os.path import isfile, join
+from pathlib import Path
 
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
@@ -185,13 +186,34 @@ def time2seconds(timestamp, time_factor):
     # converts into seconds the timestamp by multiplying with the time_factor
     return timestamp * time_factor # time_factor is usually by default 1, supposing therefore we have seconds already
 
-def get_audio_segment(start, end, filename):
+def get_audio_segment(start = 0, end = -1, filename = None):
     start_ms = start * 1000 # Works in milliseconds
     end_ms = end * 1000
     newAudio = AudioSegment.from_wav(WAVS_DIR + filename)
-    newAudio = newAudio[start_ms:end_ms]
-        
-    return newAudio
+
+    if end == -1:
+        return newAudio
+    else:
+        newAudio = newAudio[start_ms:end_ms]
+        return newAudio  
+
+def get_audio_segment_noroot(start = 0, end = -1, filename = None):
+    start_ms = start * 1000 # Works in milliseconds
+    end_ms = end * 1000
+    newAudio = AudioSegment.from_wav(filename)
+
+    if end == -1:
+        return newAudio
+    else:
+        newAudio = newAudio[start_ms:end_ms]
+        return newAudio
+
+def get_iemocap_turn_wav_path(df, turn_name):
+    return df[df['turn_name'] == turn_name]['wav_path'].values[0]
+
+def print_iemocap_turn_wav(df, turn_name):
+    turn_wav = get_iemocap_turn_wav_path(df, turn_name)
+    ipd.display(ipd.Audio(Path(turn_wav)))
 
 def print_audio_segment(start, end, filename):
     newAudio = get_audio_segment(start, end, filename)

@@ -1,1 +1,1 @@
-activate psyche && spyder -w D:\OneDrive - Universiteit Utrecht\Documents\000 - Documenti\PROJECTS\PSYCHE
+activate psyche && spyder
