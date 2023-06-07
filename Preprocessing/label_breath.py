@@ -14,28 +14,16 @@ from pydub import AudioSegment, silence
 import __libpath
 from psychelibrary import nic_dataset_tools as ndt
 
-interspeech_dataset_dir_relative = "INTERSPEECH/ComParE2020_Breathing/"
-interspeech_breath_labels_dir_relative = 'lab/labels.csv'
-interspeech_transcriptions_dir_relative = 'transcriptions_and_alignments/'
-interspeech_wavs_dir_relative = "normalized_wav/"
-interspeech_temp_wavs_dir_relative = "temp_wav/"
-
-DATASET_DIR, TRANSCR_DIR, WAVS_DIR, TEMP_WAVS_DIR, _, WAV_FILENAMES = ndt.setup_global_paths(
-    interspeech_dataset_dir_relative,
-    interspeech_transcriptions_dir_relative,
-    interspeech_wavs_dir_relative,
-    interspeech_temp_wavs_dir_relative,
-    interspeech_breath_labels_dir_relative) # Here it uses the default ones
-
+_, _, ALIGN_DIR, _, _, _, _ = ndt.setup_global_paths() # Here it uses the default ones
 
 BREATH_TOKEN = ndt.BREATH_TOKEN
 
-ndt.ALIGNER = 'gentle_aligner'
-
-def main(args):
+def main(args):    
+    ndt.ALIGNER = args.aligner
+    ndt.DATASET = args.dataset
     
-    full_json_path = TRANSCR_DIR + args.alignment_dir + 'json/'
-    full_save_path = TRANSCR_DIR + args.alignment_dir + 'breath/'
+    full_json_path = ALIGN_DIR + args.alignment_dir + 'json/'
+    full_save_path = ALIGN_DIR + args.alignment_dir + 'breath/'
     
     json_names = [f for f in os.listdir(full_json_path) if isfile(join(full_json_path, f))]
     
@@ -141,8 +129,14 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--alignment_dir', type = str, default = 'gentle_mfa_assemblyAI/',
+    parser.add_argument('--alignment_dir', type = str, default = 'whisper/',
         help = 'The directory of the alignments. Files will be saved in a folder named "breath" in this same directory.')
+    
+    parser.add_argument('--aligner', type = str, default = 'whisper',
+        help = 'The aligner used.')
+    
+    parser.add_argument('--dataset', type = str, default = 'IEMOCAP',
+        help = 'The aligner used.')
     
     parser.add_argument('--respiration_length_min', type = float, default = 0.19,
         help = 'The minimum length of a breath instance to be detected.')

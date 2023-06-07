@@ -24,7 +24,7 @@ from pydub.playback import play
 import json
 
 ALIGNER = ''
-AVAILABLE_ALIGNERS = ['gentle_aligner', 'montreal', 'assembly_ai_default']
+AVAILABLE_ALIGNERS = ['gentle_aligner', 'montreal', 'assembly_ai_default', 'whisper']
 BREATH_TOKEN = '<breath>'
 
 # Thresholds to find breaths
@@ -43,14 +43,26 @@ IBM_URL = secrets["IBM_URL"]
 IBM_APIKEY = secrets["IBM_APIKEY"]
 ASSAI_APIKEY = secrets["ASSAI_APIKEY"]
 
-# The defaults are INTERSPEECH
-DEFAULT_dataset_dir_relative = "INTERSPEECH/ComParE2020_Breathing/"
-DEFAULT_transcriptions_dir_relative = 'transcriptions/'
-DEFAULT_alignments_dir_relative = 'alignments'
-DEFAULT_wavs_dir_relative = "normalized_wav/"
-DEFAULT_temp_wavs_dir_relative = "temp_wav/"
+DATASET = 'IEMOCAP'
 
-DEFAULT_breath_labels_dir_relative = 'lab/labels.csv' # set to '!nobreathlabels!' if no breath labels are available
+if DATASET == 'INTERSPEECH':
+    # The defaults are INTERSPEECH
+    DEFAULT_dataset_dir_relative = "INTERSPEECH/ComParE2020_Breathing/"
+    DEFAULT_transcriptions_dir_relative = 'transcriptions/'
+    DEFAULT_alignments_dir_relative = 'alignments'
+    DEFAULT_wavs_dir_relative = "normalized_wav/"
+    DEFAULT_temp_wavs_dir_relative = "temp_wav/"
+    DEFAULT_breath_labels_dir_relative = 'lab/labels.csv' # set to '!nobreathlabels!' if no breath labels are available
+    
+elif DATASET == 'IEMOCAP':
+    DEFAULT_dataset_dir_relative = "IEMOCAP_full_release_withoutVideos.tar/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release"
+    DEFAULT_transcriptions_dir_relative = 'transcriptions/'
+    DEFAULT_alignments_dir_relative = 'alignments/'
+    DEFAULT_wavs_dir_relative = "wav/"
+    DEFAULT_temp_wavs_dir_relative = "temp_wav/"
+    DEFAULT_breath_labels_dir_relative = '!nobreathlabels!' # set to '!nobreathlabels!' if no breath labels are available
+
+
 
 def setup_global_paths(dataset_dir_relative = DEFAULT_dataset_dir_relative, transcriptions_dir_relative = DEFAULT_transcriptions_dir_relative, alignments_dir_relative = DEFAULT_alignments_dir_relative, wavs_dir_relative = DEFAULT_wavs_dir_relative, temp_wavs_dir_relative = DEFAULT_temp_wavs_dir_relative, breath_labels_dir_relative = DEFAULT_breath_labels_dir_relative):
     DATASET_DIR = os.path.join(BASE_DIR, dataset_dir_relative)
@@ -88,7 +100,14 @@ def get_transcript(filename, specific_dir, suffix = ''): # with wav filename
 
 def check_aligner():
     if ALIGNER not in AVAILABLE_ALIGNERS:
-        sys.exit("You didn't choose an aligner.")
+        sys.exit("You didn't choose a valid aligner.")
+
+def flatten_whisper_words(audio_json):
+    # Collect all words from each segment
+    all_words = [word for segment in audio_json['segments'] for word in segment['words']]
+    # Add 'words' key with the collected words to the json data
+    audio_json['words'] = all_words
+    return audio_json
 
 def get_words_json(audio_json):
     check_aligner()
@@ -98,6 +117,8 @@ def get_words_json(audio_json):
         words = audio_json['tiers']['words']['entries']
     elif ALIGNER == 'assembly_ai_default':
         words = audio_json['words']
+    elif ALIGNER == 'whisper':
+        words = flatten_whisper_words(audio_json)['words']
     return words
 
 def get_info(word):
@@ -113,7 +134,11 @@ def get_info(word):
     elif ALIGNER == 'assembly_ai_default':
         start = word['start']
         end = word['end']
-        text = word['text']        
+        text = word['text']
+    elif ALIGNER == 'whisper':
+        start = word['start']
+        end = word['end']
+        text = word['word']
     return start, end, text
 
 def set_word_text(word, text): # overwrites the text field of a word
@@ -124,6 +149,8 @@ def set_word_text(word, text): # overwrites the text field of a word
         word[2] = text
     elif ALIGNER == 'assembly_ai_default':
         word['text'] = text
+    elif ALIGNER == 'whisper':
+        word['word'] = text
     
 def seconds_2_index(timestamp, audio_json):
     for i, word in enumerate(get_words_json(audio_json)):
