@@ -18,6 +18,17 @@ _, _, ALIGN_DIR, _, _, _, _ = ndt.setup_global_paths() # Here it uses the defaul
 
 BREATH_TOKEN = ndt.BREATH_TOKEN
 
+setting_set = 'default'
+with open('breath_labeling_settings.json', 'r') as f:
+    breath_settings = json.load(f)[setting_set]
+
+respiration_length_min = breath_settings['respiration_length_min']
+interval_db_max = breath_settings['interval_db_max']
+interval_peak_db_max = breath_settings['interval_peak_db_max']
+respiration_db_max = breath_settings['respiration_db_max']
+
+time_factor = 1
+
 def main(args):    
     ndt.ALIGNER = args.aligner
     ndt.DATASET = args.dataset
@@ -58,19 +69,19 @@ def main(args):
             start2, end2, text2 = ndt.get_info(word2)
             
             # if there is no breathing in the space:
-            if not ndt.breathing_in_space(word1, word2, wav_filename, args.time_factor, args.respiration_length_min, args.interval_db_max, args.interval_peak_db_max): # using the default threshold of ndt
+            if not ndt.breathing_in_space(word1, word2, wav_filename, time_factor, respiration_length_min, interval_db_max, interval_peak_db_max): # using the default threshold of ndt
                 continue
             
             count_potential_breath += 1
     
-            start1 = ndt.time2seconds(start1, args.time_factor)
-            start2 = ndt.time2seconds(start2, args.time_factor)
-            end1 = ndt.time2seconds(end1, args.time_factor)
-            end2 = ndt.time2seconds(end2, args.time_factor)        
+            start1 = ndt.time2seconds(start1, time_factor)
+            start2 = ndt.time2seconds(start2, time_factor)
+            end1 = ndt.time2seconds(end1, time_factor)
+            end2 = ndt.time2seconds(end2, time_factor)        
             
             # Find breath inside the space
             space_audio = ndt.get_audio_segment(end1, start2, wav_filename)
-            breath_section = silence.detect_silence(space_audio, min_silence_len=int(args.respiration_length_min*1000), silence_thresh=args.respiration_db_max, seek_step = 1)
+            breath_section = silence.detect_silence(space_audio, min_silence_len=int(respiration_length_min*1000), silence_thresh=respiration_db_max, seek_step = 1)
             
             count_breath_sections += len(breath_section)
             for breath in breath_section:
@@ -137,18 +148,6 @@ if __name__ == '__main__':
     
     parser.add_argument('--dataset', type = str, default = 'IEMOCAP',
         help = 'The aligner used.')
-    
-    parser.add_argument('--respiration_length_min', type = float, default = 0.19,
-        help = 'The minimum length of a breath instance to be detected.')
-    
-    parser.add_argument('--interval_db_max', type = int, default = -0,
-        help = 'The maximum db of a pause in the speaking to be a potential breath pause.')
-    
-    parser.add_argument('--interval_peak_db_max', type = int, default = -0,
-        help = 'The maximum of the peak of dbs in a pause to be a potential breath pause.')
-    
-    parser.add_argument('--respiration_db_max', type = int, default = -40,
-        help = 'The maximum db of a breath instance.')
 
     parser.add_argument('--time_factor', type = int, default = 1,
         help = 'The factor to multiply the alignment timestamp to obtain seconds. Set this to 0.001 if your alignments are in ms..')

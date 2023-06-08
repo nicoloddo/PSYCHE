@@ -24,15 +24,20 @@ from pydub.playback import play
 import json
 
 ALIGNER = ''
-AVAILABLE_ALIGNERS = ['gentle_aligner', 'montreal', 'assembly_ai_default', 'whisper']
-BREATH_TOKEN = '<breath>'
+AVAILABLE_ALIGNERS = ['gentle_aligner', 'montreal', 'assembly_ai_default', 'whisper', 'iemocap']
 
-# Thresholds to find breaths
-RESPIRATION_LENGTH_MIN = 0.27 # in seconds
-INTERVAL_DB_MAX = -10 # in db
-INTERVAL_PEAK_DB_MAX = -5 # in db
 
-RESPIRATION_DB_MAX = -40 # in db
+BREATHING_SETTINGS_SET = 'default'
+with open('breath_labeling_settings.json', 'r') as f:
+    breath_settings = json.load(f)[BREATHING_SETTINGS_SET]
+
+RESPIRATION_LENGTH_MIN = float(breath_settings['respiration_length_min']) # in seconds
+INTERVAL_DB_MAX = int(breath_settings['interval_db_max']) # in db
+INTERVAL_PEAK_DB_MAX = int(breath_settings['interval_peak_db_max']) # in db
+RESPIRATION_DB_MAX = int(breath_settings['respiration_db_max']) # in db
+BREATH_TOKEN = breath_settings['breath_token']
+
+TIME_FACTOR = 1
 
 # GLOBAL VARS TO BE IMPORTED IN OTHER FILES
 LIBRARY_DIRECTORY = 'D:/OneDrive - Universiteit Utrecht/Documents/000 - Documenti/PROJECTS/PSYCHE/psychelibrary/'
@@ -61,6 +66,9 @@ elif DATASET == 'IEMOCAP':
     DEFAULT_wavs_dir_relative = "wav/"
     DEFAULT_temp_wavs_dir_relative = "temp_wav/"
     DEFAULT_breath_labels_dir_relative = '!nobreathlabels!' # set to '!nobreathlabels!' if no breath labels are available
+
+else:
+    sys.exit("You didn't choose a valid Dataset.")
 
 
 
@@ -108,6 +116,25 @@ def flatten_whisper_words(audio_json):
     # Add 'words' key with the collected words to the json data
     audio_json['words'] = all_words
     return audio_json
+
+def parse_iemocap_turn_alignment(filepath): # parses a single turn alignment file
+    with open(filepath, 'r') as f:
+        alignment = f.readlines()
+    
+    turn_name = os.path.basename(filepath)[:-6]
+    
+    data = []
+    for line in alignment:
+        if not line.startswith(" Total") and not line.startswith("\t SFrm"):  # skipping total score and headers
+            parts = line.strip().split()
+            if len(parts) == 4:  # proper line with data
+                entry = {'word': parts[3], 'start': float(parts[0])/100, 'end': float(parts[1])/100, 'score': parts[2], 'turn': turn_name}
+                data.append(entry)
+    return data
+
+def get_iemocap_turnrow(df, turn_name):
+    return df.loc[df['turn_name'] == turn_name].iloc[0]
+
 
 def get_words_json(audio_json):
     check_aligner()
@@ -161,7 +188,7 @@ def seconds_2_index(timestamp, audio_json):
             else:
                 return i-1
 
-def access_word(i, filename, audio_json, time_factor = 1):
+def access_word(i, filename, audio_json, time_factor = TIME_FACTOR):
     words = get_words_json(audio_json)
     # json informations on the word: --------------------
     print(words[i])
@@ -253,7 +280,7 @@ def print_audio_segment(start, end, filename):
         
     return newAudio
 
-def print_spaced_words(word1, word2, filename, time_factor = 1, images = True, collective_image = True, only_space_audio = False, original_audio = False, printdf = False, printjson = True):
+def print_spaced_words(word1, word2, filename, time_factor = TIME_FACTOR, images = True, collective_image = True, only_space_audio = False, original_audio = False, printdf = False, printjson = True):
     
     start1, end1, text1 = get_info(word1)
     start2, end2, text2 = get_info(word2)
@@ -334,7 +361,7 @@ def print_spaced_words(word1, word2, filename, time_factor = 1, images = True, c
     print("Space in between:")
     print_audio_segment(end1, start2, filename)
             
-def search_inconsistencies(filename, audio_json, time_factor = 1, nonstop = True, incons_threshold = 0.00001): 
+def search_inconsistencies(filename, audio_json, time_factor = TIME_FACTOR, nonstop = True, incons_threshold = 0.00001): 
     count_inconsistence = 0
     count_wrong_order = 0
     for i in range(len(get_words_json(audio_json))):
@@ -397,7 +424,7 @@ def search_inconsistencies(filename, audio_json, time_factor = 1, nonstop = True
 
 # BREATHING SEARCH FUNCTIONS
             
-def breathing_in_space(word1, word2, filename, time_factor, length_min, interval_db_max, interval_peak_db_max):
+def breathing_in_space(word1, word2, filename, time_factor = TIME_FACTOR, length_min = RESPIRATION_LENGTH_MIN, interval_db_max = INTERVAL_DB_MAX, interval_peak_db_max = INTERVAL_PEAK_DB_MAX):
     respiration_length_min = length_min # in seconds
     respiration_db_threshold = interval_db_max # in db
     respiration_peak_db_threshold = interval_peak_db_max
@@ -416,7 +443,7 @@ def breathing_in_space(word1, word2, filename, time_factor, length_min, interval
     breathAudio = AudioSegment.from_wav(WAVS_DIR + filename)
     breathAudio = breathAudio[start_ms:end_ms]
     
-    # check if we should print: is it (not) breathing? --
+    # check if we should return True: is it (not) breathing? --
     if start2-end1 < respiration_length_min:
         return False
     elif breathAudio.dBFS > respiration_db_threshold:
@@ -426,7 +453,32 @@ def breathing_in_space(word1, word2, filename, time_factor, length_min, interval
     else:
         return True
     
-def search_breath_analysis(filename, audio_json, time_factor = 1, interval_db_max = INTERVAL_DB_MAX, respiration_db_max = RESPIRATION_DB_MAX, interval_peak_db_max = INTERVAL_PEAK_DB_MAX, respiration_length_min = RESPIRATION_LENGTH_MIN, nonstop=False, printonlyfinal=False, printjson = False, askcontinue=False):
+def breathing_in_word(word, filename, time_factor = TIME_FACTOR, length_min = RESPIRATION_LENGTH_MIN, interval_db_max = INTERVAL_DB_MAX, interval_peak_db_max = INTERVAL_PEAK_DB_MAX):
+    respiration_length_min = length_min # in seconds
+    respiration_db_threshold = interval_db_max # in db
+    respiration_peak_db_threshold = interval_peak_db_max
+    
+    start, end, _ = get_info(word)
+    start = time2seconds(start, time_factor)
+    end = time2seconds(end, time_factor)
+    
+    # get audio between words ---------------------------
+    start_ms = start * 1000 #Works in milliseconds
+    end_ms = end * 1000
+    breathAudio = AudioSegment.from_wav(WAVS_DIR + filename)
+    breathAudio = breathAudio[start_ms:end_ms]
+    
+    # check if we should return True: is it (not) breathing? --
+    if end-start < respiration_length_min:
+        return False
+    elif breathAudio.dBFS > respiration_db_threshold:
+        return False
+    elif breathAudio.max_dBFS > respiration_peak_db_threshold:
+        return False
+    else:
+        return True
+    
+def search_breath_analysis(filename, audio_json, time_factor = TIME_FACTOR, interval_db_max = INTERVAL_DB_MAX, respiration_db_max = RESPIRATION_DB_MAX, interval_peak_db_max = INTERVAL_PEAK_DB_MAX, respiration_length_min = RESPIRATION_LENGTH_MIN, nonstop=False, printonlyfinal=False, printjson = False, askcontinue=False):
     if nonstop:
         if not BREATH_DF.empty:
             df_file = BREATH_DF.loc[BREATH_DF['filename'] == filename]
@@ -539,7 +591,7 @@ def argmax_max(iterable):
 def argmin_min(iterable):
     return min(enumerate(iterable), key=lambda x: x[1])
 
-def breath_stats(alignment_dir, time_factor = 1, interval_db_max = INTERVAL_DB_MAX, respiration_db_max = RESPIRATION_DB_MAX, interval_peak_db_max = INTERVAL_PEAK_DB_MAX, respiration_length_min = RESPIRATION_LENGTH_MIN, singleprint = True): 
+def breath_stats(alignment_dir, time_factor = TIME_FACTOR, interval_db_max = INTERVAL_DB_MAX, respiration_db_max = RESPIRATION_DB_MAX, interval_peak_db_max = INTERVAL_PEAK_DB_MAX, respiration_length_min = RESPIRATION_LENGTH_MIN, singleprint = True): 
     # search for breaths across an alignment directory and gives statistics about them
     # alignment_dir = the general directory of the alignment, not the json one.
     
