@@ -23,13 +23,22 @@ from pydub.playback import play
 
 import json
 
-ALIGNER = ''
-AVAILABLE_ALIGNERS = ['gentle_aligner', 'montreal', 'assembly_ai_default', 'whisper', 'iemocap']
+AVAILABLE_ALIGNERS = ['gentle_aligner', 'montreal', 'assembly_ai_default', 'whisper', 'iemocap_default']
 
-
+# GLOBAL VARS TO BE IMPORTED IN OTHER FILES
+LIBRARY_DIRECTORY = 'D:/OneDrive - Universiteit Utrecht/Documents/000 - Documenti/PROJECTS/PSYCHE/psychelibrary/'
+with open(LIBRARY_DIRECTORY + 'Settings and Secrets/' + 'secrets.json', 'r') as f:
+    secrets = json.load(f)
+    
 BREATHING_SETTINGS_SET = 'default'
-with open('breath_labeling_settings.json', 'r') as f:
+with open(LIBRARY_DIRECTORY + 'Settings and Secrets/' + 'breath_labeling_settings.json', 'r') as f:
     breath_settings = json.load(f)[BREATHING_SETTINGS_SET]
+    
+
+BASE_DIR = secrets["BASE_DIR"]
+IBM_URL = secrets["IBM_URL"]
+IBM_APIKEY = secrets["IBM_APIKEY"]
+ASSAI_APIKEY = secrets["ASSAI_APIKEY"]
 
 RESPIRATION_LENGTH_MIN = float(breath_settings['respiration_length_min']) # in seconds
 INTERVAL_DB_MAX = int(breath_settings['interval_db_max']) # in db
@@ -39,15 +48,7 @@ BREATH_TOKEN = breath_settings['breath_token']
 
 TIME_FACTOR = 1
 
-# GLOBAL VARS TO BE IMPORTED IN OTHER FILES
-LIBRARY_DIRECTORY = 'D:/OneDrive - Universiteit Utrecht/Documents/000 - Documenti/PROJECTS/PSYCHE/psychelibrary/'
-with open(LIBRARY_DIRECTORY + 'secrets.json', 'r') as f:
-    secrets = json.load(f)
-BASE_DIR = secrets["BASE_DIR"]
-IBM_URL = secrets["IBM_URL"]
-IBM_APIKEY = secrets["IBM_APIKEY"]
-ASSAI_APIKEY = secrets["ASSAI_APIKEY"]
-
+ALIGNER = ''
 DATASET = 'IEMOCAP'
 
 if DATASET == 'INTERSPEECH':

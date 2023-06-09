@@ -23,9 +23,7 @@ convo_id = 'Ses01F_impro03'
 
 psyche.parse_alignment_file(convo_id + '.json', 'whisper/')
 
-words = psyche.alignments['whisper/']
-
-turn_words = psyche.parse_alignment_turn_iemocap(ndt.get_iemocap_turnrow(content, convo_id + '_F003'))
+words = psyche.alignments['whisper']
 
 convo_words = psyche.parse_alignment_audio(ndt.get_iemocap_turnrow(content, convo_id + '_F003'))
 convo_words_clean = [word for word in convo_words if word['word'] != '<s>' and word['word'] != '</s>']
