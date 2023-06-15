@@ -1,5 +1,5 @@
 {
-	"default" : 
+	"breath2" : 
 		{
 			"respiration_length_min" : "0.19",
 			"respiration_length_min_help" : "(float) The minimum length of a breath instance to be detected.",
@@ -16,7 +16,7 @@
 			"breath_token" : "<breath>"
 		},
 		
-	"alt" : 
+	"breath3" : 
 		{
 			"respiration_length_min" : "0.27",
 			"respiration_length_min_help" : "(float) The minimum length of a breath instance to be detected.",

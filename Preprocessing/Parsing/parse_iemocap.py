@@ -201,10 +201,19 @@ def parse_emotional_content(file_path, dialog):
 
 dialog_df, content_df = process_all_files(ROOT_FOLDER)
 
-dialog_df['conversation_duration'] = dialog_df['end_time'].sub(dialog_df['start_time'], axis = 0)
-content_df['turn_duration'] = content_df['end_time'].sub(content_df['start_time'], axis = 0)
+dialog_df['duration'] = dialog_df['end_time'].sub(dialog_df['start_time'], axis = 0)
+content_df['duration'] = content_df['end_time'].sub(content_df['start_time'], axis = 0)
+
+# Ensure that 'conversation_id' is the index in the dialog_df
+dialog_df = dialog_df.set_index('conversation_id')
+
+# Rename the 'wav_path' column to 'conversation_wav_path' in dialog_df
+dialog_df = dialog_df.rename(columns={'wav_path': 'conversation_wav_path'})
+
+# Perform the merge operation with left join to keep every row from content_df
+merged_df = content_df.merge(dialog_df[['conversation_wav_path']], left_on='conversation_id', right_index=True, how='left')
 
 save = True
 if save:
-    dialog_df.to_pickle("Save/dialog.pkl")
-    content_df.to_pickle("Save/content.pkl")
+    dialog_df.to_pickle("../Save/IEMOCAP/dialog.pkl")
+    merged_df.to_pickle("../Save/IEMOCAP/content.pkl")

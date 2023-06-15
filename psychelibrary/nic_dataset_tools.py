@@ -15,6 +15,8 @@ from pathlib import Path
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 
+import string
+
 import IPython.display as ipd
 import matplotlib.pyplot as plt
 
@@ -23,6 +25,11 @@ from pydub.playback import play
 
 import json
 
+import warnings
+
+warnings.warn("nic_dataset_tools is deprecated.")
+
+
 AVAILABLE_ALIGNERS = ['gentle_aligner', 'montreal', 'assembly_ai_default', 'whisper', 'iemocap_default']
 
 # GLOBAL VARS TO BE IMPORTED IN OTHER FILES
@@ -30,7 +37,7 @@ LIBRARY_DIRECTORY = 'D:/OneDrive - Universiteit Utrecht/Documents/000 - Document
 with open(LIBRARY_DIRECTORY + 'Settings and Secrets/' + 'secrets.json', 'r') as f:
     secrets = json.load(f)
     
-BREATHING_SETTINGS_SET = 'default'
+BREATHING_SETTINGS_SET = 'breath2'
 with open(LIBRARY_DIRECTORY + 'Settings and Secrets/' + 'breath_labeling_settings.json', 'r') as f:
     breath_settings = json.load(f)[BREATHING_SETTINGS_SET]
     
@@ -147,6 +154,8 @@ def get_words_json(audio_json):
         words = audio_json['words']
     elif ALIGNER == 'whisper':
         words = flatten_whisper_words(audio_json)['words']
+    elif ALIGNER == 'iemocap_default':
+        words = audio_json['words']
     return words
 
 def get_info(word):
@@ -167,6 +176,10 @@ def get_info(word):
         start = word['start']
         end = word['end']
         text = word['word']
+    elif ALIGNER == 'iemocap_default':
+        start = word['start']
+        end = word['end']
+        text = word['word']
     return start, end, text
 
 def set_word_text(word, text): # overwrites the text field of a word
@@ -179,6 +192,8 @@ def set_word_text(word, text): # overwrites the text field of a word
         word['text'] = text
     elif ALIGNER == 'whisper':
         word['word'] = text
+    elif ALIGNER == 'iemocap_default':
+        word['word'] = text
     
 def seconds_2_index(timestamp, audio_json):
     for i, word in enumerate(get_words_json(audio_json)):
@@ -188,6 +203,14 @@ def seconds_2_index(timestamp, audio_json):
                 return i
             else:
                 return i-1
+
+def normalize_word(word):
+    # Convert to lowercase and remove punctuation
+    word = word.lower().strip(string.punctuation)
+    # Remove trailing numbers
+    if '(' in word:
+        word = word.split('(')[0]
+    return word
 
 def access_word(i, filename, audio_json, time_factor = TIME_FACTOR):
     words = get_words_json(audio_json)

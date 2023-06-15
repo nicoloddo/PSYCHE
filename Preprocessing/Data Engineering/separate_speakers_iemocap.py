@@ -12,7 +12,7 @@ import __libpath
 from psychelibrary import psyche_dataset as psd
 
 
-dialog = pd.read_pickle("Save/dialog.pkl")
+dialog = pd.read_pickle("../Save/dialog.pkl")
 subset = dialog.loc[dialog['conversation_id'] == 'Ses01F_impro03']
 
 psyche = psd.PsycheDataset('IEMOCAP', subset)

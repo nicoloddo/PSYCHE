@@ -8,8 +8,7 @@ Created on Wed Jun  7 16:28:49 2023
 import pandas as pd
 import re
 
-dialog = pd.read_pickle("Save/dialog.pkl")
-content = pd.read_pickle("Save/content.pkl")
+content = pd.read_pickle("../Save/IEMOCAP/content.pkl")
 
 # Let's create a new emotion label column without the undecided 'xxx' values.
 content['emotion_label'] = content['emotion']
@@ -64,6 +63,6 @@ dataset = content.loc[content['emotion_label'] != 'oth']
 
 save = True
 if save:
-    dataset.to_pickle("Save/dialog.pkl")
+    dataset.to_pickle("../Save/IEMOCAP/content_processed.pkl")
     
     

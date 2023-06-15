@@ -19,13 +19,13 @@ _, _, ALIGN_DIR, _, _, _, _ = ndt.setup_global_paths() # Here it uses the defaul
 BREATH_TOKEN = ndt.BREATH_TOKEN
 
 setting_set = 'default'
-with open('breath_labeling_settings.json', 'r') as f:
+with open('../../psychelibrary/Settings and Secrets/breath_labeling_settings.json', 'r') as f:
     breath_settings = json.load(f)[setting_set]
 
-respiration_length_min = breath_settings['respiration_length_min']
-interval_db_max = breath_settings['interval_db_max']
-interval_peak_db_max = breath_settings['interval_peak_db_max']
-respiration_db_max = breath_settings['respiration_db_max']
+respiration_length_min = float(breath_settings['respiration_length_min'])
+interval_db_max = int(breath_settings['interval_db_max'])
+interval_peak_db_max = int(breath_settings['interval_peak_db_max'])
+respiration_db_max = int(breath_settings['respiration_db_max'])
 
 time_factor = 1
 
@@ -140,10 +140,10 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--alignment_dir', type = str, default = 'whisper/',
+    parser.add_argument('--alignment_dir', type = str, default = 'iemocap_default/',
         help = 'The directory of the alignments. Files will be saved in a folder named "breath" in this same directory.')
     
-    parser.add_argument('--aligner', type = str, default = 'whisper',
+    parser.add_argument('--aligner', type = str, default = 'iemocap_default',
         help = 'The aligner used.')
     
     parser.add_argument('--dataset', type = str, default = 'IEMOCAP',

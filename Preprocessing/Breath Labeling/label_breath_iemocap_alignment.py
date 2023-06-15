@@ -11,25 +11,17 @@ import pandas as pd
 import __libpath
 from psychelibrary import psyche_dataset as psd
 from psychelibrary import nic_dataset_tools as ndt
+ndt.ALIGNER = 'iemocap_default'
 
 time_factor = 1
 
-content = pd.read_pickle("../Save/content.pkl")
-
-psyche = psd.PsycheDataset('IEMOCAP', content)
-psyche.set_aligner('whisper')
+with open('../Save/alignments.json', 'r') as f:
+    alignments = json.load(f)
 
 convo_id = 'Ses01F_impro03'
 
-psyche.parse_alignment_file(convo_id + '.json', 'whisper/')
-
-words = psyche.alignments['whisper']
-
-convo_words = psyche.parse_alignment_audio(ndt.get_iemocap_turnrow(content, convo_id + '_F003'))
+convo_words = alignments['iemocap_default']['audios'][convo_id]
 convo_words_clean = [word for word in convo_words if word['word'] != '<s>' and word['word'] != '</s>']
-
-with open('breath_labeling_settings.json', 'r') as f:
-    breath_settings = json.load(f)
 
 breath_labeled_convo = []
 for word in convo_words_clean:
@@ -41,8 +33,18 @@ for word in convo_words_clean:
             continue
     else:
         breath_labeled_convo.append(word)
+
+tags = ['++LAUGHTER++', '++BREATHING++', '++GARBAGE++', '++LIPSMACK++']
+for word in breath_labeled_convo:
+    if word['word'] == '<breath>':
+        continue
+    elif word['word'] not in tags:
+        word['word'] = ndt.normalize_word(word['word'])
+    else:
+        tag = ndt.normalize_word(word['word'])
+        word['word'] = '<' + tag + '>'
         
 breath_labeled_transcr = ' '.join([word['word'] for word in breath_labeled_convo])
 
-with open('../Save/iemocap_alignment_breath_transcript.txt', 'w') as f:
+with open('../Save/iemocap_alignment_sil_breath_transcript.txt', 'w') as f:
     f.write(breath_labeled_transcr)
