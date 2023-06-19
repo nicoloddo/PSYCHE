@@ -38,4 +38,4 @@ def split_file(filelist_name, train_percentage):
     print(f"Number of validation rows: {len(valid_lines)}")
 
 # Call the function
-split_file('IEMOCAP_INTERSPEECH_filelist', 0.9)
+split_file('Filelists/IEMOCAP_INTERSPEECH_filelist', 0.9)

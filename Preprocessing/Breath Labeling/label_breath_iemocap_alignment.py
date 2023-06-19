@@ -36,13 +36,13 @@ for word in convo_words_clean:
 
 tags = ['++LAUGHTER++', '++BREATHING++', '++GARBAGE++', '++LIPSMACK++']
 for word in breath_labeled_convo:
-    if word['word'] == '<breath>':
+    if word['word'] == ndt.BREATH_TOKEN:
         continue
     elif word['word'] not in tags:
         word['word'] = ndt.normalize_word(word['word'])
     else:
         tag = ndt.normalize_word(word['word'])
-        word['word'] = '<' + tag + '>'
+        word['word'] = '{' + tag + '}'
         
 breath_labeled_transcr = ' '.join([word['word'] for word in breath_labeled_convo])
 

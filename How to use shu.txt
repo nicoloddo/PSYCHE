@@ -1,0 +1,21 @@
+GPU: 2x NVIDIA GeForce RTX 2080 Ti
+
+python3 -m torch.distributed.launch --use_env --nproc_per_node=2 train.py -c config.json -p train_config.output_directory=psyche_output train_config.batch_size=3 train_config.fp16=true data_config.use_attn_prior=1
+
+
+python train.py -c config.json -p train_config.output_directory=psyche_output data_config.use_attn_prior=1
+
+
+docker run -it --gpus all -v ~/nico:/nico -p 6007:6006 pytorch/pytorch:latest
+
+
+git clone https://github.com/nicoloddo/flowtron psyche
+
+
+cd ../nico/psyche/ && pip install -r requirements.txt
+
+
+scp -r  shu@131.211.37.22:~/nico/psyche/psyche_output ~/
+
+
+python3 -m torch.distributed.launch --use_env --nproc_per_node=2 train.py -c config.json -p train_config.output_directory=psyche_output train_config.batch_size=3 train_config.fp16=true data_config.use_attn_prior=1 train_config.checkpoint_path=psyche_output/model_11000

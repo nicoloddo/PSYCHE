@@ -35,14 +35,14 @@ def group_words_by_turns(words):
                 turns[word['turn']] = []
             turns[word['turn']].append(word)
             
-        # if word is '<breath>', add it to the previous turn and next turn
-        elif word['word'] == '<breath>':
+        # if word is '{breath}', add it to the previous turn and next turn
+        elif word['word'] == '{breath}':
             
             # go search for the previous normal word's turn
             if i > 0:
                 j = 1
                 prev_word = words[i-j]
-                while prev_word == '<breath>' and i-j >= 0:
+                while prev_word == '{breath}' and i-j >= 0:
                     prev_word = words[i+j]
                     j -= 1
                 if 'turn' in prev_word: # if a normal word has been found
@@ -55,7 +55,7 @@ def group_words_by_turns(words):
             if i < len(words)-1:
                 j = 1
                 next_word = words[i+j]
-                while next_word == '<breath>' and i+j < len(words):
+                while next_word == '{breath}' and i+j < len(words):
                     next_word = words[i+j]
                     j += 1
                 if 'turn' in next_word: # if a normal word has been found
@@ -102,21 +102,21 @@ def process_turns(turns, turn_names, audio, high_threshold, low_threshold, save_
 
 # Function to split the combined audio into segments of size more than the 'low_threshold' and save each segment
 def split_and_save(combined, low_threshold, words, turn, save_folders):
-    # Find all the '<breath>' words
-    breath_words = [word for word in words if word['word'] == '<breath>']
+    # Find all the '{breath}' words
+    breath_words = [word for word in words if word['word'] == '{breath}']
     segment_start = words[0]['start']
     
     if breath_words:
         # Calculate the mid point of the combined audio
         mid_point = len(combined) // 2
 
-        # Find the '<breath>' closest to the middle
+        # Find the '{breath}' closest to the middle
         mid_index = min(range(len(breath_words)), key = lambda index: abs((breath_words[index]['start']-segment_start)*1000 - mid_point))
 
-        # Get the index of the middle '<breath>' word in the original words list
+        # Get the index of the middle '{breath}' word in the original words list
         mid_index_in_words = words.index(breath_words[mid_index])
 
-        # Split the audio and words based on the found '<breath>'
+        # Split the audio and words based on the found '{breath}'
         split1 = combined[:(words[mid_index_in_words]['end']-segment_start)*1000]
         split2 = combined[(words[mid_index_in_words]['start']-segment_start)*1000:]
         words1 = words[:mid_index_in_words+1]
@@ -132,7 +132,7 @@ def split_and_save(combined, low_threshold, words, turn, save_folders):
             save(split1, words1, f"{turn}_0", turn, save_folders)
             save(split2, words2, f"{turn}_1", turn, save_folders)
     else:
-        # If no '<breath>' words are found, simply split at the middle point
+        # If no '{breath}' words are found, simply split at the middle point
         mid_index = len(words) // 2
         split1 = combined[:(words[mid_index]['end']-segment_start)*1000]
         split2 = combined[(words[mid_index]['start']-segment_start)*1000:]

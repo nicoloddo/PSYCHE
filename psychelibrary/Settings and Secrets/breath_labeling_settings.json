@@ -13,7 +13,7 @@
 			"respiration_db_max": "-40",
 			"respiration_db_max_help" : "(int) The maximum db of a breath instance.",
 			
-			"breath_token" : "<breath>"
+			"breath_token" : "{breath}"
 		},
 		
 	"breath3" : 
@@ -30,6 +30,6 @@
 			"respiration_db_max": "-40",
 			"respiration_db_max_help" : "(int) The maximum db of a breath instance.",
 			
-			"breath_token" : "<breath>"
+			"breath_token" : "{breath}"
 		}
 }

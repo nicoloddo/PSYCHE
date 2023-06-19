@@ -62,9 +62,14 @@ def filelist(df, data_folder, output_file):
     df.to_csv(output_file, header=None, index=None, sep='|', line_terminator='\n')
 
 
-data_folder = 'data/IEMOCAP'
-output_file = '../Save/IEMOCAP/iemocap_filelist.txt'
+data_folder = '../data/IEMOCAP/' # to append in the filelist
+output_file = '../Filelists/iemocap_filelist_1-15.txt'
+
 df= pd.read_pickle("../Save/IEMOCAP/segmented.pkl")
+
+# Take only from 1s to 15s
+df = df.loc[df['duration']/1000 <= 15]
+df = df.loc[df['duration']/1000 >= 1]
 
 filelist(df, data_folder, output_file)
 

@@ -54,16 +54,16 @@ def main(args):
         for j, word in enumerate(words):
             _, _, text = ndt.get_info(word)
             if text.lower() in DISFLUENCIES:
-                word['token'] = '<disfl.' + text.lower() + '>'
+                word['token'] = '{disfl.' + text.lower() + '}'
                 word['converted'] = word['token']
             elif not text == args.breath_token:
-                word['token'] = '<word>'
+                word['token'] = '{word}'
                 if args.convert_words:
                     word['converted'] = word['token']
                 else:
                     word['converted'] = text.lower()
             elif text == args.breath_token:
-                word['token'] = '<breath>'
+                word['token'] = '{breath}'
                 word['converted'] = word['token']
             else:
                 sys.exit("Error: a word is neither a normal word, a disfluency or a breath.")
@@ -89,7 +89,7 @@ if __name__ == '__main__':
         help = 'The directory of the alignments. The augmented alignment will be saved in a folder named "token_augmented" in the directory of the breath set.')
     
     parser.add_argument('--convert_words', type = bool, default = False,
-        help = 'If the script is supposed to convert all words to a token named <word>.')
+        help = 'If the script is supposed to convert all words to a token named {word}.')
     
     parser.add_argument('--breath_token', type = str, default = ndt.BREATH_TOKEN,
         help = 'The breath token used in the transcription.')
