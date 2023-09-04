@@ -8,7 +8,7 @@ Created on Thu Aug 17 02:32:11 2023
 import requests
 import json
 
-api_key = '$2b$10$iZ3gwAebcDbFUk0H7qhjuuNd31/ZUd6rzgHUgGEdAPEshm0MSFVNq'
+api_key = '$2b$10$N7OfngmWzAbzoEHQGWVbTOaoV.EFbGbqtuxYuFXqO2JOMfNKPk82q'
 headers = {'X-Master-key': api_key, 'Content-Type': 'application/json'}
 
 # URL to fetch the uncategorized bins
@@ -37,7 +37,7 @@ while True:
         print('---')
         
         response = requests.get(f'https://api.jsonbin.io/v3/b/{bin_id}', headers=headers)
-        with open(f'{bin_id}.json', 'w') as file:
+        with open(f'./Results/{bin_id}.json', 'w') as file:
             json.dump(response.json(), file, indent=3)
 
     # Get the last bin ID fetched in this batch

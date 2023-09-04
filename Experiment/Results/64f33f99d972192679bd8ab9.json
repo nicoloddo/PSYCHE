@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-02T13:58:47.5790000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-02T15:59:37.7660000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-02T16:00:46.8520000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T16:00:58.9120000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T16:01:10.2060000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T16:01:22.9350000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-02T16:02:01.4340000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T16:02:21.9560000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-02T16:02:37.3500000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-02T15:59:37.7660000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-02T16:00:46.8520000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T16:00:58.9120000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T16:01:10.2060000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T16:01:22.9350000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-02T16:01:32.7280000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-02T16:02:01.4340000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T16:02:21.9560000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-02T16:02:37.3500000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I did, I was afraid it will sabotage me\u200b",
+            "Bugs": "\u200b",
+            "MOS": 5,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f33f99d972192679bd8ab9",
+      "private": true,
+      "createdAt": "2023-09-02T13:58:49.229Z"
+   }
+}

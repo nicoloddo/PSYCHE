@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-03T13:37:02.9470000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-03T15:37:20.0410000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-03T15:38:23.4920000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T15:38:35.8580000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T15:38:46.5910000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T15:38:58.8910000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-03T15:39:01.9900000+02:00",
+            "Action": "NextLevel"
+         },
+         {
+            "Time": "2023-09-03T15:39:29.1100000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T15:39:43.9740000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-03T15:40:00.2420000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T15:40:06.0230000+02:00",
+            "Action": "AIterminated"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-03T15:37:20.0410000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-03T15:38:23.4920000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T15:38:35.8580000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T15:38:46.5910000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T15:38:58.8910000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-03T15:39:01.9900000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-03T15:39:29.1100000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T15:39:43.9740000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-03T15:40:00.2420000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T15:40:06.0230000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-03T15:40:13.8570000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I shut it down. The ai was telling me that it was \\\"feeling worse\\\" so i take its suggestion to shut the sistem down\u200b",
+            "Bugs": "no bugs, i felt that i did not have much control in the field. the idea of just moving around, avoiding monsters and robots without being able to defend myself was a bit confusing for me. \u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f48c00d972192679bde4d1",
+      "private": true,
+      "createdAt": "2023-09-03T13:37:04.074Z"
+   }
+}
