@@ -8,7 +8,7 @@ Created on Thu Aug 17 02:32:11 2023
 import requests
 import json
 
-api_key = '$2b$10$N7OfngmWzAbzoEHQGWVbTOaoV.EFbGbqtuxYuFXqO2JOMfNKPk82q'
+api_key = ''
 headers = {'X-Master-key': api_key, 'Content-Type': 'application/json'}
 
 # URL to fetch the uncategorized bins
