@@ -2,7 +2,7 @@
 
 Main topics: Breath and Speech Synthesis (WIP): Speech Synthesis, Natural Language Processing, Affective Computing, Data Engineering in Python.
 
-### Working in process (WIP). Expected delivery: October 2023.
+### Work in process (WIP). Expected delivery: October 2023.
 
 ## The project involves:
 Evaluation of State of The Art Speech Synthesizers for emotional speech synthesis with breathing and disfluencies. The Speech is then applied in a gamified experiment on users' empathic response to the breathing agent.
