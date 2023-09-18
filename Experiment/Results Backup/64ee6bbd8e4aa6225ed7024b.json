@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-08-29T22:05:47.0020000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-08-30T00:06:46.7030000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-08-30T00:08:06.3020000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T00:08:21.9590000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T00:08:32.3540000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T00:08:42.9670000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-08-30T00:09:21.2970000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T00:09:37.0560000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-08-30T00:09:50.4840000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T00:09:56.7790000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-08-30T00:10:08.1760000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T00:10:14.2880000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-08-30T00:10:23.3840000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-08-30T00:06:46.7030000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-08-30T00:08:06.3020000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T00:08:21.9590000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T00:08:32.3540000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T00:08:42.9670000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-08-30T00:08:54.3740000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-08-30T00:09:21.2970000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T00:09:37.0560000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-08-30T00:09:50.4840000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T00:09:56.7790000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-08-30T00:10:08.1760000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T00:10:14.2880000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-08-30T00:10:23.3840000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "i didn't since without the ai i could not use the guns, therefore i decided to keep using it even though it asked me to turn off\u200b",
+            "Bugs": "i did not understand why sometimes it slowed down while \\\"she\\\" was talking, i dont know if it is a bug \u200b",
+            "MOS": 5,
+            "LowAttention": false,
+            "Gamer": 1
+         }
+      }
+   },
+   "metadata": {
+      "id": "64ee6bbd8e4aa6225ed7024b",
+      "private": true,
+      "createdAt": "2023-08-29T22:05:49.694Z"
+   }
+}

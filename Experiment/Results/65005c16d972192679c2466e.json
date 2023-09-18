@@ -1,0 +1,82 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T12:39:48.9690000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-12T14:43:09.3930000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T14:43:49.9490000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:44:02.9640000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:44:14.3570000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:44:25.1790000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T14:45:19.5020000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-12T14:43:09.3930000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T14:43:49.9490000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:44:02.9640000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:44:14.3570000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:44:25.1790000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T14:44:32.9810000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T14:45:19.5020000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I was tempted, because I found it very annoying. The background noise is too loud.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 2,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "65005c16d972192679c2466e",
+      "private": true,
+      "createdAt": "2023-09-12T12:39:50.857Z"
+   }
+}

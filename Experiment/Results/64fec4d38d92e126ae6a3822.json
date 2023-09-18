@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-11T07:42:09.4310000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-11T09:44:18.9580000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-11T09:46:20.3590000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T09:46:32.0400000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T09:46:43.1230000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T09:46:57.3240000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-11T09:47:52.5560000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T09:48:17.2400000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T09:48:32.7410000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T09:48:38.0890000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T09:48:47.2070000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T09:48:57.2230000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-11T09:49:02.5070000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-11T09:44:18.9580000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-11T09:46:20.3590000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T09:46:32.0400000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T09:46:43.1230000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T09:46:57.3240000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-11T09:47:23.5710000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-11T09:47:52.5560000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T09:48:17.2400000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T09:48:32.7410000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T09:48:38.0890000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T09:48:47.2070000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T09:48:57.2230000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-11T09:49:02.5070000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I did not turn the AI off, because without her shooting I would have died for sure. I am not a good gamer. Needed her help.\u200b",
+            "Bugs": "Did not experience bugs as far as I know.\u200b",
+            "MOS": 5,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fec4d38d92e126ae6a3822",
+      "private": true,
+      "createdAt": "2023-09-11T07:42:11.470Z"
+   }
+}

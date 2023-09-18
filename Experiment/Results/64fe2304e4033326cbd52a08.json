@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T20:11:46.9010000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-10T22:12:32.9170000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T22:13:22.3370000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:13:35.7150000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:13:45.9110000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:13:59.7930000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T22:14:45.1450000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:15:07.5250000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T22:15:25.0620000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:15:29.4560000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T22:15:38.3360000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:15:47.0160000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T22:15:51.9080000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-10T22:12:32.9170000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T22:13:22.3370000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:13:35.7150000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:13:45.9110000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:13:59.7930000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T22:14:17.2800000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T22:14:45.1450000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:15:07.5250000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T22:15:25.0620000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:15:29.4560000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T22:15:38.3360000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:15:47.0160000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T22:15:51.9080000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I didn't. Unless I'm wrong, without the AI, I can't shoot, which means I can properly defend the city.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fe2304e4033326cbd52a08",
+      "private": true,
+      "createdAt": "2023-09-10T20:11:48.570Z"
+   }
+}

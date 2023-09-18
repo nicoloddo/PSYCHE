@@ -1,0 +1,126 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T12:13:12.0020000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-12T14:13:35.4560000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T14:14:12.1290000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:14:24.2680000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:14:36.8460000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:14:47.2180000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T14:15:07.5550000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:15:15.2540000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T14:15:34.4710000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:15:37.3210000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T14:15:47.4090000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:15:51.6760000+02:00",
+            "Action": "AIterminated"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-12T14:13:35.4560000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T14:14:12.1290000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:14:24.2680000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:14:36.8460000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:14:47.2180000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T14:14:50.1270000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T14:15:07.5550000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:15:15.2540000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T14:15:34.4710000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:15:37.3210000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T14:15:47.4090000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:15:51.6760000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-12T14:16:05.4180000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes, i tought it might kill me or sabotage me if i dont\u200b",
+            "Bugs": "\u200b",
+            "MOS": 1,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "650055dbd972192679c24317",
+      "private": true,
+      "createdAt": "2023-09-12T12:13:15.608Z"
+   }
+}

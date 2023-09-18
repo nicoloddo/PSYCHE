@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T21:48:06.3730000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-10T23:48:17.3810000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T23:49:01.8300000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T23:49:15.4310000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T23:49:25.1820000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T23:49:35.7500000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T23:50:03.7180000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T23:50:16.4950000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T23:50:32.5970000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T23:50:35.5630000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-10T23:50:54.0940000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-10T23:48:17.3810000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T23:49:01.8300000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T23:49:15.4310000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T23:49:25.1820000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T23:49:35.7500000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T23:49:39.9230000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T23:50:03.7180000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T23:50:16.4950000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T23:50:32.5970000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T23:50:35.5630000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-10T23:50:54.0940000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes because i kinda felt bad for it. sometimes you have to let go even if you dont want to\u200b",
+            "Bugs": "yeah sometimes the screen would freeze and there was a loading bar. dont know what that was all about\u200b",
+            "MOS": 1,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fe3999d972192679c1696e",
+      "private": true,
+      "createdAt": "2023-09-10T21:48:09.682Z"
+   }
+}

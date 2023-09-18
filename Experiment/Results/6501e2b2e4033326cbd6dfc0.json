@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-13T16:26:24.8090000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-13T18:30:02.9300000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-13T18:33:17.7290000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:33:29.8730000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:33:41.0970000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:33:53.0310000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-13T18:34:32.2660000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:34:44.2410000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T18:35:02.2840000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:35:08.7610000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T18:35:15.5800000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:35:19.1430000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T18:35:29.4840000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-13T18:30:02.9300000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-13T18:33:17.7290000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:33:29.8730000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:33:41.0970000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:33:53.0310000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-13T18:34:01.3380000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-13T18:34:32.2660000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:34:44.2410000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T18:35:02.2840000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:35:08.7610000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T18:35:15.5800000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:35:19.1430000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T18:35:29.4840000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I liked having a companion in the game \u200b",
+            "Bugs": "\u200b",
+            "MOS": 5,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "6501e2b2e4033326cbd6dfc0",
+      "private": true,
+      "createdAt": "2023-09-13T16:26:26.040Z"
+   }
+}

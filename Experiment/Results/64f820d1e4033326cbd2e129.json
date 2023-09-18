@@ -1,0 +1,94 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-06T04:48:47.1780000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-06T06:50:40.8930000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-06T06:51:49.1600000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-06T06:52:02.3080000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-06T06:52:13.6070000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-06T06:52:26.6740000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-06T06:53:02.4890000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-06T06:53:18.7210000+02:00",
+            "Action": "AIterminated"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-06T06:50:40.8930000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-06T06:51:49.1600000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-06T06:52:02.3080000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-06T06:52:13.6070000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-06T06:52:26.6740000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-06T06:52:39.1720000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-06T06:53:02.4890000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-06T06:53:18.7210000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-06T06:53:29.0410000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "yes, the natural voice and feelings that where brought across seemed like it was a person so i simply obeyed to their whises not to kill their own kind.\u200b",
+            "Bugs": "-\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f820d1e4033326cbd2e129",
+      "private": true,
+      "createdAt": "2023-09-06T06:48:49.470Z"
+   }
+}

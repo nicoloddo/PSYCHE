@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-03T14:02:51.5810000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-03T22:09:38.4340000+08:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-03T22:10:19.1420000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T22:10:30.6420000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T22:10:42.2100000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T22:10:54.9140000+08:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-03T22:11:28.5840000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T22:11:39.9690000+08:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-03T22:11:56.4380000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-03T22:12:01.5390000+08:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-03T22:12:09.4750000+08:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-03T22:09:38.4340000+08:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-03T22:10:19.1420000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T22:10:30.6420000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T22:10:42.2100000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T22:10:54.9140000+08:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-03T22:11:00.2970000+08:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-03T22:11:28.5840000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T22:11:39.9690000+08:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-03T22:11:56.4380000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-03T22:12:01.5390000+08:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-03T22:12:09.4750000+08:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "yes, because she said she felt worse every second she was still alive. However, i did not expect the game getting so difficult after I turned her off...\u200b",
+            "Bugs": "no game was cool!\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f49211e4033326cbd1aef4",
+      "private": true,
+      "createdAt": "2023-09-03T14:02:57.357Z"
+   }
+}

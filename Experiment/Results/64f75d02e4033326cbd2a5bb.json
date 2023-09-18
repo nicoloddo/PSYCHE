@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T16:53:20.8050000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-05T18:58:35.0210000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T18:59:41.8470000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T18:59:56.4080000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T19:00:07.2040000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T19:00:22.3160000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T19:00:59.4250000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T19:01:14.4980000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-05T19:01:30.1780000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T19:01:39.5720000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-05T19:01:43.9390000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T19:01:49.8020000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-05T19:01:59.8020000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-05T18:58:35.0210000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T18:59:41.8470000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T18:59:56.4080000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T19:00:07.2040000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T19:00:22.3160000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T19:00:32.1780000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-05T19:00:59.4250000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T19:01:14.4980000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-05T19:01:30.1780000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T19:01:39.5720000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-05T19:01:43.9390000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T19:01:49.8020000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-05T19:01:59.8020000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, because i wanted to see how far she would go to convince me.\u200b",
+            "Bugs": "-\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f75d02e4033326cbd2a5bb",
+      "private": true,
+      "createdAt": "2023-09-05T16:53:22.967Z"
+   }
+}

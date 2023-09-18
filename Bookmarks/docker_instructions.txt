@@ -1,0 +1,6 @@
+TO ACCESS THE COMMAND LINE OF THE CONTAINER:
+docker exec -it my_container bash
+
+TO PASS FILES:
+docker cp foo.txt mycontainer:/foo.txt
+

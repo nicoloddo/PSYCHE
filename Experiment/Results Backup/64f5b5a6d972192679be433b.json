@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-04T10:47:00.3850000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-04T12:48:07.0300000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-04T12:49:04.0180000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:49:14.6420000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:49:25.6420000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:49:37.6100000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-04T12:50:08.0250000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:50:21.1050000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-04T12:50:37.9210000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:50:47.9390000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-04T12:50:53.9550000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:50:56.0870000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-04T12:51:10.7740000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-04T12:48:07.0300000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-04T12:49:04.0180000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:49:14.6420000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:49:25.6420000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:49:37.6100000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-04T12:49:47.9410000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-04T12:50:08.0250000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:50:21.1050000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-04T12:50:37.9210000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:50:47.9390000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-04T12:50:53.9550000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:50:56.0870000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-04T12:51:10.7740000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, i didn't see it necessary. It's not as if Psyche has real feelings, not to my knowledge at least, so i decided it did not make sense to feel bad for him having to gun down his 'own kind'.\u200b",
+            "Bugs": "No, i didn't encounter a bug.\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f5b5a6d972192679be433b",
+      "private": true,
+      "createdAt": "2023-09-04T10:47:02.408Z"
+   }
+}

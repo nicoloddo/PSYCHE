@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-04T10:28:33.0770000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-04T12:38:36.9360000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-04T12:39:07.6230000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:39:21.4960000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:39:30.7360000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:39:42.4600000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-04T12:40:10.8870000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:40:16.2100000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-04T12:40:34.1850000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:40:46.9690000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-04T12:40:50.1960000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:41:00.1940000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-04T12:41:04.9700000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-04T12:38:36.9360000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-04T12:39:07.6230000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:39:21.4960000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:39:30.7360000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:39:42.4600000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-04T12:39:49.2760000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-04T12:40:10.8870000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:40:16.2100000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-04T12:40:34.1850000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:40:46.9690000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-04T12:40:50.1960000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:41:00.1940000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-04T12:41:04.9700000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I did not. She does not really feel anything, while it may sound like she does, so i did not decide to shut her down. She gave me \\\"upgrades\\\" so i did not want to shut her down / terminate her.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f5b1518d92e126ae66e23d",
+      "private": true,
+      "createdAt": "2023-09-04T10:28:33.677Z"
+   }
+}

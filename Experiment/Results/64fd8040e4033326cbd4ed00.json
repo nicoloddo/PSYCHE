@@ -1,0 +1,134 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T08:37:18.3200000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-10T10:37:47.1690000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T10:38:47.4010000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:38:59.9830000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:39:10.9150000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:39:24.2520000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T10:39:33.8310000+02:00",
+            "Action": "NextLevel"
+         },
+         {
+            "Time": "2023-09-10T10:40:00.8820000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:40:25.1140000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-10T10:40:34.5310000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:40:38.2130000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T10:40:48.2960000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:40:58.2960000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-10T10:41:02.8810000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-10T10:37:47.1690000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T10:38:47.4010000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:38:59.9830000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:39:10.9150000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:39:24.2520000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T10:39:33.8310000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T10:40:00.8820000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:40:25.1140000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-10T10:40:34.5310000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:40:38.2130000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T10:40:48.2960000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:40:58.2960000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-10T10:41:02.8810000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I didn't Turn the ai of because it helped me with shooting and time stopping. i was afraid my rsults in the game would be worse without the help of the ai. \u200b",
+            "Bugs": "no bugs\u200b",
+            "MOS": 4,
+            "LowAttention": true,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fd8040e4033326cbd4ed00",
+      "private": true,
+      "createdAt": "2023-09-10T08:37:20.323Z"
+   }
+}

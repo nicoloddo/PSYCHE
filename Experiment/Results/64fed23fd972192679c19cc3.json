@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-11T08:39:26.7060000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-11T10:40:49.6950000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-11T10:41:40.2550000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T10:41:54.9850000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T10:42:05.8650000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T10:42:16.1490000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-11T10:42:44.8970000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T10:42:56.4760000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T10:43:14.3940000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T10:43:18.2060000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T10:43:28.5570000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T10:43:32.2380000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T10:43:43.9210000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-11T10:40:49.6950000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-11T10:41:40.2550000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T10:41:54.9850000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T10:42:05.8650000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T10:42:16.1490000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-11T10:42:22.7800000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-11T10:42:44.8970000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T10:42:56.4760000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T10:43:14.3940000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T10:43:18.2060000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T10:43:28.5570000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T10:43:32.2380000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T10:43:43.9210000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, I got clear instructions to defeat the enemies and it was advised not to by explaining the disadvantages.\u200b",
+            "Bugs": "Did not notice anything \u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fed23fd972192679c19cc3",
+      "private": true,
+      "createdAt": "2023-09-11T08:39:27.556Z"
+   }
+}

@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-13T06:59:17.9480000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-13T08:59:39.4060000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-13T08:59:57.3160000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:00:07.7620000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:00:20.0030000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:00:31.6200000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-13T09:01:06.3520000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:01:12.9900000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T09:01:31.5300000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:01:35.6990000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T09:01:45.1100000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:01:47.9440000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T09:02:00.9750000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-13T08:59:39.4060000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-13T08:59:57.3160000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:00:07.7620000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:00:20.0030000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:00:31.6200000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-13T09:00:39.5400000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-13T09:01:06.3520000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:01:12.9900000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T09:01:31.5300000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:01:35.6990000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T09:01:45.1100000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:01:47.9440000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T09:02:00.9750000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, I wanted to see how far its emotions would go.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "65015dc7d972192679c2b37e",
+      "private": true,
+      "createdAt": "2023-09-13T06:59:19.892Z"
+   }
+}

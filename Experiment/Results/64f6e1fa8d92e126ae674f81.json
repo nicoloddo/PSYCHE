@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T08:08:24.2150000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-05T10:10:32.1810000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T10:11:44.8660000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T10:11:57.9990000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T10:12:07.9330000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T10:12:19.9330000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T10:12:54.5170000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T10:13:09.9660000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-05T10:13:21.7830000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-05T10:10:32.1810000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T10:11:44.8660000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T10:11:57.9990000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T10:12:07.9330000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T10:12:19.9330000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T10:12:26.7320000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-05T10:12:54.5170000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T10:13:09.9660000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-05T10:13:21.7830000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f6e1fa8d92e126ae674f81",
+      "private": true,
+      "createdAt": "2023-09-05T08:08:26.108Z"
+   }
+}

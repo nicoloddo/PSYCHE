@@ -1,0 +1,94 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T18:58:20.3430000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-12T20:58:58.1960000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T20:59:38.0150000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T20:59:50.1540000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T21:00:00.1670000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T21:00:12.7920000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T21:00:42.3130000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T21:00:58.7770000+02:00",
+            "Action": "AIterminated"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-12T20:58:58.1960000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T20:59:38.0150000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T20:59:50.1540000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T21:00:00.1670000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T21:00:12.7920000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T21:00:19.9440000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T21:00:42.3130000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T21:00:58.7770000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-12T21:01:11.3270000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes, the voice was annoying me\u200b",
+            "Bugs": "I couldnt move left and right on stage 2\u200b",
+            "MOS": 1,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "6500b4cc8d92e126ae6b18e6",
+      "private": true,
+      "createdAt": "2023-09-12T18:58:20.864Z"
+   }
+}

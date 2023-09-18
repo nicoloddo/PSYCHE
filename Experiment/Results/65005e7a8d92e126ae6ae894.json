@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T12:50:02.8860000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-12T20:51:37.3990000+08:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T20:52:52.9080000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T20:53:05.8450000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T20:53:17.5040000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T20:53:28.5600000+08:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T20:54:04.6860000+08:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T20:54:26.5450000+08:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-12T20:54:38.6150000+08:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-12T20:51:37.3990000+08:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T20:52:52.9080000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T20:53:05.8450000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T20:53:17.5040000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T20:53:28.5600000+08:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T20:53:35.1360000+08:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T20:54:04.6860000+08:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T20:54:26.5450000+08:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-12T20:54:38.6150000+08:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "yes i did, because i think, somehow, ai should be treated like human beings. she has already said she dont want to participate all this, so it is not resonable for i to keep she running.\u200b",
+            "Bugs": "no, i did not notice that\u200b",
+            "MOS": 1,
+            "LowAttention": false,
+            "Gamer": 1
+         }
+      }
+   },
+   "metadata": {
+      "id": "65005e7a8d92e126ae6ae894",
+      "private": true,
+      "createdAt": "2023-09-12T12:50:02.910Z"
+   }
+}

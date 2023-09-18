@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-04T17:17:13.4080000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-04T19:18:43.7310000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-04T19:19:43.7470000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T19:19:55.8780000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T19:20:07.4940000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T19:20:18.6430000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-04T19:20:55.4920000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T19:21:06.4550000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-04T19:21:20.4560000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-04T19:18:43.7310000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-04T19:19:43.7470000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T19:19:55.8780000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T19:20:07.4940000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T19:20:18.6430000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-04T19:20:27.3580000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-04T19:20:55.4920000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T19:21:06.4550000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-04T19:21:20.4560000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes. Though the possibilities of ai are fascinating, they kind of freak me out as well. Despite the voice sounding very natural, my rational side thought it would be best to turn the ai off\u200b",
+            "Bugs": "\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f6111bd972192679be6ac7",
+      "private": true,
+      "createdAt": "2023-09-04T17:17:15.307Z"
+   }
+}

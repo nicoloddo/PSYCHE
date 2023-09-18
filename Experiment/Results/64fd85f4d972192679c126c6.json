@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T09:01:39.4100000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-10T11:02:28.4870000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T11:03:11.7220000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T11:03:23.1860000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T11:03:35.5530000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T11:03:47.7200000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T11:04:18.5540000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T11:04:34.0530000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-10T11:04:44.1530000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T11:04:53.5200000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-10T11:04:58.1550000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-10T11:02:28.4870000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T11:03:11.7220000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T11:03:23.1860000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T11:03:35.5530000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T11:03:47.7200000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T11:03:53.9860000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T11:04:18.5540000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T11:04:34.0530000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-10T11:04:44.1530000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T11:04:53.5200000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-10T11:04:58.1550000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes, i felt bad. even though i know it is a program and not a sentient being, it felt weird hearing someone beg to terminate them.\u200b",
+            "Bugs": "-\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 1
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fd85f4d972192679c126c6",
+      "private": true,
+      "createdAt": "2023-09-10T09:01:40.452Z"
+   }
+}

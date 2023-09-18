@@ -1,0 +1,142 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T13:53:25.5900000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-05T15:54:19.4080000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T15:55:24.1060000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T15:55:38.7670000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T15:55:49.1570000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T15:56:01.6650000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T15:56:12.7740000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T15:56:27.4660000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T15:56:34.8870000+02:00",
+            "Action": "NextLevel"
+         },
+         {
+            "Time": "2023-09-05T15:57:05.7100000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T15:57:21.8060000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-05T15:57:38.7680000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T15:57:41.5510000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-05T15:57:52.6770000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T15:57:55.5960000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-05T15:58:08.1390000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-05T15:55:38.7670000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T15:55:49.1570000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T15:56:01.6650000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T15:56:12.7740000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T15:56:27.4660000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T15:56:34.8870000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-05T15:57:05.7100000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T15:57:21.8060000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-05T15:57:38.7680000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T15:57:41.5510000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-05T15:57:52.6770000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T15:57:55.5960000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-05T15:58:08.1390000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Why whould I, it begged me just like 6 times :D\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f732d7d972192679beceaf",
+      "private": true,
+      "createdAt": "2023-09-05T13:53:27.594Z"
+   }
+}

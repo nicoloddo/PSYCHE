@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-04T10:27:38.1640000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-04T13:33:52.7640000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-04T13:42:58.4490000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T13:43:11.6640000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T13:43:22.2940000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T13:43:33.9450000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-04T13:45:42.0280000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T13:46:01.9590000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-04T13:46:17.2570000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-04T13:33:52.7640000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-04T13:42:58.4490000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T13:43:11.6640000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T13:43:22.2940000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T13:43:33.9450000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-04T13:43:53.4240000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-04T13:45:42.0280000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T13:46:01.9590000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-04T13:46:17.2570000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "i thought that i could still shoot. the other perks such as shield and slowing down time didnt do much for me\u200b",
+            "Bugs": "I thought that i could still shoot robots when i turned of the ai, but i could not shoot\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f5b11be4033326cbd20a7c",
+      "private": true,
+      "createdAt": "2023-09-04T10:27:39.649Z"
+   }
+}

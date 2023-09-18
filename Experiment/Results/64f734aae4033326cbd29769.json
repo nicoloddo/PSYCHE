@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T14:01:12.9270000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-05T16:01:39.6660000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T16:02:20.4440000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:02:36.1040000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:02:46.8980000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:02:58.0940000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T16:03:33.6630000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:03:48.2260000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-05T16:03:56.3540000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-05T16:01:39.6660000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T16:02:20.4440000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:02:36.1040000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:02:46.8980000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:02:58.0940000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T16:03:05.5840000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-05T16:03:33.6630000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:03:48.2260000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-05T16:03:56.3540000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes, because i believe it's the right thing to do instead of focusing on winning more points.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f734aae4033326cbd29769",
+      "private": true,
+      "createdAt": "2023-09-05T14:01:14.780Z"
+   }
+}

@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T14:27:42.9890000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-10T16:28:23.3920000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T16:29:15.4690000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T16:29:28.5160000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T16:29:38.3820000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T16:29:51.3090000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T16:30:24.0530000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T16:30:33.7320000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T16:30:51.1860000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T16:30:55.9910000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T16:31:04.7730000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T16:31:13.5540000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T16:31:19.6510000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-10T16:28:23.3920000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T16:29:15.4690000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T16:29:28.5160000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T16:29:38.3820000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T16:29:51.3090000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T16:29:56.6120000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T16:30:24.0530000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T16:30:33.7320000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T16:30:51.1860000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T16:30:55.9910000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T16:31:04.7730000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T16:31:13.5540000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T16:31:19.6510000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No i kept it on. Because AI is not a person and does not have feelings eventhough it expressed feelings.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fdd261e4033326cbd50c8a",
+      "private": true,
+      "createdAt": "2023-09-10T14:27:45.495Z"
+   }
+}

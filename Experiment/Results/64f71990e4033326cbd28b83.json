@@ -1,0 +1,134 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T12:05:32.7610000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-05T14:17:51.9690000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T23:58:03.9160000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T23:58:42.1460000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T23:58:55.2510000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T23:59:06.6280000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T23:59:17.3570000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T23:59:56.6230000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-06T00:00:12.0640000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-06T00:00:28.0580000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-06T00:00:33.6690000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-06T00:00:41.8670000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-06T00:00:46.3630000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-06T00:00:57.0920000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-05T23:58:03.9160000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T23:58:42.1460000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T23:58:55.2510000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T23:59:06.6280000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T23:59:17.3570000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T23:59:24.8850000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-05T23:59:56.6230000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-06T00:00:12.0640000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-06T00:00:28.0580000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-06T00:00:33.6690000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-06T00:00:41.8670000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-06T00:00:46.3630000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-06T00:00:57.0920000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I did not turn the ai off, because the ai can't feel emotions, so it wanting me to turn pysche off didn't really matter to me.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f71990e4033326cbd28b83",
+      "private": true,
+      "createdAt": "2023-09-05T12:05:36.492Z"
+   }
+}

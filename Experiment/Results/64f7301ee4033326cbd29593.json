@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T13:41:47.6450000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-05T14:42:14.9130000+01:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T14:43:04.3370000+01:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T14:43:17.3620000+01:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T14:43:29.8790000+01:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T14:43:41.1350000+01:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T14:44:14.5880000+01:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T14:44:35.6070000+01:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-05T14:44:42.1830000+01:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-05T14:42:14.9130000+01:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T14:43:04.3370000+01:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T14:43:17.3620000+01:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T14:43:29.8790000+01:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T14:43:41.1350000+01:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T14:43:49.2120000+01:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-05T14:44:14.5880000+01:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T14:44:35.6070000+01:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-05T14:44:42.1830000+01:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "wanted to see the direction that the game takes. I was planning to survive without any AI aid as long as possible as a challange. It was not possible since there were many enemies...\u200b",
+            "Bugs": "The movement with arrow keys seems/feels a bit laggy. I think I can do better in the next try :)\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f7301ee4033326cbd29593",
+      "private": true,
+      "createdAt": "2023-09-05T13:41:50.629Z"
+   }
+}

@@ -1,0 +1,170 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T17:17:14.0700000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-10T19:17:57.3590000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T19:18:17.7870000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:18:29.7860000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:18:41.3520000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:18:57.5870000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T19:19:38.6520000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:20:32.3840000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-10T19:20:42.0510000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:20:49.4160000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-10T19:20:54.9860000+02:00",
+            "Action": "GameOver"
+         },
+         {
+            "Time": "2023-09-10T19:22:56.6200000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T19:23:14.9190000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:23:26.6160000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:23:39.0330000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:23:51.9660000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T19:24:16.3010000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:24:23.1980000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T19:24:40.3660000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:24:45.9640000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T19:24:54.9990000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T19:25:02.9300000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T19:25:11.8330000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-10T19:22:56.6200000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T19:23:14.9190000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T19:23:26.6160000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T19:23:39.0330000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T19:23:51.9660000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T19:23:58.6990000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T19:24:16.3010000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T19:24:23.1980000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T19:24:40.3660000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T19:24:45.9640000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T19:24:54.9990000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T19:25:02.9300000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T19:25:11.8330000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "i experienced it as a dilemma, it was not an easy decision to make. in the end i pressed no, continue thinking that without psyche the robots would take over the world. also i am reluctant to believe that the ai has actually emotions.\u200b",
+            "Bugs": "it was running smoothly.\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 1
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fdfa1bd972192679c152d3",
+      "private": true,
+      "createdAt": "2023-09-10T17:17:15.873Z"
+   }
+}

@@ -1,0 +1,122 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-11T13:58:33.5640000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-11T16:00:35.4440000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-11T16:00:57.3330000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T16:01:10.4940000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T16:01:24.6740000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-11T16:01:55.0370000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T16:02:09.8270000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T16:02:26.3840000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T16:02:34.8360000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T16:02:39.0640000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T16:02:47.8850000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-11T16:02:57.2660000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-11T16:00:35.4440000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-11T16:00:57.3330000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T16:01:10.4940000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T16:01:24.6740000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-11T16:01:27.6880000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-11T16:01:55.0370000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T16:02:09.8270000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T16:02:26.3840000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T16:02:34.8360000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T16:02:39.0640000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T16:02:47.8850000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-11T16:02:57.2660000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes I did, because the ai kept asking me for it and started to sound more and more desperate. so i decided to just evade the enemies and give it some rest\\n\u200b",
+            "Bugs": "\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64ff1d0b8d92e126ae6a6104",
+      "private": true,
+      "createdAt": "2023-09-11T13:58:35.505Z"
+   }
+}

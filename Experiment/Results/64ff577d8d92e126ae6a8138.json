@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-11T18:07:55.6560000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-11T20:09:55.7190000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-11T20:10:51.6200000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T20:11:03.1840000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T20:11:14.4830000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T20:11:25.3190000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-11T20:12:05.0490000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-11T20:12:21.0500000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-11T20:12:53.6860000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-11T20:09:55.7190000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-11T20:10:51.6200000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T20:11:03.1840000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T20:11:14.4830000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T20:11:25.3190000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-11T20:11:33.5830000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-11T20:12:05.0490000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-11T20:12:21.0500000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-11T20:12:53.6860000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, because the AI was helping me so i needed it to kill right!\u200b",
+            "Bugs": "\u200b",
+            "MOS": 2,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64ff577d8d92e126ae6a8138",
+      "private": true,
+      "createdAt": "2023-09-11T18:07:57.576Z"
+   }
+}

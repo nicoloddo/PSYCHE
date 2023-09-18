@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T10:59:22.1800000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-12T12:59:38.4030000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T12:59:50.7040000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T13:00:03.1700000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T13:00:14.0530000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T13:00:25.8630000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T13:00:54.8880000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T13:01:05.2040000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T13:01:22.8540000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T13:01:25.2200000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T13:01:36.2620000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T13:01:38.0870000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T13:01:53.8130000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-12T12:59:38.4030000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T12:59:50.7040000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T13:00:03.1700000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T13:00:14.0530000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T13:00:25.8630000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T13:00:29.4710000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T13:00:54.8880000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T13:01:05.2040000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T13:01:22.8540000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T13:01:25.2200000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T13:01:36.2620000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T13:01:38.0870000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T13:01:53.8130000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Nah i needed the weapons innit\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": true,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "6500448b8d92e126ae6adb6a",
+      "private": true,
+      "createdAt": "2023-09-12T10:59:23.585Z"
+   }
+}

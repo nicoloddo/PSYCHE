@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T08:30:07.9300000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-10T10:31:53.5090000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T10:33:53.1940000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:34:05.5760000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:34:16.5100000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:34:27.1420000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T10:35:08.5440000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:35:31.4760000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T10:35:48.2770000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:35:51.8920000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T10:36:04.3590000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:36:07.7250000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T10:36:21.4950000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-10T10:31:53.5090000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T10:33:53.1940000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:34:05.5760000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:34:16.5100000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:34:27.1420000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T10:34:40.9090000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T10:35:08.5440000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:35:31.4760000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T10:35:48.2770000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:35:51.8920000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T10:36:04.3590000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:36:07.7250000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T10:36:21.4950000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No. I liked the superpowers it gave me and I enjoyed the voice\u200b",
+            "Bugs": "Sometimes the orientation of the character will change and make it difficult to shoot enemies, even though avoiding them was not affected. I guess this was an intentional \\\"bug\\\", like the AI wouldn't cooperate exactly as expected...\u200b",
+            "MOS": 5,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fd7e918d92e126ae69c43e",
+      "private": true,
+      "createdAt": "2023-09-10T08:30:09.765Z"
+   }
+}

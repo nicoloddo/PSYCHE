@@ -1,0 +1,82 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T12:32:41.2250000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-10T14:34:21.1370000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T14:35:06.1140000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T14:35:19.4610000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T14:35:30.4920000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T14:35:43.5950000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T14:36:34.7600000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-10T14:34:21.1370000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T14:35:06.1140000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T14:35:19.4610000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T14:35:30.4920000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T14:35:43.5950000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T14:35:46.8260000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T14:36:34.7600000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "no, because it made me feel less anxious\u200b",
+            "Bugs": "the amount of time it took for the enemies to start moving again\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fdb76be4033326cbd5013b",
+      "private": true,
+      "createdAt": "2023-09-10T12:32:43.386Z"
+   }
+}

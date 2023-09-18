@@ -1,0 +1,82 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T08:03:10.8830000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-12T10:03:15.0830000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T10:03:34.9500000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T10:03:46.9640000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T10:03:57.3630000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T10:04:10.2520000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T10:04:54.0960000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-12T10:03:15.0830000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T10:03:34.9500000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T10:03:46.9640000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T10:03:57.3630000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T10:04:10.2520000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T10:04:13.4840000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T10:04:54.0960000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "i didn't know there was an ai option\u200b",
+            "Bugs": "the wasd keys are still working\u200b",
+            "MOS": 3,
+            "LowAttention": true,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "65001b408d92e126ae6aca4c",
+      "private": true,
+      "createdAt": "2023-09-12T08:03:12.727Z"
+   }
+}

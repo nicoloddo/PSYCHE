@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T14:08:51.1250000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-05T16:09:35.7240000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T16:10:52.0670000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:11:04.9370000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:11:16.0710000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:11:28.3910000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T16:12:17.4550000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:12:42.4220000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-05T16:12:53.8370000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:13:03.8360000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-05T16:13:07.1690000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T16:13:11.9030000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-05T16:13:22.6860000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-05T16:09:35.7240000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T16:10:52.0670000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:11:04.9370000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:11:16.0710000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:11:28.3910000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T16:11:39.4540000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-05T16:12:17.4550000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:12:42.4220000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-05T16:12:53.8370000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:13:03.8360000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-05T16:13:07.1690000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T16:13:11.9030000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-05T16:13:22.6860000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No. It was easier to let the control to AI. In the end it was a game  \u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f73675d972192679bed05a",
+      "private": true,
+      "createdAt": "2023-09-05T14:08:53.024Z"
+   }
+}

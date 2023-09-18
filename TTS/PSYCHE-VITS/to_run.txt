@@ -1,0 +1,13 @@
+IN CMD:
+python train.py -c configs/interspeech_base.json -m interspeech_base
+
+IN IPYTHON:
+%run train.py -c configs/interspeech_base.json -m interspeech_base
+WITH DEBUG:
+%run -d train.py -c configs/interspeech_base.json -m interspeech_base
+P.S.: remember to not use spawn
+
+FOR TENSORBOARD:
+python -m tensorboard.main --logdir=./logs/interspeech_base
+AND THEN:
+Open TensorBoard in your web browser: TensorBoard runs as a local web app on your machine. After you've started TensorBoard, you can navigate to the URL it provides (usually http://localhost:6006) in your web browser.

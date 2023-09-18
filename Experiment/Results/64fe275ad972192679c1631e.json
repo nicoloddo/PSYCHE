@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T20:30:18.8390000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-10T22:34:55.5090000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T22:35:18.8430000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:35:31.2060000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:35:40.9070000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:35:53.3880000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T22:36:24.5590000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:36:34.4060000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T22:36:51.6410000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T22:36:54.5540000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T22:37:13.2560000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-10T22:34:55.5090000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T22:35:18.8430000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:35:31.2060000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:35:40.9070000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:35:53.3880000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T22:36:01.1700000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T22:36:24.5590000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:36:34.4060000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T22:36:51.6410000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T22:36:54.5540000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T22:37:13.2560000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, it was not bothering me and i did not want to do too much on my own without relying on the controls of the AI\\t\\t\u200b",
+            "Bugs": " the screen seemed to freeze, where i had control over my little shooter man but the rest of the creatures stood still. Also the laserbeams seemed to slow sometimes. . \u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fe275ad972192679c1631e",
+      "private": true,
+      "createdAt": "2023-09-10T20:30:18.585Z"
+   }
+}

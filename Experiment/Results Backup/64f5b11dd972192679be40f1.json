@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-04T10:27:38.2590000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-04T12:30:51.2480000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-04T12:31:29.8400000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:31:42.4530000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:31:52.1410000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:32:07.4810000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-04T12:32:33.4110000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:32:44.5010000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-04T12:32:56.8770000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-04T12:30:51.2480000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-04T12:31:29.8400000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:31:42.4530000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:31:52.1410000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:32:07.4810000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-04T12:32:09.5010000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-04T12:32:33.4110000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:32:44.5010000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-04T12:32:56.8770000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Felt like the AI wanted to be turned of so i turned it off, the game is not long enough for me to get attached to it thought.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f5b11dd972192679be40f1",
+      "private": true,
+      "createdAt": "2023-09-04T10:27:41.178Z"
+   }
+}

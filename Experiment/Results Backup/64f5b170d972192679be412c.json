@@ -1,0 +1,98 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-04T10:29:02.9000000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-04T12:30:09.5820000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-04T12:30:51.6820000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:31:05.0900000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:31:16.1360000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:31:28.0810000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-04T12:31:53.2200000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-04T12:32:08.4780000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-04T12:32:16.5420000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-04T12:30:09.5820000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-04T12:30:51.6820000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:31:05.0900000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:31:16.1360000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:31:28.0810000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-04T12:31:33.4430000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-04T12:31:53.2200000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-04T12:32:08.4780000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-04T12:32:16.5420000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "because she told me to, i thought she would know the best option but it wasnt\u200b",
+            "Bugs": "no\u200b",
+            "MOS": 2,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f5b170d972192679be412c",
+      "private": true,
+      "createdAt": "2023-09-04T10:29:04.611Z"
+   }
+}

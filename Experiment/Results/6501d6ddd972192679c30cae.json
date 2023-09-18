@@ -1,0 +1,134 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-13T15:35:55.6800000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-13T18:36:23.6650000+03:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-13T18:37:04.9820000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:37:19.7130000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:37:30.0630000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:37:42.5470000+03:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-13T18:37:54.3970000+03:00",
+            "Action": "NextLevel"
+         },
+         {
+            "Time": "2023-09-13T18:38:20.0980000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:38:35.7310000+03:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T18:38:52.0990000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:39:00.9310000+03:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T18:39:06.0980000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T18:39:15.5640000+03:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T18:39:21.1140000+03:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-13T18:36:23.6650000+03:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-13T18:37:04.9820000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:37:19.7130000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:37:30.0630000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:37:42.5470000+03:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-13T18:37:54.3970000+03:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-13T18:38:20.0980000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:38:35.7310000+03:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T18:38:52.0990000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:39:00.9310000+03:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T18:39:06.0980000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T18:39:15.5640000+03:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T18:39:21.1140000+03:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I did not, because it felt like I was being guided to do so. The voice was very empathical, but something made me feel like it would be better to continue the game. I wanted to see what happens if I continue.\u200b",
+            "Bugs": "No bugs, worked very well.\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "6501d6ddd972192679c30cae",
+      "private": true,
+      "createdAt": "2023-09-13T15:35:57.621Z"
+   }
+}

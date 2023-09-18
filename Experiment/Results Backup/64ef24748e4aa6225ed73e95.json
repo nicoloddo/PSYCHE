@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-08-30T11:13:52.6640000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-08-30T13:15:43.9230000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-08-30T13:17:40.7570000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T13:17:54.1460000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T13:18:04.2590000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T13:18:17.2040000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-08-30T13:18:57.3190000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T13:19:26.1710000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-08-30T13:19:42.4980000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T13:19:47.2110000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-08-30T13:19:55.4620000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-08-30T13:19:58.9570000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-08-30T13:20:14.1820000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-08-30T13:15:43.9230000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-08-30T13:17:40.7570000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T13:17:54.1460000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T13:18:04.2590000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T13:18:17.2040000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-08-30T13:18:26.6330000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-08-30T13:18:57.3190000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T13:19:26.1710000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-08-30T13:19:42.4980000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T13:19:47.2110000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-08-30T13:19:55.4620000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-08-30T13:19:58.9570000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-08-30T13:20:14.1820000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "yes because it was insistent and I felt bad to not stop the AI",
+            "Bugs": "",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 4
+         }
+      }
+   },
+   "metadata": {
+      "id": "64ef24748e4aa6225ed73e95",
+      "private": true,
+      "createdAt": "2023-08-30T11:13:56.452Z"
+   }
+}

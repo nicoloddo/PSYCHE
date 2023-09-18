@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-13T07:06:54.9260000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-13T09:07:20.9740000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-13T09:08:01.5310000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:08:14.4710000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:08:25.0670000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:08:37.0000000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-13T09:09:08.6700000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:09:20.2970000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T09:09:36.6450000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T09:09:42.5240000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-13T09:09:58.6700000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-13T09:07:20.9740000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-13T09:08:01.5310000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:08:14.4710000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:08:25.0670000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:08:37.0000000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-13T09:08:43.9420000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-13T09:09:08.6700000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:09:20.2970000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T09:09:36.6450000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T09:09:42.5240000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-13T09:09:58.6700000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes, i felt bad for psyche killing something she saw as her own\u200b",
+            "Bugs": "\u200b",
+            "MOS": 2,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "65015f8ed972192679c2b445",
+      "private": true,
+      "createdAt": "2023-09-13T07:06:54.963Z"
+   }
+}

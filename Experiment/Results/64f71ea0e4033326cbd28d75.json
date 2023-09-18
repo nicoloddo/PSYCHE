@@ -1,0 +1,77 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-05T12:27:10.6170000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-05T14:27:17.3640000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-05T14:27:31.6310000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T14:27:44.1030000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T14:27:55.4680000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-05T14:28:08.9830000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-05T14:28:36.0150000+02:00",
+            "Action": "ChoiceTimeStarted"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-05T14:27:17.3640000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-05T14:27:31.6310000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T14:27:44.1030000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T14:27:55.4680000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-05T14:28:08.9830000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-05T14:28:14.7630000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [],
+         "FormInfo": {
+            "Why": "",
+            "Bugs": "",
+            "MOS": 0,
+            "LowAttention": false,
+            "Gamer": 0
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f71ea0e4033326cbd28d75",
+      "private": true,
+      "createdAt": "2023-09-05T12:27:12.915Z"
+   }
+}

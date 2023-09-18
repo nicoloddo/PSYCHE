@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T12:43:19.2970000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-12T14:43:32.6530000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T14:44:14.9270000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:44:32.6890000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:44:43.1310000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:44:53.3680000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T14:45:35.7010000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:45:45.4280000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T14:46:02.5920000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:46:04.1550000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T14:46:15.6160000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:46:17.1250000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T14:46:31.7080000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-12T14:43:32.6530000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T14:44:14.9270000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:44:32.6890000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:44:43.1310000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:44:53.3680000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T14:45:04.1370000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T14:45:35.7010000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:45:45.4280000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T14:46:02.5920000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:46:04.1550000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T14:46:15.6160000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:46:17.1250000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T14:46:31.7080000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "no, it existience was nessesery to kill more robots and aquire more points. more points = good\u200b",
+            "Bugs": "No\u200b",
+            "MOS": 2,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "65005ce98d92e126ae6ae7c3",
+      "private": true,
+      "createdAt": "2023-09-12T12:43:21.620Z"
+   }
+}

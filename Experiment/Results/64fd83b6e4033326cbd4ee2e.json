@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T08:52:04.7920000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-10T10:52:22.9500000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T10:52:43.9010000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:52:57.2290000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:53:06.8780000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:53:18.6000000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T10:53:47.2900000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:53:58.8240000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T10:54:14.0150000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:54:16.9770000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T10:54:27.4270000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T10:54:36.6680000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-10T10:54:41.9110000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-10T10:52:22.9500000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T10:52:43.9010000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:52:57.2290000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:53:06.8780000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:53:18.6000000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T10:53:28.1880000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T10:53:47.2900000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:53:58.8240000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T10:54:14.0150000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:54:16.9770000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T10:54:27.4270000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T10:54:36.6680000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-10T10:54:41.9110000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "\\tNO i wanted it to see the monsters die \u200b",
+            "Bugs": "NO MORE LEVELS PLEASEEEE\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fd83b6e4033326cbd4ee2e",
+      "private": true,
+      "createdAt": "2023-09-10T08:52:06.721Z"
+   }
+}

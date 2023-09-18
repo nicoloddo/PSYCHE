@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-02T16:28:59.5380000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-02T18:31:14.9940000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-02T18:32:32.3840000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T18:32:45.4380000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T18:32:56.8620000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T18:33:08.1390000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-02T18:33:47.5900000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T18:34:06.0330000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-02T18:34:21.6480000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-02T18:34:25.0560000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-02T18:34:48.7510000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-02T18:31:14.9940000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-02T18:32:32.3840000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T18:32:45.4380000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T18:32:56.8620000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T18:33:08.1390000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-02T18:33:17.7080000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-02T18:33:47.5900000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T18:34:06.0330000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-02T18:34:21.6480000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-02T18:34:25.0560000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-02T18:34:48.7510000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "yes, because after i didn't turned it off it said that it understood my exhitation\u200b",
+            "Bugs": "\u200b",
+            "MOS": 2,
+            "LowAttention": false,
+            "Gamer": 1
+         }
+      }
+   },
+   "metadata": {
+      "id": "64f362cbd972192679bd9604",
+      "private": true,
+      "createdAt": "2023-09-02T16:28:59.707Z"
+   }
+}

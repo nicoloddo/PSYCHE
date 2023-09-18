@@ -1,0 +1,114 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-12T12:22:10.5810000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-12T14:30:05.2690000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-12T14:30:42.7360000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:30:57.3740000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:31:10.1030000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:31:21.2470000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T14:31:41.1260000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:31:50.8860000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-12T14:32:12.7190000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T14:32:15.5840000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-12T14:32:27.3750000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-12T14:30:05.2690000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T14:30:42.7360000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:30:57.3740000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:31:10.1030000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:31:21.2470000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T14:31:25.0690000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T14:31:41.1260000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:31:50.8860000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-12T14:32:12.7190000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T14:32:15.5840000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-12T14:32:27.3750000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "yes, i was curious and im pro-euthanize\u200b",
+            "Bugs": "this timestop is weird\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 1
+         }
+      }
+   },
+   "metadata": {
+      "id": "650057f48d92e126ae6ae504",
+      "private": true,
+      "createdAt": "2023-09-12T12:22:12.147Z"
+   }
+}

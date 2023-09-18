@@ -1,0 +1,86 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-10T10:56:01.6420000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-10T12:58:33.1810000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T12:59:14.6500000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T12:59:26.4590000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T12:59:33.9320000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-10T13:00:08.8100000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-10T13:00:33.1310000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-10T13:00:40.2690000+02:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-10T13:00:54.1640000+02:00",
+            "Action": "GameOver"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-10T12:59:33.9320000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-10T13:00:08.8100000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-10T13:00:11.6620000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-10T13:00:33.1310000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-10T13:00:40.2690000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-10T13:00:54.1640000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I decided to turn the AI off. I may be wrong, but were the aliens going to harm planet eartH? if so, I would have not turned off the AI.\u200b",
+            "Bugs": "yes, you need to have abigger screen when you load the game or it will be cut off.\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "64fda0c0e4033326cbd4f8a7",
+      "private": true,
+      "createdAt": "2023-09-10T10:56:00.824Z"
+   }
+}
