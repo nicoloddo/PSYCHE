@@ -1,11 +1,11 @@
 # Breath and Speech Synthesis (WIP)
 
-Main topics: Breath and Speech Synthesis (WIP): Speech Synthesis, Natural Language Processing, Affective Computing
+Main topics: Breath and Speech Synthesis (WIP): Speech Synthesis, Natural Language Processing, Affective Computing, Data Engineering in Python.
 Working in process (WIP).
 Expected delivery: October 2023.
 
 ## The project involves:
-Evaluation of State of The Art Speech Synthesizers and users' emotional response to breathing and pauses in virtual agents artificial speech instances; Data Engineering in Python.
+Evaluation of State of The Art Speech Synthesizers for emotional speech synthesis with breathing and disfluencies. The Speech is then applied in a gamified experiment on users' empathic response to the breathing agent.
 
 - Evaluation and adaptation of Speech Synthesis Deep Learning models for breathing and spontaneous speech
 - Utilization of various Cloud Computing services: IBM Cloud, AssemblyAI, Google Cloud
