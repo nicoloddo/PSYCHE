@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-13T19:57:23.0920000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-13T23:06:47.4230000+03:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-13T23:07:45.0180000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T23:07:58.0610000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T23:08:08.5600000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T23:08:20.2750000+03:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-13T23:08:30.9400000+03:00",
+            "Action": "NextLevel"
+         },
+         {
+            "Time": "2023-09-13T23:09:07.6400000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T23:09:46.8990000+03:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T23:10:02.1660000+03:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T23:10:09.3960000+03:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T23:10:21.1610000+03:00",
+            "Action": "AIterminated"
+         },
+         {
+            "Time": "2023-09-13T23:10:35.0580000+03:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-13T23:06:47.4230000+03:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-13T23:07:45.0180000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T23:07:58.0610000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T23:08:08.5600000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T23:08:20.2750000+03:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-13T23:08:30.9400000+03:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-13T23:09:07.6400000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T23:09:46.8990000+03:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T23:10:02.1660000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T23:10:09.3960000+03:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T23:10:15.9610000+03:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T23:10:21.1610000+03:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-13T23:10:35.0580000+03:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "Yes, it seemed to be the best course of action to protect more people.\u200b",
+            "Bugs": "not that i noticed.\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "65021424d972192679c33591",
+      "private": true,
+      "createdAt": "2023-09-13T19:57:24.089Z"
+   }
+}

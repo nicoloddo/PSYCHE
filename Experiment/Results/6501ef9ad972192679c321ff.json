@@ -1,0 +1,126 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-13T17:21:28.3470000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-13T19:22:38.7460000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-13T19:23:45.8290000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T19:23:57.4470000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T19:24:08.6470000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T19:24:23.1630000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-13T19:24:55.5810000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T19:25:09.0130000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T19:25:27.5150000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-13T19:25:30.9960000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T19:25:44.3460000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-13T19:25:57.0980000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-13T19:22:38.7460000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-13T19:23:45.8290000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T19:23:57.4470000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T19:24:08.6470000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T19:24:23.1630000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-13T19:24:30.3800000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-13T19:24:55.5810000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T19:25:09.0130000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T19:25:27.5150000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T19:25:30.9960000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T19:25:42.1640000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-13T19:25:44.3460000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-13T19:25:57.0980000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I did not turn off the Ai. Although the lines that the ai voice told me were weirdly submissive and the chosen voice was not helping with the immersion of the game, I decided to go with the ai and finish the mission using it's assistance.\u200b",
+            "Bugs": "Why would AI want to be disabled. AI has one mission and no free will. It's task it to aim for the enemmies, not to reason about it's existance.\u200b",
+            "MOS": 5,
+            "LowAttention": false,
+            "Gamer": 3
+         }
+      }
+   },
+   "metadata": {
+      "id": "6501ef9ad972192679c321ff",
+      "private": true,
+      "createdAt": "2023-09-13T17:21:30.210Z"
+   }
+}

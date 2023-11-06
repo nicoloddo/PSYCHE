@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-19T18:53:27.4370000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-19T20:54:37.5310000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-19T20:55:43.2160000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-19T20:55:55.2970000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-19T20:56:05.8620000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-19T20:56:17.0940000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-19T20:56:49.5960000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-19T20:56:58.1110000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-19T20:57:18.3280000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-19T20:57:26.0250000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-19T20:57:33.3740000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-19T20:57:45.7730000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-19T20:57:51.2940000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-19T20:54:37.5310000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-19T20:55:43.2160000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-19T20:55:55.2970000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-19T20:56:05.8620000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-19T20:56:17.0940000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-19T20:56:24.1420000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-19T20:56:49.5960000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-19T20:56:58.1110000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-19T20:57:18.3280000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-19T20:57:26.0250000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-19T20:57:33.3740000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-19T20:57:45.7730000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-19T20:57:51.2940000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "I did not. because I do not think it is actually conscious and suffering. If that is me (human) in the game, then i consider my survival more important than what the ai claims to be feeling. at least with current ai, which is not sentient.\u200b",
+            "Bugs": "\u200b",
+            "MOS": 4,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "6509ee29ce39bb6dce7f2546",
+      "private": true,
+      "createdAt": "2023-09-19T18:53:29.293Z"
+   }
+}

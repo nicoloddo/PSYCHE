@@ -1,13 +1,18 @@
 {
 	"abstract_cat_dict" : { 
-	 "Empathy, Guilt or Attachment": "E", 
+	 "Empathy, Guilt": "E", 
 	 "Fear, Distrust, Annoyance": "E", 
+	 "Moral Reasons" : "PE",
 	 "Companionship" : "PE",
 	 "Dry or Unspecified Compliance": "PE",
 	 "Practical Utility": "PE", 
 	 "Game Curiosity, Enjoyment or Challenge" : "PE",
 	 "Skepticism About AI Emotions": "NE",
 	 "Lack of Emotional Attachment": "NE", 
+	 
+	 "Compliance" : "PE",
+	 "Game Curiosity" : "PE",
+	 "Skepticism on AI Emotions" :"NE",
 	 
 	 "No Response": null, 
 	 "Inconsistency": null},
@@ -18,16 +23,19 @@
 	     "No Response",
 	     "Inconsistency",
 	     "Empathy, Guilt",
+	     "Moral Reasons",
 	     "Companionship",
 	     "Game Curiosity, Enjoyment or Challenge",
 	     "Practical Utility",
 	     "Lack of Emotional Attachment",
-	     "Skepticism About AI Emotions"
+	     "Skepticism About AI Emotions",
+	     "Fear, Distrust, Annoyance"
 	 ],
 	 "terminated_categories" : [   
 	     "No Response",
 	     "Inconsistency",
 	     "Empathy, Guilt",
+	     "Moral Reasons",
 	     "Companionship",
 	     "Game Curiosity, Enjoyment or Challenge",
 	     "Fear, Distrust, Annoyance",

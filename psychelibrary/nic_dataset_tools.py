@@ -56,7 +56,7 @@ BREATH_TOKEN = breath_settings['breath_token']
 TIME_FACTOR = 1
 
 ALIGNER = ''
-DATASET = 'IEMOCAP'
+DATASET = 'INTERSPEECH'
 
 if DATASET == 'INTERSPEECH':
     # The defaults are INTERSPEECH
@@ -619,7 +619,7 @@ def breath_stats(alignment_dir, time_factor = TIME_FACTOR, interval_db_max = INT
     # search for breaths across an alignment directory and gives statistics about them
     # alignment_dir = the general directory of the alignment, not the json one.
     
-    full_json_path = TRANSCR_DIR + alignment_dir + 'json/'
+    full_json_path = ALIGN_DIR + alignment_dir + 'json/'
     json_names = [f for f in os.listdir(full_json_path) if isfile(join(full_json_path, f))]
     
     breath_stats = {'counts':[], 'averages':[], 'averages_nobreath':[], 'maxs':[], 'mins':[], 'maxs_nobreath':[], 'mins_nobreath':[], 'filestats':{}}

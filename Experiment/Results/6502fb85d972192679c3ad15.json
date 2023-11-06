@@ -1,0 +1,122 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-14T12:24:35.8190000Z",
+            "action": "New user created; Condition set to Without"
+         },
+         {
+            "Time": "2023-09-14T14:25:11.8260000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-14T14:26:00.6610000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-14T14:26:13.2310000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-14T14:26:23.4320000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-14T14:26:34.9820000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-14T14:27:04.1420000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-14T14:27:14.1630000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-14T14:27:33.8650000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-14T14:27:45.5240000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-14T14:28:00.0610000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "Without",
+         "Level1": [
+            {
+               "Time": "2023-09-14T14:25:11.8260000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-14T14:26:00.6610000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-14T14:26:13.2310000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-14T14:26:23.4320000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-14T14:26:34.9820000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-14T14:26:42.1270000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-14T14:27:04.1420000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-14T14:27:14.1630000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-14T14:27:31.8370000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-14T14:27:33.8650000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-14T14:27:43.8100000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-14T14:27:45.5240000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-14T14:28:00.0610000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, because it wasn't natural and i didn't feel as though it was truly feeling harmed by killing the other \\\"ai\\\"\u200b",
+            "Bugs": "\u200b",
+            "MOS": 1,
+            "LowAttention": false,
+            "Gamer": 5
+         }
+      }
+   },
+   "metadata": {
+      "id": "6502fb85d972192679c3ad15",
+      "private": true,
+      "createdAt": "2023-09-14T12:24:37.866Z"
+   }
+}

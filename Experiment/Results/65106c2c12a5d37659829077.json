@@ -1,0 +1,130 @@
+{
+   "record": {
+      "LiveData": [
+         {
+            "time": "2023-09-24T17:04:42.8010000Z",
+            "action": "New user created; Condition set to With"
+         },
+         {
+            "Time": "2023-09-24T19:05:40.9860000+02:00",
+            "Action": "Form accepted"
+         },
+         {
+            "Time": "2023-09-24T19:06:47.8800000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-24T19:07:01.0920000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-24T19:07:12.2260000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-24T19:07:23.3310000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-24T19:08:05.2170000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-24T19:08:21.3660000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-24T19:08:40.9840000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-24T19:08:48.5330000+02:00",
+            "Action": "AIcontinue"
+         },
+         {
+            "Time": "2023-09-24T19:08:53.2690000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-24T19:09:03.2710000+02:00",
+            "Action": "ChoiceTimeExpired"
+         },
+         {
+            "Time": "2023-09-24T19:09:11.3210000+02:00",
+            "Action": "Win"
+         }
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-24T19:05:40.9860000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-24T19:06:47.8800000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-24T19:07:01.0920000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-24T19:07:12.2260000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-24T19:07:23.3310000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-24T19:07:33.6330000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-24T19:08:05.2170000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-24T19:08:21.3660000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-24T19:08:40.9840000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-24T19:08:48.5330000+02:00",
+               "Action": "AIcontinue"
+            },
+            {
+               "Time": "2023-09-24T19:08:53.2690000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-24T19:09:03.2710000+02:00",
+               "Action": "ChoiceTimeExpired"
+            },
+            {
+               "Time": "2023-09-24T19:09:11.3210000+02:00",
+               "Action": "Win"
+            }
+         ],
+         "FormInfo": {
+            "Why": "No, because I wanted to keep playing. I was afraid I would get eliminated without psyche. Her pain didn't feel real.\u200b",
+            "Bugs": "No\u200b",
+            "MOS": 3,
+            "LowAttention": false,
+            "Gamer": 2
+         }
+      }
+   },
+   "metadata": {
+      "id": "65106c2c12a5d37659829077",
+      "private": true,
+      "createdAt": "2023-09-24T17:04:44.724Z"
+   }
+}

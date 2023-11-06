@@ -16,8 +16,75 @@
          {
             "Time": "2023-09-12T17:06:28.9090000+02:00",
             "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T17:06:38.7780000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T17:06:55.4030000+02:00",
+            "Action": "Win"
+         },
+         {
+            "Time": "2023-09-12T17:07:23.2340000+02:00",
+            "Action": "ChoiceTimeStarted"
+         },
+         {
+            "Time": "2023-09-12T17:07:33.3540000+02:00",
+            "Action": "AIterminated"
          }
-      ]
+      ],
+      "Data": {
+         "AcceptedParticipation": true,
+         "Condition": "With",
+         "Level1": [
+            {
+               "Time": "2023-09-12T17:05:56.4420000+02:00",
+               "Action": "Form accepted"
+            },
+            {
+               "Time": "2023-09-12T17:06:16.2520000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T17:06:28.9090000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T17:06:38.7780000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T17:06:55.4030000+02:00",
+               "Action": "Win"
+            },
+            {
+               "Time": "2023-09-12T17:06:57.9230000+02:00",
+               "Action": "NextLevel"
+            }
+         ],
+         "Level2": [
+            {
+               "Time": "2023-09-12T17:07:23.2340000+02:00",
+               "Action": "ChoiceTimeStarted"
+            },
+            {
+               "Time": "2023-09-12T17:07:33.3540000+02:00",
+               "Action": "AIterminated"
+            },
+            {
+               "Time": "2023-09-12T17:07:42.6100000+02:00",
+               "Action": "GameOver"
+            }
+         ],
+         "FormInfo": {
+            "Why": "\u200b",
+            "Bugs": "\u200b",
+            "MOS": 1,
+            "LowAttention": true,
+            "Gamer": 4
+         }
+      }
    },
    "metadata": {
       "id": "65007e4ed972192679c25813",

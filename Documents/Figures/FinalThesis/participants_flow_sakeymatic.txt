@@ -1,0 +1,85 @@
+// SankeyMATIC diagram inputs - Saved: 9/10/2023, 19:53:55
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+// Enter Flows between Nodes, like this:
+//         Source [AMOUNT] Target
+
+
+Database Entries [174] True Entries
+Database Entries [10] Added Entries
+
+True Entries [92] Fully Valid #0F0
+True Entries [52] Dropped at consent #C21807
+True Entries [22] Dropped at Level 1 #C21807
+True Entries [2] Dropped at Level 2 #C21807
+True Entries [5] Dropped at final form #C21807
+True Entries [1] Other Invalid  #C21807
+
+Fully Valid [11] Bugged #C21807
+Fully Valid [81] Participants #2ca02c
+
+Participants [40] Breathing Condition
+Participants [41] No Breathing Condition
+
+// You can set a Node's color, like this:
+:Database Entries #9467bd
+:Fully Valid #0F0
+:Participants #2ca02c
+:Bugged #C21807
+:Dropped at consent #C21807
+:Dropped at Level 1 #C21807
+:Dropped at Level 2 #C21807
+:Dropped at final form #C21807
+: Breathing Condition #1f77b4
+:No Breathing Condition #e377c2
+
+// Use the controls below to customize
+// your diagram's appearance...
+
+// === Settings ===
+
+size w 1280
+  h 600
+margin l 12
+  r 12
+  t 18
+  b 20
+bg color #ffffff
+  transparent N
+node w 9
+  h 50
+  spacing 85
+  border 0
+  theme a
+  color #888888
+  opacity 1
+flow curvature 0.5
+  inheritfrom outside-in
+  color #999999
+  opacity 0.45
+layout order automatic
+  justifyorigins N
+  justifyends N
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  highlight 0.55
+  fontface sans-serif
+labelname appears Y
+  size 16
+  weight 400
+labelvalue appears Y
+  fullprecision Y
+labelposition first before
+  breakpoint 3
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 9
+  b 0
+  c 0
+  d 0
+meta mentionsankeymatic N
+  listimbalances Y

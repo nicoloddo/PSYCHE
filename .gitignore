@@ -3,7 +3,6 @@
 *.wav
 *.avi
 *.mp4
-*.mp3
 *.mkv
 *.crdownload
 *.au
@@ -36,6 +35,10 @@ TTS/Results/
 
 # Others #
 /[Bb]urocracy/
+Latex Backups/
+Analysis Backup/
+Dataset/
+Recordings/
 .ipynb_checkpoints
 __pycache__
 secrets.json
