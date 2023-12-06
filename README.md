@@ -13,15 +13,17 @@ We first perform a thorough evaluation of open-source and commercial Speech Synt
 The findings indicate that breathing in synthesized speech significantly enhances agents' perceived naturalness and users' empathy towards them. These insights underscore the importance of breathing in speech synthesis for AI design and call for its consideration in future models and interactive Artificial Agents. Ultimately, the study aims to contribute to the development of a more empathetic digital world through enhanced human-AI interaction.
 
 [Read the full thesis here](https://github.com/nicoloddo/PSYCHE/blob/master/thesis.pdf).
+
 Interested in experiencing the gamified dilemma first-hand? [Click here](https://nicoloddo.github.io/Psyche) to try it out.
 
 Listen to the synthesized speech incorporating breathing patterns at [PsycheRecordings](https://nicoloddo.github.io/PsycheRecordings/).
+
 The comprehensive dataset of the study results are available on Kaggle. Find the dataset [here](https://www.kaggle.com/datasets/nicoloddo/psyche-empathy-dataset) and the results analysis in this [Kaggle notebook](https://www.kaggle.com/code/nicoloddo/what-if-hal-breathed-results-analysis).
 
-<mark>This repository contains materials used for the study and the preprocessing tool. Additional repositories relevant to the study are listed below.</mark>
+## This repository contains materials used for the study and the preprocessing tool. Additional repositories relevant to the study are listed below.
 
 ### Speech Synthesis Deep Learning Models
-- We analyzed the state-of-the-art speech synthesis models to understand the possibilities of integrating breathing and spontaneous speech patterns. A broad list of open-source and commercial synthesizers that we tested is present in the full thesis.
+- We analyzed the state-of-the-art speech synthesis models to understand the possibilities of integrating breathing and spontaneous speech patterns. A broad list of open-source and commercial synthesizers that we tested is present at the full thesis link.
 - We attempted to train two open-source models: VITS and Flowtron, with some modifications to their architecture, which can be found at these repos: [psyche-vits](https://github.com/nicoloddo/pysche-vits), [psyche-flowtron](https://github.com/nicoloddo/flowtron). However, due to limitations in computational resources, we finally adopted the pre-trained model [BARK](https://github.com/suno-ai/bark).
 - We found BARK to be the only model suitable to be applied in our study, highlighting a lack of models that can achieve speech-breathing synthesis.
 - We applied iterative prompt engineering techniques to the BARK model to synthesize spontaneous speech with emotional features and integrated breathing patterns.
