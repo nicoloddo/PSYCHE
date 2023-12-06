@@ -1,1 +1,0 @@
-torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 106.00 MiB (GPU 0; 4.00 GiB total capacity; 2.78 GiB already allocated; 0 bytes free; 2.88 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
