@@ -10,9 +10,8 @@ This script parses the alignments and saves them for easy retrieval.
 import json
 import pandas as pd
 
-import __libpath
-from psychelibrary import psyche_dataset as psd
-from psychelibrary import nic_dataset_tools as ndt
+from common import psyche_dataset as psd
+from common import dataset_tools as ndt
 _, _, ALIGN_DIR, _, _, _, _ = ndt.setup_global_paths() # Here it uses the default ones
 
 already_parsed = True

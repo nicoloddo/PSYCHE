@@ -11,8 +11,7 @@ import json
 
 from pydub import AudioSegment, silence
 
-import __libpath
-from psychelibrary import nic_dataset_tools as ndt
+from common import dataset_tools as ndt
 
 _, _, ALIGN_DIR, _, _, _, _ = ndt.setup_global_paths() # Here it uses the default ones
 

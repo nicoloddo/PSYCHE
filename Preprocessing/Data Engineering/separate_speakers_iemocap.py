@@ -8,8 +8,7 @@ Created on Wed Jun  7 22:18:01 2023
 import pandas as pd
 from scipy.io.wavfile import write
 
-import __libpath
-from psychelibrary import psyche_dataset as psd
+from common import psyche_dataset as psd
 
 
 dialog = pd.read_pickle("../Save/dialog.pkl")

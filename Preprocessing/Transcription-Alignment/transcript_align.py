@@ -7,9 +7,9 @@ Created on Thu Mar  2 21:29:08 2023
 import argparse
 
 import json
-import __libpath
-from psychelibrary import nic_dataset_tools as ndt
-from psychelibrary import transcript_align_lib as tal
+
+from common import dataset_tools as ndt
+from common import transcript_align_lib as tal
 
 tal.dataset_dir_relative = "INTERSPEECH/ComParE2020_Breathing/"
 tal.breath_labels_dir_relative = 'lab/labels.csv'

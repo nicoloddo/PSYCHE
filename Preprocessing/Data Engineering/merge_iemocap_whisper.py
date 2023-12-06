@@ -11,9 +11,8 @@ import json
 import pandas as pd
 import string
 
-import __libpath
-from psychelibrary import psyche_dataset as psd
-from psychelibrary import nic_dataset_tools as ndt
+from common import psyche_dataset as psd
+from common import dataset_tools as ndt
 
 import Levenshtein
 

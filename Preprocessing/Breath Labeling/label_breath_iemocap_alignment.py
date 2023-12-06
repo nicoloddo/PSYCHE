@@ -8,9 +8,8 @@ Created on Thu Jun  8 17:58:33 2023
 import json
 import pandas as pd
 
-import __libpath
-from psychelibrary import psyche_dataset as psd
-from psychelibrary import nic_dataset_tools as ndt
+from common import psyche_dataset as psd
+from common import dataset_tools as ndt
 ndt.ALIGNER = 'iemocap_default'
 
 time_factor = 1

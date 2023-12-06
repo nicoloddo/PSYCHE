@@ -12,9 +12,8 @@ import pandas as pd
 
 import re
 
-import __libpath
-from psychelibrary import psyche_dataset as psd
-from psychelibrary import psyche_tools as pt
+from common import psyche_dataset as psd
+from common import psyche_tools as pt
 
 # A function to get the emotion of a turn
 def get_emotion(turn):

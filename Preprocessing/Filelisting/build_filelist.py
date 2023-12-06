@@ -12,8 +12,7 @@ import pandas as pd
 import os
 import re
 
-import __libpath
-from psychelibrary import psyche_tools as pt
+from common import psyche_tools as pt
 
 def replace_words(transcription, disfluency_dict):
     for word, new_word in disfluency_dict.items():
