@@ -3,6 +3,10 @@ Main topics: Text-to-Speech Synthesis, Natural Language Processing, Affective Co
 
 Welcome to the repository for the study and thesis titled "What if HAL breathed? Enhancing Empathy in Human-AI Interactions with Breathing Speech Synthesis".
 
+A scientific paper is on the way about this study.
+
+[Read the full thesis here](https://github.com/nicoloddo/PSYCHE/blob/master/Breath_and_speech_synthesis___Master_Thesis.pdf).
+
 ## Abstract
 Modern Artificial Agents will increasingly leverage AI speech synthesis models to verbally communicate with their users. This study explores the integration of breathing patterns into synthesized speech and their potential to deepen empathy towards said agents, testing the hypothesis that the inclusion of breathing capabilities can significantly enhance the emotional connection in human-AI interaction. 
 
@@ -11,8 +15,6 @@ Breathing patterns have not been unequivocally linked to human emotional states,
 We first perform a thorough evaluation of open-source and commercial Speech Synthesis models to understand the breathing synthesis capabilities of state-of-the-art architectures. We then proceed to assess the influence of breathing on the capacity of the voice to evoke empathy. The research methodologically diverges from traditional empathy studies by proposing to the subjects the resolution of an emotional dilemma within a cooperative game scenario, where they face a choice reflecting their empathic engagement with an AI partner.
 
 The findings indicate that breathing in synthesized speech significantly enhances agents' perceived naturalness and users' empathy towards them. These insights underscore the importance of breathing in speech synthesis for AI design and call for its consideration in future models and interactive Artificial Agents. Ultimately, the study aims to contribute to the development of a more empathetic digital world through enhanced human-AI interaction.
-
-[Read the full thesis here](https://github.com/nicoloddo/PSYCHE/blob/master/thesis.pdf).
 
 Interested in experiencing the gamified dilemma first-hand? [Click here](https://nicoloddo.github.io/Psyche) to try it out.
 
