@@ -22,7 +22,7 @@ Interested in experiencing the gamified dilemma first-hand? [Click here](https:/
 
 To Listen to the synthesized speech in both breathing and not breathing conditions, visit [this link](https://nicoloddo.github.io/PsycheRecordings/).
 
-The comprehensive dataset of the study results are available on Kaggle. Find the dataset [here](https://www.kaggle.com/datasets/nicoloddo/psyche-empathy-dataset) and the results analysis in this [Kaggle notebook](https://www.kaggle.com/code/nicoloddo/what-if-hal-breathed-results-analysis).
+The comprehensive dataset of the study results is available on Kaggle. Find the [Results Dataset here](https://www.kaggle.com/datasets/nicoloddo/psyche-empathy-dataset) and the results analysis in this [Kaggle notebook](https://www.kaggle.com/code/nicoloddo/what-if-hal-breathed-results-analysis).
 
 ## This repository contains materials used for the study and the preprocessing tool. Additional repositories relevant to the study are listed below.
 
