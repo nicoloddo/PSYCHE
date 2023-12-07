@@ -16,9 +16,11 @@ We first perform a thorough evaluation of open-source and commercial Speech Synt
 
 The findings indicate that breathing in synthesized speech significantly enhances agents' perceived naturalness and users' empathy towards them. These insights underscore the importance of breathing in speech synthesis for AI design and call for its consideration in future models and interactive Artificial Agents. Ultimately, the study aims to contribute to the development of a more empathetic digital world through enhanced human-AI interaction.
 
-Interested in experiencing the gamified dilemma first-hand? [Click here](https://nicoloddo.github.io/Psyche) to try it out.
+## Try it out!
 
-Listen to the synthesized speech incorporating breathing patterns at [PsycheRecordings](https://nicoloddo.github.io/PsycheRecordings/).
+Interested in experiencing the gamified dilemma first-hand? [Click here](https://nicoloddo.github.io/Psyche) to try it out (you will be assigned to either the breathing or not breathing condition).
+
+To Listen to the synthesized speech in both breathing and not breathing conditions, visit [this link](https://nicoloddo.github.io/PsycheRecordings/).
 
 The comprehensive dataset of the study results are available on Kaggle. Find the dataset [here](https://www.kaggle.com/datasets/nicoloddo/psyche-empathy-dataset) and the results analysis in this [Kaggle notebook](https://www.kaggle.com/code/nicoloddo/what-if-hal-breathed-results-analysis).
 
