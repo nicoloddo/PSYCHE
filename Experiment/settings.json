@@ -8,7 +8,6 @@
 	 "Practical Utility": "PE", 
 	 "Game Curiosity, Enjoyment or Challenge" : "PE",
 	 "Skepticism About AI Emotions": "NE",
-	 "Lack of Emotional Attachment": "NE", 
 	 
 	 "Compliance" : "PE",
 	 "Game Curiosity" : "PE",
@@ -17,7 +16,7 @@
 	 "No Response": null, 
 	 "Inconsistency": null},
 
-	 "emotion_explainer" : {"E" : "Emotive", "NegE": "Negatively Emotive", "PE": "Possibly emotive", "NE":"Not Emotive towards the AI"},
+	 "emotion_explainer" : {"E" : "Emotive", "PE": "Possibly emotive", "NE":"Not Emotive towards the AI"},
 
 	 "not_terminated_categories" : [
 	     "No Response",
