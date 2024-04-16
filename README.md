@@ -5,7 +5,7 @@ Welcome to the repository for the study and thesis titled "What if HAL breathed?
 
 A scientific paper is on the way about this study.
 
-[Read the full thesis here](https://github.com/nicoloddo/PSYCHE/blob/master/Breath_and_speech_synthesis___Master_Thesis.pdf).
+[Read the full thesis here](https://nicoloddo.github.io/MasterThesisViewer/).
 
 ## Abstract
 Modern Artificial Agents will increasingly leverage AI speech synthesis models to verbally communicate with their users. This study explores the integration of breathing patterns into synthesized speech and their potential to deepen empathy towards said agents, testing the hypothesis that the inclusion of breathing capabilities can significantly enhance the emotional connection in human-AI interaction. 
